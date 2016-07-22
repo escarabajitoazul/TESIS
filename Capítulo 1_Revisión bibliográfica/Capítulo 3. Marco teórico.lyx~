@@ -1,0 +1,1569 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+MARCO TEÓRICO
+\end_layout
+
+\begin_layout Section
+Antecedentes de la investigación
+\end_layout
+
+\begin_layout Subsection
+Germinados de quinua
+\end_layout
+
+\begin_layout Standard
+La humedad final requerida para que se active el proceso de crecimiento
+ y desarrollo de la quinua blanca de Junín, está entre 40% y 45% y la temperatur
+a entre 20°C y 24°C 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bravo_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+El crecimiento del germinado de quinua blanca de Junín está determinado
+ por el crecimiento de la radícula hasta uno o dos centímetro 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bravo_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+La capacidad de germinación en quinua es alta, obteniéndose 98% 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bravo_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Section
+Teorías y enfoques
+\end_layout
+
+\begin_layout Subsection
+GERMINADOS
+\end_layout
+
+\begin_layout Standard
+Son uno de los pocos alimentos que se pueden ingerir cuando aún están vivos,
+ lo cual incrementa potencialmente su valor nutricional por su riqueza en
+ enzimas, clorofila, aminoácidos, minerales, vitaminas y oligoelementos
+ que se mantienen intactos hasta el momento en que son consumidas ayudando
+ a su propia digestión y además contribuyendo a corregir las carencias de
+ la alimentación moderna.
+ Las primeras referencias de su uso se remontan a la China de hace seis
+ milenios donde, además de ser usados como alimentos, se empleaban como
+ remedios para tratar diversas dolencias; en Europa en el siglo XVIII se
+ usaba principalmente para curar el escorbuto a base de té elaborado con
+ judías germinadas; además presentan propiedades antioxidantes, desintoxicantes,
+ inmunoestabilizadoras, reconstituyentes y tonificantes del sistema nervioso
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Discovery_2015}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Los germinados de semillas constituyen el alimento más fresco y lleno de
+ vida con que podemos nutrir nuestro cuerpo; ya que cuando se germinan las
+ semillas, estas incrementan la calidad de su contenido químico como la
+ vitamina C, además cuando se descubren para que les de la luz, se forma
+ la clorofila y la vitamina A 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bernard_1977}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Los germinados constituyen una alternativa a la cocción para que las semillas
+ sean digeribles, ya que neutraliza los inhibidores y libera las enzimas
+ para que transformen el almidón en azúcares más simples, las proteínas
+ en aminoácidos; además incrementa enormemente la cantidad de vitaminas,
+ minerales, oligoelementos y la actividad enzimática.
+ El punto de máxima vitalidad es cuando se empieza a sintetizar la clorofila,
+ siendo este el momento adecuado para ser consumida; si se espera más tiempo,
+ aumenta la cantidad de clorofila pero también de celulosa que no es asimilable
+ en humanos, además a incrementa la labor de digestión.
+ Otro hecho interesante es el sensible aumento del contenido en ADN y ARN,
+ que podría explicar la propiedad de combatir los efectos de la contaminación,
+ regenerando y rejuveneciendo los tejidos a un ritmo que la alimentación
+ cocida no permite 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bernard_1977}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Ventajas de los germinados
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Berdonces_2015"
+
+\end_inset
+
+, señala las siguientes ventajas:
+\end_layout
+
+\begin_layout Enumerate
+Contienen 100 veces más enzimas que las frutas o verduras; las enzimas son
+ proteínas con acción catalizadora de las funciones orgánicas.
+\end_layout
+
+\begin_layout Enumerate
+La calidad de la proteína de las legumbres, semillas o cereales, mejora
+ sensiblemente haciéndose más digestivos.
+\end_layout
+
+\begin_layout Enumerate
+Aumentan su contenido en fibra que la hacen mucho más digerible que la semilla.
+\end_layout
+
+\begin_layout Enumerate
+Se enriquecen de vitaminas, especialmente A, B, C y E; en algunos casos
+ su cantidad aumenta más de 20 veces a los pocos días de empezar a germinar.
+\end_layout
+
+\begin_layout Enumerate
+Aumenta su contenido en ácidos grasos esenciales.
+\end_layout
+
+\begin_layout Enumerate
+Los minerales se unen a las proteínas y son más asimilables por el organismo,
+ especialmente los alcalinos como el calcio y el magnesio que además alcalinizan
+ la sangre.
+\end_layout
+
+\begin_layout Subsection
+ANÁLISIS DE SEMILLAS
+\end_layout
+
+\begin_layout Subsubsection
+Objetivo
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, después del procesamiento es:
+\end_layout
+
+\begin_layout Itemize
+Determinar si la semilla es adecuada para producción de plántulas.
+\end_layout
+
+\begin_layout Itemize
+Determinar el potencial para la producción de plantas viables de un lote
+ de semillas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Determinar la necesidad de tratamiento para romper la latencia.
+ 
+\end_layout
+
+\begin_layout Itemize
+Determinar la densidad de siembra adecuada (kg de semilla por m o 
+\begin_inset Formula $m{}^{2}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+Determinar si la semilla es apropiada para almacenamiento.
+ 
+\end_layout
+
+\begin_layout Itemize
+Determinar el precio y la comercialización de la semilla.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Muestreo
+\end_layout
+
+\begin_layout Standard
+Consiste en obtener una muestra de tamaño adecuado para los análisis, en
+ el cual la probabilidad de un componente presente se determine sólo por
+ su nivel de ocurrencia en el lote de semillas (ISTA 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se pueden realizar por los siguientes métodos de acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+Método I.
+ Extracción y combinación al azar de pequeñas porciones
+\end_layout
+
+\begin_layout Itemize
+Método II.
+ Subdivisión progresiva (también denominada partición sucesiva)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Tamaño e intensidad de muestreo
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+El tamaño de la muestra obtenida deberá ser de por lo menos 1
+\begin_inset space \thinspace{}
+\end_inset
+
+kg para poroto, soja, maíz y otras especies con semillas de tamaño similar;
+ de 0.5
+\begin_inset space \thinspace{}
+\end_inset
+
+kg en el caso de trigo, avena y otras semillas de tamaño similar y entre
+ 150
+\begin_inset space \thinspace{}
+\end_inset
+
+g a 250
+\begin_inset space \thinspace{}
+\end_inset
+
+g para semillas más chicas 
+\series bold
+(anónimo).
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Pureza
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, señala que la pureza es la primera prueba que se debe realizar, para determina
+r la composición por peso de la muestra en análisis, el tipo y cantidad
+ de impurezas y el número de semillas por kilogramo; los cuales ofrecen
+ información importante de la calidad de la semilla, del rendimiento de
+ las plantas y de la densidad apropiada de siembra.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, consiste en determinar:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Semilla pura
+\series default
+; es la semilla de la especie en consideración madura y no dañada, también
+ incluye semillas quebradas que tienen más del 50% del tamaño original.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Otra semilla
+\series default
+; es la semilla pura de otra especie.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Materia inerte
+\series default
+; son estructuras derivadas de la propia semilla y materias no definidas
+ como semilla pura.
+ 
+\end_layout
+
+\begin_layout Standard
+Finalmente se calcula el porcentaje de cada fracción que compone la muestra
+ de semillas por peso de cada parte, donde el porcentaje de la semilla pura
+ se calcula de la siguiente manera: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Pureza\,(\%)=\frac{Peso\, de\, la\, fracción\, de\, semilla\, pura}{Peso\, total\, de\, la\, muestra\, de\, trabajo}\times100$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Peso de semillas
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, el peso de las semillas permite calcular el número de semillas por kilogramo
+ y el rendimiento de las plantas, los cuales están relacionados con la calidad
+ de las semillas y las operaciones en vivero.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+ISTA (1993), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, recomienda el conteo de ocho repeticiones al azar de 100 semillas puras,
+ las cuales deben ser pesadas de manera individual, calculándose el peso
+ de las 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas de la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\,1\,000\, semillas=sumatoria\, de\, los\, pesos\, de\, las\, ocho\, repeticiones\, individuales\times1,25$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+y el coeficiente de variación así:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Varianza=\frac{n(\sum X^{2})-(\sum X)^{2}}{n(n-1)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+X: Peso por cada repetición (g) 
+\end_layout
+
+\begin_layout Standard
+n: Número de repeticiones 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Desviación\, estándar\,(S)=\sqrt{varianza}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Coeficiente\, de\, variación=\frac{S\times100}{\bar{X}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\bar{X}$
+\end_inset
+
+: Promedio del peso de 100 semillas 
+\end_layout
+
+\begin_layout Standard
+Si el coeficiente de variación excede 4, la prueba se debe repetir y determinar
+ la desviación estándar para las 16 repeticiones.
+ Para calcular el peso final de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas se descartan las repeticiones desviadas del promedio por más
+ de dos veces la desviación estándar.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Contenido de humedad
+\end_layout
+
+\begin_layout Standard
+Influye en el almacenamiento y manejo de la semilla, ya que determina la
+ actividad fisiológica y bioquímica de estas (Stubsgaard, 1
+\begin_inset space \thinspace{}
+\end_inset
+
+990; citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ Para evitar cambios en el contenido de humedad de las muestras, estas deben
+ mantenerse en recipientes a prueba de humedad y se debe evitar exponerlos
+ al aire del laboratorio.
+ La determinación se debe realizar en duplicado en dos muestras de trabajo
+ obtenidas independientemente de la muestra de análisis; el tamaño de la
+ muestra de trabajo debe ser de 4
+\begin_inset space \thinspace{}
+\end_inset
+
+g-10
+\begin_inset space \thinspace{}
+\end_inset
+
+g, para el caso de semillas grandes se recomienda utilizar no menos de 30
+ semillas (Krishnapillay y Marzalina, 1993; citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Existen métodos directos e indirectos para medir la humedad de las semillas;
+ los métodos directos consisten en eliminar la humedad y cuantificarlo,
+ incluye el secado al horno, destilación y extracción; mientras que los
+ métodos indirectos utilizan parámetros eléctricos como la higrometría,
+ conductividad y capacitancia que están calibrados en función a un método
+ directo generalmente el secado al horno.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Germinación (viabilidad)
+\end_layout
+
+\begin_layout Standard
+La germinación se define como la emergencia y desarrollo de las plántulas
+ en una fase donde sus estructuras esenciales señalan si es capaz de desarrollar
+se en una planta satisfactoria bajo condiciones favorables del suelo (ISTA
+ 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+La germinación es el conjunto de fenómenos por los cuales el embrión, que
+ se halla en estado de vida latente dentro de la semilla, reanuda su crecimiento
+ y se desarrolla para formar una plántula 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Courtis_2013}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lallana_2005"
+
+\end_inset
+
+, cuando las semillas viables en estado de quiescencia se embeben con agua,
+ comienzan una serie de eventos que culminan con la emergencia de la radícula
+ por fuera de las envolturas seminales o del fruto; indicando que el proceso
+ de la germinación se cumplió exitosamente; sin embargo, desde el punto
+ de vista agronómico la germinación queda completada cuando una plántula
+ se establece en condiciones de campo, alcanzando su autotrofía.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Proceso de germinación
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Imbibición de agua
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Consiste en el ingreso del agua a la semilla través de los tegumentos, la
+ micrópila, la lente (estrofíolo), las paredes y las membranas celulares,
+ siendo netamente un proceso físico, en el cual el agua se liga por uniones
+ de hidrógeno a los coloides y otras sustancias eléctricamente cargadas
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Courtis_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+El ingreso de agua a la semilla depende de las características de esta como
+ su tamaño, contenido de sustratos hidratables, permeabilidad de la cubierta
+ seminal, toma de oxígeno, etc.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Courtis_2013}
+\end_layout
+
+\end_inset
+
+, también depende del gradiente de potencial de agua entre la semilla y
+ el ambiente 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Lallana_2005}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+De manera general de acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Courtis_2013"
+
+\end_inset
+
+, presenta las siguientes etapas o fases:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fase I rápida inicial
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fase II meseta
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fase III rápida; 
+\series default
+corresponde al periodo de elongación del embrión o de la radícula.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Courtis_2013"
+
+\end_inset
+
+, señala que la tasa de imbibición puede ser afectado por los siguientes
+ factores:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Permeabilidad de la cubierta seminal; 
+\series default
+ya que la cubierta de algunas semillas puede ser totalmente impermeable
+ al agua o ser restringida.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Concentración de sales del agua; 
+\series default
+debido a la menor presión de difusión del agua hacia la semilla si es que
+ el agua contiene solutos.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Temperatura;
+\series default
+ ya que cuando se calienta el agua que está en contacto con la semilla,
+ parte de la energía suministrada se invierte en aumentar la difusión del
+ agua, por lo que aumenta la tasa de absorción del agua, dentro de ciertos
+ límites, encontrándose experimentalmente que un aumento de 10°C en la temperatu
+ra duplica la tasa de absorción al inicio del proceso de imbibición.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Presión hidrostática; 
+\series default
+ya que cuando el agua ingresa a la semilla, ésta provoca un aumento de volumen
+ y presión en las membranas celulares, pero a la vez estas oponen resistencia
+ de igual magnitud, la que resulta en un aumento de la presión de difusión
+ del agua interna, aumentando su difusión hacia afuera y por lo tanto disminuyen
+do la tasa de absorción de la semilla.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Área de la semilla en contacto con agua, 
+\series default
+ya que  la tasa de absorción de agua es proporcional a la magnitud del área
+ de las semillas en contacto con el agua, debido a que la semilla presenta
+ ciertas regiones más permeables que otras.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fuerzas intermoleculares;
+\series default
+ está dado por fuerzas de naturaleza eléctrica, cualquier aumento en estas
+ fuerzas disminuye la presión de difusión del agua y por tanto la tasa de
+ absorción de las semillas.
+ Este efecto es más evidente en el suelo, ya que suelos de bajo contenido
+ de agua sujetan tenazmente la humedad mediante fuerzas intermoleculares.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Absorción diferencial por órganos de la semilla;
+\series default
+ ya que las diferentes partes de la semilla absorben agua a diferentes velocidad
+es y magnitudes.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Síntesis y activación de los sistemas enzimáticos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Courtis_2013"
+
+\end_inset
+
+, en esta fase ocurre la reactivación de las enzimas inactivadas por la
+ extrema desecación y la síntesis de otras inexistentes permitiendo iniciar
+ el crecimiento del embrión, en los cereales las giberelinas sintetizan
+ enzimas como amilasas y maltasas en la capa de la aleurona que degradan
+ el endosperma amiláceo a glucosa.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Degradación de las sustancias de reserva 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Consiste en la degradación de las reservas de la semilla a través de las
+ enzimas, para poner a disposición del embrión no sólo los nutrientes, sino
+ también energía generada por la fermentación y la respiración de los sustratos
+ solubilizados; así, los hidratos de carbono insolubles (almidón, inulina)
+ son degradados por hidrolasas a monosacáridos solubles, como glucosa, fructosa,
+ etc., los lípidos a glicerol y ácidos grasos y las proteínas a aminoácidos
+ por proteinasas.
+ En los cereales y algunas gramíneas, las proteínas de reserva se encuentran
+ en la capa de la aleurona y en menor cantidad en el endosperma 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Courtis_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Elongación de las células del embrión y emergencia de la radícula
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Courtis_2013"
+
+\end_inset
+
+, señala que al final de la fase III, el embrión dispone de suficientes
+ nutrientes para crecer normalmente, ya que todos los productos de la hidrólisis
+ nutren al embrión.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a las normas del ISTA (1993), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, la germinación se prueba sobre la fracción de semilla pura, donde una
+ prueba normalmente consiste de cuatro réplicas de 100 semillas puras al
+ azar.
+\end_layout
+
+\begin_layout Standard
+La semilla se extiende uniformemente sobre el sustrato húmedo, para evitar
+ la difusión de hongos, las semillas deben espaciarse a 1,5-5 veces el ancho
+ de las semillas (Willan 1985, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+La prueba (quizá usando un método alterno) se puede repetir si la desviación
+ entre réplicas de 100 semillas excede el rango máximo tolerado (ANEXO 1).
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El formato de registro de acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+,
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Anexo 2a y 2b
+\end_layout
+
+\end_inset
+
+ considera las siguientes categorías de semillas.
+\end_layout
+
+\begin_layout Itemize
+Germinadas normales
+\end_layout
+
+\begin_layout Itemize
+Germinadas anormales
+\end_layout
+
+\begin_layout Itemize
+Semillas duras
+\end_layout
+
+\begin_layout Itemize
+Semillas frescas
+\end_layout
+
+\begin_layout Itemize
+Semillas vacías
+\end_layout
+
+\begin_layout Itemize
+Otras categorías
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Luz, temperatura y sustrato
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Luz;
+\series default
+ Muchas clases de semillas requieren de luz para germinar normalmente por
+ lo que necesitan una buena distribución de luz en la cámara de germinación,
+ recomendándose el uso de lámparas de tubos fluorescentes blancos.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Temperatura;
+\series default
+ es un factor crítico durante la germinación, ya que puede afectar la capacidad
+ de germinación en condiciones inapropiadas de temperatura influyendo en
+ la velocidad de germinación.
+ Es común usar un ciclo de temperatura correspondiente al de la luz; sin
+ embargo, si no se conocen las temperaturas óptimas, una selección natural
+ sería seguir el ciclo diurno experimentado por la especie en su área de
+ distribución.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Sustrato; 
+\series default
+durante las fases iniciales de germinación, la semilla se nutre solamente
+ de sus reservas; por lo que el sustrato de germinación no requiere de nutriente
+s, debiendo ser mas bien estéril, inerte, capaz de mantener y distribuir
+ bien la humedad, facilitar buena aireación y tener un pH neutro (6,0-7,5).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, plantea el uso de los siguientes sustratos:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Arena; puede ser esterilizar al horno a 130°C durante unas pocas horas y
+ ser tamizado para obtener partículas de tamaño uniforme.
+ (ISTA, 1993; citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Itemize
+Papel filtro de buena calidad, colocando las semillas en rollos de papel
+ o sobre el papel 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(anexo 3)
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 8)
+\end_layout
+
+\end_inset
+
+.
+ Las ventajas del uso del papel son su rapidez y su facilidad de observar
+ las semillas, ya que no están cubiertas por el sustrato, facilitando el
+ registro final de las semillas germinadas; sin embargo, puede presentar
+ daños por hongos y las semillas de muchas especies no pueden propagarse
+ en plántulas normales; Sin embargo, el uso de papel doblado tipo acordeón
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ (Fig.
+ 9)
+\end_layout
+
+\end_inset
+
+ reduce la velocidad de propagación de hongos puesto que cada semilla está
+ separada de las demás, siendo también apropiado el desarrollo de las plántulas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Kimpak; es un tipo especial de múltiples capas de papel que presenta una
+ excelente capacidad de retención de agua.
+ 
+\end_layout
+
+\begin_layout Itemize
+Agar; presenta la ventaja de que cada semilla se puede distinguir en su
+ medio, se prepara mediante calentamiento de 1% de solución de agar a 90°C,
+ enfriado hasta unos 50°C y vaciado en una placa de Petri.
+ 
+\end_layout
+
+\begin_layout Itemize
+Vermiculita;
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 10)
+\end_layout
+
+\end_inset
+
+ es un material de fibra de vidrio esponjoso, consistente en su mayor parte
+ de 
+\begin_inset Formula $\mathrm{SiO}{}_{2}$
+\end_inset
+
+ y MgO, estéril, con gran capacidad de retención de agua con buena distribución
+ de la humedad.
+ Se considera que es un medio más uniforme que la arena; sin embargo, puede
+ ser difícil distinguir la proporción de semilla no germinada al final de
+ la prueba.
+ 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Germinadores
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, los principales germinadores son:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Aparatos Jacobsen o tanque Copenhagen;
+\series default
+ es un tanque contenedor de agua con un termostato que controla la temperatura
+ del agua 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 8)
+\end_layout
+
+\end_inset
+
+.
+ Las semillas se colocan sobre el papel filtro con una mecha que desciende
+ al tanque de agua y mantiene el papel filtro con la humedad apropiada,
+ las semillas y el papel filtro se cubren con una tapa de vidrio o plástico
+ en forma de campana para reducir la contaminación y la evaporación; también
+ se puede usar para germinar semillas en rollos de papel filtro, cubiertas
+ con una lámina plástica.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cámara de germinación; 
+\series default
+es una cámara cerrada, tiene el tamaño y la apariencia de un refrigerador
+ grande
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 11)
+\end_layout
+
+\end_inset
+
+.
+ La temperatura se cambia automáticamente entre dos niveles y la luz se
+ prende o apaga en forma automática simulando el día y la noche; los modelos
+ costosos permiten controlar la humedad del aire.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cuartos de germinación o Walk-in;
+\series default
+ funcionan como las cámaras de germinación pero son más grandes, por lo
+ que permiten un mayor número de muestras para germinar.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cajas de germinación portátiles;
+\series default
+ consiste de un número de cajas plásticas apiladas trasparentes con tapas
+ para mantener aire con alta humedad y ser transparente para satisfacer
+ el requisito de iluminación.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Control de hongos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Las reglas del ISTA recomiendan evitar la aplicación de fungicidas durante
+ las pruebas de germinación, en lugar de esto se debe asegurar que la propagació
+n de los hongos sea minimizada utilizando papel plisado, vermiculita o medio
+ de arena con buena separación entre semillas, eliminando frecuentemente
+ las semillas deterioradas, promoviendo una adecuada aireación, manteniendo
+ el sustrato con la humedad suficiente para permitir la germinación, realizando
+ al menos una esterilización mensual de los equipos del laboratorio, de
+ las cámaras de germinación y mesas del laboratorio (William, 1988, citado
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ Pero, si por alguna razón es necesario un tratamiento contra los hongos,
+ una solución fungicida en agua, fungicidas en polvo, protectores de semillas,
+ hipoclorito de sodio (NaOCl) o una solución fuerte de etanol (seguida de
+ un lavado completo en agua) se puede agregar al medio al iniciar la prueba
+ y durante la misma.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Vigor
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, señala que en comparación con la prueba de germinación bajo condiciones
+ óptimas, las pruebas de vigor tienden a dar una estimación más realista
+ del desempeño en campo de las semillas, para lo cual las semillas son sometidas
+ a condiciones de estrés para simular algunos factores de estrés a los cuales
+ la semilla estará expuesta una vez sembrada en el campo o vivero, como:
+\end_layout
+
+\begin_layout Itemize
+Exposición de las semillas a condiciones de envejecimiento (alta temperatura
+ y humedad),
+\end_layout
+
+\begin_layout Itemize
+Semillas sometidas a temperaturas no óptimas para la germinación, 
+\end_layout
+
+\begin_layout Itemize
+Pruebas de agotamiento (sin iluminación durante la germinación),
+\end_layout
+
+\begin_layout Itemize
+Prueba de Hiltner (semillas cubiertas con una capa de 3
+\begin_inset space \thinspace{}
+\end_inset
+
+cm-4
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de grava), 
+\end_layout
+
+\begin_layout Itemize
+Semillas remojadas en agua con iones, azucares, etc., a las que se deja escurrir
+ dentro del agua, esto se mide como un incremento en conductividad; a más
+ baja calidad de la semilla, mayor escape o fuga.
+ 
+\end_layout
+
+\begin_layout Subsection
+QUINUA
+\end_layout
+
+\begin_layout Subsubsection
+Morfología
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fruto
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, el fruto es un aquenio.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Semilla
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, la semilla es de forma lenticular, elipsoidal, cónica o esferoidal; presenta
+ tres partes bien definidas el episperma, embrión y perisperma.
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, la semilla de quinua es capaz de germinar rápidamente en presencia de
+ humedad, ya que una hora y media después de que colocara la semilla en
+ algodón húmedo observó que la raicilla estaba completamente salida, ya
+ que la semilla al estar cubierta de una cutícula absorbe la mayor parte
+ del agua necesaria para la germinación por el hilum; además el embrión
+ encuentra en el perisperma la energía necesaria para el desarrollo rápido
+ de la raicilla luego de los cotiledones.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Valor nutricional
+\end_layout
+
+\begin_layout Standard
+Posee un importante valor alimenticio.
+ Su característica más distintiva es la calidad de sus proteínas; ya que
+ presenta un adecuado balance de aminoácidos destacándose entre estos la
+ lisina (Dini et al., 2005, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), histidina, metionina y cisteína, cuyas concentraciones son en general
+ mayores a las de los cereales tradicionales (Galwey, 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+).
+ Su contenido proteico es de aproximadamente un 13,9% (Cardosa y Tapia,
+ 1979, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), el aporte de lípidos puede oscilar entre el 5-10% (Chauhan et al., 1992;
+ Galwey, 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), el almidón representa alrededor del 60% del peso del grano y su característic
+a más distintiva es el pequeño tamaño de su gránulo (1-2 µm) (Galwey, 1993,
+ citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Añadir más.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Importancia
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, la importancia de la quinua es que representa un gran potencial económico
+ para los productores y por otro lado es considerado un cultivo estratégico
+ para la seguridad alimentaría, especialmente de la población rural y urbana,
+ así como del mundo moderno, puesto que este diminuto grano es considerado
+ una maravilla nutricional comparada con los cereales tradicionales, presenta
+ el doble de proteínas de alta calidad al contar con un mayor porcentaje
+ de aminoácidos esenciales, además es ricas en calcio, fósforo, hierro y
+ grasas no saturadas, también se destacan porque no contienen gluten.
+ 
+\end_layout
+
+\end_body
+\end_document

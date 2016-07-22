@@ -1,0 +1,2535 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+MARCO TEÓRICO
+\end_layout
+
+\begin_layout Section
+Antecedentes de la investigación
+\end_layout
+
+\begin_layout Subsection
+Quinua
+\end_layout
+
+\begin_layout Subsection
+Análisis de semillas
+\end_layout
+
+\begin_layout Subsection
+Germinados
+\end_layout
+
+\begin_layout Section
+Teorías y enfoques
+\end_layout
+
+\begin_layout Subsection
+Quinua
+\end_layout
+
+\begin_layout Subsubsection
+Morfología
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Quinua (Planta)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, la planta de quinua alcanza alturas variables desde 0.3
+\begin_inset space \thinspace{}
+\end_inset
+
+m hasta 3
+\begin_inset space \thinspace{}
+\end_inset
+
+m, dependiendo del tipo de quinua, de los genotipos, de las condiciones
+ ambientales donde crece o de la fertilidad de los suelos.
+ Las de valle tienen mayor altura que las que crecen por encima de los 4
+\begin_inset space \thinspace{}
+\end_inset
+
+000 metros sobre el nivel del mar y de zonas frías; en zonas abrigadas y
+ fértiles las plantas alcanzan las mayores alturas; su coloración varía
+ con los genotipos y fases fenológicas.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Raíz
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La raíz es pivotante, vigorosa, profunda, bastante ramificada y fibrosa,
+ lo cual le da posiblemente la resistencia a la sequía y buena estabilidad
+ a la planta; al germinar lo primero que se alarga es la radícula, que continúa
+ creciendo y da lugar a la raíz, alcanzando en casos de sequía hasta 1,80
+\begin_inset space \thinspace{}
+\end_inset
+
+m de profundidad y mostrando también alargamiento lateral 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, el sistema radicular pivotante de la quinua es mucho menos profundo que
+ el de ciertas gramíneas tropicales, pero está muy ramificado y es capaz
+ de explorar un máximo de suelo y sobre todo de absorber el agua cuando
+ el potencial hídrico del suelo está muy bajo; los cortes de raices jóvenes
+ de plantas cultivadas en buenas condiciones hídricas, muestran células
+ de parenquima cortical notoriamente gruesas en lo que concierne a la capa
+ externa; aunque menos marcada esta particularidad se encuentra también
+ en las raices más viejas tanto en las variedades dulces como en las amargas.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Tallo
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cilíndrico en el cuello de la planta y anguloso a partir de las ramificacione
+s; el grosor y diámetro varía con el genotipo, distanciamiento de siembra,
+ fertilización, condiciones de manejo, etc.
+ variando en el diámetro de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+cm a 8
+\begin_inset space \thinspace{}
+\end_inset
+
+cm 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, muestra en un corte longitudinal del tallo los diferentes tejidos que
+ la conforman, observándose que el parénquima cortical contiene cristales
+ de sales de calcio, en particular de oxalato y de anhidrido silícico.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Hoja
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, las hojas se disponen de manera alterna en el tallo y están formadas por
+ un peciolo y una lámina compuesta de minúsculos estomas que se se encuentran
+ en las dos caras del limbo (hojas anfistomáticas), protegidas por enormes
+ células epidérmicas, esta última recubierta de gran número de cristales
+ de oxalato de calcio de colores rojo, púrpura o cristalino, tanto en el
+ haz como en el envés, los cuales son bastante higroscópicas, ya que captan
+ la humedad atmosférica nocturna aumentando la humedad relativa de la atmósfera
+ que rodea la hoja y consecuentemente disminuyendo la transpiración, controlando
+ así la excesiva transpiración, por humedecimiento de las células guarda
+ de los estomas y reflejando los rayos luminosos disminuyendo la radiación
+ directa sobre las hojas, evitando el sobre calentamiento.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, en un corte transversal del limbo muestra la estructura anatómica típica
+ de las plantas con el metabolismo C3, donde se observa un parénquima palisádico
+ con muchas capas de células dispuestas perpendicularmente a la epidermis
+ y un parénquima lagunoso, pero sin vaina perivascular.
+\end_layout
+
+\begin_layout Standard
+El tamaño de las hojas es variable pudiendo llegar a medir hasta 15
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de largo por 12
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de ancho; sin embargo, en la parte inferior son grandes, romboidales
+ y triangulares y en la superior pequeñas y lanceoladas sobresaliendo muchas
+ veces de la inflorescencia; el color varía con los genotipos del verde
+ al rojo con diferentes tonalidades, observándose pigmentos rojos, púrpuras
+ y amarillos, los cuales están constituidos por betalaínas, tanto del tipo,
+ betacianinas (rojo, violeta) y betaxantinas (amarillas) 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Flor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Son pequeñas (alcanzan un tamaño máximo de 3
+\begin_inset space \thinspace{}
+\end_inset
+
+mm en caso de las hermafroditas, las pistiladas son más pequeñas; lo que
+ dificulta su manejo para efectuar cruzamientos y emasculaciones), incompletas,
+ sésiles y desprovistas de pétalos; constituidas por una corola formada
+ por cinco piezas florales tepaloides, sepaloides, pudiendo ser hermafroditas,
+ pistiladas (femeninas) y androestériles, lo que indica que podría tener
+ hábito autógamo como alógamo.
+ Las flores presentan, por lo general un perigonio sepaloide, rodeado de
+ cristales de oxalato de calcio generalmente cristalinas, con cinco sépalos,
+ de color verde, un androceo con cinco estambres cortos, curvos de color
+ amarillo y filamentos cortos y un ginecéo con estigma central, plumoso
+ y ramificado con dos a tres ramificaciones estigmáticas, ovario elipsoidal,
+ súpero, unilocular; las flores hermafroditas, en el glomérulo, son apicales
+ y sobresalen a las pistiladas 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Inflorescencia
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es una panoja típica, ya que está constituida por un eje central, ejes secundari
+os, terciarios y pedicelos que sostienen los glomérulos, así como por la
+ disposición de las flores y por qué el eje principal está más desarrollado
+ que los secundarios, ésta puede ser laxa (Amarantiforme) o compacta (glomerulad
+a), existiendo formas intermedias entre ambas; es glomerulada cuando las
+ inflorescencias forman grupos compactos y esféricos con pedicelos cortos
+ y muy juntos, dando un aspecto apretado y compacto (racimo) y es amarantiforme
+ cuando los glomérulos son alargados y el eje central tiene numerosas ramas
+ secundarias y terciarias en las que se agrupan las flores formando masas
+ bastante laxas; la longitud de la panoja es variable, dependiendo del tipo
+ de quinua, el lugar donde se desarrolla y las condiciones de fertilidad
+ de los suelos, alcanzando de 30
+\begin_inset space \thinspace{}
+\end_inset
+
+cm a 80
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de longitud por 5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm a 30
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de diámetro; el número de glomérulos por panoja varía de 80 a 120 y el
+ número de semillas por panoja de 100 a 3000, encontrando panojas grandes
+ que rinden hasta 500
+\begin_inset space \thinspace{}
+\end_inset
+
+g de semilla por inflorescencia 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fruto
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, el fruto es un aquenio que se deriva de un ovario supero unilocular y
+ de simetría dorsiventral, tiene forma cilíndrico-lenticular, levemente
+ ensanchado hacia el centro, en la zona ventral del aquenio se observa una
+ cicatriz que es la inserción del fruto en el receptáculo floral; está constitui
+do por el perigonio que envuelve a la semilla por completo (una sola semilla),
+ la cual se desprende con facilidad a la madurez y en algunos casos puede
+ permanecer adherido al grano incluso después de la trilla dificultando
+ la selección.
+ El perigonio tiene un aspecto membranáceo, opaco de color ebúrneo, con
+ estructura alveolar, con un estrato de células de forma poligonal-globosa
+ y de paredes finas y lisas.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Semilla
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, la smeilla es de forma lenticular, elipsoidal, cónica o esferoidal; presenta
+ tres partes bien definidas el episperma, embrión y perisperma; el episperma
+ está constituida por cuatro capas, una externa de superficie rugosa, quebradiza
+, que se desprende fácilmente al frotarla, en ella se ubica la saponina
+ que le da el sabor amargo al grano y cuya adherencia a la semilla es variable
+ con los genotipos; la segunda capa es muy delgada y lisa, se observa sólo
+ cuando la capa externa es translúcida; la tercera capa es de coloración
+ amarillenta, delgada y opaca y la cuarta capa es translúcida constituida
+ por un solo estrato de células.
+ El embrión constituye el 30% del volumen total de la semilla y está formado
+ por dos cotiledones y la radícula que muestra una pigmentación de color
+ castaño obscuro, envuelve al perisperma como un anillo, con una curvatura
+ de 320 grados, es de color amarillento mide 3,54
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de longitud y 0,36
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de ancho, en algunos casos alcanza una longitud de 8,2
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de longitud y ocupa el 34% de toda la semilla y con cierta frecuencia
+ se encuentran tres cotiledones; en ella se encuentra la mayor cantidad
+ de proteína que alcanza del 35%-40%; mientras que en el perisperma solo
+ del 6,3% al 8,3% de la proteína total del grano.
+ El perisperma es el principal tejido de almacenamiento y está constituido
+ mayormente por granos de almidón, es de color blanquecino y representa
+ prácticamente el 60% de la superficie de la semilla.
+ Sus células son grandes, de mayor tamaño que las del endosperma, de forma
+ poligonal con paredes delgadas, rectas y con grandes agregados de almidón,
+ estos agregados están compuestos por miles de gránulos de almidón individuales
+ de forma hexagonal en la mayoría de los casos.
+ La semilla también posee endosperma el cual es de tipo celular, formado
+ por varias capas que rodean completamente al embrión y separado de él por
+ una capa de aire.
+ Probablemente, después de que la semilla se hidrata, las células del endosperma
+ se ponen en contacto con el embrión que lo consume rápidamente durante
+ su crecimiento.
+ 
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+, la semilla de quinua es capaz de germinar rápidamente en presencia de
+ humedad, ya que una hora y media después de que colocara la semilla en
+ algodón húmedo observó que la raicilla estaba completamente salida, ya
+ que la semilla al estar cubierta de una cutícula absorbe la mayor parte
+ del agua necesaria para la germinación por el hilum; además el embrión
+ encuentra en el perisperma la energía necesaria para el desarrollo rápido
+ de la raicilla luego de los cotiledones.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Fenología
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Emergencia
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando la plántula sale del suelo y extiende las hojas cotiledóneas protegida
+s por el epispermo, ocurre de los 7 a 10 días de la siembra 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Dos hojas verdaderas
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando a parte de las hojas cotiledóneas, que tienen forma lanceolada,
+ aparecen dos hojas verdaderas extendidas que ya poseen forma romboidal
+ y se encuentra en botón el siguiente par de hojas, ocurre de los 15 a 20
+ días después de la siembra 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Cuatro hojas verdaderas
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Seis hojas verdaderas
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Ramificación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se observa ocho hojas verdaderas extendidas con presencia de hojas axilares
+ hasta el tercer nudo, las hojas cotiledóneas se caen y dejan cicatrices
+ en el tallo, también se nota presencia de inflorescencia protegida por
+ las hojas sin dejar al descubierto la panoja, ocurre de los 45 a 50 días
+ de la siembra, en esta fase la parte más sensible a las bajas temperaturas
+ y heladas no es el ápice sino por debajo de éste, y en caso de bajas temperatur
+as que afectan a las plantas, se produce el "Colgado" del ápice.
+ Durante esta fase se efectúa el aporque y fertilización complementaria
+ para las quinuas de valle.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Inicio de panojamiento
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La inflorescencia se nota que va emergiendo del ápice de la planta, observando
+ alrededor aglomeración de hojas pequeñas, las cuales van cubriendo a la
+ panoja en sus tres cuartas partes; ello ocurre de los 55 a 60 días de la
+ siembra, así mismo se puede apreciar amarillamiento del primer par de hojas
+ verdaderas (hojas que ya no son fotosintéticamente activas) y se produce
+ una fuerte elongación del tallo, así como engrosamiento 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Panojamiento 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La inflorescencia sobresale con claridad por encima de las hojas, notándose
+ los glomérulos que la conforman; asímismo, se puede observar en los glomérulos
+ de la base los botones florales individualizados, ello ocurre de los 65
+ a los 70 días después de la siembra 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Inicio de floración
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando la flor hermafrodita apical se abre mostrando los estambres separados,
+ ocurre de los 75 a 80 días de la siembra, en esta fase es bastante sensible
+ a la sequía y heladas; se puede notar en los glomérulos las anteras protegidas
+ por el perigonio de un color verde limón 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Floración o antésis
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La floración es cuando el 50% de las flores de la inflorescencia se encuentran
+ abiertas, lo que ocurre de los 90 a 100 días después de la siembra.
+ Esta fase es muy sensible a las heladas, la observarse de la floración
+ se debe realizar a medio día, ya que en horas de la mañana y al atardecer
+ se encuentran cerradas, así mismo la planta comienza a eliminar las hojas
+ inferiores que son menos activas fotosintéticamente, se ha observado que
+ en esta etapa cuando se presentan altas temperaturas que superan los 38°C
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Grano lechoso
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando los frutos que se encuentran en los glomérulos de la panoja, al
+ ser presionados explotan y dejan salir un líquido lechoso, lo que ocurre
+ de los 100 a 130 días de la siembra, en esta fase el déficit hídrico es
+ sumamente perjudicial para el rendimiento, disminuyéndolo drásticamente
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Grano pastoso
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando los frutos al ser presionados presentan una consistencia pastosa
+ de color blanco, lo que ocurre de los 130 a 160 días de la siembra 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Madurez fisiológica
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es cuando el grano formado al ser presionado con las uñas, presenta resistencia
+ a la penetración, Ocurre de los 160 a 180 días después de la siembra, el
+ contenido de humedad del grano varía de 14 a 16%, el lapso comprendido
+ de la floración a la madurez fisiológica viene a constituir el período
+ de llenado del grano, asimismo en esta etapa ocurre un amarillamiento completo
+ de la planta y una gran defoliación 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Variedades y cultivares
+\end_layout
+
+\begin_layout Standard
+Existen muchas variedades de quinua, que se pueden clasificar básicamente
+ en dulces y amargas 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Añadir más bibliografía para saber cuáles son variedades que tienen granos
+ dulces y amargos.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Cosecha, trilla, selección, envasado y almacenamiento
+\end_layout
+
+\begin_layout Standard
+Aventado y limpieza del grano
+\end_layout
+
+\begin_layout Standard
+Secado del grano
+\end_layout
+
+\begin_layout Standard
+Selección del grano
+\end_layout
+
+\begin_layout Standard
+Almacenamiento
+\end_layout
+
+\begin_layout Subsubsection
+Valor nutricional
+\end_layout
+
+\begin_layout Standard
+Tiene un alto contenido de proteínas y es una excelente fuente de fósforo,
+ calcio, hierro, almidón, azúcar, fibra, minerales y vitamina E 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Posee un importante valor alimenticio.
+ Su característica más distintiva es la calidad de sus proteínas; ya que
+ presenta un adecuado balance de aminoácidos destacándose entre estos la
+ lisina (Dini et al., 2005, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), histidina, metionina y cisteína, cuyas concentraciones son en general
+ mayores a las de los cereales tradicionales (Galwey, 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+).
+ Su contenido proteico es de aproximadamente un 13,9% (Cardosa y Tapia,
+ 1979, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), el aporte de lípidos puede oscilar entre el 5-10% (Chauhan et al., 1992;
+ Galwey, 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+), el almidón representa alrededor del 60% del peso del grano y su característic
+a más distintiva es el pequeño tamaño de su gránulo (1-2 µm) (Galwey, 1993,
+ citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+).
+ Existe una gran variabilidad en la composición química y física del grano
+ de quinua, dependiendo de varios factores, tales como la variedad genética,
+ las condiciones de cultivo, las características edáficas y del medio ambiente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Añadir más.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Propiedades medicinales
+\end_layout
+
+\begin_layout Standard
+La quinua contiene Fito estrógenos que previenen enfermedades crónicas como
+ la osteoporosis, cáncer de mama y enfermedades del corazón.
+ También es muy buena para las enfermedades femeninas que aparecen por falta
+ de estrógenos durante la etapa de la menopausia, también se utiliza en
+ el tratamiento de personas que tienen piel seca, sensible, irritada o desnutrid
+a ya que contiene treonina y ácidos grasos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Importancia
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+, la importancia de la quinua es que representa un gran potencial económico
+ para los productores y por otro lado es considerado un cultivo estratégico
+ para la seguridad alimentaría, especialmente de la población rural y urbana,
+ así como del mundo moderno, puesto que este diminuto grano es considerado
+ una maravilla nutricional comparada con los cereales tradicionales, presenta
+ el doble de proteínas de alta calidad al contar con un mayor porcentaje
+ de aminoácidos esenciales, además es ricas en calcio, fósforo, hierro y
+ grasas no saturadas, también se destacan porque no contienen gluten.
+ 
+\end_layout
+
+\begin_layout Subsection
+Análisis de semillas
+\end_layout
+
+\begin_layout Subsubsection
+Objetivo
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, después del procesamiento es:
+\end_layout
+
+\begin_layout Enumerate
+Determinar si la semilla es adecuada para producción de plántulas.
+\end_layout
+
+\begin_layout Enumerate
+Determinar el potencial para la producción de plantas viables de un lote
+ de semillas.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Determinar la necesidad de tratamiento para romper la latencia.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Determinar la densidad de siembra adecuada (kg de semilla por m o 
+\begin_inset Formula $m{}^{2}$
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Determinar si la semilla es apropiada para almacenamiento.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Determinar el precio y la comercialización de la semilla.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Muestreo
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Métodos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Consiste en obtener una muestra de tamaño adecuado para los análisis, en
+ el cual la probabilidad de un componente presente se determine sólo por
+ su nivel de ocurrencia en el lote de semillas (ISTA 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ Para obtener un verdadero panorama, es esencial que la muestra tomada sea
+ representativa.
+ Esto es posible únicamente utilizando métodos correctos y teniendo cuidado
+ en todo el proceso 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Las razones por las cuales los lotes nunca son uniformes según Thomson,
+ 1979, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+ es: 
+\end_layout
+
+\begin_layout Itemize
+La separación por gravedad de semillas livianas y pesadas dentro de un bulto
+ o de una bolsa.
+ 
+\end_layout
+
+\begin_layout Itemize
+Las diferencias dentro del cultivo del cual se han cosechado las semillas.
+ Pueden haber variación en madurez, peso de semilla o enfermedad entre diferente
+s lugares de un área o entre distintos árboles.
+ 
+\end_layout
+
+\begin_layout Itemize
+Duración de las operaciones de cosecha.
+ Si esta se interrumpe por mal tiempo, la condición de la semilla no será
+ la misma antes y después de la interrupción.
+ 
+\end_layout
+
+\begin_layout Itemize
+Escasa uniformidad en la extracción y procesamiento consiguiente y almacenamient
+o de semillas del mismo cultivo.
+ 
+\end_layout
+
+\begin_layout Itemize
+Colocar semillas de dos o más cultivos juntos para formar un lote.
+ 
+\end_layout
+
+\begin_layout Itemize
+Fallas en la mezcla adecuada del lote antes de empacar.
+ 
+\end_layout
+
+\begin_layout Standard
+Una muestra se obtiene de un lote de semillas, tomando pequeñas porciones
+ al azar de diferentes puntos del lote y mezclándolas.
+ De esta muestra, se obtienen muestras más pequeñas para una o más etapas.
+ En cada etapa, la mezcla completa es seguida por una subdivisión progresiva
+ o por la extracción y combinación al azar de pequeñas porciones (ISTA 1993,
+ citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ Se pueden realizar por los siguientes métodos de acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Método I.
+
+\series default
+ 
+\series bold
+Extracción y combinación al azar de pequeñas porciones
+\series default
+: Se toman al azar pequeñas cantidades del lote o muestra y se juntan todas
+ para formar la muestra.
+ Esta se puede obtener de uno o varios recipientes.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Método II.
+ Subdivisión progresiva (también denominada partición sucesiva)
+\series default
+: La muestra o lote de semilla, se divide aproximadamente en dos porciones
+ iguales sobre una mesa o en un separador de semillas.
+ Una porción se saca y la otra se mezcla completamente y se divide otra
+ vez.
+ Este proceso de partición se repite hasta obtener una muestra del tamaño
+ aproximado que se requiere.
+ Teóricamente no existe diferencia entre ambos métodos de muestreo; pues,
+ la muestra obtenida es una fracción que representa los componentes del
+ lote original.
+ 
+\end_layout
+
+\begin_layout Standard
+Generalmente el método I se usa antes de las operaciones de laboratorio
+ y el método II durante las operaciones de laboratorio.
+ 
+\end_layout
+
+\begin_layout Standard
+El tamaño de la muestra obtenida deberá ser de por lo menos 1
+\begin_inset space \thinspace{}
+\end_inset
+
+kg para poroto, soja, maíz y otras especies con semillas de tamaño similar;
+ de 0.5
+\begin_inset space \thinspace{}
+\end_inset
+
+kg en el caso de trigo, avena y otras semillas de tamaño similar y entre
+ 150
+\begin_inset space \thinspace{}
+\end_inset
+
+g a 250
+\begin_inset space \thinspace{}
+\end_inset
+
+g para semillas más chicas 
+\series bold
+(anónimo).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Tamaño e intensidad de muestreo
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, si el lote de semillas a ser analizado se encuentra en más de un recipiente,
+ la muestra se debe tomar del mismo número de recipientes; a estas muestras
+ se la conoce como muestras primarias y estas deben ser tomadas de diferentes
+ puntos en los recipientes.
+\end_layout
+
+\begin_layout Standard
+Las muestras primarias se mezclan y se reducen por partición repetitiva
+ o por extracción y combinación aleatoria de pequeñas porciones hasta tener
+ el tamaño apropiado (muestra de análisis), el cual se debe reducir al tamaño
+ de muestra de trabajo que varía de acuerdo al tipo de semilla; los tamaños
+ apropiados de las muestras se especifican para algunas especies en las
+ reglas del ISTA 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Pesos de muestra para el análisis de semillas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Especie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Peso mínimo de muestras para análisis (g)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\series bold
+Análisis de las principales características de calidad de semilla
+\end_layout
+
+\begin_layout Standard
+El ISTA (Asociación Internacional de Análisis de Semillas) se creó en 1921
+ con el objetivo de estandarizar los análisis de semillas y facilitar el
+ mercadeo internacional.
+ Inicialmente las reglas se elaboraron solamente para semillas agrícolas,
+ pero progresivamente se incluyeron muchas especies forestales, la mayoría
+ de las reglas del ISTA se pueden aplicar con pequeñas modificaciones.
+ Las reglas del ISTA se modifican con nuevo conocimiento y solicitudes de
+ nuevos estándares.
+ Cada tres años se revisan las reglas 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Pureza
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, señala que la pureza es la primera prueba que se debe realizar, para determina
+r la composición por peso de la muestra en análisis, el tipo y cantidad
+ de impurezas y el número de semillas por kilogramo; los cuales ofrecen
+ información importante de la calidad de la semilla, del rendimiento de
+ las plantas y de la densidad apropiada de siembra.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Métodos
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, para determinar la pureza, la muestra de trabajo debe contar por lo menos
+ con 2
+\begin_inset space \thinspace{}
+\end_inset
+
+500 semillas, las cuales pueden ser esparcidas sobre una mesa o sobre una
+ lámina de vidrio ajustable, colocada sobre una mesa con luz por debajo;
+ en donde se examinan las diferentes fracciones de la muestra de semillas,
+ separándose con un cuchillo plano de madera o un bisturí dividiendo la
+ muestra de trabajo en: 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Semilla pura
+\series default
+; es la semilla de la especie en consideración madura y no dañada, también
+ incluye semillas quebradas que tienen más del 50% del tamaño original.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Otra semilla
+\series default
+; es la semilla pura de otra especie.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Materia inerte
+\series default
+; son estructuras derivadas de la propia semilla y materias no definidas
+ como semilla pura.
+ 
+\end_layout
+
+\begin_layout Standard
+Finalmente se calcula el porcentaje de cada fracción que compone la muestra
+ de semillas por peso de cada parte, donde el porcentaje de la semilla pura
+ se calcula de la siguiente manera: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Pureza\,(\%)=\frac{Peso\, de\, la\, fracción\, de\, semilla\, pura}{Peso\, total\, de\, la\, muestra\, de\, trabajo}\times100$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Peso de semillas
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, el peso de las semillas permite calcular el número de semillas por kilogramo
+ y el rendimiento de las plantas, los cuales están relacionados con la calidad
+ de las semillas y las operaciones en vivero.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Métodos
+\end_layout
+
+\begin_layout Standard
+ISTA (1993), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, recomienda el conteo de ocho repeticiones al azar de 100 semillas puras,
+ las cuales deben ser pesadas de manera individual, calculándose el peso
+ de las 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas de la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\,1\,000\, semillas=sumatoria\, de\, los\, pesos\, de\, las\, ocho\, repeticiones\, individuales\times1,25$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+y el coeficiente de variación así:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Varianza=\frac{n(\sum X^{2})-(\sum X)^{2}}{n(n-1)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+X: Peso por cada repetición (g) 
+\end_layout
+
+\begin_layout Standard
+n: Número de repeticiones 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Desviación\, estándar\,(S)=\sqrt{varianza}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Coeficiente\, de\, variación=\frac{S\times100}{\bar{X}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\bar{X}$
+\end_inset
+
+: Promedio del peso de 100 semillas 
+\end_layout
+
+\begin_layout Standard
+Si el coeficiente de variación excede 4, la prueba se debe repetir y determinar
+ la desviación estándar para las 16 repeticiones.
+ Para calcular el peso final de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas se descartan las repeticiones desviadas del promedio por más
+ de dos veces la desviación estándar.
+\end_layout
+
+\begin_layout Standard
+El resultado depende del contenido de humedad de la semilla, si éste es
+ inusualmente alto, el peso es sobreestimado, por lo que el análisis se
+ debe realizar con semillas que tengan un contenido de humedad normal para
+ almacenamiento y distribución.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Contenido de humedad
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Germinación (viabilidad)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La germinación se define como la emergencia y desarrollo de las plántulas
+ en una fase donde sus estructuras esenciales señalan si es capaz de desarrollar
+se en una planta satisfactoria bajo condiciones favorables del suelo (ISTA
+ 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+Al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, señala lo siguiente:
+\end_layout
+
+\begin_layout Standard
+El objetivo principal de la prueba de germinación es establecer el número
+ máximo de semillas que puedan germinar bajo condiciones óptimas de luz,
+ humedad y temperatura.
+ El uso de condiciones ideales estandarizadas en el laboratorio tal como
+ lo prescribe el ISTA asegura que las diferencias entre los resultados se
+ pueden adscribir a diferencias reales entre muestras de semillas y no a
+ diferentes métodos de análisis y que los resultados obtenidos para un determina
+do lote de semillas en un laboratorio puedan ser idénticos a los obtenidos
+ en cualquier otro, es decir, los resultados deben ser reproducibles; sin
+ embargo, las semillas que muestran un buen desempeño en la prueba de germinació
+n pueden sin embargo desarrollarse pobremente en un ambiente estresante,
+ indicando que la calidad o el vigor de las semillas es baja.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Métodos
+\end_layout
+
+\begin_layout Standard
+De acuerdo a las normas del ISTA (1993), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, la germinación se prueba sobre la fracción de semilla pura, donde una
+ prueba normalmente consiste de cuatro réplicas de 100 semillas puras al
+ azar.
+\end_layout
+
+\begin_layout Standard
+La semilla se extiende uniformemente sobre el sustrato húmedo, para evitar
+ la difusión de hongos, las semillas deben espaciarse a 1,5-5 veces el ancho
+ de las semillas (Willan 1985, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+Puede ser necesario subdividir la prueba en ocho réplicas de 25 semillas
+ dependiendo del tamaño de las semillas, si las semillas son muy pequeñas
+ se prueban por peso usando cuatro réplicas de 0,1
+\begin_inset space \thinspace{}
+\end_inset
+
+g-1,0
+\begin_inset space \thinspace{}
+\end_inset
+
+g dependiendo de la especie (ISTA 1993, citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+); luego de la germinación se calcula el número de semillas que germinan
+ por gramo en lugar del porcentaje de germinación; para cada especie las
+ reglas del ISTA prescriben períodos de luz, temperatura para el día y la
+ noche, duración de la prueba como día del primer y último conteo, tipo
+ de sustrato, y en caso de latencia (semillas con testa dura), también el
+ método de retratamiento a usar 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+La prueba (quizá usando un método alterno) se puede repetir si la desviación
+ entre réplicas de 100 semillas excede el rango máximo tolerado (ANEXO 1).
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Formato de registro
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+,
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Anexo 2a y 2b
+\end_layout
+
+\end_inset
+
+ Se registran las siguientes categorías de semillas.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Germinadas normales;
+\series default
+ Son las plántulas que al final de la prueba se muestran intactas con todas
+ sus estructuras esenciales (raíz, brotes axilares, cotiledones, cogollos,
+ etc.) completas, sanas y bien desarrolladas, también incluye a plántulas
+ con defectos menores pero que tienen la capacidad de desarrollarse como
+ plantas satisfactorias y a plántulas que han sido infectadas en forma secundari
+a, es decir, cuando la infección no se origina de la semilla madre; en muchos
+ casos las semillas que muestran una proyección normal de la raíz a una
+ determinada longitud (5
+\begin_inset space \thinspace{}
+\end_inset
+
+mm-10
+\begin_inset space \thinspace{}
+\end_inset
+
+mm o 1-3 veces el tamaño de la semilla) se cuentan como germinadas normales,
+ para reducir el consumo de tiempo y espacio, aunque es más correcto y seguro
+ contar las plántulas.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Germinadas anormales;
+\series default
+ Son las plántulas que al final de la prueba están decoloradas, pasmadas,
+ dobladas, quebradas, enanas, retorcidas, defectuosas, incompletas, etc.
+ El registro de las anormalidades puede conducir a la determinación de su
+ causa.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Semillas duras;
+\series default
+ Son las semillas no embebidas.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Semillas frescas; 
+\series default
+Son las semillas que al final de la prueba no germinan y se mantienen limpias
+ y firmes pero no duras, su conteo se realiza necesariamente al final de
+ la prueba.
+ Su prevalencia indica que la latencia está presente, por lo que se debe
+ repetir la prueba una vez hecho el tratamiento para romper su latencia.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Semillas vacías
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Otras categorías;
+\series default
+ Son las semillas que presentan daños por insectos, enfermedades, etc.
+\end_layout
+
+\begin_layout Standard
+El conteo ocurre usualmente una vez por semana, pero en caso de semillas
+ de rápida germinación se puede hacer dos veces por semana; la duración
+ de la prueba depende de la especie, usualmente es de 3-4 semanas, donde
+ las diversas categorías de semillas contadas se sacan para evitar la propagació
+n de hongos a causa de semillas muertas.
+\end_layout
+
+\begin_layout Standard
+Es evidente que una prueba de germinación que registra todas las categorías
+ anteriores suministra mayor información que el sólo conteo de las germinadas.
+ 
+\end_layout
+
+\begin_layout Standard
+El resultado de la prueba de germinación se estima con base en la categoría
+ “germinados normales”, donde el porcentaje promedio de germinación es la
+ mediana de las cuatro réplicas redondeadas al número entero más cercano.
+ 
+\end_layout
+
+\begin_layout Standard
+El porcentaje de semillas que a germinado se determina hasta el momento
+ de la germinación pico, ya que es el momento donde el mayor número de semillas
+ por unidad de tiempo ha germinado, este punto se puede determinar sobre
+ un diagrama (X, Y) mostrando la relación entre días de iniciación de la
+ prueba y el porcentaje de germinación acumulado.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ (cuadro 2).
+\end_layout
+
+\end_inset
+
+ El punto se encuentra donde la tangente más pendiente partiendo de (0,
+ 0) se encuentra con la curva.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Luz, temperatura, sustrato
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Luz;
+\series default
+ Muchas clases de semillas requieren de luz para germinar normalmente por
+ lo que necesitan una buena distribución de luz en la cámara de germinación,
+ recomendándose el uso de lámparas de tubos fluorescentes blancos.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+En caso de que las semillas germinadas se cuenten por la proyección de la
+ radícula, el factor de iluminación podría no ser demasiado crítico, pero
+ si sólo se cuentan plántulas con sus primeras hojas, el nivel de iluminación
+ es crítico para la producción de plántulas normales; ya que en condiciones
+ de poca iluminación las plántulas se vuelven etioladas, es decir alargadas
+ y de color verde pálido.
+ Una selección natural para el ciclo de iluminación es seguir el ciclo diurno
+ experimentando por la especie en su área de distribución.
+ 
+\end_layout
+
+\begin_layout Standard
+Para especies de clima templado se recomienda un ciclo de 16 horas de luz
+ seguido por ocho horas de oscuridad.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Temperatura;
+\series default
+ es un factor crítico durante la germinación, ya que puede afectar la capacidad
+ de germinación en condiciones inapropiadas de temperatura influyendo en
+ la velocidad de germinación.
+ Es común usar un ciclo de temperatura correspondiente al de la luz; sin
+ embargo, si no se conocen las temperaturas óptimas, una selección natural
+ sería seguir el ciclo diurno experimentado por la especie en su área de
+ distribución.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Sustrato; 
+\series default
+durante las fases iniciales de germinación, la semilla se nutre solamente
+ de sus reservas; por lo que el sustrato de germinación no requiere de nutriente
+s, debiendo ser mas bien estéril, inerte, capaz de mantener y distribuir
+ bien la humedad, facilitar buena aireación y tener un pH neutro (6,0-7,5).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, plantea el uso de los siguientes sustratos:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Arena; es un sustrato fácil y barato de conseguir, puede ser esterilizar
+ al horno a 130°C durante unas pocas horas y ser tamizado para obtener partícula
+s de tamaño uniforme.
+ ISTA (1993), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, recomienda que se realice el tamizado con una zaranda de 0,8
+\begin_inset space \thinspace{}
+\end_inset
+
+mm y retenida en un cedazo con huecos de 0,05
+\begin_inset space \thinspace{}
+\end_inset
+
+mm.
+ 
+\end_layout
+
+\begin_layout Itemize
+Papel filtro de buena calidad, colocando las semillas en rollos de papel
+ o sobre el papel 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(anexo 3)
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 8)
+\end_layout
+
+\end_inset
+
+.
+ Las ventajas del uso del papel son su rapidez y su facilidad de observar
+ las semillas, ya que no están cubiertas por el sustrato, facilitando el
+ registro final de las semillas germinadas; sin embargo, se puede presentar
+ daños por hongos, los cuales se propagan con facilidad y además que las
+ semillas de muchas especies no pueden propagarse en plántulas normales
+ sin un método propio de enraizamiento, debiéndose registrar solamente la
+ proyección de la radícula; Sin embargo, el uso de papel doblado tipo acordeón
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ (Fig.
+ 9)
+\end_layout
+
+\end_inset
+
+ reduce la velocidad de propagación de hongos puesto que cada semilla está
+ separada de las demás, siendo también apropiado el desarrollo de las plántulas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Kimpak; es un tipo especial de múltiples capas de papel que presenta una
+ excelente capacidad de retención de agua.
+ 
+\end_layout
+
+\begin_layout Itemize
+Agar; presenta la ventaja de que cada semilla se puede distinguir en su
+ medio, ya que no están cubiertas como en la germinación en arena, además
+ que las semillas pueden desarrollarse en plántulas.
+ El sustrato de agar se prepara mediante calentamiento de 1% de solución
+ de agar a 90°C, enfriado hasta unos 50°C y vaciado en una placa de Petri.
+ 
+\end_layout
+
+\begin_layout Itemize
+Vermiculita;
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 10)
+\end_layout
+
+\end_inset
+
+ es un material de fibra de vidrio esponjoso, consistente en su mayor parte
+ de 
+\begin_inset Formula $SiO{}_{2}$
+\end_inset
+
+ y MgO, estéril, con gran capacidad de retención de agua con buena distribución
+ de la humedad.
+ Se considera que es un medio más uniforme que la arena; sin embargo, puede
+ ser difícil distinguir la proporción de semilla no germinada al final de
+ la prueba.
+ 
+\end_layout
+
+\begin_layout Standard
+De manera general 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+ realiza las siguientes recomendaciones en el uso de los sustratos:
+\end_layout
+
+\begin_layout Itemize
+Las semillas cubiertas con plaguicidas deben ser germinadas en sustrato
+ que no permita a los plaguicidas concentrarse alrededor de la semilla como
+ la arena o vermiculita, el papel no es apropiado.
+\end_layout
+
+\begin_layout Itemize
+La germinación de semillas de especies que emiten gases de olor extremadamente
+ fuerte no se deben realizar en rollos de papel, ya que grandes concentraciones
+ de estos gases puede impedir su germinación, recomendándose para estos
+ casos el uso como sustrato de arena o vermiculita porque permiten la eliminació
+n de estos gases.
+ 
+\end_layout
+
+\begin_layout Itemize
+No se recomienda el uso como sustrato de suelo ni compost (ISTA, 1993, citado
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+), ya que estos no son estériles, no son estandarizados en su composición
+ y son complicados de manejar en el laboratorio.
+\end_layout
+
+\begin_layout Itemize
+Las semilla se debe cubrir con una capa de arena o vermiculita no más gruesa
+ que el tamaño de la semilla.
+\end_layout
+
+\begin_layout Itemize
+El sustrato que se use debe ser remojado hasta su nivel de capacidad de
+ retención, ya que en exceso de humedad la semilla se daña por la reducida
+ disponibilidad de oxígeno, pero tampoco se debe dejar que las semillas
+ sufran por estrés de agua.
+ El nivel correcto de humedad del medio se puede percibir a mano.
+\end_layout
+
+\begin_layout Itemize
+La cantidad de agua añadida por volumen o peso de arena o vermiculita debe
+ ser estandarizada, ya que las condiciones más uniformes se alcanzan al
+ contar con la humedad correcta inicialmente también se debe reducir la
+ evaporación al cubrir el recipiente de germinación y no se debe añadir
+ agua durante la prueba, ya que parte del medio se puede humedecer más que
+ el resto.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Germinadores
+\end_layout
+
+\begin_layout Standard
+De acuerdo a 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, los principales germinadores son:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Aparatos Jacobsen o tanque Copenhagen;
+\series default
+ es un tanque contenedor de agua con un termostato que controla la temperatura
+ del agua 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 8)
+\end_layout
+
+\end_inset
+
+, la parte superior del tanque está cubierta con tapas de metal o vidrio
+ que presenta ranuras en medio o perforadas.
+ Las semillas se colocan sobre el papel filtro con una mecha que desciende
+ al tanque de agua y mantiene el papel filtro con la humedad apropiada,
+ las semillas y el papel filtro se cubren con una tapa de vidrio o plástico
+ en forma de campana para reducir la contaminación y la evaporación; también
+ se puede usar para germinar semillas en rollos de papel filtro, cubiertas
+ con una lámina plástica.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cámara de germinación; 
+\series default
+es una cámara cerrada, tiene el tamaño y la apariencia de un refrigerador
+ grande
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Fig.
+ 11)
+\end_layout
+
+\end_inset
+
+.
+ La temperatura se cambia automáticamente entre dos niveles y la luz se
+ prende o apaga en forma automática simulando el día y la noche; los modelos
+ costosos permiten controlar la humedad del aire.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+En la cámara de germinación es necesario que haya cierta circulación de
+ aire para reducir la diferencia de temperatura entre la parte superior
+ e inferior, ya que las temperaturas inferiores pueden ser 4°C-5°C más bajo
+ que la parte superior por la densidad del aire frío, que es mayor.
+\end_layout
+
+\begin_layout Standard
+Las muestras de semillas se colocan en bandejas dentro de la cámara; para
+ evitar la desecación de las muestras estás deben estar cubiertas ya sea
+ en placas de Petri, en cajas de germinación tapadas o rollos de papel filtro
+ dentro de bolsas de polietileno cerradas; sin embargo, es importante permitir
+ cierto intercambio de aire para un suministro continuo de oxígeno y para
+ el escape de gases potencialmente tóxicos, liberados de las semillas durante
+ la germinación; también se debe verificar que se cuente con luz apropiada
+ y que todas las bandejas reciban iluminación suficiente y uniforme.
+\end_layout
+
+\begin_layout Standard
+Un lleno completo de la cámara puede entorpecer el movimiento del aire,
+ por lo que las cajas de germinación, las placas de Petri o los rollos de
+ papel se deben separar unos cuantos centímetros para facilitar la circulación
+ del aire, también se puede colocar un ventilador en la parte superior de
+ la cámara; 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Cuartos de germinación o Walk-in;
+\series default
+ funcionan como las cámaras de germinación pero son más grandes, por lo
+ que permiten un mayor número de muestras para germinar.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cajas de germinación portátiles;
+\series default
+ consiste de un número de cajas plásticas apiladas trasparentes con tapas.
+ La caja debe tener el tamaño suficiente para almacenar al menos una réplica,
+ debe tolerar la esterilización ya sea a base de calor o por químicos, contar
+ con una tapa bien ajustada para mantener aire con alta humedad y ser transparen
+te para satisfacer el requisito de iluminación.
+ La caja puede tener un reservorio de agua y se puede utilizar cualquier
+ sustrato, además puede ser colocada tanto en un cuarto como en una cámara
+ de germinación.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Control de hongos
+\end_layout
+
+\begin_layout Standard
+Entre más baja sea la calidad de las semillas, mayor será el problema de
+ hongos durante la prueba.
+ Las reglas del ISTA recomiendan evitar la aplicación de fungicidas durante
+ las pruebas de germinación, en lugar de esto se debe asegurar que la propagació
+n de los hongos sea minimizada utilizando papel plisado, vermiculita o medio
+ de arena con buena separación entre semillas, eliminando frecuentemente
+ las semillas deterioradas, promoviendo una adecuada aireación, manteniendo
+ el sustrato con la humedad suficiente para permitir la germinación, realizando
+ al menos una esterilización mensual de los equipos del laboratorio, de
+ las cámaras de germinación y mesas del laboratorio (William 1988, citado
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+).
+ Pero, si por alguna razón es necesario un tratamiento contra los hongos,
+ una solución fungicida en agua, fungicidas en polvo, protectores de semillas,
+ hipoclorito de sodio (NaOCl) o una solución fuerte de etanol (seguida de
+ un lavado completo en agua) se puede agregar al medio al iniciar la prueba
+ y durante la misma; en todos los casos se debe considerar que tales tratamiento
+s pueden dañar a la semilla y causar plántulas anormales o moribundas.
+ Por lo tanto se deben establecer procedimientos apropiados en relación,
+ concentraciones y duración de los tratamientos de semilla.
+ Los riesgos a la salud de los técnicos que obligan a usar mascaras contra
+ el polvo y guantes, es también un factor importante a considerar 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Vigor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+En comparación con la prueba de germinación bajo condiciones óptimas, las
+ pruebas de vigor tienden a dar una estimación más realista del desempeño
+ en campo de las semillas, para lo cual las semillas son sometidas a condiciones
+ de estrés para simular algunos factores de estrés a los cuales la semilla
+ estará expuesta una vez sembrada en el campo o vivero, como:
+\end_layout
+
+\begin_layout Itemize
+Exposición de las semillas a condiciones de envejecimiento (alta temperatura
+ y humedad),
+\end_layout
+
+\begin_layout Itemize
+Semillas sometidas a temperaturas no óptimas para la germinación, 
+\end_layout
+
+\begin_layout Itemize
+Pruebas de agotamiento (sin iluminación durante la germinación),
+\end_layout
+
+\begin_layout Itemize
+Prueba de Hiltner (semillas cubiertas con una capa de 3
+\begin_inset space \thinspace{}
+\end_inset
+
+cm-4
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de grava), 
+\end_layout
+
+\begin_layout Itemize
+Semillas remojadas en agua con iones, azucares, etc., a las que se deja escurrir
+ dentro del agua, esto se mide como un incremento en conductividad; a más
+ baja calidad de la semilla, mayor escape o fuga.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Sanidad
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Poulsen_xx"
+
+\end_inset
+
+, la sanidad de la semilla se refiere principalmente a la presencia o ausencia
+ de organismos causantes de enfermedades, tales como hongos, bacterias,
+ virus y animales plagas como gusanos e insectos.
+ El objetivo de las pruebas de sanidad es determinar el estado de sanidad
+ de un lote de semillas para compararlo con diferentes lotes de semillas,
+ siendo importante por las siguientes razones:
+\end_layout
+
+\begin_layout Itemize
+Para evitar que el inoculo de la semilla se propague en el vivero o en el
+ campo.
+ 
+\end_layout
+
+\begin_layout Itemize
+Para explicar las causas de una pobre germinación, crecimiento y desarrollo
+ de las plántulas en el campo.
+\end_layout
+
+\begin_layout Itemize
+Para evitar introducir nuevas enfermedades y plagas en ciertos lugares al
+ usar semillas importadas.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Metodología
+\end_layout
+
+\begin_layout Standard
+La muestra de semillas debe ser representativa del lote a fin de que los
+ resultados sean válidos para todo el lote, deben presentar repeticiones
+ y se recomienda no usar menos de 400 semillas en cada prueba.
+ En general la variación entre repeticiones en pruebas de sanidad es mayor
+ que en pruebas de germinación, ya que en cada observación se examina la
+ presencia e identificación de más de un patógeno.
+ Existen diferentes métodos para la prueba de sanidad, siendo los principales
+ los siguientes métodos:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Examen después de suavizar o sumergir la semilla;
+\series default
+ consiste en sumergir las semillas en agua u otro fluido, a fin de lograr
+ que los cuerpos fructíferos se tornen más visibles, para lograr condiciones
+ en las cuales las esporas sean liberadas tales como exudados de picnídios,
+ masas de esporas de las glumas de gramíneas o para detectar el "corazón
+ hueco".
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Examen de material removido de las semillas por lavado; 
+\series default
+consiste en remover ciertas estructuras de los patógenos que se encuentran
+ adheridos a las semillas, agitando 100 semillas o más en agua con un agente
+ mojante (detergente) o en alcohol, en la que se deja filtrar, centrifugar
+ o evaporar el fluido hasta un volumen reducido para luego examinar la presencia
+ de microorganismos; se recomienda el empleo de este método únicamente como
+ prueba preliminar, por lo que debe seguirse con una investigación completa.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Examen posterior a la incubación;
+\series default
+ consiste en examinar las muestras de semillas para detectar la presencia
+ de organismos causantes de enfermedades, plagas y desórdenes fisiológicos
+ después de un período de incubación.
+ La prueba llamada de papel secante resulta muy efectiva para este propósito.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Para el caso de semillas sin pretratamiento alguno, estas deben ser colocadas
+ ordenadamente para que las plántulas no entren en contacto, la temperatura
+ y humedad deben estandarizarse de acuerdo a los requisitos del patógeno
+ y de la semilla que actúa como huésped, debido a que la esporulación de
+ muchos hongos es estimulada por la luz en especial sí esta es intermitente
+ y contiene radiación en la región del espectro cercana a ultravioleta (UV);
+ de manera general se recomienda para la mayoría de las semillas períodos
+ de luz de 12 horas seguidos de 12 horas de oscuridad; sin embargo, para
+ ciertos casos, el desarrollo de algunos hongos requiere condiciones especiales,
+ como 
+\emph on
+Helminthosporium victorias
+\emph default
+ en avena que requiere temperaturas altas (28°C); 
+\emph on
+Septoría nodorum
+\emph default
+ en algunas variedades de trigo causa protuberancias en el coleóptilo de
+ las plántulas, cuando la humedad es escasa y 
+\emph on
+Fusarium
+\emph default
+ en trigo cuando se incuban en completa oscuridad.
+ 
+\end_layout
+
+\begin_layout Standard
+También las semillas pueden colocarse sobre agar, generalmente después de
+ un pretratamiento, a fin de que se desarrollen las colonias características
+ de cada organismo; pudiendo ser observados a simple vista; sin embargo,
+ se recomienda el uso de un microscopio estereoscópico para lograr una identific
+ación más precisa y un microscopio de investigación para identificar las
+ esporas.
+ 
+\end_layout
+
+\begin_layout Standard
+Otro método para el examen de semillas es plantándolas en arena o polvo
+ de ladrillo, seguidas de un período de incubación de 10 a 14 días, sin
+ que las semillas hayan recibido pretratamiento alguno; manteniendo una
+ alta humedad, lo que permite a los patógenos atacar a las plántulas en
+ desarrollo, este método de incubación puede utilizarse para detectar los
+ siguientes grupos de organismos o condiciones: 
+\end_layout
+
+\begin_layout Itemize
+Hongos o bacterias patogánicas presentes en las semillas, alojadas en la
+ misma o que atacan las plántulas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Insectos en las semillas incluyendo estados larvales o evidencia de la presencia
+ anterior de insectos.
+ 
+\end_layout
+
+\begin_layout Itemize
+Desórdenes fisiológicos como la muerte, manchas en el centro de los cotiledones
+ o la presencia de plúmulas necróticas.
+ 
+\end_layout
+
+\begin_layout Standard
+La presencia de organismos saprofíticos, aunque no siempre, es una indicación
+ de que la semilla no es de buena calidad ya que ha estado expuesta a condicione
+s desfavorables durante la cosecha, almacenamiento o porque ha estado almacenada
+ durante un largo tiempo.
+ Las especies de Mucor y Rhízopus crecen rápidamente e invaden el sustrato
+ de papel y pueden llegar a provocar la descomposición de plántulas originalment
+e sanas.
+ 
+\end_layout
+
+\begin_layout Standard
+Los daños ocasionados por insectos pueden a menudo apreciarse mejor separando
+ los cotiledones o cortando las semillas, para lo cual las semillas pueden
+ ser sumergidas en agua para suavizarlas o cortarlas al final del período
+ de incubación.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Examen de las plántulas en crecimiento;
+\series default
+ Consiste en detectar la presencia de hongos, bacterias y virus en las semillas,
+ plantándolas y observando las plántulas a fin de detectar en las mismas,
+ síntomas de alguna enfermedad; también se puede utilizar el inóculo obtenido
+ de las semillas atacadas para inducir la infección en plantas sanas; las
+ cuales pueden ser conducidas en el invernadero o directamente en el campo,
+ pero recordando siempre, en especial en el último caso, que deben ser protegida
+s a fin de impedir la infección fortuita por patógenos.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Importancia
+\end_layout
+
+\begin_layout Subsection
+Germinados
+\end_layout
+
+\end_body
+\end_document

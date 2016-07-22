@@ -1,0 +1,1121 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+MATERIALES Y MÉTODOS
+\end_layout
+
+\begin_layout Section
+DE LA ZONA EN ESTUDIO
+\end_layout
+
+\begin_layout Subsection
+Ubicación
+\end_layout
+
+\begin_layout Standard
+La presente investigación se realizó en el invernadero del Área de Suelos
+ del Programa de Investigación en Pastos y Ganadería de la Universidad Nacional
+ de San Cristóbal de Huamanga, situado en la región de Ayacucho, provincia
+ de Huamanga, distrito de Ayacucho a 2
+\begin_inset space \thinspace{}
+\end_inset
+
+759
+\begin_inset space \thinspace{}
+\end_inset
+
+msnm; 74°13'12.86'' longitud oeste y 13°09'18.77'' latitud sur.
+\end_layout
+
+\begin_layout Section
+MATERIAL GENÉTICO EMPLEADO
+\end_layout
+
+\begin_layout Standard
+Se utilizó semillas de lechuga conocidas localmente como variedad Seda,
+ clasificadas por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Casseres_1971"
+
+\end_inset
+
+ como lechugas de la variedad White Boston, que se caracterizan por formar
+ cabezas suaves; por tener hojas de superficies muy lisas, de textura suave
+ un tanto aceitosa al tacto, de color verde claro, cuyas hojas externas
+ no son completamente envolventes y las hojas interiores son de un color
+ verde amarillento.
+\end_layout
+
+\begin_layout Standard
+Las semillas fueron obtenidas en el mercado local.
+\end_layout
+
+\begin_layout Section
+METODOLOGÍA EXPERIMENTAL
+\end_layout
+
+\begin_layout Subsection
+Variables en estudio
+\end_layout
+
+\begin_layout Subsubsection
+Variables intervinientes 
+\end_layout
+
+\begin_layout Enumerate
+Invernadero del Área de Suelos del Programa de Investigación en Pastos y
+ Ganadería de la Universidad Nacional de San Cristóbal de Huamanga.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Variedad de lechuga.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Variables independientes 
+\end_layout
+
+\begin_layout Enumerate
+Dosis de humus de lombriz con microorganismos eficientes.
+\end_layout
+
+\begin_layout Enumerate
+Dosis de humus de lombriz sin microorganismos eficientes.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Variables dependientes 
+\end_layout
+
+\begin_layout Enumerate
+Rendimiento 
+\end_layout
+
+\begin_layout Itemize
+Altura de planta.
+ 
+\end_layout
+
+\begin_layout Itemize
+Número de hojas por planta.
+ 
+\end_layout
+
+\begin_layout Itemize
+Ancho de hojas por planta.
+ 
+\end_layout
+
+\begin_layout Itemize
+Peso fresco de planta.
+ 
+\end_layout
+
+\begin_layout Subsection
+Diseño experimental
+\end_layout
+
+\begin_layout Standard
+Se trata de un experimento factorial 2ME
+\begin_inset Formula $\times$
+\end_inset
+
+5HL conducido en el diseño completamente randomizado (DCR) con tres repeticiones.
+ Para el estudio de los efectos simples se usaron los modelos polinómicos
+ lineal, cuadrático, cúbico y cuártico.
+\end_layout
+
+\begin_layout Standard
+Se estudió el efecto de cinco dosis de humus de lombiz (HL) con y sin microorgan
+ismos eficientes (ME) en el cultivo de lechuga variedad Seda.
+ El experimento duró 74 días desde la instalación del almácigo hasta la
+ cosecha.
+\end_layout
+
+\begin_layout Subsubsection
+Factor humus de lombriz (HL)
+\end_layout
+
+\begin_layout Standard
+Niveles: 0, 5, 10, 15 y 
+\begin_inset Formula $\unitfrac[20]{t}{ha}$
+\end_inset
+
+ de HL
+\end_layout
+
+\begin_layout Subsubsection
+Factor microorganismos eficientes (ME)
+\end_layout
+
+\begin_layout Standard
+Niveles: Con y sin ME.
+\end_layout
+
+\begin_layout Subsubsection
+Características de la unidad experimental
+\end_layout
+
+\begin_layout Standard
+La unidad experimental consistió en macetas de hojalata conteniendo una
+ planta de lechuga variedad Seda, establecida en el invernadero del Área
+ de Suelos del Programa de Investigación en Pastos y Ganadería de la Universidad
+ Nacional de San Cristóbal de Huamanga entre los meses de julio a octubre
+ del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014.
+\end_layout
+
+\begin_layout Subsubsection
+Tratamientos
+\end_layout
+
+\begin_layout Standard
+Los tratamientos consistieron en la utilización de diferentes dosis de humus
+ de lombriz con y sin microorganismos eficientes; estas últimas fueron aplicadas
+ a la segunda, cuarta, séptima y décimo primera semana después de instalados
+ los tratamientos.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tratamientos aplicados a las unidades experimentales.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="11" columns="2">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Tratamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Descripción
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[0]{t}{ha}$
+\end_inset
+
+ de humus de lombriz más 
+\begin_inset Formula $\unit[7.5]{ml}$
+\end_inset
+
+ de microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[5]{t}{ha}$
+\end_inset
+
+ de humus de lombriz más 
+\begin_inset Formula $\unit[7.5]{ml}$
+\end_inset
+
+ de microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[10]{t}{ha}$
+\end_inset
+
+ de humus de lombriz más 
+\begin_inset Formula $\unit[7.5]{ml}$
+\end_inset
+
+ de microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[15]{t}{ha}$
+\end_inset
+
+ de humus de lombriz más 
+\begin_inset Formula $\unit[7.5]{ml}$
+\end_inset
+
+ de microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[20]{t}{ha}$
+\end_inset
+
+ de humus de lombriz más 
+\begin_inset Formula $\unit[7.5]{ml}$
+\end_inset
+
+ de microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[0]{t}{ha}$
+\end_inset
+
+ de humus de lombriz sin microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[5]{t}{ha}$
+\end_inset
+
+ de humus de lombriz sin microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[10]{t}{ha}$
+\end_inset
+
+ de humus de lombriz sin microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[15]{t}{ha}$
+\end_inset
+
+ de humus de lombriz sin microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\unitfrac[20]{t}{ha}$
+\end_inset
+
+ de humus de lombriz sin microorganismos eficientes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Croquis de la distribución de tratamientos
+\end_layout
+
+\begin_layout Standard
+La distribución de los tratamientos a las unidades experimentales se realizó
+ completamente al azar, tal como se presenta en las siguientes figuras:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Croquis H.L. M.E..png
+	lyxscale 10
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis de distribución de los tratamientos de humus de lombriz con microorganis
+mos eficientes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Croquis H.L..png
+	lyxscale 10
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis de distribución de los tratamientos de humus de lombriz sin microorganis
+mos eficientes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+INSTALACIÓN Y CONDUCCIÓN DEL EXPERIMENTO
+\end_layout
+
+\begin_layout Subsection
+Almácigo
+\end_layout
+
+\begin_layout Standard
+El almácigo se instaló el 24 de julio del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014 en sustrato de arena, en hileras a una profundidad de 
+\begin_inset Formula $\unit[1]{cm}$
+\end_inset
+
+ a chorro continuo en una bandeja de madera, el cual estuvo cubierto con
+ una malla metálica para protegerlo.
+\end_layout
+
+\begin_layout Subsection
+Captura de microorganismos eficientes
+\end_layout
+
+\begin_layout Standard
+Para contar con la solución de microorganismos eficientes, se procedió a
+ su captura mediante la colocación de frascos con arroz cocido, cubiertos
+ con tela nailon en la compostera del Área de Suelos del Programa de Investigaci
+ón en Pastos y Ganadería de la Universidad Nacional de San Cristóbal de
+ Huamanga, durante 2 semanas; luego de este período se extrajo el arroz
+ impregnado de microorganismos, se licuó con agua y se mezcló con 1 litro
+ de melaza y 3 litros de agua, de esta manera fueron envasados en botellas
+ plásticas y cubiertos con papel periódico para evitar la incidencia de
+ la luz, agitándose cada cierto tiempo para liberar los gases acumulados;
+ utilizándose recién 3 semanas después de su preparación cuando los microorganis
+mos se encontraban latentes.
+\end_layout
+
+\begin_layout Subsection
+Obtención del humus de lombriz 
+\end_layout
+
+\begin_layout Standard
+El humus de lombriz se obtuvo del Programa de Investigación en Pastos y
+ Ganadería de la Universidad Nacional de San Cristóbal de Huamanga.
+\end_layout
+
+\begin_layout Standard
+Las dosis de humus de lombriz, considerando para 2
+\begin_inset space \thinspace{}
+\end_inset
+
+kg de sustrato, utilizadas para cada maceta de acuerdo a la distribución
+ de los tratamientos se detallan en el siguiente cuadro:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Dosis de humus de lombriz utilizadas para cada maceta de acuerdo a los tratamien
+tos.
+ Huamanga-Ayacucho.
+ 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Tratamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Dosis (
+\begin_inset Formula $\unitfrac{t}{ha}$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Dosis (
+\begin_inset Formula $\unitfrac{g}{2kg}$
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+71.45
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+142.90
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+214.35
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+285.7
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace -1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El pesado de las diferentes dosis se realizó con una balanza analítica en
+ el Laboratorio de Análisis de Suelos, Plantas y Aguas 
+\begin_inset Quotes fld
+\end_inset
+
+Nicolás Roulet
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Obtención del sustrato
+\end_layout
+
+\begin_layout Standard
+El sustrato se obtuvo de un suelo en descanso, de topografía ligeramente
+ plana, de color claro, ubicado alrededor del invernadero del Área de Suelos
+ del Programa de Investigación en Pastos y Ganadería de la Universidad Nacional
+ de San Cristóbal de Huamanga, del cual se tomó suelo hasta 20
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de profundidad mediante laboreo manual, luego se procedió al mullido
+ y cernido.
+\end_layout
+
+\begin_layout Subsection
+Instalación de las macetas
+\end_layout
+
+\begin_layout Standard
+Se utilizaron macetas de hojalata de 2
+\begin_inset space \thinspace{}
+\end_inset
+
+kg de capacidad de 17.5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de alto y 14.5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de diámetro, con agujeros en la base para favorecer el drenaje del agua.
+ Se colocaron primero en todas las macetas una capa de suelo sin cultivar
+ (
+\begin_inset Formula $1\,200$
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+g aproximadamente) sobre el cual se aplicaron las diferentes dosis de humus
+ de lombriz mezcladas con suelo; cubriéndose finalmente con una delgada
+ capa de suelo sin cultivar y regadas con 7.5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de microorganismos eficientes de acuerdo a la distribución de tratamientos.
+ 
+\end_layout
+
+\begin_layout Subsection
+Trasplante
+\end_layout
+
+\begin_layout Standard
+Se realizó el 23 de agosto del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014, cuando las plántulas presentaban 3-4 hojas, realizándose antes un riego
+ en las bandejas para facilitar la extracción de plántulas y en las macetas
+ para hacer los hoyos y evitar causar estrés en las plántulas trasplantadas.
+\end_layout
+
+\begin_layout Subsection
+Riegos
+\end_layout
+
+\begin_layout Standard
+El riego se realizó cada vez que el sustrato estaba seco, hasta que alcance
+ su capacidad de campo utilizando agua potable.
+\end_layout
+
+\begin_layout Subsection
+Deshierbo
+\end_layout
+
+\begin_layout Standard
+El control de malezas se realizó manualmente dejándose las malezas sobre
+ el sustrato hasta que se sequen.
+ 
+\end_layout
+
+\begin_layout Subsection
+Control fitosanitario
+\end_layout
+
+\begin_layout Standard
+El control fitosanitario se realizó con un producto de origen vegetal a
+ base de nicotina, preparado de manera casera, utilizándose 25
+\begin_inset space \thinspace{}
+\end_inset
+
+ml del producto preparado en 112.5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de agua; cuyas aplicaciones se realizaron de manera preventiva cada dos
+ semanas después del trasplante.
+\end_layout
+
+\begin_layout Subsection
+Cosecha
+\end_layout
+
+\begin_layout Standard
+La cosecha se realizó cuando las plantas alcanzaron el tamaño, color, firmeza
+ y contextura comercial; las cuales fueron extraídas de cada macetero, sumergida
+s en agua para eliminar los residuos de suelo y finalmente secadas bajo
+ sombra el 01 de octubre del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014.
+ 
+\end_layout
+
+\begin_layout Section
+VARIABLES EVALUADAS
+\end_layout
+
+\begin_layout Subsection
+Altura de planta
+\end_layout
+
+\begin_layout Standard
+Se obtuvo mediante la medición con una regla graduada de las plantas de
+ lechuga desde la superficie del suelo hasta el punto de crecimiento más
+ alto de la planta.
+ Las evaluaciones se realizaron semanalmente a partir de los 10 días del
+ trasplante hasta el uno de octubre del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+014.
+\end_layout
+
+\begin_layout Subsection
+Número de hojas por planta
+\end_layout
+
+\begin_layout Standard
+Se obtuvo mediante la sumatoria del número de hojas de cada planta de lechuga
+ semanalmente a partir de los 10 días del trasplante.
+\end_layout
+
+\begin_layout Subsection
+Ancho de hojas por planta
+\end_layout
+
+\begin_layout Standard
+Se obtuvo mediante la medición semanal con una regla graduada del ancho
+ de la hoja más grande de cada planta de lechuga a partir de los 10 días
+ del trasplante.
+\end_layout
+
+\begin_layout Subsection
+Peso fresco de planta
+\end_layout
+
+\begin_layout Standard
+Se obtuvo mediante el peso fresco con una balanza de precisión de tres plantas
+ de lechuga por tratamiento después de la cosecha.
+\end_layout
+
+\end_body
+\end_document

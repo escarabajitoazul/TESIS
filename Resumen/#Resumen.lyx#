@@ -1,0 +1,178 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{RESUMEN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+chapter*{RESUMEN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El presente informe de prácticas preprofesionales muestra la evaluación
+ de diferentes dosis de humus de lombriz (H.L.) con y sin microorganismos
+ eficientes (ME) en el cultivo de lechuga (
+\emph on
+Lactuca sativa
+\emph default
+) variedad Seda bajo condiciones de invernadero para obtener la dosis óptima
+ de H.L.
+ con y sin ME que permita obtener mayor altura de planta, mayor número de
+ hojas por planta, mayor ancho de hojas por planta y mayor peso fresco;
+ para lo cual se utilizó suelo en descanso; 0, 5, 10, 15 y 
+\begin_inset Formula $\unitfrac[20]{t}{ha}$
+\end_inset
+
+ de H.L.
+ y 7.5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de ME, estas últimas fueron aplicadas a la segunda, cuarta, séptima y
+ onceava semana después del trasplante.
+ Fueron conducidos bajo el diseño completamente randomizado (DCR) con arreglo
+ factorial 5H.L.
+\begin_inset Formula $\times$
+\end_inset
+
+2ME con 3 repeticiones.
+\end_layout
+
+\begin_layout Standard
+Concluyéndose finalmente que la mayor altura se obtiene por la utilización
+ de ME de manera independiente al obtener en promedio 22.88
+\begin_inset space \thinspace{}
+\end_inset
+
+cm; el mayor número de hojas se obtiene por la aplicación de 
+\begin_inset Formula $\unitfrac[15]{t}{ha}$
+\end_inset
+
+ de H.L.
+ con ME con una media de 18 hojas por planta; el mayor ancho de hoja por
+ la aplicación de ME de manera independiente con una media de 10.77
+\begin_inset space \thinspace{}
+\end_inset
+
+cm y el mayor peso fresco por la aplicación de 
+\begin_inset Formula $\unitfrac[15]{t}{ha}$
+\end_inset
+
+ y 
+\begin_inset Formula $\unitfrac[5]{t}{ha}$
+\end_inset
+
+ de H.L con ME con un promedio de 49.32
+\begin_inset space \thinspace{}
+\end_inset
+
+g y 48.08
+\begin_inset space \thinspace{}
+\end_inset
+
+g respectivamente.
+\end_layout
+
+\end_body
+\end_document

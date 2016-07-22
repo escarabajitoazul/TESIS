@@ -1,0 +1,834 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+newgeometry{top=1cm,bottom=2cm,right=1cm,left=2cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{ANEXO}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+chapter*{ANEXO}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+thefigure{A.
+\backslash
+arabic{figure}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Lugar_muestra_suelo_trabajando.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Muestra_suelo.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda: 
+\series default
+\emph default
+Área de suelo sin cultivar siendo preparado para la obtención de muestras.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Suelo tamizado utilizado como sustrato para el experimento.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Almácigo_sustrato.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Almácigo_conplántulas.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda:
+\series default
+\emph default
+ Instalación del almácigo en hileras a surco corrido.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Emergencia de las plántulas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Arroz_envase_tapado.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Arroz_instalación.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda:
+\series default
+\emph default
+ Envases con arroz cocido cubiertos con tela nailon para la captura de microorga
+nismos eficientes de manera casera.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Colocación de los envases en las camas de compostaje.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Muestra_ME.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Arroz_bandeja_EM.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda:
+\series default
+\emph default
+ Envases de arroz extraídos de las camas de compostaje luego de 2 semanas.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Arroz impregnado de diferentes microorganismos.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ME_prepa_licuado.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ME_prepa_botellas+periódico.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Preparación de la solución de microorganismos eficientes.
+ 
+\series bold
+\emph on
+Izquierda: 
+\series default
+\emph default
+Licuado del arroz impregnado de microorganismos más agua.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Botellas conteniendo mezcla de melaza más la solución de microorganismos
+ cubiertas con papel periódico para su incubación.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Detallar en materiales y métodos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Instalación_sustrato.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Maceteros_plántulas.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda:
+\series default
+\emph default
+ Instalación de los maceteros con sustrato de suelo sin cultivar más las
+ diferentes dosis de humus de lombriz.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Trasplante de plántulas de lechuga.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Riego_maceteros_ME.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Result_con ME_sin ME.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Izquierda:
+\series default
+\emph default
+ Riego de las plantas de lechuga con microorganismos eficientes.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Crecimiento y desarrollo de las plantas de lechuga en los diferentes tratamient
+os.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Planta_con ME.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Plantas_sin ME.JPG
+	lyxscale 5
+	scale 6
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+Plantas de lechuga luego de la cosechaIzquierda:
+\series default
+\emph default
+ Instalación del almácigo en hileras a surco corrido.
+ 
+\series bold
+\emph on
+Derecha:
+\series default
+\emph default
+ Emergencia de las plántulas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

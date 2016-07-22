@@ -1,0 +1,1146 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+%%%%negrita%%%
+\usepackage{contour}
+%%%
+\usepackage{helvet}
+\usepackage{titlesec} 
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{pstricks}
+\usepackage{longtable}
+\usepackage{nomencl}
+\usepackage{etoolbox}
+\usepackage{pgfornament}
+\usepackage[hyphenbreaks]{breakurl}
+\usepackage[hyphens]{url}
+%\usepackage{url}
+%\contourlength{0.03em}
+%\newcommand{\unsch}{\contour{black}{\sf\fontsize{18pt}{30}\selectfont}}
+\newcommand{\unsch}{\sf\fontsize{18pt}{30}\selectfont}
+\newcommand{\facultad}{\sf\fontsize{16pt}{21,5}\selectfont}
+\newcommand{\escuela}{\sf\fontsize{16pt}{21,5}\selectfont}
+\newcommand{\fecha}{\fontsize{12pt}{21,5}\selectfont}
+\newcommand{\titulo}{\fontsize{14pt}{18}\selectfont}
+\newcommand{\informe}{\sf\fontsize{14pt}{18}\selectfont}
+\newcommand{\bachiller}{\fontsize{18pt}{18}\selectfont}
+
+%%%%%% Alterar índices%%%%%%%%
+
+\usepackage[titles]{tocloft}% http://ctan.org/pkg/tocloft
+
+%\setlength{\cftsubsecnumwidth}{1.4em}% Set length of number width in ToC for \subsection
+%\setlength{\cftsecnumwidth}{2.8em}% Set length of number width in ToC for \subsection
+%\cftsetindents{section}{0.5in}{0.5in}
+
+\cftsetindents{section}{0.5in}{0.5in}
+\cftsetindents{subsection}{1in}{0.3in}
+\cftsetindents{subsubsection}{1.3in}{0.5in}
+\renewcommand\cftchapafterpnum{\vskip-0.5cm}
+\renewcommand\cftsecafterpnum{\vskip-0.4cm}
+\renewcommand\cftsubsecafterpnum{\vskip-0.5cm}
+\renewcommand\cftsubsubsecafterpnum{\vskip-0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\thesection}{\Roman{section}} 
+\renewcommand{\thesubsection}{\arabic{subsection}}
+%para la proxima
+%\renewcommand{\thesubsubsection}{\}
+\usepackage{url}
+\usepackage{caption}
+\captionsetup [figure] {labelfont={bf,small}, textfont={it,small}, position=bottom, format=hang}
+\captionsetup [table] {labelfont={bf,small}, textfont={it,small}, position=bottom, format=hang}
+
+
+%textCIRCLED
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+%%%Fancy estilos%%%
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+
+\fancypagestyle{solo}{
+\fancyhf{}
+\fancyhead[RO]{}
+\fancyhead[LO]{}
+\cfoot{}
+\renewcommand{\headrulewidth}{0pt}
+}
+
+\fancypagestyle{demas}{
+\fancyhf{}
+\lhead{}
+\chead{}
+\rhead{}
+
+\cfoot{\circled{\small\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+}
+
+\patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
+%CHAPTER
+%\renewcommand*{\chapterheadstartvskip}{\vspace*{1cm}}
+%\renewcommand*{\chapterheadendvskip}{\vspace{2cm}}
+\usepackage[Lenny]{fncychap}
+\ChNameVar{\centering\Large\rm\bfseries}
+\ChTitleVar{\centering\Huge\rm}
+
+
+%%%%%ALTERAR INDICE BIBLIOGRAFIA%%%%%
+\makeatletter
+\renewcommand{\@biblabel}[1]{}
+\renewenvironment{thebibliography}[1]
+{\section*{\refname}%
+\@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+\list{}%
+{\labelwidth=0pt
+\labelsep=0pt
+\leftmargin1.5em
+\itemindent=-1.5em
+\advance\leftmargin\labelsep
+\@openbib@code
+}%
+\sloppy
+\clubpenalty4000
+\@clubpenalty \clubpenalty
+\widowpenalty4000%
+\sfcode`\.\@m}
+\makeatother
+\usepackage{breakcites}
+
+%%bibliografía%%%
+\usepackage{natbib}
+\renewcommand{\bibsection}{}
+\renewcommand{\bibname}{}
+\renewcommand{\refname}{}
+
+%%% de coma a punto%%%
+\usepackage[spanish]{babel}
+\decimalpoint
+\end_preamble
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman libertine
+\font_sans biolinum
+\font_typewriter default
+\font_math libertine-ntxm
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing other 1.5
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style apalike
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle plain
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{titlepage}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+contourlength{0.01em}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+contour{black}{
+\backslash
+unsch{
+\end_layout
+
+\end_inset
+
+UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace -0.6cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+contour{black}{
+\backslash
+unsch{
+\end_layout
+
+\end_inset
+
+HUAMANGA
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset VSpace -1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+contour{black}{
+\backslash
+facultad {
+\end_layout
+
+\end_inset
+
+FACULTAD DE CIENCIAS AGRARIAS
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset VSpace -1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+contour{black}{
+\backslash
+escuela {
+\end_layout
+
+\end_inset
+
+ESCUELA DE FORMACIÓN PROFESIONAL DE AGRONOMÍA
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\begin_inset Graphics
+	filename Logo UNSCH.jpg
+	lyxscale 10
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+titulo {
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes fld
+\end_inset
+
+TRATAMIENTOS DE ILUMINACIÓN Y TIMPO EN LA PRODUCCIÓN DE GERMINADOS EN ACCESIONES
+ DE QUINUA (
+\emph on
+Chenopodium quinoa
+\emph default
+) Y TEMPERATURA DE CONSERVACIÓN.
+ HUAMANGA-AYACUCHO.
+ 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+informe {
+\end_layout
+
+\end_inset
+
+Tesis Para obtener el Título Profesional de:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bachiller{
+\end_layout
+
+\end_inset
+
+INGENIERA AGRÓNOMA
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+informe{
+\end_layout
+
+\end_inset
+
+Presentado por:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bachiller {
+\end_layout
+
+\end_inset
+
+ DIANE SUSAN CENTENO CASAVERDE
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+informe{
+\end_layout
+
+\end_inset
+
+AYACUCHO
+\begin_inset Formula $-$
+\end_inset
+
+PERÚ
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+2
+\begin_inset space \thinspace{}
+\end_inset
+
+016
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{titlepage}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset CommandInset include
+LatexCommand input
+filename "Dedicatoria/dedicatoria.tex"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\size largest
+AGRADECIMIENTOS
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2.8cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A la Universidad Nacional de San Cristóbal de Huamanga, Facultad de Ciencias
+ Agrarias, Escuela de Formación Profesional de Agronomía y a todos los docentes
+ que la integran por el aporte fundamental en la formación de mis conocimientos.
+ 
+\end_layout
+
+\begin_layout Standard
+Al Laboratorio de Genética y Biotecnología Vegetal del Departamento Académico
+ de Agronomia y Zootecnia de la Escuela de Formación de Agronomía de la
+ Universidad Nacional de San Cristóbal de Huamanga por poner a mi disposición
+ los ambientes del laboratorio.
+ 
+\end_layout
+
+\begin_layout Standard
+Un agradecimiento especial al M.Sc.
+ Germán Fernando De la Cruz Lapa asesor del proyecto de tesis y al M.Sc.
+ Francisco Condeña Almora coasesor del proyecto de tesis; por su orientación,
+ apoyo, tiempo, paciencia, experiencia y conocimientos brindados en la elaboraci
+ón del presente trabajo de investigación.
+\end_layout
+
+\begin_layout Standard
+A Ken Esparta Ccorahua, estudiante de Ingenniería de la computación de la
+ Universidad Federal de Ceará-Brasil por su apoyo emocional e intelectual
+ en la materialización del presente trabajo.
+ 
+\end_layout
+
+\begin_layout Standard
+A mis compañeros y amigos Leydi Mayra Huamaní, Francisca del Pilar Gálvez,
+ Yesenia Canchari, Delia Mallqui, Leidy Escalante, Jesús Marco Pozo y a
+ todos los que me acompañaron en mi vida académica.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{solo}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+pagenumbering{roman}
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+setcounter{page}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{INTRODUCCIÓN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+chapter*{INTRODUCCIÓN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Los germinados aumentan potencialmente su riqueza nutricional conforme se
+ desarrollan hasta alcanzar un nivel óptimo; durante este proceso germinativo
+ se pueden encontrar nutrientes que las semillas por si solas no tienen
+ como vitaminas A, B, C, E, K; minerales como el calcio, hierro, magnesio,
+ potasio, fósforo, fibra; incluso son considerados como vegetales frescos,
+ que pueden ser producidos a bajo costo en cualquier temporada; sin embargo,
+ un requisito para la producción de germinados, es la obtención de parámetros
+ técnicos necesarios para el desarrollo de sistemas eficientes de producción
+ para así tener un aprovechamiento óptimo de diferentes especies (Tamez
+ y Méndez, 1997; citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ramos_1998"
+
+\end_inset
+
+).
+ Por estas razones con el presente proyecto de investigación se pretende
+ obtener germinados de mayor calidad para consumo humano y además para contar
+ con parámetros técnicos eficientes en la producción y conservación de germinado
+s en semillas de quinua; ya que este grano andino es de gran valor nutritivo
+ y amplia versatilidad en cuanto a condiciones de cultivo y aplicaciones
+ en la industria alimentaria 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cervilla_2011"
+
+\end_inset
+
+; además el Perú es el principal foco de diversidad de quinua con más de
+ 3
+\begin_inset space \thinspace{}
+\end_inset
+
+000 muestras de ecotipos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Para redeucir los riesgos que implica el uso de semillas que no tienen una
+ adecuada capacidad para producir buenas cosechas, es de fundamental importancia
+ realizar un control de calidad 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Poulsen_xx}
+\end_layout
+
+\end_inset
+
+; por ello la primera fase de la investigación consistirá en seleccionar
+ 10 accesiones con aptitud de producción de germinados a partir de 150 accesione
+s de quinua pertenecientes al germoplasma del Laboratorio de Genética y
+ Biotecnología Vegetal de acuerdo a los parámetros de análisis de semillas,
+ lo cual constituirá una información confiable sobre la calidad de la semilla
+ , para asegurar resultados uniformes y replicables en la producción de
+ germinados de quinua que constituirá la segunda fase de la investigación;
+ así mismo es importante conocer el tiempo de conservación de los germinados
+ por lo que este tema se abordará en la tercera fase de la investigación.
+\end_layout
+
+\begin_layout Standard
+Por las consideraciones antes expuestas, se plantea en la presente investigación
+ experimental los siguientes objetivos: 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Objetivo general
+\end_layout
+
+\begin_layout Enumerate
+Evaluar las características de accesiones de quinua durante la producción
+ de germinados y de los germinados durante el manejo postcosecha a partir
+ de la selección de 150 accesiones del germoplasma del Laboratorio de Genética
+ y Biotecnología Vegetal, mediante indicadores de calidad física y fisiológica,
+ pruebas de germinación y manejo postcosecha, para establecer las condiciones
+ óptimas de producción y manejo postcosecha de las accesiones seleccionadas.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Objetivos específicos
+\end_layout
+
+\begin_layout Enumerate
+Evaluar las características de 150 accesiones de semillas de quinua del
+ germoplasma del Laboratorio de Genética y Biotecnología Vegetal mediante
+ indicadores de calidad física y fisiológica para seleccionar accesiones
+ con características deseables en la producción de germinados.
+\end_layout
+
+\begin_layout Enumerate
+Evaluar las características de germinados de quinua mediante pruebas de
+ desinfección con NaClO, iluminación y días a la cosecha para determinar
+ las condiciones óptimas de producción.
+\end_layout
+
+\begin_layout Enumerate
+Evaluar el tiempo de almacenamiento de germinados de quinua mediante pruebas
+ de iluminación, temperatura y sistemas de conservación para determinar
+ las condiciones óptimas de manejo postcosecha.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{demas}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{3}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Capítulo 1_Revisión bibliográfica/Capítulo 1_Revisión bibliográfica.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Capítulo 2_Materiales y métodos/Capítulo 2_Materiales y métodos.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Capítulo 3_Resultados y discusión/Capítulo 3_Resultados y discusión.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Capítulo 4_Conclusiones y recomendaciones/Capítulo 4_Conclusiones y recomendaciones.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Resumen/Resumen.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Capítulo 5_Bibliografía/Capítulo 5_Bibliografía.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Anexo/Anexo.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

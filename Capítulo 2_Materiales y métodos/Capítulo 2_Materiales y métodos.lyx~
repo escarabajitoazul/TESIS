@@ -1,0 +1,1481 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+MATERIALES Y MÉTODOS
+\end_layout
+
+\begin_layout Section
+DE LA ZONA EN ESTUDIO
+\end_layout
+
+\begin_layout Subsection
+Ubicación
+\end_layout
+
+\begin_layout Standard
+La presente investigación se realizó en el Laboratorio de Genética y Biotecnolog
+ía Vegetal y en el Laboratorio de Fruticultura y Manejo Postcosecha de la
+ Escuela de Formación Profesional de Agronomía de la Universidad Nacional
+ de San Cristóbal de Huamanga, ubicado en la región de Ayacucho, provincia
+ de Huamanga, distrito de Ayacucho.
+\end_layout
+
+\begin_layout Section
+MATERIAL GENÉTICO EMPLEADO
+\end_layout
+
+\begin_layout Standard
+Accesiones de quinua del Germoplasma del Laboratorio de Genética y Biotecnología
+ Vegetal.
+ 
+\end_layout
+
+\begin_layout Section
+METODOLOGÍA EXPERIMENTAL
+\end_layout
+
+\begin_layout Subsection
+Variables en estudio
+\end_layout
+
+\begin_layout Subsubsection
+Variables intervinientes 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Procedimientos y condiciones de laboratorio.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+• Accesiones de quinua.
+ 
+\end_layout
+
+\begin_layout Standard
+• Procedimientos y condiciones de laboratorio.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+• Accesiones de quinua 
+\end_layout
+
+\begin_layout Standard
+• Procedimientos y condiciones de laboratorio.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Variables independientes 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Accesiones de quinua
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Tipos de iluminación 
+\end_layout
+
+\begin_layout Itemize
+Luz continua 
+\end_layout
+
+\begin_layout Itemize
+Oscuridad continua 
+\end_layout
+
+\begin_layout Itemize
+12 horas luz-12 horas oscuridad 
+\end_layout
+
+\begin_layout Standard
+Tiempo de germinación 
+\end_layout
+
+\begin_layout Itemize
+24 horas 
+\end_layout
+
+\begin_layout Itemize
+48 horas 
+\end_layout
+
+\begin_layout Itemize
+72 horas 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+X1: Temperatura de almacenamiento
+\end_layout
+
+\begin_layout Itemize
+X11: 5°C+2°C (en refrigeración) 
+\end_layout
+
+\begin_layout Itemize
+X12: 10°C+2°C (en cámara fría) 
+\end_layout
+
+\begin_layout Itemize
+X13: 20°C+2°C (temperatura de ambiente) 
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Variables dependientes 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Calidad física
+\end_layout
+
+\begin_layout Itemize
+Porcentaje de pureza (%)
+\end_layout
+
+\begin_layout Itemize
+Peso de 1000 semillas (g)
+\end_layout
+
+\begin_layout Itemize
+Peso hectolitrico (g/1000cm3)
+\end_layout
+
+\begin_layout Itemize
+Diámetro de semillas (mm)
+\end_layout
+
+\begin_layout Itemize
+Espesor de semillas (mm)
+\end_layout
+
+\begin_layout Itemize
+Color de semillas 
+\end_layout
+
+\begin_layout Itemize
+Forma de semillas 
+\end_layout
+
+\begin_layout Itemize
+Contenido de saponina (%)
+\end_layout
+
+\begin_layout Standard
+Calidad fisiológica
+\end_layout
+
+\begin_layout Itemize
+Porcentaje de germinación
+\end_layout
+
+\begin_layout Itemize
+Peso de germinado 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Y1: Calidad de germinado 
+\end_layout
+
+\begin_layout Itemize
+Y11: Porcentaje de germinación (%)
+\end_layout
+
+\begin_layout Itemize
+Y12: Longitud de radícula (cm)
+\end_layout
+
+\begin_layout Itemize
+Y13: Longitud de plúmula (cm)
+\end_layout
+
+\begin_layout Itemize
+Y14: Palatabilidad (escala hedónica)
+\end_layout
+
+\begin_layout Standard
+Y2: Índice de conversión
+\end_layout
+
+\begin_layout Itemize
+Peso de germinado (g)
+\end_layout
+
+\begin_layout Standard
+Y3: Contenido nutricional 
+\end_layout
+
+\begin_layout Itemize
+Análisis de aminoácidos
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+X2: Estado de conservación 
+\end_layout
+
+\begin_layout Itemize
+Y11: Tiempo de conservación 
+\end_layout
+
+\begin_layout Standard
+X2: Peso de germinado 
+\end_layout
+
+\begin_layout Itemize
+Y21: Pérdida de peso (g)
+\end_layout
+
+\begin_layout Standard
+X3: Color de germinado 
+\end_layout
+
+\begin_layout Itemize
+Y31: Cambio de color (escala)
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Diseño experimental
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de selección
+\end_layout
+
+\begin_layout Standard
+Se condujo bajo el diseño completamente randomizado (DCR).
+ De 95 unidades experimentales (accesiones del germoplasma de quinua-LGBV-EFPA-F
+CA-UNSCH) con 3 repeticiones cada uno, cuyo modelo aditivo lineal es el
+ siguiente: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Y_{ij}=\mu+\tau_{ij}+\varepsilon_{ij}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Y_{ij}$
+\end_inset
+
+: j-ésima observación en el tratamiento i 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\mu$
+\end_inset
+
+: Media general 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tau_{i}$
+\end_inset
+
+: Efecto del i-ésimo tratamiento
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\varepsilon_{ij}$
+\end_inset
+
+: Error experimental 
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Standard
+Se trata de un experimento factorial 10A
+\begin_inset Formula $\times$
+\end_inset
+
+3TG
+\begin_inset Formula $\times$
+\end_inset
+
+3TI conducido en el diseño completamente randomizado (DCR) con tres repeticiones
+, siendo 270 tratamientos en total.
+ Las accesiones seleccionadas en la primera fase de la investigación constituyen
+ el factor A, los tiempos de germinación el factor TG y los tipos de iluminación
+ el factor TI, como se detalla a continuación: 
+\end_layout
+
+\begin_layout Standard
+Factor A: Accesiones seleccionadas en la primera fase de la investigación
+\end_layout
+
+\begin_layout Standard
+Factor TG: Tiempo de germinación
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TG_{0}$
+\end_inset
+
+: 24 horas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TG_{1}$
+\end_inset
+
+: 48 horas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TG_{2}$
+\end_inset
+
+: 72 horas
+\end_layout
+
+\begin_layout Standard
+Fcator TI: Tipos de iluminación
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TI_{0}$
+\end_inset
+
+: 12 horas luz-12horas oscuridad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TI_{1}$
+\end_inset
+
+: Luz continua
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $TI_{2}$
+\end_inset
+
+: Oscuridad continua
+\end_layout
+
+\begin_layout Standard
+Se evaluó el efecto de 3 tipos de iluminación (Luz continua, oscuridad continua
+ y 12 horas luz-12 horas oscuridad) y 3 tiempos de germinación (24 horas,
+ 48 horas y 72 horas) en la producción de germinados de 10 accesiones de
+ quinua
+\end_layout
+
+\begin_layout Standard
+El modelo aditivo lineal es el siguiente: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Y_{ijkl}=\mu+\alpha_{i}+\beta_{j}+\gamma_{k}+(\alpha\beta)_{ij}+(\alpha\gamma)_{ik}+(\beta\gamma)_{jk}+(\alpha\beta\gamma)_{ijk}+\varepsilon_{ijkl}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Y_{ijkl}$
+\end_inset
+
+: Variable respuesta de la i-ésima observación bajo el k-ésimo nivel del
+ factor C, en el j-ésimo nivel del factor B, sujeto al i-ésimo nivel del
+ tratamiento A.
+\end_layout
+
+\begin_layout Standard
+μ : Constante media de la población a la cual pertenecen las observaciones.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\alpha_{i}$
+\end_inset
+
+: Efecto del i-ésimo nivel del factor A.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\beta_{j}$
+\end_inset
+
+: Efecto del j-ésimo nivel del factor B.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\gamma_{k}$
+\end_inset
+
+: Efecto del k-ésimo nivel del factor C 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $(\alpha\beta)_{ij}$
+\end_inset
+
+: Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $(\alpha\gamma)_{ik}$
+\end_inset
+
+: Efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
+ nivel del factor C.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $(\beta\gamma)_{jk}$
+\end_inset
+
+: Efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
+ nivel del factor C.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $(\alpha\beta\gamma)_{ijk}$
+\end_inset
+
+: Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B sujeto al k-ésimo nivel del factor C.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\varepsilon_{ijkl}$
+\end_inset
+
+: Efecto del error experimental que está distribuido como 
+\begin_inset Formula $\varepsilon_{ijkl}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de conservación
+\end_layout
+
+\begin_layout Standard
+Se conducirá bajo el diseño completamente randomizado (DCR).
+ Las accesiones destinadas a conservar serán sometidas al efecto de 3 temperatur
+as de almacenamiento (5°C+2°C, 10°C+2°C y 20°C+2°C) con 3 repeticiones cada
+ uno, cuyo modelo aditivo lineal es el siguiente: 
+\end_layout
+
+\begin_layout Standard
+X_ij=μ+τ_i+ε_ij 
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+X_ij: j-ésima observación en el tratamiento i 
+\end_layout
+
+\begin_layout Standard
+μ : Media general 
+\end_layout
+
+\begin_layout Standard
+τ_i : Efecto del i-ésimo tratamiento 
+\end_layout
+
+\begin_layout Standard
+ε_ij: Error experimental 
+\end_layout
+
+\begin_layout Subsubsection
+Características de la unidad experimental
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de selección
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Standard
+Está constituida de 100 semillas de quinua dentro de tapers de plástico
+ transparentes.
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de conservación
+\end_layout
+
+\begin_layout Subsubsection
+Tratamientos
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de selección
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tratamientos aplicados a las unidades experimentales.
+ Huamanga-Ayacucho, 2016.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de conservación
+\end_layout
+
+\begin_layout Subsection
+Croquis de la distribución de tratamientos
+\end_layout
+
+\begin_layout Standard
+La distribución de los tratamientos a las unidades experimentales se realizó
+ completamente al azar, tal como se presenta en las siguientes figuras:
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de selección
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Subsubsection*
+Fase de conservación
+\end_layout
+
+\begin_layout Section
+INSTALACIÓN Y CONDUCCIÓN DEL EXPERIMENTO
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Fase de selección
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Selección de accesiones de quinua
+\end_layout
+
+\begin_layout Standard
+El LGBV cuenta con un germoplasma de quinua de 150 accesiones recolectadas
+ de diferentes provincias de la región Ayacucho.
+\end_layout
+
+\begin_layout Standard
+Después de ordenar las accesiones y verificar la cantidad de muestras se
+ procedió a ordenarlos de acuerdo al número de entrada de accesión que presentab
+an los envases en los cuales estaban almacenados.
+\end_layout
+
+\begin_layout Standard
+Las selección y ordenamiento de las accesiones se realizó el tres de febrero
+ del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Standard
+Se seleccionó 95 accesiones de quinua por contar estas con los datos pasaporte
+ de refrescamiento en el año 2013.
+\end_layout
+
+\begin_layout Subsection
+Pesado de 30
+\begin_inset space \thinspace{}
+\end_inset
+
+g de muestra por accesión
+\end_layout
+
+\begin_layout Standard
+Se realizó el veintitrés y veinticuatro de febrero del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Standard
+El pesado de 30
+\begin_inset space \thinspace{}
+\end_inset
+
+g se realizó de aquellas accesiones que contaban con una cantidad suficiente
+ de muestra como para que puedan ser 
+\begin_inset Quotes fld
+\end_inset
+
+actualizadas
+\begin_inset Quotes frd
+\end_inset
+
+ en campo, contando finalmente con 95 accesiones de las cuales se consideró
+ 30
+\begin_inset space \thinspace{}
+\end_inset
+
+g para que puedan ser utilizadas sin déficit en las tres fases de la investigaci
+ón.
+\end_layout
+
+\begin_layout Standard
+Los 30
+\begin_inset space ~
+\end_inset
+
+g de muestra por accesión fueron colocadas en bolsas de papel 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+molde o craft
+\end_layout
+
+\end_inset
+
+de 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+...
+ ancho por ...
+ de largo
+\end_layout
+
+\end_inset
+
+, las cuales estaban debidamente rotuladas con los datos pasaporte de cada
+ accesión y fueron dobladas y pegadas con cinta masking para asegurarla.
+\end_layout
+
+\begin_layout Standard
+Las muestras obtenidas constituyen el germoplasma activo de quinua del LGBV.
+\end_layout
+
+\begin_layout Subsection
+Fricción, tamizado y venteado de las muestras
+\end_layout
+
+\begin_layout Standard
+Para facilitar el proceso de selección de impurezas las muestras obtenidas
+ de cada accesión fueron frotadas con la mano para sacar y desmenuzar la
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+epidermis-cáscara
+\end_layout
+
+\end_inset
+
+ de las semillas, luego fueron tamizadas con un 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+colador de ...
+ de diámetro
+\end_layout
+
+\end_inset
+
+ para eliminar semillas muy pequeñas, terrones y otras impurezas que pudieran
+ pasar por lo agujeros del colador y finalmente se procedió a ventearlos
+ con el ventilador 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+de una computadora
+\end_layout
+
+\end_inset
+
+, cuyas aspas medianas y fuerza eran adecuadas para tal trabajo, eliminándose
+ polvillo, semillas muy pequeñas, palitos pequeños, cáscara de las semillas
+ y otras impurezas que podían ser arrastradas por la fuerza del viento.
+\end_layout
+
+\begin_layout Standard
+Esta labor se llevó a cabo el veintiséis y 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+...
+\end_layout
+
+\end_inset
+
+ de febrero del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Subsection
+Selección de impurezas
+\end_layout
+
+\begin_layout Standard
+Después de que las semillas fueran venteadas se procedió a seleccionar las
+ impurezas restantes, para lo cual la muestra de semillas por accesión se
+ colocó en bandejas blancas de papel bond y con una pinza se seleccionó
+ semillas muy pequeñas, terrones, palitos, semillas partidas, otras semillas,
+ y todo material extraño a las semillas de quinua.
+\end_layout
+
+\begin_layout Standard
+Algunas accesiones presentaban mezcla de diferentes variedades de quinua,
+ por constituir una accesión no se seleccionaron las variedades de quinua
+ dejándo una en especial, sino mas bien se consideraron tal como estaba
+ constituida la accesión.
+\end_layout
+
+\begin_layout Standard
+La selección de impurezas culminó el dieciocho de marzo del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Subsection
+Pesado de semillas sin impurezas
+\end_layout
+
+\begin_layout Standard
+Para el cálculo del porcentaje de impureza de cada accesión se procedió
+ a pesar las muestras de las semillas sin impurezas en una balanza analítica
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+marca, modelo
+\end_layout
+
+\end_inset
+
+ de dos decimales.
+ 
+\end_layout
+
+\begin_layout Standard
+Del dieciocho de marzo del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016 al veintiuno de marzo del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Subsection
+Conteo de 100 semillas 
+\end_layout
+
+\begin_layout Standard
+Se realizó en una placa de cartón con 100 hoyos, hecho especialmente para
+ esta actividad de modo que pueda facilitar el conteo de 100 semillas.
+ Por accesión se contó con tres repeticiones de 100 semillas cada una, las
+ cuales fueron colocadas en bolsas de papel de 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de ancho por 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de largo debidamente rotulados con los datos pasaporte de cada accesión,
+ siendo de color negro para la primera repetición, de color azul para la
+ segunda repetición y de color rojo para la tercera repetición para facilitar
+ su identificación; estas bolsitas se doblaron en dos y se pegaron con cinta
+ masking para evitar pérdida de semillas.
+\end_layout
+
+\begin_layout Standard
+Se tuvo en total 414 muestras.
+\end_layout
+
+\begin_layout Standard
+Se realizó del veintiuno al veintinueve de marzo del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Subsection
+Pesado de 100 semillas
+\end_layout
+
+\begin_layout Standard
+Se realizó del veintinueve al treintiuno de marzo del 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\begin_layout Standard
+Se realizó en una balanza analítica 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+marca, modelo
+\end_layout
+
+\end_inset
+
+ de dos decimales, El pesado fue de 100 semillas por repetición, teniéndose
+ tres datos por accesión para obtener finalmente el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas.
+\end_layout
+
+\begin_layout Subsection
+Destilación de agua
+\end_layout
+
+\begin_layout Standard
+1.
+ Se pone la manguera verde y luego se abre completamente la válvula para
+ que se llene de agua el tanque que está en la cocina, se verifica si está
+ lleno cuando desaparecen las burbujitas en el tubito que está al lado del
+ tanque el cual se puede comprobar con una linterna por detrás del tubo.
+\end_layout
+
+\begin_layout Standard
+2.
+ Se apaga el caño una vez que el tanque está lleno y se cierra completamente
+ la válvula; así mismo se conecta la manguera transparente de manera continua
+ hasta que el tanque de la cocina esté vacía además se debe verificar que
+ salga agua por la manguera azul.
+ luego se prende la cocina donde está el tanque de agua y se espera a que
+ se destile el agua.
+\end_layout
+
+\begin_layout Subsection
+Germinación de semillas
+\end_layout
+
+\begin_layout Standard
+1.
+ Compra de los tapers 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+marca, dimensiones, forma
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+2.
+ Identificación de cada envase por muestra (3 repeticiones por accesión),
+ con tapas para mantener aire con alta humedad y ser transparente para satisface
+r el requisito de iluminación.
+ 
+\end_layout
+
+\begin_layout Standard
+2.
+ Se utilizó como sustrato papel toalla, los cuales se cortaron de acuerdo
+ a las dimensiones de los tápers (
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner dimensiones
+\end_layout
+
+\end_inset
+
+), colocándose una capa por envase para evitar que penetren las raicillas
+ en el interior del papel.
+\end_layout
+
+\begin_layout Standard
+3.
+ Desinfección de las semillas por repetición (100) en hipoclorito de sodio
+ (0.5ml en 1l de agua) por 10 minutos, luego del cual se procede a enjuagarlas
+ con agua del caño utilizando un colador pequeño de diámetro (
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner diámetro)
+\end_layout
+
+\end_inset
+
+ y finalmente colocando las semillas lavadas sobre el papel toalla colocada
+ ya en los tápers con un golpe del colador sobre el táper y finalmente humedecie
+ndolas con agua destilada y colocándolos a las condiciones del ambiente
+ a una temperatura de 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner temperaturas
+\end_layout
+
+\end_inset
+
+ y cerrándolas con la tapa para mantener la humedad durante cinco días.
+\end_layout
+
+\begin_layout Subsection
+Conteo de semillas germinadas 
+\end_layout
+
+\begin_layout Standard
+Después de los cinco días de germinación se procedió a contar el número
+ de semillas germinadas normales por accesión y por repetición; las plántulas
+ normales se consideran a aquellas plántulas que presentan adecuadamente
+ desarrolladas la radícula y la plúmula; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner también cómo son las anormales.
+\end_layout
+
+\end_inset
+
+ y las germinadas anormales no son consideradas eliminándose por lo que
+ no son pesadas.
+\end_layout
+
+\begin_layout Subsection
+Pesado de los germinados
+\end_layout
+
+\begin_layout Standard
+Una vez contados las plántulas germinadas normales, estas son colocadas
+ en los mismos tápers para que sequen hasta el día siguiente, momento en
+ el cual se realiza el pesado.
+\end_layout
+
+\begin_layout Subsection
+Determinación del contenido de saponina
+\end_layout
+
+\begin_layout Standard
+Se determinó mediante el método de la espuma para lo cual se pesó una muestra
+ de 0.5
+\begin_inset space \thinspace{}
+\end_inset
+
+g +- 0.02
+\begin_inset space \thinspace{}
+\end_inset
+
+g por repetición y accesión que se colocaron en tubos de ensayo de 15
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de longitud y 1.6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de diámetro, al cual se le añadió 5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de agua destilada y se agitó por 30 segundos se dejó reposar por 30 minutos
+ luego del cual se volvió a agitar por 30 segundos repitiendo este proceso
+ luego de 30 minutos de reposo luego del cual se deja finalmente reposar
+ por 5 minutos para después realizar la lectura de la altura de espuma que
+ se forma en cada accesión.
+\end_layout
+
+\begin_layout Section
+VARIABLES EVALUADAS
+\end_layout
+
+\begin_layout Subsection*
+Fase de selección
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Porcentaje de pureza (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtendrá mediante el peso de la fracción pura de las semillas de quinua
+ luego de ser seleccionadas las impurezas.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Peso de 1000 semillas (g) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtendrá mediante el peso de 100 semillas con 3 repeticiones por accesión.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Peso hectolítrico (g/1000 cm3)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se evaluará el peso y volumen respectivo de la muestra de granos por accesión
+ haciendo uso de una balanza analítica y una probeta de 100ml, extrapolándolo
+ posteriormente a g/1000 cm3.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Tamaño de semillas (mm) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registrará el diámetro y espesor de las semillas con un vernier.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Color de semillas (escala) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registrará el color de los granos de quinua de acuerdo a los descriptores
+ propuestos por la FAO.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Forma de semilla 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registrará la forma de los granos de quinua de acuerdo a los descriptores
+ propuestos por la FAO.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Contenido de saponina (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se determinará mediante el método de la espuma.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Porcentaje de germinación (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtendrá mediante el conteo de semillas germinadas normales.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Peso de germinado (g) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el registro del peso de los germinados después de un día de secado con
+ una balanza analítica.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Porcentaje de germinación (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Proporciona información sobre la viabilidad de la semilla, ya que es un
+ estado metabólicamente activo por la división y diferenciación celular.
+ Se obtendrá mediante el conteo de semillas germinadas normales expresado
+ en porcentaje.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Longitud de radícula (cm) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Está asociado al contenido nutricional del grano.
+ Se registrará mediante la medición de la radícula con una regla graduada
+ desde la cofia hasta el cuello de la raíz.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Longitud de plúmula (cm) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Está asociado al contenido nutricional del grano.
+ Se registrará mediante la medición con una regla graduada desde el cuello
+ de la raíz hasta el punto más alto de la plántula.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Palatabilidad (escala hedónica) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el grado de satisfacción de los germinados en cuanto al sabor.
+ Se evaluará mediante una escala hedónica (dulce, ácido, agridulce, semiamargo
+ o amargo), para lo cual se elegirán a 10 personas al azar a los que se
+ le proporcionará aproximadamente 1g de germinado, agua y un cuestionario.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Peso de germinado (g)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el peso de las semillas germinadas después de un día de secado expresado
+ en gramos.
+ El peso de germinado sobre el peso de semilla seca permite calcular el
+ índice de conversión, es decir la cantidad de semilla que se convierte
+ en germinado.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Análisis proximal (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el análisis químico de la harina integral de los germinados para conocer
+ el contenido de ceniza, humedad, grasa y proteína expresado en porcentaje.
+ Se obtendrá mediante los métodos propuestos por la AOAC.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+Fase de conservación
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Tiempo de conservación 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el tiempo que los germinados se conservan adecuadamente sin mostrar deterioro.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Pérdida de peso (g) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el peso de los germinados durante el almacenamiento.
+ Se obtendrá mediante el peso diario de los envases que contienen a los
+ germinados.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Cambio de color (escala) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es el color de los germinados durante el almacenamiento.
+ Se evaluará diario de acuerdo a una escala colorimétrica.
+ 
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
