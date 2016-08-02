@@ -303,7 +303,7 @@ Porcentaje de germinación
 \end_layout
 
 \begin_layout Itemize
-Peso de germinado 
+Índice de conversión
 \end_layout
 
 \end_deeper
@@ -389,6 +389,22 @@ Diseño experimental
 
 \begin_layout Subsubsection*
 Fase de selección
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+para conocer la agrupación de las accesiones y seleccionar las de mejor
+ comportamiento para los caracteres evaluados.
+ A los grupos formados se les aplicó un análisis discriminante para comprobar
+ la efectividad de la agrupación obtenida.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -683,7 +699,7 @@ Fase de producción de germinados
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1287,12 +1303,37 @@ Fase de conservación
 INSTALACIÓN Y CONDUCCIÓN DEL EXPERIMENTO
 \end_layout
 
+\begin_layout Subsection
+Fase de selección
+\end_layout
+
+\begin_layout Subsubsection
+Colección de accesiones de quinua del Laboratorio de Genética y Biotecnología
+ Vegetal de la Universidad Nacional de San Cristóbal de Huamanga
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-Fase de selección
+Los investigadores del equipo de la FMA, iniciaron sus trabajos con variedades
+ tradicionales de judía a principios de los años 90.
+ Conscientes de la pérdida de diversidad que se estaba produciendo Introducción
+ 37 debido al abandono cada vez más frecuente del campo, decidieron iniciar
+ la prospección de las variedades de judía que aún se conservaban.
+ Durante diversas campañas de colecta recorrieron todas las comarcas de
+ Cataluña, visitando mercados y tiendas locales así como también casas particula
+res de agricultores, cooperativas y asociaciones de productores.
+ En las prospecciones junto con las semillas, se recogió información sobre
+ el punto de colecta (Figura 6) e información etnobotánica relacionada con
+ el uso de las plantas.
+ El número de entradas de Phaseolus vulgaris L.
+ conservadas en la actualidad en el banco de germoplasma de la FMA-ESAB
+ (Escuela Superior de Agricultura de Barcelona) es de 521.
+ De ellas, 388 fueron prospectadas bajo el nombre de Ganxet, 17 correspondieron
+ a la variedad Tavella Brisa/Santa Pau y el resto (116) a otras variedades
+ tradicionales de judía.
 \end_layout
 
 \end_inset
@@ -1300,8 +1341,51 @@ Fase de selección
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Selección de accesiones de quinua
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+se evaluó la calidad interna del tubérculo en 70 accesiones cultivadas del
+ banco de germoplasma de papa, las cuales fueron seleccionadas tomando como
+ base los valores de masa seca obtenidos en la caracterización morfoagronómica
+ realizada a la colección cubana de papa (8).
+ Se procuró incluir accesiones representativas de toda la variabilidad para
+ el carácter mencionado, con valores altos, bajos e intermedios.
+ Se plantaron parcelas de 40 plantas por cada accesión, bajo un diseño completam
+ente aleatorizado con cuatro réplicas.
+ Las labores culturales se realizaron según las normas técnicas del cultivo
+ (9).
+ Los tubérculos fueron cosechados en la segunda quincena de marzo y se tomaron
+ muestras de 10 kg por cada réplica, las que fueron enviadas al Instituto
+ de Investigaciones de la Industria Alimenticia (IIIA) con el fin de evaluar
+ la calidad de estos órganos de reserva.
+ Para cada accesión fueron determinados los siguientes caracteres: • Gravedad
+ específica: relación entre la masa de los tubérculos y el volumen de agua
+ desplazado por los mismos • Masa seca (%): en base a la relación masa húmeda
+ y seca de los tubérculos • Contenido de almidón (%): según la metodología
+ descrita por Winton (10) • Contenido de azúcares reductores (%): según
+ la metodología descrita por CEN (11) • Masa promedio de los tubérculos
+ (kg): relación entre la masa de la totalidad de los tubérculos y el número
+ de los mismos.
+ • Diámetros longitudinal y ecuatorial del tubérculo (mm): se midieron con
+ pie de rey • Evaluación sensorial: se realizó mediante la fritura de hojuelas
+ chips.
+ Se calificó en base a la siguiente escala de cinco puntos: excelente 5,
+ bueno 4, aceptable 3, insuficiente 2 y malo 1, donde el valor 3 (aceptable)
+ es el límite para el rechazo.
+ La prueba tomó en consideración las características que más influyen en
+ la calidad sensorial del producto como son: textura, olor, sabor y color
+ (12).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1329,7 +1413,7 @@ Se seleccionó 95 accesiones de quinua por contar estas con los datos pasaporte
  de refrescamiento en el año 2013.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Pesado de 30
 \begin_inset space \thinspace{}
 \end_inset
@@ -1403,7 +1487,7 @@ status open
 Las muestras obtenidas constituyen el germoplasma activo de quinua del LGBV.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Fricción, tamizado y venteado de las muestras
 \end_layout
 
@@ -1466,7 +1550,7 @@ status open
 016.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Selección de impurezas
 \end_layout
 
@@ -1493,7 +1577,7 @@ La selección de impurezas culminó el dieciocho de marzo del 2
 016.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Pesado de semillas sin impurezas
 \end_layout
 
@@ -1526,7 +1610,7 @@ Del dieciocho de marzo del 2
 016.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Conteo de 100 semillas 
 \end_layout
 
@@ -1561,7 +1645,7 @@ Se realizó del veintiuno al veintinueve de marzo del 2
 016.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Pesado de 100 semillas
 \end_layout
 
@@ -1592,7 +1676,7 @@ marca, modelo
 000 semillas.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Destilación de agua
 \end_layout
 
@@ -1614,7 +1698,7 @@ Destilación de agua
  se destile el agua.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Germinación de semillas
 \end_layout
 
@@ -1688,7 +1772,7 @@ poner temperaturas
  y cerrándolas con la tapa para mantener la humedad durante cinco días.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Conteo de semillas germinadas 
 \end_layout
 
@@ -1710,7 +1794,7 @@ poner también cómo son las anormales.
  no son pesadas.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Pesado de los germinados
 \end_layout
 
@@ -1720,7 +1804,7 @@ Una vez contados las plántulas germinadas normales, estas son colocadas
  el cual se realiza el pesado.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Determinación del contenido de saponina
 \end_layout
 
@@ -1751,6 +1835,80 @@ ml de agua destilada y se agitó por 30 segundos se dejó reposar por 30 minutos
  luego de 30 minutos de reposo luego del cual se deja finalmente reposar
  por 5 minutos para después realizar la lectura de la altura de espuma que
  se forma en cada accesión.
+\end_layout
+
+\begin_layout Subsection
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Subsubsection
+Instalación de tratamientos
+\end_layout
+
+\begin_layout Subsubsection
+Evaluación sensorial
+\end_layout
+
+\begin_layout Standard
+La evaluación se realizó en las instalaciones del instituto de cocina 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner nombre
+\end_layout
+
+\end_inset
+
+ tomando como muestras la accesión seleccionada 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+decribir
+\end_layout
+
+\end_inset
+
+ y muestras de germinados de quinuas de la variedad blanca de junín, amarilla
+ pasancalla y negra collana.
+ Dentro de las instalaciones del instituto se acondicionó una sala para
+ tal efecto que cumplía todas las reglas propuestas por 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner un autor y describir las características del ambiente
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La sesión inció a las 10:30 am con el fin de que los catadores no asistieran
+ ni saciados de una comida previa ni con excesivo apetito.
+\end_layout
+
+\begin_layout Standard
+Al inicio de la sesión se le dio instrucciones a los jueces sobre como realizar
+ las evaluaciones y se les suministró, además de las muestras, un vaso de
+ agua mineral, un tenedor de 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+describir
+\end_layout
+
+\end_inset
+
+, un bolígrafo y una ficha de cata.
+\end_layout
+
+\begin_layout Standard
+Las instrucciones a los jueces son las siguientes:
 \end_layout
 
 \begin_layout Section
@@ -1949,7 +2107,7 @@ Es el grado de satisfacción de los germinados en cuanto al sabor.
 \begin_layout Itemize
 
 \series bold
-Peso de germinado (g)
+Peso de germinado seco (g)
 \end_layout
 
 \begin_deeper

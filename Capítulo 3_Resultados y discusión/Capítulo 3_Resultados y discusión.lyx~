@@ -112,7 +112,7 @@ Peso de 1000 semillas (g)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -495,7 +495,6 @@ CV=5.52%
 
 \begin_layout Standard
 De acuerdo al análisis de la varianza, existe diferencia altamente significativa
- en el peso de 1000 semillas de 
 \end_layout
 
 \begin_layout Subsubsection

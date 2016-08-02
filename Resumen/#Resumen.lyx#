@@ -110,68 +110,155 @@ chapter*{RESUMEN}
 \end_layout
 
 \begin_layout Standard
-El presente informe de prácticas preprofesionales muestra la evaluación
- de diferentes dosis de humus de lombriz (H.L.) con y sin microorganismos
- eficientes (ME) en el cultivo de lechuga (
+El presente informe de práctica preprofesional muestra la evaluación de
+ diferentes dosis de humus de lombriz (HL) con y sin microorganismos eficientes
+ (ME) en el cultivo de lechuga (
 \emph on
 Lactuca sativa
 \emph default
-) variedad Seda bajo condiciones de invernadero para obtener la dosis óptima
- de H.L.
- con y sin ME que permita obtener mayor altura de planta, mayor número de
- hojas por planta, mayor ancho de hojas por planta y mayor peso fresco;
- para lo cual se utilizó suelo en descanso; 0, 5, 10, 15 y 
+) variedad Seda bajo condiciones de invernadero, para determinar la influencia
+ del HL y de los ME en el rendimiento de la lechuga; para lo cual se utilizó
+ suelo en descanso; 0, 5, 10, 15 y 
 \begin_inset Formula $\unitfrac[20]{t}{ha}$
 \end_inset
 
- de H.L.
- y 7.5
+ de HL y 7.5
 \begin_inset space \thinspace{}
 \end_inset
 
-ml de ME, estas últimas fueron aplicadas a la segunda, cuarta, séptima y
- onceava semana después del trasplante.
+ml de ME, esta última fue aplicada a la segunda, cuarta, séptima y décimo
+ primera semana después del trasplante.
  Fueron conducidos bajo el diseño completamente randomizado (DCR) con arreglo
- factorial 5H.L.
+ factorial 2ME
 \begin_inset Formula $\times$
 \end_inset
 
-2ME con 3 repeticiones.
+5HL con 3 repeticiones.
 \end_layout
 
 \begin_layout Standard
-Concluyéndose finalmente que la mayor altura se obtiene por la utilización
- de ME de manera independiente al obtener en promedio 22.88
+Los resultados encontrados permiten concluir que: 1.
+ La mayor altura promedio de planta (22.88
 \begin_inset space \thinspace{}
 \end_inset
 
-cm; el mayor número de hojas se obtiene por la aplicación de 
+cm) y el mayor ancho promedio de hojas por planta (10.77
+\begin_inset space \thinspace{}
+\end_inset
+
+cm) se obtienen con el uso de microorganismos eficientes; y 2.
+ La aplicación de 
 \begin_inset Formula $\unitfrac[15]{t}{ha}$
 \end_inset
 
- de H.L.
- con ME con una media de 18 hojas por planta; el mayor ancho de hoja por
- la aplicación de ME de manera independiente con una media de 10.77
+ de humus de lombriz acompañado de microorganismos eficientes, permite obtener
+ plantas de lechuga con el mayor número promedio de hojas (18) y con el
+ mayor peso promedio (49.32
 \begin_inset space \thinspace{}
 \end_inset
 
-cm y el mayor peso fresco por la aplicación de 
-\begin_inset Formula $\unitfrac[15]{t}{ha}$
+g).
+\end_layout
+
+\begin_layout Standard
+El desarrollo de variedades de papa con una mayor calidad del tubérculo
+ es hoy uno de los retos fundamentales del programa de mejoramiento cubano.
+ Para ello es imprescindible una evaluación detallada de los principales
+ caracteres que afectan, en alguna medida, este importante atributo.
+ Por tal motivo, el objetivo del trabajo estuvo enfocado hacia la evaluación
+ de un grupo de variedades de papa, representativas del germoplasma cubano,
+ mediante los indicadores de calidad del tubérculo para ser utilizadas como
+ progenitores en un programa de mejoramiento genético.
+ Se estudiaron 70 variedades cultivadas del banco de germoplasma, evaluando
+ los caracteres relacionados con la calidad del tubérculo como: gravedad
+ específica, masa seca, azúcares reductores, almidón, masa promedio, diámetro
+ longitudinal y ecuatorial y evaluación sensorial.
+ Fueron determinados los estadígrafos descriptivos media, desviación estándar,
+ valores máximos y mínimos y coeficiente de variación para todos los caracteres
+ cuantitativos estudiados.
+ Se realizó un análisis de componentes principales, mediante una representación
+ biplot, para conocer la agrupación de las accesiones y seleccionar las
+ de mejor comportamiento para la calidad del tubérculo.
+ Los resultados mostraron la existencia, en la colección, de variedades
+ con buen comportamiento para la calidad del tubérculo (22,9 % del total),
+ con valores de masa seca superior al 19 %, contenido de almidón por encima
+ del 12 % y bajo contenido de azúcares reductores (< 0,5 %).
+ Se propone utilizar a las mismas como progenitores en un programa de mejoramien
+to para procesamiento industrial o directamente en la producción.
+ Dentro de ellas se destacaron las variedades Atlantic, Bellini, Cal White,
+ Derby, Maranca, Romano, Santana y Slaney y los clones cubanos 1-10-96,
+ 2-31-95, 4-6-93 y 9-32-93.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rivera_2015"
+
 \end_inset
 
- y 
-\begin_inset Formula $\unitfrac[5]{t}{ha}$
-\end_inset
+: En las últimas décadas se ha realizado una gran labor en la recolección
+ y conservación de recursos fitogenéticos, lo que ha incrementado considerableme
+nte el número de entradas almacenadas ex situ en los bancos de germoplasma.
+ Sin embargo, estos materiales están infrautilizados, debido entre otras
+ causas, a la falta de caracterización y evaluación de los mismos.
+ Esta situación contradice las aparentes necesidades de los fitomejoradores
+ que buscan alcanzar nuevos ideotipos más productivos y nutritivos que consuman
+ menos insumos y satisfagan las preferencias sensoriales de los consumidores.
+ La judía grano (Phaseolus vulgaris L.) tiene una elevada calidad nutricional
+ y cierta capacidad de protección frente a algunas enfermedades, es la leguminos
+a más importante para el consumo humano y constituye una de las principales
+ fuentes de proteína a nivel mundial.
+ En esta especie, la falta de evaluación es especialmente patente en los
+ caracteres sensoriales y culinarios, lo cual bloquea la mejora genética
+ para estos aspectos y dificulta la consolidación de las judías en las dietas
+ de los consumidores más exigentes.
+\end_layout
 
- de H.L con ME con un promedio de 49.32
-\begin_inset space \thinspace{}
-\end_inset
-
-g y 48.08
-\begin_inset space \thinspace{}
-\end_inset
-
-g respectivamente.
+\begin_layout Standard
+Esta tesis doctoral pretende contribuir a la racionalización de las colecciones
+ de judía procedentes de Cataluña y, a su vez, abordar la caracterización
+ sensorial y culinaria tanto de dichas entradas, como del conjunto de entradas
+ de la colección nuclear de judías española.
+ Un mayor conocimiento de la variabilidad en este numeroso grupo de materiales
+ nos va a permitir profundizar en el control genético del grado de curvatura
+ de la variedad Ganxet y abordar un programa de mejora en otra variedad
+ tradicional de interés, Tavella Brisa.
+ El trabajo realizado ha permitido clasificar las entradas colectadas en
+ Cataluña en 20 grupos representativos, empleando descriptores morfológicos
+ y moleculares.
+ Dentro de la variedad con mayor número de entradas colectadas, Ganxet,
+ también se ha efectuado un proceso de racionalización, en el que se han
+ seleccionado 24 líneas puras que representan la variabilidad intravarietal.
+ Tanto en la colección nuclear de judías española como en la colección procedent
+e de Cataluña se ha estimado una elevada variabilidad para los caracteres
+ sensoriales internos y culinarios y algo menor para los caracteres sensoriales
+ externos.
+ El análisis de esta información en función del origen de domesticación
+ ha permitido establecer que las variedades de origen andino tienen la piel
+ más perceptible, son más harinosas y tienen mayor flavor que las variedades
+ mesoamericanas.
+ El mismo análisis realizado en función del color de la semilla ha mostrado
+ que las semillas de color blanco tienen la piel más rugosa, son menos harinosas
+, tienen menor flavor y presentan menor número de judías enteras tras la
+ cocción.
+ Se ha establecido también que el grado de curvatura extremo de la variedad
+ Ganxet está genéticamente correlacionado con un elevado contenido de proteína
+ y con la cremosidad.
+ Este carácter ha mostrado un control genético sencillo (máximo 3 loci),
+ baja influencia ambiental en su expresión y además resulta fácil de medir,
+ lo que XIV sugiere que Ganxet podría emplearse para incrementar el contenido
+ de proteína y la textura cremosa en otras variedades de judía, mediante
+ procesos de retrocruce.
+ Finalmente, como resultado del programa de mejora de la variedad Tavella
+ Brisa, se ha obtenido una nueva variedad denominada Croscat, que conserva
+ las características morfológicas y sensoriales de la variedad histórica
+ y corrige defectos agronómicos como el encamado.
+ Lo que facilita la mecanización de la cosecha y evita las mermas por patologías.
+ Todo esto contribuye a demostrar que las colecciones conservadas ex situ
+ tienen un extraordinario potencial, pero para que este se ponga de manifiesto
+ es necesario invertir grandes esfuerzos en su caracterización, evaluación
+ y mejora.
 \end_layout
 
 \end_body
