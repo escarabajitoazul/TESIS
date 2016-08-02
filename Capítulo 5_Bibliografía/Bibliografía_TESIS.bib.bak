@@ -6,7 +6,7 @@
   Title                    = {Instructivo técnico para el análisis de viabilidad de semillas con el test bioquímico del tetrazolio},
   Author                   = {Ministerio de Agricultura de Chile},
   Note                     = {Disponible desde: <http://www.sag.cl/sites/default/files/6_IT_ANALISIS_VIABILIDAD_TEST_BIOQUIMICO_TETRAZOLIO.pdf> Acceso 12 de diciembre 2015.},
-  Year                     = {xx},
+  Year                     = {3000},
 
   Owner                    = {usuario},
   Timestamp                = {2015.12.10}
@@ -372,6 +372,7 @@
   Title                    = {Caracterización sensorial y culinaria de germoplasma de judía grano (Phaseolus vulgaris L.) y aplicación a la mejora genética},
   Author                   = {Rivera, Ana},
   Note                     = {Disponible desde: falta Acceso 12 de diciembre 2015.},
+  Year                     = {2015},
 
   Owner                    = {usuario},
   Timestamp                = {2016.07.28}
@@ -455,10 +456,5 @@
 
   Owner                    = {usuario},
   Timestamp                = {2015.12.17}
-}
-
-@Electronic{,
-  Owner                    = {usuario},
-  Timestamp                = {2016.05.04}
 }
 
