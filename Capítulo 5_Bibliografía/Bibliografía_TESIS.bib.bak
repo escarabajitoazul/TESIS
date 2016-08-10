@@ -42,6 +42,16 @@
   Timestamp                = {2015.12.19}
 }
 
+@Electronic{Botero_2015,
+  Title                    = {Los germinados como alimento excepcional y medicina ntural},
+  Author                   = {Botero, B.},
+  Note                     = {Disponible desde: <> Acceso 16 de noviembre 2015.},
+  Year                     = {2015},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.08.07}
+}
+
 @Electronic{Bravo_2013,
   Title                    = {Estudio químico y nutricional de granos andinos germinados de quinua (Chenopodium quinoa) y kiwicha (Amarantus caudatus)},
   Author                   = {Bravo, M. and Reyna, J. and Gómez, I. and Huapaya, H.},
