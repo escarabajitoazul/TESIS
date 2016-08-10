@@ -18,7 +18,6 @@
 \usepackage{pgfornament}
 \usepackage[hyphenbreaks]{breakurl}
 \usepackage[hyphens]{url}
-\usepackage[absolute]{textpos}
 %\usepackage{url}
 %\contourlength{0.03em}
 %\newcommand{\unsch}{\contour{black}{\sf\fontsize{18pt}{30}\selectfont}}
@@ -60,7 +59,7 @@
 
 
 %textCIRCLED
-\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2.3pt] (char) {#1};}}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
 
 %%%Fancy estilos%%%
 
@@ -87,24 +86,13 @@
 \renewcommand{\headrulewidth}{0pt}
 }
 
-\fancypagestyle{lscape}{
-\fancyhf{}
-\lhead{}
-\chead{}
-\rhead{}
-\cfoot{
-        \begin{textblock}{27}(1.2,7.7){\rotatebox{90}{\circled{\small\thepage}}} \end{textblock}
-}
-\renewcommand{\headrulewidth}{0pt}
-}
-
 \patchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
 
 %CHAPTER
 %\renewcommand*{\chapterheadstartvskip}{\vspace*{1cm}}
 %\renewcommand*{\chapterheadendvskip}{\vspace{2cm}}
-\renewcommand{\thechapter}{\Roman{chapter}}
-\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\thechapter}{\Roman{chapter}.}
+\renewcommand{\thesection}{\arabic{\thechapter}\arabic{section}.}
 \usepackage[Conny]{fncychap}
 \ChRuleWidth{0pt}
 \ChNameVar{\centering\large\sf\bfseries}
@@ -143,14 +131,6 @@
 %%% de coma a punto%%%
 \usepackage[spanish]{babel}
 \decimalpoint
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{pdflscape}
-\usepackage{lipsum}
-\usepackage{scrlayer}
-\sectionfont{\fontsize{14}{14}\selectfont\color{black}}
-\subsectionfont{\fontsize{13}{13}\selectfont\color{black}}
-\subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}\em}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -206,7 +186,7 @@ eqs-within-sections
 \color #008000
 \end_index
 \leftmargin 3.5cm
-\topmargin 2.5cm
+\topmargin 3cm
 \rightmargin 2.5cm
 \bottommargin 2.5cm
 \secnumdepth 2
@@ -1278,37 +1258,6 @@ filename "Capítulo 5_Bibliografía/Capítulo 5_Bibliografía.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "Anexo/Anexo.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\backslash
-begin{landscape}
-\end_layout
-
-\begin_layout Plain Layout
-
-\backslash
-pagestyle{lscape}
-\end_layout
-
-\begin_layout Plain Layout
-<Tu contenido aqui!!!>
-\end_layout
-
-\begin_layout Plain Layout
-
-\backslash
-end{landscape}
-\end_layout
 
 \end_inset
 

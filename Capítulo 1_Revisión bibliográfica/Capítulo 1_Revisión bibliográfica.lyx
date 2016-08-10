@@ -864,18 +864,16 @@ El método del frasco durante unos 2 a 3 días
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-1.
- Lo primero y lo más importante es conseguir semilla orgánica o sin tratar.
+\begin_layout Enumerate
+Lo primero y lo más importante es conseguir semilla orgánica o sin tratar.
  No debe consumirse ningún germinado si la semilla tiene químicos que la
  preservan.
  
 \end_layout
 
-\begin_layout Standard
-2.
- La Cantidad de semilla seca inicial que ponemos a remojar en agua pura
- es de unas 3 a 5 cucharadas.
+\begin_layout Enumerate
+La Cantidad de semilla seca inicial que ponemos a remojar en agua pura es
+ de unas 3 a 5 cucharadas.
  (En este ejemplo se pusieron 5 cucharadas).
  El tiempo de remojo puede oscilar entre 4 y 6 horas que se deja la semilla
  dentro del agua.
@@ -885,11 +883,10 @@ El método del frasco durante unos 2 a 3 días
  
 \end_layout
 
-\begin_layout Standard
-3.
- Luego del tiempo de remojo retiramos el agua, que puede ser usada para
- regar plantas y colocamos el frasco en un lugar fresco, inclinado unos
- 45º para que destile bien el agua.
+\begin_layout Enumerate
+Luego del tiempo de remojo retiramos el agua, que puede ser usada para regar
+ plantas y colocamos el frasco en un lugar fresco, inclinado unos 45º para
+ que destile bien el agua.
  Tratamos de que las semillas estén por todo el frasco para que entre suficiente
  aire.
  Se puede colocar el frasco en un lugar oscuro o se cubre con una bolsa
@@ -897,16 +894,14 @@ El método del frasco durante unos 2 a 3 días
  (En este ejemplo se tuvo todo el tiempo como se ven las fotos) 
 \end_layout
 
-\begin_layout Standard
-4.
- Luego se enjuaga, todos los días del proceso, dos o tres veces al día,
- con agua pura y colocando el frasco inmediatamente en posición de 45°.
+\begin_layout Enumerate
+Luego se enjuaga, todos los días del proceso, dos o tres veces al día, con
+ agua pura y colocando el frasco inmediatamente en posición de 45°.
  
 \end_layout
 
-\begin_layout Standard
-5.
- Al segundo o tercer día de germinado ya tiene el brote y puede ser consumido.
+\begin_layout Enumerate
+Al segundo o tercer día de germinado ya tiene el brote y puede ser consumido.
 \end_layout
 
 \begin_layout Standard
@@ -987,6 +982,63 @@ n sus expectativas.
  Así 1kg de Faba Asturiana IGP (Indicación Geográfica Protegida) puede alcanzar
  un valor en el mercado superior a los 12 euros y 1kg de Mongeta del Ganxet
  DOP (Denominación de Origen Protegida) entre 8 y 10 euros.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{lscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
