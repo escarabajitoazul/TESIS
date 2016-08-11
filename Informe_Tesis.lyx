@@ -5,6 +5,7 @@
 \textclass book
 \begin_preamble
 %%%%negrita%%%
+\usepackage{enumitem}
 \usepackage{contour}
 %%%
 \usepackage{helvet}
@@ -38,9 +39,9 @@
 %\setlength{\cftsecnumwidth}{2.8em}% Set length of number width in ToC for \subsection
 %\cftsetindents{section}{0.5in}{0.5in}
 \usepackage{sectsty}
-\cftsetindents{section}{0.5in}{0.5in}
-\cftsetindents{subsection}{1in}{0.3in}
-\cftsetindents{subsubsection}{1.3in}{0.5in}
+%\cftsetindents{section}{0.5in}{0.5in}
+%\cftsetindents{subsection}{1in}{0.3in}
+%\cftsetindents{subsubsection}{1.3in}{0.5in}
 \renewcommand\cftchapafterpnum{\vskip-0.5cm}
 \renewcommand\cftsecafterpnum{\vskip-0.4cm}
 \renewcommand\cftsubsecafterpnum{\vskip-0.5cm}
@@ -209,7 +210,7 @@ eqs-within-sections
 \rightmargin 2.5cm
 \bottommargin 2.5cm
 \secnumdepth 2
-\tocdepth 3
+\tocdepth 2
 \paragraph_separation skip
 \defskip bigskip
 \quotes_language french
@@ -1164,6 +1165,50 @@ status open
 
 \backslash
 setcounter{page}{3}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thefigure}{
+\backslash
+arabic{chapter}.
+\backslash
+arabic{figure}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thetable}{
+\backslash
+arabic{chapter}.
+\backslash
+arabic{table}}
 \end_layout
 
 \end_inset

@@ -37,15 +37,17 @@
 %\setlength{\cftsubsecnumwidth}{1.4em}% Set length of number width in ToC for \subsection
 %\setlength{\cftsecnumwidth}{2.8em}% Set length of number width in ToC for \subsection
 %\cftsetindents{section}{0.5in}{0.5in}
-
-\cftsetindents{section}{0.5in}{0.5in}
-\cftsetindents{subsection}{1in}{0.3in}
-\cftsetindents{subsubsection}{1.3in}{0.5in}
+\usepackage{sectsty}
+%\cftsetindents{section}{0.5in}{0.5in}
+%\cftsetindents{subsection}{1in}{0.3in}
+%\cftsetindents{subsubsection}{1.3in}{0.5in}
 \renewcommand\cftchapafterpnum{\vskip-0.5cm}
 \renewcommand\cftsecafterpnum{\vskip-0.4cm}
 \renewcommand\cftsubsecafterpnum{\vskip-0.5cm}
 \renewcommand\cftsubsubsecafterpnum{\vskip-0.5cm}
-
+\sectionfont{\fontsize{12}{12}\selectfont\color{black}}
+\subsectionfont{\fontsize{12}{12}\selectfont\color{black}}
+\subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}\em}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\renewcommand{\thesection}{\Roman{section}} 
@@ -148,9 +150,8 @@
 \usepackage{pdflscape}
 \usepackage{lipsum}
 \usepackage{scrlayer}
-\sectionfont{\fontsize{14}{14}\selectfont\color{black}}
-\subsectionfont{\fontsize{13}{13}\selectfont\color{black}}
-\subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}\em}
+\usepackage{etoolbox}
+\usepackage{enumitem}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -210,7 +211,7 @@ eqs-within-sections
 \rightmargin 2.5cm
 \bottommargin 2.5cm
 \secnumdepth 2
-\tocdepth 3
+\tocdepth 2
 \paragraph_separation skip
 \defskip bigskip
 \quotes_language french
@@ -1165,6 +1166,50 @@ status open
 
 \backslash
 setcounter{page}{3}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thefigure}{
+\backslash
+arabic{chapter}.
+\backslash
+arabic{figure}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thetable}{
+\backslash
+arabic{chapter}.
+\backslash
+arabic{table}}
 \end_layout
 
 \end_inset

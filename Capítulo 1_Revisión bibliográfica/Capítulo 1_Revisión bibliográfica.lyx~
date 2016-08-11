@@ -172,29 +172,6 @@ dad de material para su uso y la disponibilidad de información referente
  En último lugar, se establece que los bancos deben tener una gestión proactiva.
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{lscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
 La mejora genética para características sensoriales y culinarias
 \end_layout
@@ -431,31 +408,6 @@ Existen muchas investigaciones que aseguran que los germinados tienen elementos
  evitar el envejecimiento celular.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Graphics
-	filename /home/ken/Documentos/TesisDiantruchita/TESIS/Logo UNSCH.jpg
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
 Semillas o granos que se pueden germinar
 \end_layout
@@ -510,28 +462,113 @@ key "Botero_2015"
 
 , AL GERMINAR LAS SEMILLAS NO DEBEN RECIBIR LUZ DIRECTA DEL SOL NI AGUA
  DIRECTA DE LLUVIA.
- Para que un grano germine necesita: 
+ Para que un grano germine necesita:
 \end_layout
 
-\begin_layout Itemize
-AGUA: El agua debe ser potable para evitar riesgos biológicos de ciertos
- microbios.
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{description}[style=multiline,leftmargin=2cm]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item[{
+\end_layout
+
+\end_inset
+
+
+Agua
+\lang spanish
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}]
+\end_layout
+
+\end_inset
+
+El agua debe ser potable para evitar riesgos biológicos de ciertos microbios.
  Cuando se producen los germinados en los hogares, generalmente el agua
  es potable.
  Cuando se tiene además del agua potable, un filtro, es excelente porque
  elimina cloro y metales pesados.
- 
 \end_layout
 
-\begin_layout Itemize
-AIRE: La semilla debe respirar bien, por eso el frasco debe ser de boca
- ancha, así las semillas tendrán un buen drenaje de agua y buena ventilación.
- 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item[{
 \end_layout
 
-\begin_layout Itemize
-LUZ: Es indispensable sobre todo para los procesos en los que esperamos
- obtener clorofila.
+\end_inset
+
+Aire
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}]
+\end_layout
+
+\end_inset
+
+La semilla debe respirar bien, por eso el frasco debe ser de boca ancha,
+ así las semillas tendrán un buen drenaje de agua y buena ventilación.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item[{
+\end_layout
+
+\end_inset
+
+Luz
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}]
+\end_layout
+
+\end_inset
+
+Es indispensable sobre todo para los procesos en los que esperamos obtener
+ clorofila.
  Como excepción, en semillas como el frijol mongo, del que se obtiene la
  raíz china, la oscuridad es la clave en todo el proceso de germinación.
  Se recomienda un lugar fresco y cubierto para germinar.
@@ -539,6 +576,22 @@ LUZ: Es indispensable sobre todo para los procesos en los que esperamos
  las bandeja podrían estar en un corredor, ojalá junto a un patio, o en
  interior cerca de una ventana.
  Suelen ser muy decorativos si se les ubica en la sala.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{description}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
