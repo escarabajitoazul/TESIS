@@ -3063,7 +3063,7 @@ pagestyle{lscape}
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -3354,7 +3354,7 @@ T26
 \begin_inset Text
 
 \begin_layout Plain Layout
-T51
+
 \end_layout
 
 \end_inset
@@ -3363,7 +3363,7 @@ T51
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+
 \end_layout
 
 \end_inset
@@ -3372,7 +3372,7 @@ T51
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+
 \end_layout
 
 \end_inset
@@ -3381,7 +3381,7 @@ T51
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+
 \end_layout
 
 \end_inset
@@ -3399,7 +3399,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+
 \end_layout
 
 \end_inset
@@ -3408,7 +3408,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+
 \end_layout
 
 \end_inset
@@ -3417,7 +3417,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+
 \end_layout
 
 \end_inset
@@ -3500,7 +3500,7 @@ T27
 \begin_inset Text
 
 \begin_layout Plain Layout
-T52
+T51
 \end_layout
 
 \end_inset
@@ -3646,7 +3646,7 @@ T28
 \begin_inset Text
 
 \begin_layout Plain Layout
-T53
+T52
 \end_layout
 
 \end_inset
@@ -3792,7 +3792,7 @@ T29
 \begin_inset Text
 
 \begin_layout Plain Layout
-T54
+T53
 \end_layout
 
 \end_inset
@@ -3938,7 +3938,7 @@ T30
 \begin_inset Text
 
 \begin_layout Plain Layout
-T55
+T54
 \end_layout
 
 \end_inset
@@ -4084,7 +4084,7 @@ T31
 \begin_inset Text
 
 \begin_layout Plain Layout
-T56
+T55
 \end_layout
 
 \end_inset
@@ -4230,7 +4230,7 @@ T32
 \begin_inset Text
 
 \begin_layout Plain Layout
-T57
+T56
 \end_layout
 
 \end_inset
@@ -4376,7 +4376,7 @@ T33
 \begin_inset Text
 
 \begin_layout Plain Layout
-T58
+T57
 \end_layout
 
 \end_inset
@@ -4522,7 +4522,7 @@ T34
 \begin_inset Text
 
 \begin_layout Plain Layout
-T59
+T58
 \end_layout
 
 \end_inset
@@ -4668,7 +4668,7 @@ T35
 \begin_inset Text
 
 \begin_layout Plain Layout
-T60
+T59
 \end_layout
 
 \end_inset
@@ -4814,7 +4814,7 @@ T36
 \begin_inset Text
 
 \begin_layout Plain Layout
-T61
+T60
 \end_layout
 
 \end_inset
@@ -4960,7 +4960,7 @@ T37
 \begin_inset Text
 
 \begin_layout Plain Layout
-T62
+T61
 \end_layout
 
 \end_inset
@@ -5106,7 +5106,7 @@ T38
 \begin_inset Text
 
 \begin_layout Plain Layout
-T63
+T62
 \end_layout
 
 \end_inset
@@ -5252,7 +5252,7 @@ T39
 \begin_inset Text
 
 \begin_layout Plain Layout
-T64
+T63
 \end_layout
 
 \end_inset
@@ -5398,7 +5398,7 @@ T40
 \begin_inset Text
 
 \begin_layout Plain Layout
-T65
+T64
 \end_layout
 
 \end_inset
@@ -5544,7 +5544,7 @@ T41
 \begin_inset Text
 
 \begin_layout Plain Layout
-T66
+T65
 \end_layout
 
 \end_inset
@@ -5690,7 +5690,7 @@ T42
 \begin_inset Text
 
 \begin_layout Plain Layout
-T67
+T66
 \end_layout
 
 \end_inset
@@ -5836,7 +5836,7 @@ T43
 \begin_inset Text
 
 \begin_layout Plain Layout
-T68
+T67
 \end_layout
 
 \end_inset
@@ -5982,7 +5982,7 @@ T44
 \begin_inset Text
 
 \begin_layout Plain Layout
-T69
+T68
 \end_layout
 
 \end_inset
@@ -6128,7 +6128,7 @@ T45
 \begin_inset Text
 
 \begin_layout Plain Layout
-T70
+T69
 \end_layout
 
 \end_inset
@@ -6274,7 +6274,7 @@ T46
 \begin_inset Text
 
 \begin_layout Plain Layout
-T71
+T70
 \end_layout
 
 \end_inset
@@ -6420,7 +6420,7 @@ T47
 \begin_inset Text
 
 \begin_layout Plain Layout
-T72
+T71
 \end_layout
 
 \end_inset
@@ -6566,7 +6566,7 @@ T48
 \begin_inset Text
 
 \begin_layout Plain Layout
-T73
+T72
 \end_layout
 
 \end_inset
@@ -6712,7 +6712,7 @@ T49
 \begin_inset Text
 
 \begin_layout Plain Layout
-T74
+T73
 \end_layout
 
 \end_inset
@@ -6858,7 +6858,7 @@ T50
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+T74
 \end_layout
 
 \end_inset
@@ -8486,12 +8486,6 @@ marca, dimensiones, forma
 
 \begin_layout Standard
 2.
- Lavado de tápers con detergente, y desinfección antes de la instalación
- con alcohol
-\end_layout
-
-\begin_layout Standard
-2.
  Identificación de cada envase por muestra (3 repeticiones por accesión),
  con tapas para mantener aire con alta humedad y ser transparente para satisface
 r el requisito de iluminación.
@@ -8616,12 +8610,6 @@ Fase de producción de germinados
 
 \begin_layout Subsubsection
 Instalación de tratamientos
-\end_layout
-
-\begin_layout Standard
-Se instalaron las semillas en los tápers como se describió en la germinación
- de la fase de selección; luego cada táper se colocó en las siguientes condicion
-es de acuerdo a los tratamientos.
 \end_layout
 
 \begin_layout Itemize

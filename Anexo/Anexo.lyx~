@@ -133,6 +133,14 @@ chapter*{ANEXO}
 \end_layout
 
 \begin_layout Standard
+RECETAS
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -3485,6 +3493,10 @@ arabic{figure}}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -3564,23 +3576,19 @@ Derecha:
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace 5cm
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -3664,7 +3672,7 @@ Derecha:
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -3749,7 +3757,7 @@ Derecha:
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -3833,7 +3841,7 @@ Derecha:
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -3919,7 +3927,7 @@ Derecha:
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -4005,7 +4013,7 @@ Derecha:
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -4090,7 +4098,7 @@ os.
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -4152,6 +4160,11 @@ Plantas de lechuga de los diferentes tratamientos luego de la cosecha.
 \series bold
 \emph on
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
