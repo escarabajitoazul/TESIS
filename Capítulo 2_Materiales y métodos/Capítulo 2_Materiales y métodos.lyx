@@ -8277,7 +8277,7 @@ status open
 
 \begin_layout Plain Layout
 colador de ...
- de diámetro
+ con abertura inferior al diámetro de los granos
 \end_layout
 
 \end_inset
@@ -9053,6 +9053,29 @@ Estas muestras fueron secadas en una estufa a una temperatura de 100°C por
  24 horas.
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+, para determinar el contenido de proteína cruda multiplica la cantidad
+ de nitrógeno por 6.25.
+\end_layout
+
+\begin_layout Subsection
+Fase de conservación de germinados
+\end_layout
+
+\begin_layout Subsubsection
+Germinación 
+\end_layout
+
+\begin_layout Subsubsection
+Instalación de tratamientos
+\end_layout
+
 \begin_layout Section
 VARIABLES EVALUADAS
 \end_layout
@@ -9234,6 +9257,18 @@ Está asociado al contenido nutricional del grano.
 
 \series bold
 Palatabilidad (escala hedónica) 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Análisis sensorial
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9246,6 +9281,30 @@ Es el grado de satisfacción de los germinados en cuanto al sabor.
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Para determinar la calidad organoléptica del producto (color, sabor y olor),
+ se realizó con la presencia de 10 panelistas, proporcionándoles todas las
+ muestras (9 tratamientos) y el testigo comercial, este se compró 5 días
+ luego de realizado el producto.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+El análisis sensorial de degustación se realizó para evaluar las características
+ organolépticas del producto elaborado, siendo estas: color, aroma, sabor,
+ textura, aceptabilidad.
+ El análisis fue realizado por 10 panelistas voluntarios.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
 
 \series bold
