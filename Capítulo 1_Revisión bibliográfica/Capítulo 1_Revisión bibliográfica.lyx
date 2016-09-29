@@ -1987,15 +1987,21 @@ emente hidratadas, se produce una activación de la síntesis protéica y,
 \begin_inset Quotes frd
 \end_inset
 
- (
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Garcia_2006"
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 172]{Garcia_2006}
+\end_layout
 
 \end_inset
 
-, p.
- 172).
+.
 \end_layout
 
 \begin_layout Itemize
@@ -2016,9 +2022,15 @@ En la hidrólisis del almidón (principal reserva energética en las semillas)
 \end_inset
 
 - amilasa para dar glucosa de manera progresiva durante la germinación 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Garcia_2006"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
 
 \end_inset
 

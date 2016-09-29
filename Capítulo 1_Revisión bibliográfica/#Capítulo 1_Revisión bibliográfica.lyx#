@@ -1996,6 +1996,20 @@ key "Garcia_2006"
 
 , p.
  172).
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 172]{Garcia_2006}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -2016,9 +2030,15 @@ En la hidrólisis del almidón (principal reserva energética en las semillas)
 \end_inset
 
 - amilasa para dar glucosa de manera progresiva durante la germinación 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Garcia_2006"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
 
 \end_inset
 
@@ -3338,30 +3358,6 @@ mm y que las semillas con germinación anormal sólo emiten los cotiledones
  realizarse cada 2 horas durante 12 horas, tiempo en el cual la mayor parte
  de las germinaciones tienden a estabilizarse y a alcanzar sus máximos.
  
-\end_layout
-
-\begin_layout Standard
-TYesto fino adadsadasdklandnjsa 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "SESAN_2013"
-
-\end_inset
-
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-citep[p.90]{SESAN}
-\end_layout
-
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
