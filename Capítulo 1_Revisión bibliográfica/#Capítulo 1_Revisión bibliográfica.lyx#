@@ -3288,6 +3288,31 @@ nm, la utilización de otros tipos de luces en los análisis de germinación
  es muy rica en la luz azul.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.90]{Bedon_2013}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Quinua
 \end_layout
@@ -3312,6 +3337,31 @@ mm y que las semillas con germinación anormal sólo emiten los cotiledones
  o el hipocótilo; además manifiesta que el registro de germinación debe
  realizarse cada 2 horas durante 12 horas, tiempo en el cual la mayor parte
  de las germinaciones tienden a estabilizarse y a alcanzar sus máximos.
+ 
+\end_layout
+
+\begin_layout Standard
+TYesto fino adadsadasdklandnjsa 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.90]{SESAN}
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard

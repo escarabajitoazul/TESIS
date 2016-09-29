@@ -5,13 +5,12 @@
 \textclass book
 \begin_preamble
 %%%%negrita%%%
+\usepackage{tikz}
 \usepackage{enumitem}
 \usepackage{contour}
 %%%
 \usepackage{helvet}
-%\usepackage{titlesec} 
 \usepackage{pgf}
-\usepackage{tikz}
 \usepackage{pstricks}
 \usepackage{longtable}
 \usepackage{nomencl}
@@ -20,6 +19,10 @@
 \usepackage[hyphenbreaks]{breakurl}
 \usepackage[hyphens]{url}
 \usepackage[absolute]{textpos}
+
+\usepackage[compact]{titlesec}
+
+
 %\usepackage{url}
 %\contourlength{0.03em}
 %\newcommand{\unsch}{\contour{black}{\sf\fontsize{18pt}{30}\selectfont}}
@@ -48,7 +51,10 @@
 \renewcommand\cftsubsubsecafterpnum{\vskip-0.5cm}
 \sectionfont{\fontsize{12}{12}\selectfont\color{black}}
 \subsectionfont{\fontsize{12}{12}\selectfont\color{black}}
-\subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}\em}
+\subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}}
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\renewcommand{\thesection}{\Roman{section}} 
@@ -113,6 +119,9 @@
 \ChNameVar{\centering\large\sf\bfseries}
 \ChTitleVar{\centering\Large\sf\bfseries}
 \ChNumVar{\large}
+
+
+
 
 
 %%%%%ALTERAR INDICE BIBLIOGRAFIA%%%%%

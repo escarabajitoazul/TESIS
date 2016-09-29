@@ -21,7 +21,9 @@
 \usepackage[absolute]{textpos}
 
 \usepackage[compact]{titlesec}
-
+%\titlespacing{\section}{0pt}{*0}{*0}
+%\titlespacing{\subsection}{0pt}{*0}{*0}
+\titlespacing\subsubsection{0pt}{-12}{-12}
 
 %\usepackage{url}
 %\contourlength{0.03em}
@@ -119,17 +121,6 @@
 \ChNameVar{\centering\large\sf\bfseries}
 \ChTitleVar{\centering\Large\sf\bfseries}
 \ChNumVar{\large}
-
-
-\titleformat{\subsubsection}
-  {\vspace{\dimexpr -12pt+10pt}\vspace*{\dimexpr 12pt-10pt}%
-  \fontsize{10pt plus 0pt minus 0pt}{12pt plus 0pt minus 0pt}\selectfont\bf} % format
-  {} % label
-  {0pt} %sep
-  {} %after
-
-\titlespacing*{\subsubsection}{0pt}{12pt}{12pt}
-
 
 
 %%%%%ALTERAR INDICE BIBLIOGRAFIA%%%%%

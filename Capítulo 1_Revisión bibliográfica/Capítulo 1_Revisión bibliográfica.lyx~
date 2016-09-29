@@ -1922,89 +1922,6 @@ Se caracteriza por una disminución de la respiración que coincide con la
 \end_layout
 
 \end_deeper
-\begin_layout Subsubsection
-Ácidos nucléicos y síntesis de proteínas
-\end_layout
-
-\begin_layout Itemize
-Síntesis de ADN: 
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Matilla_2013"
-
-\end_inset
-
-, La síntesis de DNA, preferentemente mitocondrial, tiene lugar durante
- el período de imbibición.
- A los pocos minutos de comenzar la imbibición, empieza la desaparición
- de los ribosomas libres, porque éstos se integran en el complejo ternario
- de inicia- ción de la síntesis proteica.
- Ello significa que la proteinosín- tesis inicial se efectúa sobre los ribosomas
- «almacenados» en la semilla seca.
- Pasado un tiempo, la síntesis de nuevos ribosomas se reanuda.
- existe una población de mRNA «almacenados» en la semilla seca (p.
- ej., mRNA de actina, tubulina y calmo- dulina) capacitados para formar polisomas.
- Estos mRNA, en forma de ribonucleoproteínas en el citoplasma o protegidos
- en el núcleo, permanecen en la semilla seca desde la última fase de la
- embriogénesis.
- podemos dividir en dos grupos los genes expresados en el período de imbibición
- de las semillas viables: 1) los que codifican enzimas y otras proteínas
- necesarias para la activi- dad metabólica celular básica (p.
- ej., respiración, síntesis de ácidos nucleicos y proteínas, síntesis de
- membranas) y que están incluidas como proteínas de housekeeping, y 2) los
- que pueden estar implicados en procesos específicos de la germinación.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Besnier_1989"
-
-\end_inset
-
-, la síntesis de proteína precisa de los siguientes elementos y mecanismos:
- 
-\end_layout
-
-\begin_layout Itemize
-Ácido desoxirribonucleico (ADN) cromosómico, donde se encuentran codificados
- los mensajes genéticos.
-\end_layout
-
-\begin_layout Itemize
-Ácido ribonucleico mensajero, que copia el mensaje del ADN y lo traslada
- a los ribosomas.
-\end_layout
-
-\begin_layout Itemize
-Ácido ribonucleico (ARN) de transferencia, ligados por enzimas a los distintos
- aminoácidos y que se conecta con el ARN mensajero asociado a los ribosomas
- para formar la cadena protéica.
-\end_layout
-
-\begin_layout Itemize
-ARN ribosómico que contiene mensajes codificados independientes de los del
- núcleo
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Besnier_1989"
-
-\end_inset
-
-, en las semillas secas se conservan los ribosomas, tanto en los ejes embrionari
-os como en los cotiledones, el ADN cromosómico también se conserva al igual
- que las polimerasas y sintetasas del ARN; es posible por tanto que se pueda
- iniciar la síntesis de proteínas tras la imbibición, 
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset Note Note
 status open
@@ -2198,6 +2115,89 @@ Las ribonucleasas degradan el ARN en nucleótidos que son transportados al
  que llegan al embrión no son suficientes para mantener su crecimiento,
  por lo que en el embrión debe haber yambién una síntesis de nucleótidos,
  utilizando probablemnete el nitrógeno de las reservas protéicas.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Ácidos nucléicos y síntesis de proteínas
+\end_layout
+
+\begin_layout Itemize
+Síntesis de ADN: 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+, La síntesis de DNA, preferentemente mitocondrial, tiene lugar durante
+ el período de imbibición.
+ A los pocos minutos de comenzar la imbibición, empieza la desaparición
+ de los ribosomas libres, porque éstos se integran en el complejo ternario
+ de inicia- ción de la síntesis proteica.
+ Ello significa que la proteinosín- tesis inicial se efectúa sobre los ribosomas
+ «almacenados» en la semilla seca.
+ Pasado un tiempo, la síntesis de nuevos ribosomas se reanuda.
+ existe una población de mRNA «almacenados» en la semilla seca (p.
+ ej., mRNA de actina, tubulina y calmo- dulina) capacitados para formar polisomas.
+ Estos mRNA, en forma de ribonucleoproteínas en el citoplasma o protegidos
+ en el núcleo, permanecen en la semilla seca desde la última fase de la
+ embriogénesis.
+ podemos dividir en dos grupos los genes expresados en el período de imbibición
+ de las semillas viables: 1) los que codifican enzimas y otras proteínas
+ necesarias para la activi- dad metabólica celular básica (p.
+ ej., respiración, síntesis de ácidos nucleicos y proteínas, síntesis de
+ membranas) y que están incluidas como proteínas de housekeeping, y 2) los
+ que pueden estar implicados en procesos específicos de la germinación.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, la síntesis de proteína precisa de los siguientes elementos y mecanismos:
+ 
+\end_layout
+
+\begin_layout Itemize
+Ácido desoxirribonucleico (ADN) cromosómico, donde se encuentran codificados
+ los mensajes genéticos.
+\end_layout
+
+\begin_layout Itemize
+Ácido ribonucleico mensajero, que copia el mensaje del ADN y lo traslada
+ a los ribosomas.
+\end_layout
+
+\begin_layout Itemize
+Ácido ribonucleico (ARN) de transferencia, ligados por enzimas a los distintos
+ aminoácidos y que se conecta con el ARN mensajero asociado a los ribosomas
+ para formar la cadena protéica.
+\end_layout
+
+\begin_layout Itemize
+ARN ribosómico que contiene mensajes codificados independientes de los del
+ núcleo
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, en las semillas secas se conservan los ribosomas, tanto en los ejes embrionari
+os como en los cotiledones, el ADN cromosómico también se conserva al igual
+ que las polimerasas y sintetasas del ARN; es posible por tanto que se pueda
+ iniciar la síntesis de proteínas tras la imbibición, 
 \end_layout
 
 \end_deeper
@@ -3312,6 +3312,20 @@ mm y que las semillas con germinación anormal sólo emiten los cotiledones
  o el hipocótilo; además manifiesta que el registro de germinación debe
  realizarse cada 2 horas durante 12 horas, tiempo en el cual la mayor parte
  de las germinaciones tienden a estabilizarse y a alcanzar sus máximos.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.90]{Boero_2000}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
