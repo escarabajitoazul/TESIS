@@ -121,14 +121,6 @@
 \ChNumVar{\large}
 
 
-\titleformat{\subsubsection}
-  {\vspace{\dimexpr -12pt+10pt}\vspace*{\dimexpr 12pt-10pt}%
-  \fontsize{10pt plus 0pt minus 0pt}{12pt plus 0pt minus 0pt}\selectfont\bf} % format
-  {} % label
-  {0pt} %sep
-  {} %after
-
-\titlespacing*{\subsubsection}{0pt}{12pt}{12pt}
 
 
 

@@ -160,6 +160,10 @@
 \usepackage{pdflscape}
 \usepackage{lipsum}
 \usepackage{scrlayer}
+
+\usepackage{varioref}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cleveref}
 \end_preamble
 \use_default_options true
 \begin_modules
