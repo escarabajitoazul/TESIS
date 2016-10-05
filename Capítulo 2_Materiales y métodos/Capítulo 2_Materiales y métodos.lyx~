@@ -9064,6 +9064,18 @@ key "Chaparro_2010"
  de nitrógeno por 6.25.
 \end_layout
 
+\begin_layout Subsection
+Fase de conservación de germinados
+\end_layout
+
+\begin_layout Subsubsection
+Germinación 
+\end_layout
+
+\begin_layout Subsubsection
+Instalación de tratamientos
+\end_layout
+
 \begin_layout Section
 VARIABLES EVALUADAS
 \end_layout
@@ -9106,6 +9118,14 @@ Peso hectolítrico (g/1000 cm3)
 \end_layout
 
 \begin_deeper
+\begin_layout Standard
+Se evaluó utilizando una probeta con capacidad de 100
+\begin_inset space ~
+\end_inset
+
+ml, en el cual se colocó muestra de semilla
+\end_layout
+
 \begin_layout Standard
 Se evaluará el peso y volumen respectivo de la muestra de granos por accesión
  haciendo uso de una balanza analítica y una probeta de 100ml, extrapolándolo
@@ -9324,7 +9344,21 @@ Es el análisis químico de la harina integral de los germinados para conocer
  
 \end_layout
 
+\begin_layout Standard
+El secado de los granos germinados fue reallizado en una estufa marca xxxxxx,
+ para lo cual los granos germinados son colocados en bandejas de papel de
+ manera extendida y luego fueron sometidas a una temperatura entre xxxxx
+ durante xxxx horas, para no inactivar las enzimas generadas en el proceso.
+\end_layout
+
 \end_deeper
+\begin_layout Itemize
+Una vez obtenido los granos germinados secos se somete a una molienda fina
+ y se lleva al laboratorio para el análisis de proteína, el cual se realizó
+ por el método Kjeldahl, se pesó 1g de muestra, se procedió a la digestión
+ en medio ácido, seguida del proceso de destilación y luego la titulación.
+\end_layout
+
 \begin_layout Subsection*
 Fase de conservación
 \end_layout

@@ -160,6 +160,10 @@
 \usepackage{pdflscape}
 \usepackage{lipsum}
 \usepackage{scrlayer}
+
+\usepackage{varioref}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cleveref}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -1142,6 +1146,11 @@ Determinar el tipo de iluminación y el tiempo de germinación óptimas para
 \begin_layout Enumerate
 Evaluar el efecto de la temperatura de almacenamiento en la conservación
  de germinados de quinua.
+\end_layout
+
+\begin_layout Standard
+El marco teórco esta direccionado a los temas que se necesitaron para realizar
+ la investigación planteada.
 \end_layout
 
 \begin_layout Standard

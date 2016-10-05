@@ -7907,20 +7907,7 @@ FASE DE CONSERVACIÓN
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-datos lechuga abajo
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Todo lo anterior indica que existen en la colección accesiones promisorias
@@ -7962,6 +7949,47 @@ permiten una amplia valoración del germoplasma en este sentido y el desarrollo
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+DISCUSIONES
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ reporta que; en la germinación de semilla de quinua en condiciones de oscuridad
+ total a una humedad relativa entre 55%-83%, temperatura entre 19°C-28°C
+ y en tres días diferentes del proceso germinativo; no mejoró la concentración
+ de proteína, la proteína encontrada en las semillas con dos y tres días
+ de germinación (14.77 y 14.68%), fue estadísticamente igual a la proteína
+ cruda de las semillas sin germinar del día cero (14.76%); por el contrario,
+ en el primer día de germinación se presentó un descenso significativo en
+ el contenido de proteína (14.15%) , con respecto a la proteína de las semillas
+ sin germinar (día cero), encontrándose una diferencia de 0.61%.
+ 
+\end_layout
+
+\begin_layout Standard
+Chancusig (2013),con la finalidad de mejorar la calidad nutricional del
+ fideo utilizó una mezcla de harina de trigo con harina de quinua germinada,
+ para lo cual evaluó la influencia del tiempo de germinación (24, 36 y 48
+ horas) y el porcentaje de mezcla de harina de trigo con harina de quinua
+ germinada (60% con 40%, 55% con 45% y 50% con 50% respectivamente); donde
+ las variables cuantitativas analizadas fueron: humedad, ceniza, proteína,
+ gluten, fibra, grasa, acidez, caloría, granulometría, tenacidad, peso y
+ dureza; las variables cualitativas: color, aroma, sabor, textura, trizamiento
+ y aceptabilidad y las variables microbiológicas: recuento de aerobios totales,
+ recuento de mohos y levaduras; determinando que todos los tratamientos
+ se encontraban aptos para consumo humano en el aspecto microbiológico y
+ de estos los mejores tratamientos debido a su composición físico-química
+ y aceptación organoléptica, son las que estuvieron sometidos a 24 horas
+ de germinación de la quinua y una mezcla de 60% de harina de trigo con
+ 40% de harina de quinua germinada.
 \end_layout
 
 \end_body

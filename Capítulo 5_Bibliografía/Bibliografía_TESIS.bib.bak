@@ -449,6 +449,16 @@
   Timestamp                = {2015.12.17}
 }
 
+@Book{Peretti_1994,
+  Title                    = {Manual para análisis de semillas},
+  Author                   = {Peretti, A.},
+  Publisher                = {(1a ed.). Buenos Aires: Editorial hemisferio sur},
+  Year                     = {1994},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.01}
+}
+
 @Electronic{Ponce_2013,
   Title                    = {Utilidad en la alimentación de algunas semillas germinadas: brotes de soja y trigo},
   Author                   = {Ponce, C. and Torija, E. and Matallana, C.},

@@ -8614,6 +8614,11 @@ ml de agua destilada y se agitó por 30 segundos se dejó reposar por 30 minutos
 Fase de producción de germinados
 \end_layout
 
+\begin_layout Standard
+Las semillas fueron seleccionadas para asegurar un porcentaje de germinación
+ mayor al 90%
+\end_layout
+
 \begin_layout Subsubsection
 Instalación de tratamientos
 \end_layout
@@ -8664,6 +8669,15 @@ Las muestras fueron dispuestos en el biotrón cuya temperatura oscila entre
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+Se realizaron mediciones en tres días diferentes del proceso germinativo
+ (tratamientos) y un tratamiento testigo correspondiente a semilla sin germinar,
+ cada tratamiento con tres repeticiones , la distribución de cada uno de
+ los tratamientos y sus respectivas repeticiones se localizaron completamente
+ al azar en ....
+ 
+\end_layout
+
 \begin_layout Subsubsection
 Evaluación sensorial
 \end_layout
@@ -9119,6 +9133,14 @@ Peso hectolítrico (g/1000 cm3)
 
 \begin_deeper
 \begin_layout Standard
+Se evaluó utilizando una probeta con capacidad de 100
+\begin_inset space ~
+\end_inset
+
+ml, en el cual se colocó muestra de semilla
+\end_layout
+
+\begin_layout Standard
 Se evaluará el peso y volumen respectivo de la muestra de granos por accesión
  haciendo uso de una balanza analítica y una probeta de 100ml, extrapolándolo
  posteriormente a g/1000 cm3.
@@ -9336,7 +9358,21 @@ Es el análisis químico de la harina integral de los germinados para conocer
  
 \end_layout
 
+\begin_layout Standard
+El secado de los granos germinados fue reallizado en una estufa marca xxxxxx,
+ para lo cual los granos germinados son colocados en bandejas de papel de
+ manera extendida y luego fueron sometidas a una temperatura entre xxxxx
+ durante xxxx horas, para no inactivar las enzimas generadas en el proceso.
+\end_layout
+
 \end_deeper
+\begin_layout Itemize
+Una vez obtenido los granos germinados secos se somete a una molienda fina
+ y se lleva al laboratorio para el análisis de proteína, el cual se realizó
+ por el método Kjeldahl, se pesó 1g de muestra, se procedió a la digestión
+ en medio ácido, seguida del proceso de destilación y luego la titulación.
+\end_layout
+
 \begin_layout Subsection*
 Fase de conservación
 \end_layout
