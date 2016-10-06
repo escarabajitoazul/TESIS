@@ -5,6 +5,7 @@
 \textclass book
 \begin_preamble
 %%%%negrita%%%
+
 \usepackage{tikz}
 \usepackage{enumitem}
 \usepackage{contour}
@@ -177,7 +178,7 @@ eqs-within-sections
 \font_roman times
 \font_sans lmss
 \font_typewriter libertine-mono
-\font_math libertine-ntxm
+\font_math newtxmath
 \font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false

@@ -1070,7 +1070,7 @@ Se evaluó el efecto de los tres tipos de iluminación y de los tres tiempos
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset Formula $Y_{ijkl}=\mu+\alpha_{i}+\beta_{j}+\gamma_{k}+(\alpha\beta)_{ij}+(\alpha\gamma)_{ik}+(\beta\gamma)_{jk}+(\alpha\beta\gamma)_{ijk}+\varepsilon_{ijkl}$
+\begin_inset Formula $Y_{ijkl}=\mu+\alpha_{i}+\beta_{j}+\gamma_{k}+(\mathsf{\alpha}\beta)_{ij}+(\alpha\gamma)_{ik}+(\beta\gamma)_{jk}+(\alpha\beta\gamma)_{ijk}+\varepsilon_{ijkl}$
 \end_inset
 
 
@@ -8956,7 +8956,7 @@ Se obtendrá mediante el peso de la fracción pura de las semillas de quinua
 \begin_layout Itemize
 
 \series bold
-Peso de 1000 semillas (g) 
+Peso de 1000 semillas (g)
 \end_layout
 
 \begin_deeper
@@ -8969,13 +8969,17 @@ Se obtendrá mediante el peso de 100 semillas con 3 repeticiones por accesión.
 \begin_layout Itemize
 
 \series bold
-Peso hectolítrico (g/1000 cm3)
+Peso hectolítrico (
+\begin_inset Formula $\unitfrac{\mathbf{g}}{\mathbf{1000\,cm^{3}}}$
+\end_inset
+
+)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 Se evaluó utilizando una probeta con capacidad de 100
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 ml, en el cual se colocó muestra de semilla
@@ -8983,9 +8987,19 @@ ml, en el cual se colocó muestra de semilla
 
 \begin_layout Standard
 Se evaluará el peso y volumen respectivo de la muestra de granos por accesión
- haciendo uso de una balanza analítica y una probeta de 100ml, extrapolándolo
- posteriormente a g/1000 cm3.
- 
+ haciendo uso de una balanza analítica y una probeta de 100
+\begin_inset space \thinspace{}
+\end_inset
+
+ml, extrapolándolo posteriormente a 
+\series bold
+
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\end_inset
+
+
+\series default
+.
 \end_layout
 
 \end_deeper
