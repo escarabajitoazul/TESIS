@@ -22,6 +22,16 @@
   Timestamp                = {2015.11.16}
 }
 
+@Book{Anzaldua_2005,
+  Title                    = {La evaluación sensorial de los alimentos en la teoría y la práctica},
+  Author                   = {Anzaldua, A.},
+  Publisher                = {Zaragoza: Editorial acribia},
+  Year                     = {2005},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.06}
+}
+
 @Electronic{Barron_2008,
   Title                    = {Valor nutricio y contenido de saponinas en germinados de huauzontle (Chenopodium nuttalliae Saff.), calabacita (Cucurbita pepo L.), canola (Brassica napus L.) y amaranto (Amaranthus leucocarpus S. Watson syn. hypoch},
   Author                   = {Barrón, M. R. and Villanueva, C. and García, M. R. and Colinas, M. T.},
@@ -233,16 +243,6 @@
   Timestamp                = {2015.12.18}
 }
 
-@Electronic{FAO_2013,
-  Title                    = {Descriptores para quinua y sus parientes silvestres},
-  Author                   = {FAO},
-  Note                     = {Disponible desde: <http://www.fao.org/docrep/018/aq658s/aq658s.pdf> Acceso 12 de diciembre 2015.},
-  Year                     = {2013},
-
-  Owner                    = {usuario},
-  Timestamp                = {2015.12.22}
-}
-
 @Electronic{FAO_2011,
   Title                    = {La quinua: cultivo milenario para contribuir a la seguridad alimentaria mundial},
   Author                   = {FAO},
@@ -251,6 +251,16 @@
 
   Owner                    = {usuario},
   Timestamp                = {2016.10.05}
+}
+
+@Electronic{FAO_2013,
+  Title                    = {Descriptores para quinua (Chenopodium quinoa Willd) y sus parientes silvestres},
+  Author                   = {FAO and PROINPA and INIAF and FIDA},
+  Note                     = {Disponible desde: <http://www.fao.org/docrep/018/aq658s/aq658s.pdf> Acceso 12 de diciembre 2015.},
+  Year                     = {2013},
+
+  Owner                    = {usuario},
+  Timestamp                = {2015.12.22}
 }
 
 @Electronic{Fernandez_1996,
@@ -329,6 +339,16 @@
 
   Owner                    = {usuario},
   Timestamp                = {2016.10.05}
+}
+
+@Electronic{INEN_1988,
+  Title                    = {Quinua. Determinación del contenido de saponinas por medio del método espumoso (método de rutina)},
+  Author                   = {INEN},
+  Note                     = {Disponible desde: <https://law.resource.org/pub/ec/ibr/ec.nte.1672.1988.pdf> Acceso 22 de diciembre 2015.},
+  Year                     = {1988},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.05.04}
 }
 
 @Book{Jensen_1977,
@@ -448,15 +468,6 @@
 
   Owner                    = {usuario},
   Timestamp                = {2015.11.16}
-}
-
-@Electronic{INEN_1988,
-  Title                    = {Quinua. Determinación del contenido de saponinas por medio del método espumoso (método de rutina)},
-  Author                   = {Instituto Ecuatoriano de Normalización (INEN)},
-  Year                     = {1988},
-
-  Owner                    = {usuario},
-  Timestamp                = {2016.05.04}
 }
 
 @Electronic{Orti_2010,

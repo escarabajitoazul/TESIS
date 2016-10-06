@@ -86,10 +86,6 @@ MATERIALES Y MÉTODOS
 DE LA ZONA EN ESTUDIO
 \end_layout
 
-\begin_layout Subsection
-Ubicación
-\end_layout
-
 \begin_layout Standard
 La presente investigación se realizó en el Laboratorio de Genética y Biotecnolog
 ía Vegetal y en el Laboratorio de Fruticultura y Manejo Postcosecha de la
@@ -103,8 +99,8 @@ MATERIAL GENÉTICO EMPLEADO
 \end_layout
 
 \begin_layout Standard
-Accesiones de quinua del Germoplasma del Laboratorio de Genética y Biotecnología
- Vegetal.
+95 accesiones de quinua del Germoplasma del Laboratorio de Genética y Biotecnolo
+gía Vegetal.
  
 \end_layout
 
@@ -120,44 +116,12 @@ Variables en estudio
 Variables intervinientes 
 \end_layout
 
-\begin_layout Enumerate
-
-\series bold
-Fase de selección
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
-Procedimientos y condiciones de laboratorio.
+Son los procedimientos y condiciones de laboratorio para las tres fases
+ en estudio, considerando además las accesiones de quinua en la fase de
+ producción de germinados.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-Fase de producción de germinados
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Accesiones seleccionadas de quinua, procedimientos y condiciones de laboratorio.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-Fase de conservación
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Procedimientos y condiciones de laboratorio.
- 
-\end_layout
-
-\end_deeper
 \begin_layout Subsubsection
 Variables independientes 
 \end_layout
@@ -240,9 +204,12 @@ porcentaje de pureza (%), peso de 1
 \begin_inset space ~
 \end_inset
 
-000 semillas (g), peso hectolitrico (g/1000cm3), diámetro de semillas (mm),
- espesor de semillas (mm), color de semillas, forma de semillas, contenido
- de saponina (%).
+000 semillas (g), peso hectolitrico (
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\end_inset
+
+), diámetro de semillas (mm), espesor de semillas (mm), color de semillas,
+ forma de semillas y contenido de saponina (%).
 \end_layout
 
 \begin_layout Itemize
@@ -315,7 +282,7 @@ Color de germinado:
 Diseño experimental
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de selección
@@ -501,7 +468,7 @@ error experimental
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de producción de germinados
@@ -545,7 +512,7 @@ Factor A:
 \begin_inset Text
 
 \begin_layout Plain Layout
-A1
+a1
 \end_layout
 
 \end_inset
@@ -563,7 +530,11 @@ A1
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+24
+\series default
+13
 \end_layout
 
 \end_inset
@@ -574,36 +545,7 @@ A1
 \begin_inset Text
 
 \begin_layout Plain Layout
-A2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-A3
+a2
 \end_layout
 
 \end_inset
@@ -621,7 +563,44 @@ A3
 \begin_inset Text
 
 \begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+43
+\series default
+13
+\end_layout
 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+46
+\series default
+13
 \end_layout
 
 \end_inset
@@ -632,7 +611,7 @@ A3
 \begin_inset Text
 
 \begin_layout Plain Layout
-A4
+a4
 \end_layout
 
 \end_inset
@@ -650,7 +629,11 @@ A4
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+48
+\series default
+13
 \end_layout
 
 \end_inset
@@ -661,7 +644,7 @@ A4
 \begin_inset Text
 
 \begin_layout Plain Layout
-A5
+a5
 \end_layout
 
 \end_inset
@@ -679,7 +662,11 @@ A5
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+80
+\series default
+13
 \end_layout
 
 \end_inset
@@ -690,7 +677,7 @@ A5
 \begin_inset Text
 
 \begin_layout Plain Layout
-A6
+a6
 \end_layout
 
 \end_inset
@@ -708,7 +695,11 @@ A6
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+92
+\series default
+13
 \end_layout
 
 \end_inset
@@ -719,7 +710,7 @@ A6
 \begin_inset Text
 
 \begin_layout Plain Layout
-A7
+a7
 \end_layout
 
 \end_inset
@@ -737,7 +728,11 @@ A7
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+96
+\series default
+13
 \end_layout
 
 \end_inset
@@ -748,7 +743,7 @@ A7
 \begin_inset Text
 
 \begin_layout Plain Layout
-A8
+a8
 \end_layout
 
 \end_inset
@@ -766,7 +761,11 @@ A8
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+100
+\series default
+13
 \end_layout
 
 \end_inset
@@ -777,7 +776,7 @@ A8
 \begin_inset Text
 
 \begin_layout Plain Layout
-A9
+a9
 \end_layout
 
 \end_inset
@@ -795,7 +794,11 @@ A9
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+116
+\series default
+13
 \end_layout
 
 \end_inset
@@ -806,7 +809,7 @@ A9
 \begin_inset Text
 
 \begin_layout Plain Layout
-A10
+a10
 \end_layout
 
 \end_inset
@@ -824,7 +827,11 @@ A10
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+UNSCHLGBV60405
+\series bold
+117
+\series default
+13
 \end_layout
 
 \end_inset
@@ -859,7 +866,7 @@ Factor TG:
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG1
+tg1
 \end_layout
 
 \end_inset
@@ -888,7 +895,7 @@ TG1
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG2
+tg2
 \end_layout
 
 \end_inset
@@ -917,7 +924,7 @@ TG2
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG3
+tg3
 \end_layout
 
 \end_inset
@@ -970,7 +977,7 @@ Factor TI:
 \begin_inset Text
 
 \begin_layout Plain Layout
-TI1
+ti1
 \end_layout
 
 \end_inset
@@ -999,7 +1006,7 @@ TI1
 \begin_inset Text
 
 \begin_layout Plain Layout
-TI2
+ti2
 \end_layout
 
 \end_inset
@@ -1028,7 +1035,7 @@ Luz continua
 \begin_inset Text
 
 \begin_layout Plain Layout
-TI3
+ti3
 \end_layout
 
 \end_inset
@@ -1144,7 +1151,7 @@ variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
 \begin_inset Text
 
 \begin_layout Plain Layout
-Constante media de la población a la cual pertenecen las observaciones.
+constante media de la población a la cual pertenecen las observaciones.
 \end_layout
 
 \end_inset
@@ -1176,7 +1183,7 @@ Constante media de la población a la cual pertenecen las observaciones.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto del i-ésimo nivel del factor A
+efecto del i-ésimo nivel del factor A
 \end_layout
 
 \end_inset
@@ -1208,7 +1215,7 @@ Efecto del i-ésimo nivel del factor A
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto del j-ésimo nivel del factor B
+efecto del j-ésimo nivel del factor B
 \end_layout
 
 \end_inset
@@ -1240,7 +1247,7 @@ Efecto del j-ésimo nivel del factor B
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto del k-ésimo nivel del factor C
+efecto del k-ésimo nivel del factor C
 \end_layout
 
 \end_inset
@@ -1272,7 +1279,7 @@ Efecto del k-ésimo nivel del factor C
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
  nivel del factor B
 \end_layout
 
@@ -1305,7 +1312,7 @@ Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
+efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
  nivel del factor C
 \end_layout
 
@@ -1338,7 +1345,7 @@ Efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
+efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
  nivel del factor C
 \end_layout
 
@@ -1371,7 +1378,7 @@ Efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
  nivel del factor B sujeto al k-ésimo nivel del factor C
 \end_layout
 
@@ -1404,7 +1411,7 @@ Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
 \begin_inset Text
 
 \begin_layout Plain Layout
-Efecto del error experimental que está distribuido como 
+efecto del error experimental que está distribuido como 
 \begin_inset Formula $\varepsilon_{ijkl}$
 \end_inset
 
@@ -1422,7 +1429,7 @@ Efecto del error experimental que está distribuido como
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de conservación
@@ -1455,50 +1462,23 @@ poner qué accesiones
 Características de la unidad experimental
 \end_layout
 
-\begin_layout Itemize
-
-\series bold
-Fase de selección
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
-Tapers de plástico transparentes con 100 semillas de quinua sobre papel
- toalla.
+Para la calidad física de la fase de selección son muestras de semilla por
+ accesión y para la calidad fisiológica, tapers transparentes que contienen
+ 100 semillas de quinua sobre papel toalla, este último es igual para la
+ fase de producción de germinados; mientras que para la fase de conservación
+ varía únicamente en la cantidad de semilla (2.0
+\begin_inset space ~
+\end_inset
+
+g).
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Fase de producción de germinados
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Tapers de plástico transparentes con 100 semillas de quinua sobre papel
- toalla.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Fase de conservación
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Tapers de plástico transparentes con 100 semillas de quinua sobre papel
- toalla.
-\end_layout
-
-\end_deeper
 \begin_layout Subsubsection
 Tratamientos
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de selección
@@ -1547,7 +1527,12 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-kjb
+Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
+ Huamanga-Ayacucho, 2
+\begin_inset space ~
+\end_inset
+
+016.
 \end_layout
 
 \end_inset
@@ -1574,6 +1559,8 @@ kjb
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T
 \end_layout
 
@@ -3842,45 +3829,13 @@ end{landscape}
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de producción de germinados
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{lscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Float table
 wide false
@@ -3891,7 +3846,12 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-kjb
+Tratamientos aplicados a las unidades experimentales.
+ Huamanga-Ayacucho, 2
+\begin_inset space ~
+\end_inset
+
+016.
 \end_layout
 
 \end_inset
@@ -4104,6 +4064,8 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T1
 \end_layout
 
@@ -4113,7 +4075,7 @@ T1
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+a1
 \end_layout
 
 \end_inset
@@ -4122,7 +4084,7 @@ T1
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+tg1
 \end_layout
 
 \end_inset
@@ -4131,7 +4093,7 @@ T1
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+ti1
 \end_layout
 
 \end_inset
@@ -4140,6 +4102,8 @@ T1
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T24
 \end_layout
 
@@ -4149,7 +4113,7 @@ T24
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+a3
 \end_layout
 
 \end_inset
@@ -4158,7 +4122,7 @@ T24
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+tg3
 \end_layout
 
 \end_inset
@@ -4167,7 +4131,7 @@ T24
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+ti2
 \end_layout
 
 \end_inset
@@ -4176,6 +4140,8 @@ T24
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T47
 \end_layout
 
@@ -4185,7 +4151,7 @@ T47
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+a6
 \end_layout
 
 \end_inset
@@ -4194,7 +4160,7 @@ T47
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+tg2
 \end_layout
 
 \end_inset
@@ -4203,7 +4169,7 @@ T47
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+ti1
 \end_layout
 
 \end_inset
@@ -4212,6 +4178,8 @@ T47
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T70
 \end_layout
 
@@ -4221,7 +4189,7 @@ T70
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+a8
 \end_layout
 
 \end_inset
@@ -4230,7 +4198,7 @@ T70
 \begin_inset Text
 
 \begin_layout Plain Layout
-24 Horas
+tg1
 \end_layout
 
 \end_inset
@@ -4239,7 +4207,7 @@ T70
 \begin_inset Text
 
 \begin_layout Plain Layout
-12HL-12HO
+ti3
 \end_layout
 
 \end_inset
@@ -4250,6 +4218,8 @@ T70
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T2
 \end_layout
 
@@ -4259,7 +4229,25 @@ T2
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -4269,23 +4257,7 @@ T2
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T25
 \end_layout
 
@@ -4295,7 +4267,25 @@ T25
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -4305,23 +4295,7 @@ T25
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T48
 \end_layout
 
@@ -4331,7 +4305,25 @@ T48
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -4341,23 +4333,7 @@ T48
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T71
 \end_layout
 
@@ -4367,7 +4343,7 @@ T71
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a8
 \end_layout
 
 \end_inset
@@ -4376,7 +4352,7 @@ T71
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -4385,7 +4361,7 @@ T71
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -4396,6 +4372,8 @@ T71
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T3
 \end_layout
 
@@ -4405,7 +4383,25 @@ T3
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -4415,23 +4411,7 @@ T3
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T26
 \end_layout
 
@@ -4441,7 +4421,25 @@ T26
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -4451,23 +4449,7 @@ T26
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T49
 \end_layout
 
@@ -4477,7 +4459,25 @@ T49
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4487,23 +4487,7 @@ T49
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T72
 \end_layout
 
@@ -4513,7 +4497,7 @@ T72
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a8
 \end_layout
 
 \end_inset
@@ -4522,7 +4506,7 @@ T72
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -4531,7 +4515,7 @@ T72
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -4542,6 +4526,8 @@ T72
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T4
 \end_layout
 
@@ -4551,7 +4537,25 @@ T4
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4561,23 +4565,7 @@ T4
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T27
 \end_layout
 
@@ -4587,7 +4575,25 @@ T27
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -4597,23 +4603,7 @@ T27
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T50
 \end_layout
 
@@ -4623,7 +4613,25 @@ T50
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4633,23 +4641,7 @@ T50
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T73
 \end_layout
 
@@ -4659,7 +4651,7 @@ T73
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -4668,7 +4660,7 @@ T73
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -4677,7 +4669,7 @@ T73
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -4688,6 +4680,8 @@ T73
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T5
 \end_layout
 
@@ -4697,7 +4691,25 @@ T5
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4707,23 +4719,7 @@ T5
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T28
 \end_layout
 
@@ -4733,7 +4729,25 @@ T28
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -4743,23 +4757,7 @@ T28
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T51
 \end_layout
 
@@ -4769,7 +4767,25 @@ T51
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4779,23 +4795,7 @@ T51
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T74
 \end_layout
 
@@ -4805,7 +4805,7 @@ T74
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -4814,7 +4814,7 @@ T74
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -4823,7 +4823,7 @@ T74
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -4834,6 +4834,8 @@ T74
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T6
 \end_layout
 
@@ -4843,7 +4845,25 @@ T6
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -4853,23 +4873,7 @@ T6
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T29
 \end_layout
 
@@ -4879,7 +4883,25 @@ T29
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -4889,23 +4911,7 @@ T29
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T52
 \end_layout
 
@@ -4915,7 +4921,25 @@ T52
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -4925,23 +4949,7 @@ T52
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T75
 \end_layout
 
@@ -4951,7 +4959,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -4960,7 +4968,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -4969,7 +4977,7 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -4980,6 +4988,8 @@ T75
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T7
 \end_layout
 
@@ -4989,7 +4999,25 @@ T7
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -4999,23 +5027,7 @@ T7
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T30
 \end_layout
 
@@ -5025,7 +5037,25 @@ T30
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5035,23 +5065,7 @@ T30
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T53
 \end_layout
 
@@ -5061,7 +5075,25 @@ T53
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5071,23 +5103,7 @@ T53
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T76
 \end_layout
 
@@ -5097,7 +5113,7 @@ T76
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5106,7 +5122,7 @@ T76
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -5115,7 +5131,7 @@ T76
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -5126,6 +5142,8 @@ T76
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T8
 \end_layout
 
@@ -5135,7 +5153,25 @@ T8
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5145,23 +5181,7 @@ T8
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T31
 \end_layout
 
@@ -5171,7 +5191,25 @@ T31
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5181,23 +5219,7 @@ T31
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T54
 \end_layout
 
@@ -5207,7 +5229,25 @@ T54
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5217,23 +5257,7 @@ T54
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T77
 \end_layout
 
@@ -5243,7 +5267,7 @@ T77
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5252,7 +5276,7 @@ T77
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -5261,7 +5285,7 @@ T77
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -5272,6 +5296,8 @@ T77
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T9
 \end_layout
 
@@ -5281,7 +5307,25 @@ T9
 \begin_inset Text
 
 \begin_layout Plain Layout
+a1
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5291,23 +5335,7 @@ T9
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T32
 \end_layout
 
@@ -5317,7 +5345,25 @@ T32
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5327,23 +5373,7 @@ T32
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T55
 \end_layout
 
@@ -5353,7 +5383,25 @@ T55
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5363,23 +5411,7 @@ T55
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T78
 \end_layout
 
@@ -5389,7 +5421,7 @@ T78
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5398,7 +5430,7 @@ T78
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -5407,7 +5439,7 @@ T78
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -5418,6 +5450,8 @@ T78
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T10
 \end_layout
 
@@ -5427,7 +5461,25 @@ T10
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5437,23 +5489,7 @@ T10
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T33
 \end_layout
 
@@ -5463,7 +5499,25 @@ T33
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5473,23 +5527,7 @@ T33
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T56
 \end_layout
 
@@ -5499,7 +5537,25 @@ T56
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5509,23 +5565,7 @@ T56
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T79
 \end_layout
 
@@ -5535,7 +5575,7 @@ T79
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5544,7 +5584,7 @@ T79
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -5553,7 +5593,7 @@ T79
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -5564,6 +5604,8 @@ T79
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T11
 \end_layout
 
@@ -5573,7 +5615,25 @@ T11
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5583,23 +5643,7 @@ T11
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T34
 \end_layout
 
@@ -5609,7 +5653,25 @@ T34
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5619,23 +5681,7 @@ T34
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T57
 \end_layout
 
@@ -5645,7 +5691,25 @@ T57
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5655,23 +5719,7 @@ T57
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T80
 \end_layout
 
@@ -5681,7 +5729,7 @@ T80
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5690,7 +5738,7 @@ T80
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -5699,7 +5747,7 @@ T80
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -5710,6 +5758,8 @@ T80
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T12
 \end_layout
 
@@ -5719,7 +5769,25 @@ T12
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -5729,23 +5797,7 @@ T12
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T35
 \end_layout
 
@@ -5755,7 +5807,25 @@ T35
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5765,23 +5835,7 @@ T35
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T58
 \end_layout
 
@@ -5791,7 +5845,25 @@ T58
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5801,23 +5873,7 @@ T58
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T81
 \end_layout
 
@@ -5827,7 +5883,7 @@ T81
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a9
 \end_layout
 
 \end_inset
@@ -5836,7 +5892,7 @@ T81
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -5845,7 +5901,7 @@ T81
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -5856,6 +5912,8 @@ T81
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T13
 \end_layout
 
@@ -5865,7 +5923,25 @@ T13
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5875,23 +5951,7 @@ T13
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T36
 \end_layout
 
@@ -5901,7 +5961,25 @@ T36
 \begin_inset Text
 
 \begin_layout Plain Layout
+a4
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -5911,23 +5989,7 @@ T36
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T59
 \end_layout
 
@@ -5937,7 +5999,25 @@ T59
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -5947,23 +6027,7 @@ T59
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T82
 \end_layout
 
@@ -5973,7 +6037,7 @@ T82
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -5982,7 +6046,7 @@ T82
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -5991,7 +6055,7 @@ T82
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -6002,6 +6066,8 @@ T82
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T14
 \end_layout
 
@@ -6011,7 +6077,25 @@ T14
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6021,23 +6105,7 @@ T14
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T37
 \end_layout
 
@@ -6047,7 +6115,25 @@ T37
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6057,23 +6143,7 @@ T37
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T60
 \end_layout
 
@@ -6083,7 +6153,25 @@ T60
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6093,23 +6181,7 @@ T60
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T83
 \end_layout
 
@@ -6119,7 +6191,7 @@ T83
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6128,7 +6200,7 @@ T83
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -6137,7 +6209,7 @@ T83
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -6148,6 +6220,8 @@ T83
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T15
 \end_layout
 
@@ -6157,7 +6231,25 @@ T15
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6167,23 +6259,7 @@ T15
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T38
 \end_layout
 
@@ -6193,7 +6269,25 @@ T38
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6203,23 +6297,7 @@ T38
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T61
 \end_layout
 
@@ -6229,7 +6307,25 @@ T61
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6239,23 +6335,7 @@ T61
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T84
 \end_layout
 
@@ -6265,7 +6345,7 @@ T84
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6274,7 +6354,7 @@ T84
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -6283,7 +6363,7 @@ T84
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti1
 \end_layout
 
 \end_inset
@@ -6294,6 +6374,8 @@ T84
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T16
 \end_layout
 
@@ -6303,7 +6385,25 @@ T16
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6313,23 +6413,7 @@ T16
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T39
 \end_layout
 
@@ -6339,7 +6423,25 @@ T39
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6349,23 +6451,7 @@ T39
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T62
 \end_layout
 
@@ -6375,7 +6461,25 @@ T62
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6385,23 +6489,7 @@ T62
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T85
 \end_layout
 
@@ -6411,7 +6499,7 @@ T85
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6420,7 +6508,7 @@ T85
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -6429,7 +6517,7 @@ T85
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -6440,6 +6528,8 @@ T85
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T17
 \end_layout
 
@@ -6449,7 +6539,25 @@ T17
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6459,23 +6567,7 @@ T17
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T40
 \end_layout
 
@@ -6485,7 +6577,25 @@ T40
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6495,23 +6605,7 @@ T40
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T63
 \end_layout
 
@@ -6521,7 +6615,25 @@ T63
 \begin_inset Text
 
 \begin_layout Plain Layout
+a7
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6531,23 +6643,7 @@ T63
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T86
 \end_layout
 
@@ -6557,7 +6653,7 @@ T86
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6566,7 +6662,7 @@ T86
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -6575,7 +6671,7 @@ T86
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -6586,6 +6682,8 @@ T86
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T18
 \end_layout
 
@@ -6595,7 +6693,25 @@ T18
 \begin_inset Text
 
 \begin_layout Plain Layout
+a2
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6605,23 +6721,7 @@ T18
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T41
 \end_layout
 
@@ -6631,7 +6731,25 @@ T41
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6641,23 +6759,7 @@ T41
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T64
 \end_layout
 
@@ -6667,7 +6769,25 @@ T64
 \begin_inset Text
 
 \begin_layout Plain Layout
+a8
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6677,23 +6797,7 @@ T64
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T87
 \end_layout
 
@@ -6703,7 +6807,7 @@ T87
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6712,7 +6816,7 @@ T87
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
@@ -6721,7 +6825,7 @@ T87
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
@@ -6732,6 +6836,8 @@ T87
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T19
 \end_layout
 
@@ -6741,7 +6847,25 @@ T19
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6751,23 +6875,7 @@ T19
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T42
 \end_layout
 
@@ -6777,7 +6885,25 @@ T42
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -6787,23 +6913,7 @@ T42
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T65
 \end_layout
 
@@ -6813,7 +6923,25 @@ T65
 \begin_inset Text
 
 \begin_layout Plain Layout
+a8
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6823,23 +6951,7 @@ T65
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T88
 \end_layout
 
@@ -6849,7 +6961,7 @@ T88
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -6858,7 +6970,7 @@ T88
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -6867,7 +6979,7 @@ T88
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -6878,6 +6990,8 @@ T88
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T20
 \end_layout
 
@@ -6887,7 +7001,25 @@ T20
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6897,23 +7029,7 @@ T20
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T43
 \end_layout
 
@@ -6923,7 +7039,25 @@ T43
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -6933,23 +7067,7 @@ T43
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T66
 \end_layout
 
@@ -6959,7 +7077,25 @@ T66
 \begin_inset Text
 
 \begin_layout Plain Layout
+a8
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -6969,23 +7105,7 @@ T66
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T89
 \end_layout
 
@@ -6995,7 +7115,7 @@ T89
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
@@ -7004,7 +7124,7 @@ T89
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
@@ -7013,7 +7133,7 @@ T89
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -7024,6 +7144,8 @@ T89
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T21
 \end_layout
 
@@ -7033,7 +7155,25 @@ T21
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -7043,23 +7183,7 @@ T21
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T44
 \end_layout
 
@@ -7069,7 +7193,25 @@ T44
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -7079,23 +7221,7 @@ T44
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T67
 \end_layout
 
@@ -7105,7 +7231,7 @@ T67
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a8
 \end_layout
 
 \end_inset
@@ -7114,7 +7240,7 @@ T67
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg1
 \end_layout
 
 \end_inset
@@ -7123,43 +7249,45 @@ T67
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti2
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T90
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a10
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+ti3
 \end_layout
 
 \end_inset
@@ -7170,6 +7298,8 @@ T90
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T22
 \end_layout
 
@@ -7179,7 +7309,25 @@ T22
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -7189,23 +7337,7 @@ T22
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T45
 \end_layout
 
@@ -7215,7 +7347,25 @@ T45
 \begin_inset Text
 
 \begin_layout Plain Layout
+a5
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
 \end_layout
 
 \end_inset
@@ -7225,23 +7375,7 @@ T45
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T68
 \end_layout
 
@@ -7251,7 +7385,7 @@ T68
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a8
 \end_layout
 
 \end_inset
@@ -7260,48 +7394,48 @@ T68
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
+tg2
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7316,6 +7450,8 @@ T68
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T23
 \end_layout
 
@@ -7325,7 +7461,25 @@ T23
 \begin_inset Text
 
 \begin_layout Plain Layout
+a3
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
 \end_layout
 
 \end_inset
@@ -7335,23 +7489,7 @@ T23
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T46
 \end_layout
 
@@ -7361,7 +7499,25 @@ T46
 \begin_inset Text
 
 \begin_layout Plain Layout
+a6
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
 \end_layout
 
 \end_inset
@@ -7371,23 +7527,7 @@ T46
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\series bold
 T69
 \end_layout
 
@@ -7397,7 +7537,7 @@ T69
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+a8
 \end_layout
 
 \end_inset
@@ -7406,48 +7546,48 @@ T69
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
+tg3
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7469,59 +7609,8 @@ T69
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename Trat_F_Selección.png
-	lyxscale 10
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de conservación
@@ -7532,7 +7621,7 @@ Fase de conservación
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -7584,6 +7673,8 @@ Temperatura de conservación (°C)
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T1
 \end_layout
 
@@ -7604,6 +7695,8 @@ T1
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T2
 \end_layout
 
@@ -7624,6 +7717,8 @@ T2
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 T3
 \end_layout
 
@@ -7633,7 +7728,11 @@ T3
 \begin_inset Text
 
 \begin_layout Plain Layout
-18
+20
+\begin_inset Formula $\pm$
+\end_inset
+
+2
 \end_layout
 
 \end_inset
@@ -7661,7 +7760,7 @@ La distribución de los tratamientos a las unidades experimentales se realizó
  completamente al azar, tal como se presenta en las siguientes figuras:
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de selección
@@ -7753,7 +7852,7 @@ end{landscape}
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de producción de germinados
@@ -7784,8 +7883,8 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Croquis de distribución de los tratamientos de.....
- .
+Croquis de distribución de los tratamientos en condiciones de q2 horas luz-12
+ horas oscuridad.
 \end_layout
 
 \end_inset
@@ -7822,8 +7921,7 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Croquis de distribución de los tratamientos de.....
- .
+Croquis de distribución de los tratamientos en condiciones de luz completa.
 \end_layout
 
 \end_inset
@@ -7860,8 +7958,8 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Croquis de distribución de los tratamientos de.....
- .
+Croquis de distribución de los tratamientos en condiciones de oscuridad
+ completa.
 \end_layout
 
 \end_inset
@@ -7875,7 +7973,7 @@ Croquis de distribución de los tratamientos de.....
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 
 \series bold
 Fase de conservación
@@ -7889,28 +7987,14 @@ INSTALACIÓN Y CONDUCCIÓN DEL EXPERIMENTO
 Fase de selección
 \end_layout
 
-\begin_layout Subsubsection
-Colección de accesiones de quinua del Laboratorio de Genética y Biotecnología
- Vegetal de la Universidad Nacional de San Cristóbal de Huamanga
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-Los investigadores del equipo de la FMA, iniciaron sus trabajos con variedades
- tradicionales de judía a principios de los años 90.
- Conscientes de la pérdida de diversidad que se estaba produciendo Introducción
- 37 debido al abandono cada vez más frecuente del campo, decidieron iniciar
- la prospección de las variedades de judía que aún se conservaban.
- Durante diversas campañas de colecta recorrieron todas las comarcas de
- Cataluña, visitando mercados y tiendas locales así como también casas particula
-res de agricultores, cooperativas y asociaciones de productores.
- En las prospecciones junto con las semillas, se recogió información sobre
- el punto de colecta (Figura 6) e información etnobotánica relacionada con
- el uso de las plantas.
- El número de entradas de Phaseolus vulgaris L.
+Colección de accesiones de quinua del Laboratorio de Genética y Biotecnología
+ Vegetal de la Universidad Nacional de San Cristóbal de Huamanga: El número
+ de entradas de Phaseolus vulgaris L.
  conservadas en la actualidad en el banco de germoplasma de la FMA-ESAB
  (Escuela Superior de Agricultura de Barcelona) es de 521.
  De ellas, 388 fueron prospectadas bajo el nombre de Ganxet, 17 correspondieron
@@ -7928,521 +8012,105 @@ Selección de accesiones de quinua
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-se evaluó la calidad interna del tubérculo en 70 accesiones cultivadas del
- banco de germoplasma de papa, las cuales fueron seleccionadas tomando como
- base los valores de masa seca obtenidos en la caracterización morfoagronómica
- realizada a la colección cubana de papa (8).
- Se procuró incluir accesiones representativas de toda la variabilidad para
- el carácter mencionado, con valores altos, bajos e intermedios.
- Se plantaron parcelas de 40 plantas por cada accesión, bajo un diseño completam
-ente aleatorizado con cuatro réplicas.
- Las labores culturales se realizaron según las normas técnicas del cultivo
- (9).
- Los tubérculos fueron cosechados en la segunda quincena de marzo y se tomaron
- muestras de 10 kg por cada réplica, las que fueron enviadas al Instituto
- de Investigaciones de la Industria Alimenticia (IIIA) con el fin de evaluar
- la calidad de estos órganos de reserva.
- Para cada accesión fueron determinados los siguientes caracteres: • Gravedad
- específica: relación entre la masa de los tubérculos y el volumen de agua
- desplazado por los mismos • Masa seca (%): en base a la relación masa húmeda
- y seca de los tubérculos • Contenido de almidón (%): según la metodología
- descrita por Winton (10) • Contenido de azúcares reductores (%): según
- la metodología descrita por CEN (11) • Masa promedio de los tubérculos
- (kg): relación entre la masa de la totalidad de los tubérculos y el número
- de los mismos.
- • Diámetros longitudinal y ecuatorial del tubérculo (mm): se midieron con
- pie de rey • Evaluación sensorial: se realizó mediante la fritura de hojuelas
- chips.
- Se calificó en base a la siguiente escala de cinco puntos: excelente 5,
- bueno 4, aceptable 3, insuficiente 2 y malo 1, donde el valor 3 (aceptable)
- es el límite para el rechazo.
- La prueba tomó en consideración las características que más influyen en
- la calidad sensorial del producto como son: textura, olor, sabor y color
- (12).
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 El LGBV cuenta con un germoplasma de quinua de 150 accesiones recolectadas
- de diferentes provincias de la región Ayacucho.
-\end_layout
-
-\begin_layout Standard
-Después de ordenar las accesiones y verificar la cantidad de muestras se
- procedió a ordenarlos de acuerdo al número de entrada de accesión que presentab
-an los envases en los cuales estaban almacenados.
-\end_layout
-
-\begin_layout Standard
-Las selección y ordenamiento de las accesiones se realizó el tres de febrero
- del 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
-\end_layout
-
-\begin_layout Standard
-Se seleccionó 95 accesiones de quinua por contar estas con los datos pasaporte
- de refrescamiento en el año 2013.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Quiroga_2010"
-
-\end_inset
-
-: Primero se caracterizaron las variedades más importantes en cuanto a sus
- propiedades nutricionales, contenido de saponinas y morfología del grano
-\end_layout
-
-\begin_layout Subsubsection
-Pesado de 30
-\begin_inset space \thinspace{}
-\end_inset
-
-g de muestra por accesión
-\end_layout
-
-\begin_layout Standard
-Se realizó el veintitrés y veinticuatro de febrero del 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
-\end_layout
-
-\begin_layout Standard
-El pesado de 30
-\begin_inset space \thinspace{}
-\end_inset
-
-g se realizó de aquellas accesiones que contaban con una cantidad suficiente
- de muestra como para que puedan ser 
-\begin_inset Quotes fld
-\end_inset
-
-actualizadas
-\begin_inset Quotes frd
-\end_inset
-
- en campo, contando finalmente con 95 accesiones de las cuales se consideró
- 30
-\begin_inset space \thinspace{}
-\end_inset
-
-g para que puedan ser utilizadas sin déficit en las tres fases de la investigaci
-ón.
-\end_layout
-
-\begin_layout Standard
-Los 30
+ de diferentes provincias de la región Ayacucho; de las cuales se seleccionó
+ 95 accesiones por contar con una cantidad adecuada de muestras para realizar
+ las evaluaciones, además porque presentaban la misma fecha de refrescamiento
+ en el año 2
 \begin_inset space ~
 \end_inset
 
-g de muestra por accesión fueron colocadas en bolsas de papel 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-molde o craft
-\end_layout
-
-\end_inset
-
-de 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-...
- ancho por ...
- de largo
-\end_layout
-
-\end_inset
-
-, las cuales estaban debidamente rotuladas con los datos pasaporte de cada
- accesión y fueron dobladas y pegadas con cinta masking para asegurarla.
-\end_layout
-
-\begin_layout Standard
-Las muestras obtenidas constituyen el germoplasma activo de quinua del LGBV.
-\end_layout
-
-\begin_layout Subsubsection
-Fricción, tamizado y venteado de las muestras
-\end_layout
-
-\begin_layout Standard
-Para facilitar el proceso de selección de impurezas las muestras obtenidas
- de cada accesión fueron frotadas con la mano para sacar y desmenuzar la
+013.
  
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-epidermis-cáscara
-\end_layout
-
-\end_inset
-
- de las semillas, luego fueron tamizadas con un 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-colador de ...
- con abertura inferior al diámetro de los granos
-\end_layout
-
-\end_inset
-
- para eliminar semillas muy pequeñas, terrones y otras impurezas que pudieran
- pasar por lo agujeros del colador y finalmente se procedió a ventearlos
- con el ventilador 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-de una computadora
-\end_layout
-
-\end_inset
-
-, cuyas aspas medianas y fuerza eran adecuadas para tal trabajo, eliminándose
- polvillo, semillas muy pequeñas, palitos pequeños, cáscara de las semillas
- y otras impurezas que podían ser arrastradas por la fuerza del viento.
 \end_layout
 
 \begin_layout Standard
-Esta labor se llevó a cabo el veintiséis y 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-...
-\end_layout
-
+Posteriormente se extrajo 30
+\begin_inset space ~
 \end_inset
 
- de febrero del 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
+g de muestra por cada accesión y se colocó en bolsas de papel kraft debidamente
+ identificadas, constituyendo el germoplasma activo de quinua del LGBV.
 \end_layout
 
 \begin_layout Subsubsection
-Selección de impurezas
+Limpieza de las muestras
 \end_layout
 
 \begin_layout Standard
-Después de que las semillas fueran venteadas se procedió a seleccionar las
- impurezas restantes, para lo cual la muestra de semillas por accesión se
- colocó en bandejas blancas de papel bond y con una pinza se seleccionó
- semillas muy pequeñas, terrones, palitos, semillas partidas, otras semillas,
- y todo material extraño a las semillas de quinua.
+Para efectuar la limpieza se realizó la fricción, el tamizado, el venteado
+ y la selección manual de cada muestra, para ello se utilizaron coladores
+ con abertura de 1.5
+\begin_inset space ~
+\end_inset
+
+mm de diámetro, un ventilador de computadora y una pinza.
+ Logrando eliminar semillas pequeñas, semillas partidas, piedras, restos
+ de tallos, perigonios de las semillas, polvillos y otros materiales extraños
+ a las semillas de quinua.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Algunas accesiones presentaban mezcla de diferentes variedades de quinua,
  por constituir una accesión no se seleccionaron las variedades de quinua
  dejándo una en especial, sino mas bien se consideraron tal como estaba
  constituida la accesión.
 \end_layout
 
-\begin_layout Standard
-La selección de impurezas culminó el dieciocho de marzo del 2
-\begin_inset space \thinspace{}
 \end_inset
 
-016.
+
 \end_layout
 
 \begin_layout Subsubsection
-Pesado de semillas sin impurezas
+Desinfección de las semillas
 \end_layout
 
 \begin_layout Standard
-Para el cálculo del porcentaje de impureza de cada accesión se procedió
- a pesar las muestras de las semillas sin impurezas en una balanza analítica
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-marca, modelo
-\end_layout
-
+La desinfección se realizó con hipoclorito de sodio a una concentración
+ de 0.05
+\begin_inset space ~
 \end_inset
 
- de dos decimales.
- 
-\end_layout
-
-\begin_layout Standard
-Del dieciocho de marzo del 2
-\begin_inset space \thinspace{}
+% (0.5
+\begin_inset space ~
 \end_inset
 
-016 al veintiuno de marzo del 2
-\begin_inset space \thinspace{}
+ml para 1
+\begin_inset space ~
 \end_inset
 
-016.
+l de agua) durante 10 minutos, luego del cual fueron enjuagadas con agua
+ potable.
 \end_layout
 
 \begin_layout Subsubsection
-Conteo de 100 semillas 
+Acondicionamiento de los envases para la prueba de germinación
 \end_layout
 
 \begin_layout Standard
-Se realizó en una placa de cartón con 100 hoyos, hecho especialmente para
- esta actividad de modo que pueda facilitar el conteo de 100 semillas.
- Por accesión se contó con tres repeticiones de 100 semillas cada una, las
- cuales fueron colocadas en bolsas de papel de 6
-\begin_inset space \thinspace{}
+Se utilizaron tapers transparentes, de plástico, de forma circular con un
+ diámetro de 8.0
+\begin_inset space ~
 \end_inset
 
-cm de ancho por 6
-\begin_inset space \thinspace{}
+cm y una altura de 4.5
+\begin_inset space ~
 \end_inset
 
-cm de largo debidamente rotulados con los datos pasaporte de cada accesión,
- siendo de color negro para la primera repetición, de color azul para la
- segunda repetición y de color rojo para la tercera repetición para facilitar
- su identificación; estas bolsitas se doblaron en dos y se pegaron con cinta
- masking para evitar pérdida de semillas.
-\end_layout
-
-\begin_layout Standard
-Se tuvo en total 414 muestras.
-\end_layout
-
-\begin_layout Standard
-Se realizó del veintiuno al veintinueve de marzo del 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
-\end_layout
-
-\begin_layout Subsubsection
-Pesado de 100 semillas
-\end_layout
-
-\begin_layout Standard
-Se realizó del veintinueve al treintiuno de marzo del 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
-\end_layout
-
-\begin_layout Standard
-Se realizó en una balanza analítica 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-marca, modelo
-\end_layout
-
-\end_inset
-
- de dos decimales, El pesado fue de 100 semillas por repetición, teniéndose
- tres datos por accesión para obtener finalmente el peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semillas.
-\end_layout
-
-\begin_layout Subsubsection
-Destilación de agua
-\end_layout
-
-\begin_layout Standard
-1.
- Se pone la manguera verde y luego se abre completamente la válvula para
- que se llene de agua el tanque que está en la cocina, se verifica si está
- lleno cuando desaparecen las burbujitas en el tubito que está al lado del
- tanque el cual se puede comprobar con una linterna por detrás del tubo.
-\end_layout
-
-\begin_layout Standard
-2.
- Se apaga el caño una vez que el tanque está lleno y se cierra completamente
- la válvula; así mismo se conecta la manguera transparente de manera continua
- hasta que el tanque de la cocina esté vacía además se debe verificar que
- salga agua por la manguera azul.
- luego se prende la cocina donde está el tanque de agua y se espera a que
- se destile el agua.
-\end_layout
-
-\begin_layout Subsubsection
-Germinación de semillas
-\end_layout
-
-\begin_layout Standard
-1.
- Compra de los tapers 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-marca, dimensiones, forma
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-2.
- Lavado de tápers con detergente, y desinfección antes de la instalación
- con alcohol
-\end_layout
-
-\begin_layout Standard
-2.
- Identificación de cada envase por muestra (3 repeticiones por accesión),
- con tapas para mantener aire con alta humedad y ser transparente para satisface
-r el requisito de iluminación.
- 
-\end_layout
-
-\begin_layout Standard
-2.
- Se utilizó como sustrato papel toalla, los cuales se cortaron de acuerdo
- a las dimensiones de los tápers (
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner dimensiones
-\end_layout
-
-\end_inset
-
-), colocándose una capa por envase para evitar que penetren las raicillas
- en el interior del papel.
-\end_layout
-
-\begin_layout Standard
-3.
- Desinfección de las semillas por repetición (100) en hipoclorito de sodio
- (0.5ml en 1l de agua) por 10 minutos, luego del cual se procede a enjuagarlas
- con agua del caño utilizando un colador pequeño de diámetro (
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner diámetro)
-\end_layout
-
-\end_inset
-
- y finalmente colocando las semillas lavadas sobre el papel toalla colocada
- ya en los tápers con un golpe del colador sobre el táper y finalmente humedecie
-ndolas con agua destilada y colocándolos a las condiciones del ambiente
- a una temperatura de 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner temperaturas
-\end_layout
-
-\end_inset
-
- y cerrándolas con la tapa para mantener la humedad durante cinco días.
-\end_layout
-
-\begin_layout Subsubsection
-Conteo de semillas germinadas 
-\end_layout
-
-\begin_layout Standard
-Después de los cinco días de germinación se procedió a contar el número
- de semillas germinadas normales por accesión y por repetición; las plántulas
- normales se consideran a aquellas plántulas que presentan adecuadamente
- desarrolladas la radícula y la plúmula; 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner también cómo son las anormales.
-\end_layout
-
-\end_inset
-
- y las germinadas anormales no son consideradas eliminándose por lo que
- no son pesadas.
-\end_layout
-
-\begin_layout Subsubsection
-Pesado de los germinados
-\end_layout
-
-\begin_layout Standard
-Una vez contados las plántulas germinadas normales, estas son colocadas
- en los mismos tápers para que sequen hasta el día siguiente, momento en
- el cual se realiza el pesado.
-\end_layout
-
-\begin_layout Subsubsection
-Determinación del contenido de saponina
-\end_layout
-
-\begin_layout Standard
-Se determinó mediante el método de la espuma para lo cual se pesó una muestra
- de 0.5
-\begin_inset space \thinspace{}
-\end_inset
-
-g +- 0.02
-\begin_inset space \thinspace{}
-\end_inset
-
-g por repetición y accesión que se colocaron en tubos de ensayo de 15
-\begin_inset space \thinspace{}
-\end_inset
-
-cm de longitud y 1.6
-\begin_inset space \thinspace{}
-\end_inset
-
-cm de diámetro, al cual se le añadió 5
-\begin_inset space \thinspace{}
-\end_inset
-
-ml de agua destilada y se agitó por 30 segundos se dejó reposar por 30 minutos
- luego del cual se volvió a agitar por 30 segundos repitiendo este proceso
- luego de 30 minutos de reposo luego del cual se deja finalmente reposar
- por 5 minutos para después realizar la lectura de la altura de espuma que
- se forma en cada accesión.
+cm; las cuales fueron lavadas con detergente y desinfectadas con alcohol.
+ Como sustrato se utilizó papel toalla humedecida con agua destilada, sobre
+ el cual se colocaron las semillas desinfectadas.
+ Finalmente los envases fueron tapados pero no herméticamente para permitir
+ la difusión del oxígeno y fueron dispuestos a condiciones de laboratorio.
 \end_layout
 
 \begin_layout Subsection
 Fase de producción de germinados
-\end_layout
-
-\begin_layout Standard
-Las semillas fueron seleccionadas para asegurar un porcentaje de germinación
- mayor al 90%
 \end_layout
 
 \begin_layout Subsubsection
@@ -8450,58 +8118,17 @@ Instalación de tratamientos
 \end_layout
 
 \begin_layout Standard
-Se instalaron las semillas en los tápers como se describió en la germinación
- de la fase de selección; luego cada táper se colocó en las siguientes condicion
-es de acuerdo a los tratamientos.
-\end_layout
+El acondicionamiento de los tapers y la desinfección de las semillas se
+ realizaron igual que en la fase de selección; de las cuales de acuerdo
+ a los tratamientos, 90 fueron colocados al lado de la ventana, para que
+ durante el día sean iluminadas por la luz del sol, y para que sean iluminadas
+ durante la noche se utilizaron focos LED de 10
+\begin_inset space ~
+\end_inset
 
-\begin_layout Itemize
-
-\series bold
-En luz completa
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Las muestras fueron dispuestos al lado de la ventana para que pueda ser
- iluminada por la luz del día, en las noches se utilizaron para su iluminación
- focos A60 LED BULB HIGHEST EFFICIENCY de una potencia de 10W.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-En oscuridad completa
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Se utilizaron cajas de cartón ubicados en un estante; dentro de las cajas
- se colocaron los tápers.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-12 horas luz - 12 horas oscuridad
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Las muestras fueron dispuestos en el biotrón cuya temperatura oscila entre
- ...
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Se realizaron mediciones en tres días diferentes del proceso germinativo
- (tratamientos) y un tratamiento testigo correspondiente a semilla sin germinar,
- cada tratamiento con tres repeticiones , la distribución de cada uno de
- los tratamientos y sus respectivas repeticiones se localizaron completamente
- al azar en ....
- 
+W; 90 fueron colocadas en cajas de cartón ubicadas en un estante oscuro
+ y 90 fueron dispuestos en biotrón, programado para iluminar durante 12
+ horas.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8509,414 +8136,64 @@ Evaluación sensorial
 \end_layout
 
 \begin_layout Standard
-La evaluación se realizó en las instalaciones del instituto de cocina 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner nombre
-\end_layout
-
-\end_inset
-
- tomando como muestras la accesión seleccionada 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-decribir
-\end_layout
-
-\end_inset
-
- y muestras de germinados de quinuas de la variedad blanca de junín, amarilla
- pasancalla y negra collana.
- Dentro de las instalaciones del instituto se acondicionó una sala para
- tal efecto que cumplía todas las reglas propuestas por 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-poner un autor y describir las características del ambiente
-\end_layout
-
-\end_inset
-
-
+Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
+ de Alta Cocina Juan Pablo II; con la participación de 10 jurados, quienes
+ degustaron diferentes presentaciones de germinados (croquetas de garbanzón
+ con brotes de quinua, rollitos de espinaca y brotes de quinua, brusquetas
+ con brotes de quinua y causitas crocantes de yuca en escabechado de brotes
+ de quinua) de variedades comerciales de quinua (Pasankalla, Blanca de Junín,
+ Negra Collana y Amarilla Maranganí) y de la accesión UNSCHLGBV60405
+\series bold
+116
+\series default
+13, germinadas durante 72 horas.
 \end_layout
 
 \begin_layout Standard
-La sesión inció a las 11am con el fin de que los catadores no asistieran
- ni saciados de una comida previa ni con excesivo apetito.
+La segunda sesión se llevo a cabo en el LGBV, con 10 jurados, quienes realizaron
+ la degustación de germinados de las 10 accesiones seleccionadas producidas
+ a 24, 48 y 72 horas, bajo condiciones de luz completa, oscuridad completa
+ y 12 horas luz-12 horas oscuridad.
 \end_layout
 
 \begin_layout Standard
-Al inicio de la sesión se le dio instrucciones a los jueces sobre como realizar
- las evaluaciones y se les suministró, además de las muestras, un vaso de
- agua mineral, un tenedor de 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-describir
-\end_layout
+En ambas sesiones se tomó en consideración las recomendaciones señalas por
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Anzaldua_2005"
 
 \end_inset
 
-, un bolígrafo y una ficha de cata.
-\end_layout
-
-\begin_layout Standard
-Las instrucciones a los jueces son las siguientes:
+, en cuanto al ambiente, muestra, juez, condiciones para la prueba y la
+ ficha de evaluación.
 \end_layout
 
 \begin_layout Subsubsection
-Determinación de proteínas
+Determinación de nitrógeno
 \end_layout
 
 \begin_layout Standard
-Se utilizó para este análisis las muestras de los tratamientos evaluados
- en la fase de producción de germinados, por la escasa cantidad de muestra
- estas fueron mezcladas en la variable accesión teniéndose muestras de:
+Se realizó en el Laboratorio de análisis de suelos, plantas, agua y fertilizante
+s 
+\begin_inset Quotes fld
+\end_inset
+
+AGROLAB
+\begin_inset Quotes frd
+\end_inset
+
+, mediante el método Kjeldahl (digestión en medio ácido, destilación y titulació
+n), para lo cual los granos germinados fueron secados en estufa marca memmert
+ a 70°C por 24 horas y sometidas a una molienda fina.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="10">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-N°
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-9
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Tipo de iluminación
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-L/O
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-L/O
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-L/O
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-LC
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-LC
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-LC
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-OC
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-OC
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-OC
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Tiempo de germinación
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-24
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-24
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-24
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Más un testigo constituido por la mezcla de las semillas seleccionadas para
- la fase de producción de germinados.
-\end_layout
-
-\begin_layout Standard
-Estas muestras fueron secadas en una estufa a una temperatura de 100°C por
- 24 horas.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Chaparro_2010"
-
-\end_inset
-
-, para determinar el contenido de proteína cruda multiplica la cantidad
- de nitrógeno por 6.25.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Valenzuela_col_2015"
-
-\end_inset
-
-: La proteína cruda contenida fue determinada con el método Kjeldahl con
- un factor de conversión 6.25 recomendado para granos (AOAC, 2000)
-\end_layout
-
-\begin_layout Standard
-Los resultados fueron obtenidos por el Laboratorio....
+Por la escasa disponibilidad de muestra, estas fueron mezcladas en la variable
+ accesión, teniéndose en total nueve muestras producidas en 24, 48 y 72
+ horas, bajo condiciones de luz completa, oscuridad completa y 12 horas
+ luz-12 horas oscuridad más un testigo constituido por la mezcla de semillas
+ sin germinar.
 \end_layout
 
 \begin_layout Subsection
@@ -8924,18 +8201,32 @@ Fase de conservación de germinados
 \end_layout
 
 \begin_layout Subsubsection
-Germinación 
+Instalación de tratamientos
 \end_layout
 
-\begin_layout Subsubsection
-Instalación de tratamientos
+\begin_layout Standard
+El acondicionamiento de los tapers y la desinfección de las semillas se
+ realizaron igual que en la fase de selección; sin embargo para esta fase
+ por la escasa disponibilidad de semillas de las accesiones, se utilizaron
+ semillas comerciales de la variedad Pasankalla, de la cual se utilizaron
+ aproximadamente 2.0
+\begin_inset space ~
+\end_inset
+
+g de semillas para cada repetición, que se germinaron en el biotrón en condicion
+es de 12 horas luz-12 horas oscuridad por 72 horas; después del cual fueron
+ dispuestas en condiciones de refrigeración (5°C), en cámara fría (8°C)
+ y a temperatura ambiente (20°C±2°C) durante 15 días en el Laboratorio de
+ Fruticultura y Manejo poscosecha.
 \end_layout
 
 \begin_layout Section
 VARIABLES EVALUADAS
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
+
+\series bold
 Fase de selección
 \end_layout
 
@@ -8947,8 +8238,9 @@ Porcentaje de pureza (%)
 
 \begin_deeper
 \begin_layout Standard
-Se obtendrá mediante el peso de la fracción pura de las semillas de quinua
- luego de ser seleccionadas las impurezas.
+Se obtuvo mediante el peso de la fracción pura de las semillas de quinua
+ luego de ser seleccionadas las impurezas, en una balanza analítica de dos
+ decimales.
  
 \end_layout
 
@@ -8961,44 +8253,51 @@ Peso de 1000 semillas (g)
 
 \begin_deeper
 \begin_layout Standard
-Se obtendrá mediante el peso de 100 semillas con 3 repeticiones por accesión.
- 
+Se obtuvo realizando primero el conteo de 100 semillas utilizando una placa
+ de cartón con 100 hoyos, las cuales fueron colocadas en bolsas de papel
+ kraft de 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de ancho por 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de largo previamente identificados y sellados con cinta masking.
+ Posteriormente se realizó el peso en una balanza analítica de dos decimales
+ y se efectuó la extrapolación al peso de 1
+\begin_inset space ~
+\end_inset
+
+000 semillas.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 
 \series bold
-Peso hectolítrico (
-\begin_inset Formula $\unitfrac{\mathbf{g}}{\mathbf{1000\,cm^{3}}}$
+Peso hectolítrico (g/1000
+\begin_inset space ~
 \end_inset
 
-)
+cm3)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Se evaluó utilizando una probeta con capacidad de 100
+Se obtuvo mediante el peso de una determinada cantidad de muestra y la lectura
+ del volumen ocupado por este, para lo cual se utilizó una probeta con capacidad
+ de 100
 \begin_inset space \thinspace{}
 \end_inset
 
-ml, en el cual se colocó muestra de semilla
-\end_layout
-
-\begin_layout Standard
-Se evaluará el peso y volumen respectivo de la muestra de granos por accesión
- haciendo uso de una balanza analítica y una probeta de 100
-\begin_inset space \thinspace{}
-\end_inset
-
-ml, extrapolándolo posteriormente a 
+ml y una balanza analítica de dos decimales.
+ posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
 \end_inset
 
-
-\series default
 .
 \end_layout
 
@@ -9011,7 +8310,7 @@ Tamaño de semillas (mm)
 
 \begin_deeper
 \begin_layout Standard
-Se registrará el diámetro y espesor de las semillas con un vernier.
+Se registró el diámetro y espesor de las semillas utilizando un Vernier.
  
 \end_layout
 
@@ -9024,8 +8323,16 @@ Color de semillas (escala)
 
 \begin_deeper
 \begin_layout Standard
-Se registrará el color de los granos de quinua de acuerdo a los descriptores
- propuestos por la FAO.
+Se registró el color del episperma de las semillas de acuerdo a los descriptores
+ propuestos por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2013"
+
+\end_inset
+
+; siendo los colores: transparente (1), blanco (2), crema (3), café claro
+ (4), café (5), café oscuro (6), café rojizo (7), negro (8) y otros (99).
 \end_layout
 
 \end_deeper
@@ -9037,9 +8344,15 @@ Forma de semilla
 
 \begin_deeper
 \begin_layout Standard
-Se registrará la forma de los granos de quinua de acuerdo a los descriptores
- propuestos por la FAO.
- 
+Se registrará la forma de los granos de acuerdo a los descriptores propuestos
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2013"
+
+\end_inset
+
+, siendo estos lenticular (1), cilíndrico (2), elipsoidal (3) y cónico (4).
 \end_layout
 
 \end_deeper
@@ -9051,8 +8364,46 @@ Contenido de saponina (%)
 
 \begin_deeper
 \begin_layout Standard
-Se determinará mediante el método de la espuma.
+Se determinó mediante el método de la espuma propuesto por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "INEN_1988"
+
+\end_inset
+
+, que consistió en pesar 0.5 
+\begin_inset Formula $\pm$
+\end_inset
+
+ 0.02
+\begin_inset space \thinspace{}
+\end_inset
+
+g de granos de quinua, las cuales se colocaron en tubos de ensayo más 5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de agua destilada, se agitaron por 30 segundos y se dejaron reposar por
+ 30 minutos, luego del cual se volvió a repetir el procedimiento anterior,
+ finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y se
+ efectuó la lectura de la altura de espuma formada.
  
+\end_layout
+
+\begin_layout Standard
+Se utilizaron tubos de ensayo con tapones de rosca de una longitud de 15
+\begin_inset space ~
+\end_inset
+
+cm y un diámetro de 1.6
+\begin_inset space ~
+\end_inset
+
+cm, cronómetro, balanza analítica y una regla graduada de sensibilidad 0.1
+\begin_inset space ~
+\end_inset
+
+cm.
 \end_layout
 
 \end_deeper
@@ -9064,8 +8415,9 @@ Porcentaje de germinación (%)
 
 \begin_deeper
 \begin_layout Standard
-Se obtendrá mediante el conteo de semillas germinadas normales.
- 
+Se obtuvo después de cinco días de germinación, mediante el conteo de semillas
+ germinadas normales; es decir, aquellas plántulas con buen desarrollo del
+ eje embrionario y de la radícula.
 \end_layout
 
 \end_deeper
@@ -9077,13 +8429,13 @@ Peso de germinado (g)
 
 \begin_deeper
 \begin_layout Standard
-Es el registro del peso de los germinados después de un día de secado con
- una balanza analítica.
+Consistió en el registro del peso seco de los germinados normales, después
+ de un día de secado, utilizando una balanza analítica.
  
 \end_layout
 
 \end_deeper
-\begin_layout Subsection*
+\begin_layout Subsection
 Fase de producción de germinados
 \end_layout
 
@@ -9095,10 +8447,8 @@ Porcentaje de germinación (%)
 
 \begin_deeper
 \begin_layout Standard
-Proporciona información sobre la viabilidad de la semilla, ya que es un
- estado metabólicamente activo por la división y diferenciación celular.
- Se obtendrá mediante el conteo de semillas germinadas normales expresado
- en porcentaje.
+Se obtuvo mediante el conteo de las semillas germinadas durante 24, 48 y
+ 72 horas.
 \end_layout
 
 \end_deeper
@@ -9134,33 +8484,19 @@ Está asociado al contenido nutricional del grano.
 
 \series bold
 Palatabilidad (escala hedónica) 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\series bold
-Análisis sensorial
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Es el grado de satisfacción de los germinados en cuanto al sabor.
- Se evaluará mediante una escala hedónica (dulce, ácido, agridulce, semiamargo
- o amargo), para lo cual se elegirán a 10 personas al azar a los que se
- le proporcionará aproximadamente 1g de germinado, agua y un cuestionario.
- 
+Se evaluaron características organolépticas de sabor, olor y color; mediante
+ una escala hedónica de siete puntos (me gusta mucho, me gusta, me gusta
+ ligeramente, ni me gusta ni me disgusta, me disgusta ligeramente, me disgusta
+ y me disgusta mucho).
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Para determinar la calidad organoléptica del producto (color, sabor y olor),
@@ -9182,6 +8518,7 @@ El análisis sensorial de degustación se realizó para evaluar las característ
 
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
 
 \series bold
@@ -9190,44 +8527,48 @@ Peso de germinado seco (g)
 
 \begin_deeper
 \begin_layout Standard
-Es el peso de las semillas germinadas después de un día de secado expresado
- en gramos.
- El peso de germinado sobre el peso de semilla seca permite calcular el
- índice de conversión, es decir la cantidad de semilla que se convierte
- en germinado.
+Consistió en el registro del peso seco de los germinados, después de un
+ día de secado, utilizando una balanza analítica.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+El peso de germinado sobre el peso de semilla seca permite calcular el índice
+ de conversión, es decir la cantidad de semilla que se convierte en germinado.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 
 \series bold
-Contenido de proteínas (%) 
+Contenido de proteína cruda (%) 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Es el análisis químico de la harina integral de los germinados para conocer
- el contenido de proteína expresado en porcentaje.
- Se obtendrá mediante los métodos propuestos por la AOAC.
+Se obtuvo multiplicando el contenido de nitrógeno por el factor 6.25 como
+ lo hicieron 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+.
  
 \end_layout
 
-\begin_layout Standard
-El secado de los granos germinados fue reallizado en una estufa marca xxxxxx,
- para lo cual los granos germinados son colocados en bandejas de papel de
- manera extendida y luego fueron sometidas a una temperatura entre xxxxx
- durante xxxx horas, para no inactivar las enzimas generadas en el proceso.
-\end_layout
-
 \end_deeper
-\begin_layout Itemize
-Una vez obtenido los granos germinados secos se somete a una molienda fina
- y se lleva al laboratorio para el análisis de proteína, el cual se realizó
- por el método Kjeldahl, se pesó 1g de muestra, se procedió a la digestión
- en medio ácido, seguida del proceso de destilación y luego la titulación.
-\end_layout
-
 \begin_layout Subsection*
 Fase de conservación
 \end_layout
@@ -9235,26 +8576,12 @@ Fase de conservación
 \begin_layout Itemize
 
 \series bold
-Tiempo de conservación 
+Pérdida de peso (g) 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Es el tiempo que los germinados se conservan adecuadamente sin mostrar deterioro.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Peso (g) 
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es el peso de los germinados durante el tiempo de conservación.
- Se obtuvo mediante el peso interdiario de los envases que contienen a los
+Se obtuvo mediante el peso interdiario de los tápers que contienen a los
  germinados.
  
 \end_layout
@@ -9263,41 +8590,13 @@ Es el peso de los germinados durante el tiempo de conservación.
 \begin_layout Itemize
 
 \series bold
-Color (escala) 
+Cambio de color (escala) 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Es el color del hipocótilo y del cotiledón de los germinados durante el
- tiempo de conservación.
- Se evaluó cada dos días con una escala colorimétrica.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Longitud de hipocotilo (cm)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es la longitud del hipocótilo durante el tiempo de conservación.
- Se evaluó cada dos días con una regla.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Longitud de radícula (cm)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es la longitud de la radícula durante el tiempo de conservación.
- Se evaluó cada dos días con una regla.
+Se determinó mediante la observación interdiaria del color del hipocótilo
+ y del cotiledón de los germinados.
 \end_layout
 
 \end_deeper
