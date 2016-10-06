@@ -7956,6 +7956,46 @@ DISCUSIONES
 \end_layout
 
 \begin_layout Standard
+
+\series bold
+GERMOPLASMA
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pinto_2013"
+
+\end_inset
+
+ declara que en accesiones de quinuas cultivas almacenadas durante 13 semestres
+ consecutivos a 10
+\begin_inset space ~
+\end_inset
+
+°C y 45
+\begin_inset space ~
+\end_inset
+
+% de humedad relativa; el 96% redujeron su germinación entre 1 a 85
+\begin_inset space ~
+\end_inset
+
+%, mientras que el 4% incremento el porcentaje de germinación en 2
+\begin_inset space ~
+\end_inset
+
+%.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CONTENIDO DE PROTEÍNAS
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Chaparro_2010"
@@ -7995,6 +8035,133 @@ key "Chancusig_2013"
  tratamientos debido a su composición físico-química y aceptación organoléptica,
  son las que estuvieron sometidos a 24 horas de germinación de la quinua
  y una mezcla de 60% de harina de trigo con 40% de harina de quinua germinada.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+, reporta que el contenido de proteínas en la variedad Salcedo INIA, Pasankalla
+ y Negra Collana con la germinación después de ocho horas de remojo, durante
+ 48 horas a 20°C y después de su cocción durante 15 minutos a 86°C arrojó
+ en promedio 12.57% y 12.87% respectivamente, mientras que para los granos
+ escarificados fue de 12.13%.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, reporta en la evaluación de variedades amargas sin procesar 11.65% de proteína
+ en promedio que luego de la eliminación se saponina incrementan a 12.58%.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, manifiesta que el contenido de proteína de la quinua varía entre 13,81
+ y 21,9% dependiendo de la variedad.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Vargas_col_2013"
+
+\end_inset
+
+ reportan entre 12.6 y 18.2% de proteína en 20 genotipos de quinua.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+TAMAÑO
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Medina_2013"
+
+\end_inset
+
+ reporta el tamaño del fruto con un diámetro de 1.92
+\begin_inset space ~
+\end_inset
+
+mm para quinua variedad CICA.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Huanca_col_2013"
+
+\end_inset
+
+ encontró en líneas de quinua roja en promedio que el porcentaje de germinación
+ varía con el tiempo y con el tamaño de la quinua, así las quinuas 
+\begin_inset Formula $\geq$
+\end_inset
+
+ a 1.5
+\begin_inset space ~
+\end_inset
+
+mm, 
+\begin_inset Formula $\geq$
+\end_inset
+
+1.0
+\begin_inset space ~
+\end_inset
+
+mm y < a 1.0
+\begin_inset space ~
+\end_inset
+
+mm presentan a las 24 horas 79
+\begin_inset space ~
+\end_inset
+
+%, 71
+\begin_inset space ~
+\end_inset
+
+% y 30
+\begin_inset space ~
+\end_inset
+
+% de germinación respectivamente y a las 48 horas 97
+\begin_inset space ~
+\end_inset
+
+%, 93
+\begin_inset space ~
+\end_inset
+
+% y 68
+\begin_inset space ~
+\end_inset
+
+% de germinación respectivamente.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+COLOR
 \end_layout
 
 \end_body

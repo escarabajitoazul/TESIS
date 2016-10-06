@@ -140,12 +140,7 @@ Fase de producción de germinados
 
 \begin_deeper
 \begin_layout Standard
-• Accesiones de quinua.
- 
-\end_layout
-
-\begin_layout Standard
-• Procedimientos y condiciones de laboratorio.
+Accesiones seleccionadas de quinua, procedimientos y condiciones de laboratorio.
  
 \end_layout
 
@@ -158,7 +153,7 @@ Fase de conservación
 
 \begin_deeper
 \begin_layout Standard
-• Procedimientos y condiciones de laboratorio.
+Procedimientos y condiciones de laboratorio.
  
 \end_layout
 
@@ -175,7 +170,7 @@ Fase de selección
 
 \begin_deeper
 \begin_layout Standard
-Accesiones de quinua
+Accesiones de quinua.
 \end_layout
 
 \end_deeper
@@ -186,36 +181,22 @@ Fase de producción de germinados
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-Tipos de iluminación 
+\begin_layout Itemize
+
+\series bold
+Tipos de iluminación: 
+\series default
+luz continua, oscuridad continua y 12 horas luz-12 horas oscuridad.
+ 
 \end_layout
 
 \begin_layout Itemize
-Luz continua 
-\end_layout
 
-\begin_layout Itemize
-Oscuridad continua 
-\end_layout
-
-\begin_layout Itemize
-12 horas luz-12 horas oscuridad 
-\end_layout
-
-\begin_layout Standard
-Tiempo de germinación 
-\end_layout
-
-\begin_layout Itemize
-24 horas 
-\end_layout
-
-\begin_layout Itemize
-48 horas 
-\end_layout
-
-\begin_layout Itemize
-72 horas 
+\series bold
+Tiempo de germinación:
+\series default
+ 24 horas, 48 horas y 72 horas.
+ 
 \end_layout
 
 \end_deeper
@@ -226,20 +207,16 @@ Fase de conservación
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-X1: Temperatura de almacenamiento
-\end_layout
-
 \begin_layout Itemize
-X11: 5°C+2°C (en refrigeración) 
-\end_layout
 
-\begin_layout Itemize
-X12: 10°C+2°C (en cámara fría) 
-\end_layout
+\series bold
+Temperatura de almacenamiento:
+\series default
+ en refrigeración (5°C), en cámara fría (8°C) y a temperatura ambiente (20°C
+\begin_inset Formula $\pm$
+\end_inset
 
-\begin_layout Itemize
-X13: 20°C+2°C (temperatura de ambiente) 
+2°C).
 \end_layout
 
 \end_deeper
@@ -254,52 +231,26 @@ Fase de selección
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-Calidad física
+\begin_layout Itemize
+
+\series bold
+Calidad física: 
+\series default
+porcentaje de pureza (%), peso de 1
+\begin_inset space ~
+\end_inset
+
+000 semillas (g), peso hectolitrico (g/1000cm3), diámetro de semillas (mm),
+ espesor de semillas (mm), color de semillas, forma de semillas, contenido
+ de saponina (%).
 \end_layout
 
 \begin_layout Itemize
-Porcentaje de pureza (%)
-\end_layout
 
-\begin_layout Itemize
-Peso de 1000 semillas (g)
-\end_layout
-
-\begin_layout Itemize
-Peso hectolitrico (g/1000cm3)
-\end_layout
-
-\begin_layout Itemize
-Diámetro de semillas (mm)
-\end_layout
-
-\begin_layout Itemize
-Espesor de semillas (mm)
-\end_layout
-
-\begin_layout Itemize
-Color de semillas 
-\end_layout
-
-\begin_layout Itemize
-Forma de semillas 
-\end_layout
-
-\begin_layout Itemize
-Contenido de saponina (%)
-\end_layout
-
-\begin_layout Standard
-Calidad fisiológica
-\end_layout
-
-\begin_layout Itemize
-Porcentaje de germinación
-\end_layout
-
-\begin_layout Itemize
-Índice de conversión
+\series bold
+Calidad fisiológica:
+\series default
+ porcentaje de germinación (%) e índice de conversión.
 \end_layout
 
 \end_deeper
@@ -310,40 +261,29 @@ Fase de producción de germinados
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-Y1: Calidad de germinado 
+\begin_layout Itemize
+
+\series bold
+Calidad de germinado:
+\series default
+ porcentaje de germinación (%), longitud de radícula (cm), longitud de plúmula
+ (cm) y palatabilidad (escala hedónica).
 \end_layout
 
 \begin_layout Itemize
-Y11: Porcentaje de germinación (%)
+
+\series bold
+Índice de conversión: 
+\series default
+peso de germinado seco (g).
 \end_layout
 
 \begin_layout Itemize
-Y12: Longitud de radícula (cm)
-\end_layout
 
-\begin_layout Itemize
-Y13: Longitud de plúmula (cm)
-\end_layout
-
-\begin_layout Itemize
-Y14: Palatabilidad (escala hedónica)
-\end_layout
-
-\begin_layout Standard
-Y2: Índice de conversión
-\end_layout
-
-\begin_layout Itemize
-Peso de germinado (g)
-\end_layout
-
-\begin_layout Standard
-Y3: Contenido nutricional 
-\end_layout
-
-\begin_layout Itemize
-Análisis de aminoácidos
+\series bold
+Contenido nutricional: 
+\series default
+contenido de proteínas (%).
 \end_layout
 
 \end_deeper
@@ -354,28 +294,20 @@ Fase de conservación
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-X2: Estado de conservación 
+\begin_layout Itemize
+
+\series bold
+Peso de germinado: 
+\series default
+pérdida de peso (g).
 \end_layout
 
 \begin_layout Itemize
-Y11: Tiempo de conservación 
-\end_layout
 
-\begin_layout Standard
-X2: Peso de germinado 
-\end_layout
-
-\begin_layout Itemize
-Y21: Pérdida de peso (g)
-\end_layout
-
-\begin_layout Standard
-X3: Color de germinado 
-\end_layout
-
-\begin_layout Itemize
-Y31: Cambio de color (escala)
+\series bold
+Color de germinado:
+\series default
+ cambio de color (escala).
 \end_layout
 
 \end_deeper
@@ -383,10 +315,13 @@ Y31: Cambio de color (escala)
 Diseño experimental
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Itemize
+
+\series bold
 Fase de selección
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset Note Note
 status open
@@ -404,13 +339,15 @@ para conocer la agrupación de las accesiones y seleccionar las de mejor
 \end_layout
 
 \begin_layout Standard
-Se condujo bajo el diseño completamente randomizado (DCR).
- De 95 unidades experimentales (accesiones del germoplasma de quinua-LGBV-EFPA-F
-CA-UNSCH) con 3 repeticiones cada uno, cuyo modelo aditivo lineal es el
- siguiente: 
+Se condujo bajo el diseño completamente randomizado (DCR); de 95 unidades
+ experimentales (accesiones del germoplasma de quinua-LGBV-EFPA-FCA-UNSCH)
+ con 3 repeticiones cada uno, cuyo modelo aditivo lineal es el siguiente:
+ 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Formula $Y_{ij}=\mu+\tau_{ij}+\varepsilon_{ij}$
 \end_inset
 
@@ -422,37 +359,155 @@ Donde:
 \end_layout
 
 \begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $Y_{ij}$
 \end_inset
 
-: j-ésima observación en el tratamiento i 
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j-ésima observación en el tratamiento i 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\mu$
 \end_inset
 
-: Media general 
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+media general 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\tau_{i}$
 \end_inset
 
-: Efecto del i-ésimo tratamiento
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del i-ésimo tratamiento
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\varepsilon_{ij}$
 \end_inset
 
-: Error experimental 
+
 \end_layout
 
-\begin_layout Subsubsection*
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+error experimental 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de producción de germinados
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 Se trata de un experimento factorial 10A
 \begin_inset Formula $\times$
@@ -469,72 +524,552 @@ Se trata de un experimento factorial 10A
  el factor TI, como se detalla a continuación: 
 \end_layout
 
-\begin_layout Standard
-Factor A: Accesiones seleccionadas en la primera fase de la investigación
+\begin_layout Itemize
+
+\series bold
+Factor A:
+\series default
+ accesiones seleccionadas en la primera fase de la investigación
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
-Factor TG: Tiempo de germinación
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A1
 \end_layout
 
-\begin_layout Standard
-\begin_inset Formula $TG_{0}$
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
 \end_inset
 
-: 24 horas
+
 \end_layout
 
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Factor TG:
+\series default
+ tiempo de germinación
+\end_layout
+
+\begin_deeper
 \begin_layout Standard
-\begin_inset Formula $TG_{1}$
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TG1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+24 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TG2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+48 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TG3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+72 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
 \end_inset
 
-: 48 horas
+
 \end_layout
 
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Factor TI:
+\series default
+ tipos de iluminación
+\end_layout
+
+\begin_deeper
 \begin_layout Standard
-\begin_inset Formula $TG_{2}$
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12 horas luz-12horas oscuridad
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Luz continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oscuridad continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
 \end_inset
 
-: 72 horas
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Se evaluó el efecto de los tres tipos de iluminación y de los tres tiempos
+ de germinación en la producción de germinados de las diez accesiones de
+ quinua.
+ El modelo aditivo lineal es el siguiente: 
 \end_layout
 
 \begin_layout Standard
-Fcator TI: Tipos de iluminación
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $TI_{0}$
-\end_inset
-
-: 12 horas luz-12horas oscuridad
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $TI_{1}$
-\end_inset
-
-: Luz continua
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $TI_{2}$
-\end_inset
-
-: Oscuridad continua
-\end_layout
-
-\begin_layout Standard
-Se evaluó el efecto de 3 tipos de iluminación (Luz continua, oscuridad continua
- y 12 horas luz-12 horas oscuridad) y 3 tiempos de germinación (24 horas,
- 48 horas y 72 horas) en la producción de germinados de 10 accesiones de
- quinua
-\end_layout
-
-\begin_layout Standard
-El modelo aditivo lineal es el siguiente: 
-\end_layout
-
-\begin_layout Standard
+\noindent
+\align center
 \begin_inset Formula $Y_{ijkl}=\mu+\alpha_{i}+\beta_{j}+\gamma_{k}+(\alpha\beta)_{ij}+(\alpha\gamma)_{ik}+(\beta\gamma)_{jk}+(\alpha\beta\gamma)_{ijk}+\varepsilon_{ijkl}$
 \end_inset
 
@@ -546,147 +1081,430 @@ Donde:
 \end_layout
 
 \begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $Y_{ijkl}$
 \end_inset
 
-: Variable respuesta de la i-ésima observación bajo el k-ésimo nivel del
- factor C, en el j-ésimo nivel del factor B, sujeto al i-ésimo nivel del
- tratamiento A.
+
 \end_layout
 
-\begin_layout Standard
-μ : Constante media de la población a la cual pertenecen las observaciones.
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
+ C, en el j-ésimo nivel del factor B, sujeto al i-ésimo nivel del tratamiento
+ A
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+μ
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Constante media de la población a la cual pertenecen las observaciones.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\alpha_{i}$
 \end_inset
 
-: Efecto del i-ésimo nivel del factor A.
- 
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto del i-ésimo nivel del factor A
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\beta_{j}$
 \end_inset
 
-: Efecto del j-ésimo nivel del factor B.
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto del j-ésimo nivel del factor B
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\gamma_{k}$
 \end_inset
 
-: Efecto del k-ésimo nivel del factor C 
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto del k-ésimo nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $(\alpha\beta)_{ij}$
 \end_inset
 
-: Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
- nivel del factor B.
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $(\alpha\gamma)_{ik}$
 \end_inset
 
-: Efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
- nivel del factor C.
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
+ nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $(\beta\gamma)_{jk}$
 \end_inset
 
-: Efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
- nivel del factor C.
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
+ nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $(\alpha\beta\gamma)_{ijk}$
 \end_inset
 
-: Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
- nivel del factor B sujeto al k-ésimo nivel del factor C.
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B sujeto al k-ésimo nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset Formula $\varepsilon_{ijkl}$
 \end_inset
 
-: Efecto del error experimental que está distribuido como 
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Efecto del error experimental que está distribuido como 
 \begin_inset Formula $\varepsilon_{ijkl}$
 \end_inset
 
-.
+
 \end_layout
 
-\begin_layout Subsubsection*
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de conservación
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
-Se conducirá bajo el diseño completamente randomizado (DCR).
- Las accesiones destinadas a conservar serán sometidas al efecto de 3 temperatur
-as de almacenamiento (5°C+2°C, 10°C+2°C y 20°C+2°C) con 3 repeticiones cada
- uno, cuyo modelo aditivo lineal es el siguiente: 
+Se condujo bajo el diseño completamente randomizado (DCR).
+ Las accesiones 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+poner qué accesiones
 \end_layout
 
-\begin_layout Standard
-X_ij=μ+τ_i+ε_ij 
+\end_inset
+
+ se sometieron al efecto de tres temperaturas de almacenamiento (5°C, 10°C
+ y 20°C
+\begin_inset Formula $\pm$
+\end_inset
+
+2°C) con 3 repeticiones cada uno, cuyo modelo aditivo lineal es igual al
+ de la fase de selección.
 \end_layout
 
-\begin_layout Standard
-Donde: 
-\end_layout
-
-\begin_layout Standard
-X_ij: j-ésima observación en el tratamiento i 
-\end_layout
-
-\begin_layout Standard
-μ : Media general 
-\end_layout
-
-\begin_layout Standard
-τ_i : Efecto del i-ésimo tratamiento 
-\end_layout
-
-\begin_layout Standard
-ε_ij: Error experimental 
-\end_layout
-
+\end_deeper
 \begin_layout Subsubsection
 Características de la unidad experimental
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Itemize
+
+\series bold
 Fase de selección
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_deeper
+\begin_layout Standard
+Tapers de plástico transparentes con 100 semillas de quinua sobre papel
+ toalla.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de producción de germinados
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
-Está constituida de 100 semillas de quinua dentro de tapers de plástico
- transparentes.
+Tapers de plástico transparentes con 100 semillas de quinua sobre papel
+ toalla.
 \end_layout
 
-\begin_layout Subsubsection*
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de conservación
 \end_layout
 
+\begin_deeper
+\begin_layout Standard
+Tapers de plástico transparentes con 100 semillas de quinua sobre papel
+ toalla.
+\end_layout
+
+\end_deeper
 \begin_layout Subsubsection
 Tratamientos
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Itemize
+
+\series bold
 Fase de selección
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -3023,10 +3841,14 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Subsubsection*
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de producción de germinados
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -7720,10 +8542,14 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Subsubsection*
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de conservación
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset Float table
 wide false
@@ -7847,6 +8673,7 @@ T3
 
 \end_layout
 
+\end_deeper
 \begin_layout Subsection
 Croquis de la distribución de tratamientos
 \end_layout
@@ -7856,10 +8683,13 @@ La distribución de los tratamientos a las unidades experimentales se realizó
  completamente al azar, tal como se presenta en las siguientes figuras:
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Itemize
+
+\series bold
 Fase de selección
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -7944,10 +8774,14 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Subsubsection*
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de producción de germinados
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset Float figure
 placement H
@@ -8062,7 +8896,10 @@ Croquis de distribución de los tratamientos de.....
 
 \end_layout
 
-\begin_layout Subsubsection*
+\end_deeper
+\begin_layout Itemize
+
+\series bold
 Fase de conservación
 \end_layout
 
@@ -8178,6 +9015,17 @@ Las selección y ordenamiento de las accesiones se realizó el tres de febrero
 \begin_layout Standard
 Se seleccionó 95 accesiones de quinua por contar estas con los datos pasaporte
  de refrescamiento en el año 2013.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+: Primero se caracterizaron las variedades más importantes en cuanto a sus
+ propiedades nutricionales, contenido de saponinas y morfología del grano
 \end_layout
 
 \begin_layout Subsubsection
@@ -8614,6 +9462,11 @@ ml de agua destilada y se agitó por 30 segundos se dejó reposar por 30 minutos
 Fase de producción de germinados
 \end_layout
 
+\begin_layout Standard
+Las semillas fueron seleccionadas para asegurar un porcentaje de germinación
+ mayor al 90%
+\end_layout
+
 \begin_layout Subsubsection
 Instalación de tratamientos
 \end_layout
@@ -8664,6 +9517,15 @@ Las muestras fueron dispuestos en el biotrón cuya temperatura oscila entre
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+Se realizaron mediciones en tres días diferentes del proceso germinativo
+ (tratamientos) y un tratamiento testigo correspondiente a semilla sin germinar,
+ cada tratamiento con tres repeticiones , la distribución de cada uno de
+ los tratamientos y sus respectivas repeticiones se localizaron completamente
+ al azar en ....
+ 
+\end_layout
+
 \begin_layout Subsubsection
 Evaluación sensorial
 \end_layout
@@ -9062,6 +9924,21 @@ key "Chaparro_2010"
 
 , para determinar el contenido de proteína cruda multiplica la cantidad
  de nitrógeno por 6.25.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+: La proteína cruda contenida fue determinada con el método Kjeldahl con
+ un factor de conversión 6.25 recomendado para granos (AOAC, 2000)
+\end_layout
+
+\begin_layout Standard
+Los resultados fueron obtenidos por el Laboratorio....
 \end_layout
 
 \begin_layout Subsection

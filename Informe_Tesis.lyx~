@@ -1154,6 +1154,24 @@ El marco teórco esta direccionado a los temas que se necesitaron para realizar
 \end_layout
 
 \begin_layout Standard
+Biotecnología de la germinación
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+: Sin embargo, a pesar de su buen contenido de nutrientes, las investigaciones
+ realizadas concluyen que los aminoácidos de la proteína en la harina cruda
+ y sin lavar no están del todo disponibles, porque contienen sustancias
+ que interfieren con la utilización biológica de los nutrientes.
+ Estas sustancias son los glucósidos denominados saponinas
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 

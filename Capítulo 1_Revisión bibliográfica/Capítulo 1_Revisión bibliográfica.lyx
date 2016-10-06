@@ -221,6 +221,98 @@ key "Calle_2010"
 \end_layout
 
 \begin_layout Standard
+La FAO (1996), Jaramillo y Baena (2000) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pinto_2013"
+
+\end_inset
+
+ señalan que el germoplasma de cualquier especie, durante el tiempo que
+ se mantiene conservado, puede disminuir su cantidad por el uso y su calidad
+ (viabilidad) por el tiempo de almacenamiento, incluso si el germoplasma
+ se encuentre almacenado en condiciones óptimas.
+ Cuando esto sucede se debe multiplicar o regenerar, respectivamente, para
+ esta última se debe poner a germinar una muestra de semillas por cada accesión
+ para averiguar el porcentaje de germinación que posee y observar si se
+ está produciendo una pérdida gradual de la viabilidad.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pinto_2013"
+
+\end_inset
+
+:Esta actividad consistió en preparar una muestra fija de 300 semillas por
+ accesión que posteriormente fue subdivididas en tres repeticiones de 100
+ semillas, cada repetición se colocó en cajas petri, con papel filtro y
+ humedad suficiente, posteriormente, se lle- varon a germinadores con temperatur
+as de 20°C, las evaluaciones se realizaron a partir del tercer día después
+ de la siembra y se prolongaron hasta los 12 días, dependiendo de la respuesta
+ de cada accesión al proceso germinativo.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Germoplasma de quinua
+\end_layout
+
+\begin_layout Standard
+Con el objeto de resguardar la enorme variabilidad fenotípica y genotípica
+ de la quinua que se tiene en la región Andina, desde la década de los 60
+ se han implementado bancos de germoplasma a lo largo y ancho de la región,
+ siendo entidades relacionadas con el sector agrario y universidades las
+ encargadas de su manejo y conservación.
+ El número de accesiones que se conserva en la región es variable, donde
+ las entidades de Bolivia y Perú son las que mayor variabilidad de quinua
+ conservan en sus bancos de germoplasma 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 18]{FAO_2011}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Según Mujica (1992) y Bonifacio et al.
+ (2004) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, En el Perú existen varios centros de germoplasma en las Estaciones Experimenta
+les del Instituto Nacional de Investigación Agropecuaria – INIA en Illpa
+ (Puno), K’ayra y Andenes (Cusco), Canáan (Ayacucho), Mantaro y Santa Ana
+ (Huancayo) y Baños del Inca (Cajamarca).
+ También conservan germoplasma de quinua las siguientes universidades: Agraria
+ La Molina de Lima, Nacional del Centro de Junín, Nacional San Cristóbal
+ de Huamanga de Ayacucho, Nacional de San Antonio Abad del Cusco, y Nacional
+ del Altiplano de Puno.
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Calle_2010"
@@ -2445,7 +2537,15 @@ Presenta propiedades regeneradoras, rejuvenecedoras y desintoxicantes por
 \end_layout
 
 \begin_layout Itemize
-Proporcionan cantidades importantes de fibra.
+Proporcionan cantidades importantes de fibra, que según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, lo convierte en un alimento depurador del cuerpo por eliminar toxinas
+ y residuos que puedan dañar el organismo.
 \end_layout
 
 \begin_layout Itemize
@@ -3629,235 +3729,67 @@ key "Rivera_2015"
 QUINUA
 \end_layout
 
+\begin_layout Standard
+Según Cárdenas (1944) y Mujica (1992) citado por la 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, la quinua ha sido descrita por primera vez en sus aspectos botánicos por
+ Willdenow en 1778, como una especie nativa de Sudamérica, cuyo centro de
+ origen, según Buskasov se encuentra en los Andes de Bolivia y Perú; consideránd
+ose las orillas del Lago Titicaca como la zona de mayor diversidad y variación
+ genética.
+\end_layout
+
 \begin_layout Subsection
 Clasificación taxonómica
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Familia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
- Amaranthaceae
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Sub familia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Chenopodioideae
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
+Según Cronquist (1995) y Wilson, (1980) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
 
 \end_inset
 
-
+, se clasifica en la división Magnoliophyta, clase Magnoliopsida, subclase
+ Caryophyllidae, orden Caryophyllales, familia Chenopodiaceae, género Chenopodiu
+m, especie 
+\emph on
+Chenopodium quinoa
+\emph default
+ Willd.
 \end_layout
 
 \begin_layout Subsection
-Importancia económica, producción y consumo
+Importancia, producción y consumo
+\end_layout
+
+\begin_layout Standard
+Según Valencia (2003) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+, señalan que el verdadero valor de la quinua se encuentra en la calidad
+ de la proteína, por la presencia de aminoácidos esenciales (ocho de los
+ 16 son considerados esenciales para niños y para adultos) principalmente
+ lisina (más abundante), metionina, treonina y triptófano; además por que
+ su contenido de proteínas es superior a los alimentos de consumo masivo
+ como el trigo, arroz y maíz que según la 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+son deficientes en aminoácidos.
 \end_layout
 
 \begin_layout Standard
@@ -3873,8 +3805,26 @@ key "Bravo_2013"
  de saponinas.
 \end_layout
 
-\begin_layout Subsection
-Variedades
+\begin_layout Standard
+La quinua constituye un potencial económico, ya que puede ser utilizado
+ en la industria alimentaria, química, farmacéutica y cosmética; por lo
+ cual en los últimos años se han ido incrementando las investigaciones para
+ el desarrollo de productos combinados de manera de hacer atractivo el consumo
+ de quinua 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{FAO_2011}
+\end_layout
+
+\end_inset
+
+.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -3882,43 +3832,94 @@ Morfología
 \end_layout
 
 \begin_layout Subsubsection
-La flor y el fruto
+La inflorescencia
 \end_layout
 
 \begin_layout Standard
-Según 
+Según Cárdenas (1994) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, la inflorescencia es racimosa y se denomina panoja por tener un eje principal
+ más desarrollado, del cual se originan los ejes secundarios y en algunos
+ casos terciarios; de acuerdo a la forma que esta adquiera puede ser amarantifor
+me o glomerulada en función a los ejes secundarios y pedicelos.
+\end_layout
+
+\begin_layout Standard
+Heisser y Nelson (1974), Mujica (1992), Lescano(1994) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ señalan que las flores son muy pequeñas, sésiles, de la misma coloración
+ que los sépalos y pueden ser hermafroditas, pistiladas o androestériles.
+ Los estambres, que son cinco, poseen filamentos cortos que sostienen anteras
+ basifijas y se encuentran rodeando el ovario, cuyo estilo se caracteriza
+ por tener 2 ó 3 estigmas plumosos.
+ Las flores permanecen abiertas por un período que varía de 5 a 7 días,
+ y como no se abren simultáneamente, se determinó que el tiempo de duración
+ de la floración está entre 12 a 15 días.
+\end_layout
+
+\begin_layout Subsubsection
+El fruto
+\end_layout
+
+\begin_layout Standard
+Según miranda (2010) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+ y según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dizes_1992"
 
 \end_inset
 
-, el fruto es un aquenio que contiene un grano pequeño más o menos de 2
+, el fruto es un aquenio indehiscente que contiene un grano de tamaño menor
+ a 2.6
 \begin_inset space ~
 \end_inset
 
-mm según las variedades.
- El grano germina rápidamente en presencia de agua; encontrando el embrión
- en el perisperma la energía necesaria para el desarrollo muy rápido de
- la raicilla luego de los cotiledones.
+mm de diámetro, que puede ser de color blanco, amarillo, rosado, cafe, negro
+ y de forma cónica, cilíndrica y elipsoidal.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ el perigonio envuelve a la semilla por completo, la cual se desprende con
+ facilidad a la madurez.
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Medina_2013"
+key "Burrieza_2013"
 
 \end_inset
 
- reporta el tamaño del fruto con un diámetro de 1.92
-\begin_inset space ~
-\end_inset
-
-mm para quinua variedad CICA.
+, señala que similar a los cereales, la semilla se disemina dentro del fruto,
+ de ahí, la denominación de grano.
+ Además señala que el pericarpio es una estructura delgada y papirácea,
+ fácilmente separable de la semilla.
+ 
 \end_layout
 
 \begin_layout Subsubsection
-Semilla
+La Semilla
 \end_layout
 
 \begin_layout Standard
@@ -3928,7 +3929,9 @@ key "Medina_2013"
 
 \end_inset
 
-, define a la semilla como amilácea, ya que ha reportado en promedio 11.47
+, define a la semilla como amilácea, ya que en un análisis proximal de dos
+ lotes de harina de quinua variedad CICA, reportó que tienen un alto contenido
+ de carbohidratos (65.65%), además de 11.47
 \begin_inset space ~
 \end_inset
 
@@ -3940,39 +3943,20 @@ key "Medina_2013"
 \begin_inset space ~
 \end_inset
 
-% de proteína total, 8.03
+% de proteína total y 8.03
 \begin_inset space ~
 \end_inset
 
-% de materia grasa y 65.65
-\begin_inset space ~
-\end_inset
-
-% de carbohidratos en el análisis proximal de dos lotes de harina de quinua
- variedad CICA; 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lopez_2014"
-
-\end_inset
-
- señala que el perisperma, junto al embrión y al endosperma, constituyen
- los tres compartimentos del grano donde se almacenan las diferentes reservas
- de la semilla madura; sin embargo, el perisperma es el principal tejido
- reservante de la semilla, que se caracteriza por estar formado por células
- muertas a la madurez y almacenar almidón como la principal reserva, que
- según Lindeboom (2005), citado por 
+% de materia grasa.
+ Asimismo Lindeboom (2005), citado por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bedon_2013"
 
 \end_inset
 
-, constituye aproximadamente el 55% de su peso.
- Además 
+, señala que el almidón constituye aproximadamente el 55% del peso de la
+ semilla y 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Medina_2013"
@@ -3991,93 +3975,96 @@ key "Medina_2013"
 \end_layout
 
 \begin_layout Standard
-Prego et al., 1998; citado por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lopez_2014"
-
-\end_inset
-
-, señala que las semillas de quinua presentan un endospermo reducido, de
- las cuales, durante el desarrollo la mayor parte es consumido por el embrión,
- quedando algunas pocas capas reducido a un endosperma micropilar en forma
- de cono, que cubre sólo la radícula y almacena lípidos, proteínas, fitina
- y fitoferritina.
-\end_layout
-
-\begin_layout Standard
-El perisperma de quinoa y el endosperma de cereales son tejidos genéticamente
- diferentes, aunque morfológica y funcionalmente similares 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lopez_2014"
-
-\end_inset
-
-; almacenándose el almidón principalmente en el perispermo, razón por la
- cual se le considera como pseudocereal.
-\end_layout
-
-\begin_layout Standard
-Las semillas de quinoa sintetizan almidón como el principal compuesto de
- reserva que se almacena en el perispermo, la cual es consumida durante
- la germinación, mientras que en el desarrollo, los tegumentos son los que
- sintetizan almidón de asimilación en los cloroplastos 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lopez_2014"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
+Prego et al.
+ (1998); citado por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Burrieza_2013"
 
 \end_inset
 
-, señala que similar a los cereales, la semilla se disemina dentro del fruto,
- de ahí, la denominación de grano.
- El pericarpio es una estructura delgada y papirácea, fácilmente separable
- de la semilla.
+, reconocen la existencia de tres áreas de reserva en las semillas: un perisperm
+a predominante y central, un embrión periférico medio y un endosperma.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopez_2014"
+
+\end_inset
+
+ el perisperma (formado por células muertas) es el principal tejido reservante,
+ ya que almacena almidón (principal reserva), la cual es consumida durante
+ la germinación, mientras que al desarrollo, son los tegumentos los que
+ sintetizan almidón en los cloroplastos.
  
 \end_layout
 
 \begin_layout Standard
-(Prego et al.
- 1998; citado por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Burrieza_2013"
+El embrión (formado por dos cotiledones y la radícula) constituye el 30%
+ del volumen total de la semilla, el cual envuelve al perisperma como un
+ anillo, con una curvatura de 320 grados; además almacena la mayor cantidad
+ de proteína que alcanza del 35-40
+\begin_inset space ~
+\end_inset
+
+%, mientras que en el perisperma solo del 6.3 al 8.3
+\begin_inset space ~
+\end_inset
+
+% de la proteína total del grano.
+ El endosperma rodea completamente al embrión y es consumida rápidamente
+ por esta durante su crecimiento después de que la semilla se hidrata 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{SESAN_2013}
+\end_layout
 
 \end_inset
 
-), reconocen la existencia de tres áreas de reserva en las semillas: un
- perisperma predominante y central, un embrión periférico medio y un endosperma.
- El embrión es el típico embrión de dicotiledóneas, y en él, se diferencian
- el eje radícula-hipocótilo en el que se insertan los dos cotiledones; entre
- los cotiledones, se distingue el ápice meristemático del brote, el cual,
- en este estado, carece de primordios foliares.
- Los primordios comienzan a desarrollarse con la germinación; en el extremo
- opuesto se diferencia el ápice meristemático de la raíz cubierto por la
- caliptra radical y unido al suspensor.
+.
+ 
 \end_layout
 
 \begin_layout Standard
-Según Prego et al., 1998; citado por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lopez_2014"
+El perisperma de quinua y el endosperma de cereales son tejidos genéticamente
+ diferentes, aunque morfológica y funcionalmente similares 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Lopez_2014}
+\end_layout
 
 \end_inset
 
-, el almacenamiento de reservas está compartimentado: proteínas, nutrientes
- minerales y lípidos de reservas se encuentran principalmente en el reducido
- endosperma micropilar y en el embrión, mientras que las reservas de hidratos
- de carbono se encuentran en el perisperma.
+; almacenándose el almidón principalmente en el perispermo, razón por la
+ cual también se le considera como pseudocereal.
+\end_layout
+
+\begin_layout Standard
+La primera capa del episperma define el color de la semilla 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{FAO_2011}
+\end_layout
+
+\end_inset
+
+.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -4820,15 +4807,58 @@ Contenido de saponina
 \end_layout
 
 \begin_layout Standard
+Según Villacorta (1976) y Jiménes et al.
+ (2010) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, las saponinas se encuentran en la primera capa del episperma que pueden
+ ser eliminados por métodos abrasivos y lavado con agua fría, mejorando
+ su remoción con agua caliente, soluciones alcalinas o ácidas.
+ Así 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bravo_2013"
 
 \end_inset
 
-, señala que para eliminar el sabor amargo de las quinuas se debe realizar
- el lavado de los mismos, friccionando los granos entre la manos hasta que
+ recomienda el lavado, friccionando los granos entre la manos hasta que
  no forme espuma.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Huanca_col_2013"
+
+\end_inset
+
+ señalan que después del lavado de la quinua, se diferencia únicamente tres
+ colores: blanco, rojo y negro.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, señala que el contenido de saponina en la quinua varía entre 0,1 y 5%;
+ al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+señala que niveles por debajo de 0.12% de saponina son aceptados por el consumido
+r, por encima del cual se categorizan como quinuas amargas.
+ además menciona que el valor referencial de comercialización es de 0.06%
+ y menores al 0.01% están por debajo del estándar.
 \end_layout
 
 \end_body
