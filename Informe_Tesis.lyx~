@@ -5,8 +5,6 @@
 \textclass book
 \begin_preamble
 %%%%negrita%%%
-\usepackage{siunitx}
-\sisetup{detect-weight=true,detect-inline-weight=math}
 
 \usepackage{tikz}
 \usepackage{enumitem}

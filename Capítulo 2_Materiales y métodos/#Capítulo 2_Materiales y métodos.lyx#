@@ -205,7 +205,7 @@ porcentaje de pureza (%), peso de 1
 \end_inset
 
 000 semillas (g), peso hectolitrico (
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 ), diámetro de semillas (mm), espesor de semillas (mm), color de semillas,
@@ -1478,13 +1478,6 @@ g).
 Tratamientos
 \end_layout
 
-\begin_layout Enumerate
-
-\series bold
-Fase de selección
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -1517,11 +1510,17 @@ pagestyle{lscape}
 
 \end_layout
 
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -1546,6 +1545,7 @@ Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
 \begin_inset Tabular
 <lyxtabular version="3" rows="25" columns="8">
 <features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -1553,8 +1553,7 @@ Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
+<row topspace="default" bottomspace="default" interlinespace="default">
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -3828,7 +3827,6 @@ end{landscape}
 
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 
 \series bold
@@ -7621,7 +7619,7 @@ Fase de conservación
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -7732,7 +7730,7 @@ T3
 \begin_inset Formula $\pm$
 \end_inset
 
-2°C
+2
 \end_layout
 
 \end_inset
@@ -8136,18 +8134,13 @@ Evaluación sensorial
 \end_layout
 
 \begin_layout Standard
-Se llevó a cabo en dos sesiones considerando las recomendaciones señalas
- por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Anzaldua_2005"
-
-\end_inset
-
-; la primera sesión se realizó en el Instituto de Alta Cocina Juan Pablo
- II; con la participación de 10 jurados, quienes degustaron diferentes presentac
-iones de germinados de variedades comerciales de quinua (Pasankalla, Blanca
- de Junín, Negra Collana y Amarilla Maranganí) y de la accesión UNSCHLGBV60405
+Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
+ de Alta Cocina Juan Pablo II; con la participación de 10 jurados, quienes
+ degustaron diferentes presentaciones de germinados (croquetas de garbanzón
+ con brotes de quinua, rollitos de espinaca y brotes de quinua, brusquetas
+ con brotes de quinua y causitas crocantes de yuca en escabechado de brotes
+ de quinua) de variedades comerciales de quinua (Pasankalla, Blanca de Junín,
+ Negra Collana y Amarilla Maranganí) y de la accesión UNSCHLGBV60405
 \series bold
 116
 \series default
@@ -8156,38 +8149,22 @@ iones de germinados de variedades comerciales de quinua (Pasankalla, Blanca
 
 \begin_layout Standard
 La segunda sesión se llevo a cabo en el LGBV, con 10 jurados, quienes realizaron
- la degustación de germinados de la mezcla de las 10 accesiones seleccionadas,
- producidas a 24, 48 y 72 horas, bajo condiciones de luz completa, oscuridad
- completa y 12 horas luz-12 horas oscuridad
+ la degustación de germinados de las 10 accesiones seleccionadas producidas
+ a 24, 48 y 72 horas, bajo condiciones de luz completa, oscuridad completa
+ y 12 horas luz-12 horas oscuridad.
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
-La sesión inció a las 11am con el fin de que los catadores no asistieran
- ni saciados de una comida previa ni con excesivo apetito.
-\end_layout
-
-\begin_layout Standard
-Al inicio de la sesión se le dio instrucciones a los jueces sobre como realizar
- las evaluaciones y se les suministró, además de las muestras, un vaso de
- agua mineral, un tenedor de 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-describir
-\end_layout
+En ambas sesiones se tomó en consideración las recomendaciones señalas por
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Anzaldua_2005"
 
 \end_inset
 
-, un bolígrafo y una ficha de cata.
-\end_layout
-
-\begin_layout Standard
-Las instrucciones a los jueces son las siguientes:
+, en cuanto al ambiente, muestra, juez, condiciones para la prueba y la
+ ficha de evaluación.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8316,7 +8293,7 @@ ml y una balanza analítica de dos decimales.
  posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 .
@@ -8509,14 +8486,12 @@ Palatabilidad (escala hedónica)
 
 \begin_deeper
 \begin_layout Standard
-Se evaluó mediante una escala hedónica de 9 puntos (dulce, ácido, agridulce,
- semiamargo o amargo), para lo cual se elegirán a 10 personas al azar a
- los que se le proporcionará aproximadamente 1g de germinado, agua y un
- cuestionario.
- 
+Se evaluaron características organolépticas de sabor, olor y color; mediante
+ una escala hedónica de siete puntos (me gusta mucho, me gusta, me gusta
+ ligeramente, ni me gusta ni me disgusta, me disgusta ligeramente, me disgusta
+ y me disgusta mucho).
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
@@ -8541,6 +8516,7 @@ El análisis sensorial de degustación se realizó para evaluar las característ
 
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
 
 \series bold
