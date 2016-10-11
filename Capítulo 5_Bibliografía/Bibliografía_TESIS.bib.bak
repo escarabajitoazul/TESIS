@@ -142,6 +142,16 @@
   Timestamp                = {2015.12.10}
 }
 
+@Book{Castellion_2008,
+  Title                    = {Procesos de deterioro y mecanismos de protección y reparación involucrados en la pérdida diferencial de la viabilidad durante el almacenamiento en semillas de \textit{Chenopodium quinoa} Willd},
+  Author                   = {Castellión, M. L.},
+  Year                     = {2008},
+  Note                     = {Tesis doctoral en Ciencias Biológicas, Universidad de Buenos Aires.},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.08}
+}
+
 @Electronic{Cervilla_2011,
   Title                    = {Propiedades ffísica de semillas y análisis proximal de hharina de Chenopodium quinoa Willd cosechadas en distintos años y provenientes de la provincia de Salta},
   Author                   = {Cervilla, N. S. and Mufari, J. R. and Calandri, E. and Guzmán, C. A.},
@@ -243,6 +253,26 @@
   Timestamp                = {2015.12.18}
 }
 
+@Book{Espinosa_2007,
+  Title                    = {Evaluación sensorial de los alimentos},
+  Author                   = {Espinosa, C. J.},
+  Publisher                = {Cuba: Editorial universitaria},
+  Year                     = {2007},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
+}
+
+@Electronic{FAO_2014,
+  Title                    = {Normas para bancos de germoplasma de recursos fitogenéticos para la alimentación y la agricultura},
+  Author                   = {FAO},
+  Note                     = {Disponible desde: <http://www.fao.org/agriculture/crops/mapa-tematica-del-sitio/theme/seeds-pgr/gbs/es/> Acceso 23 de julio 2016.},
+  Year                     = {2014},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
+}
+
 @Electronic{FAO_2011,
   Title                    = {La quinua: cultivo milenario para contribuir a la seguridad alimentaria mundial},
   Author                   = {FAO},
@@ -270,6 +300,16 @@
 
   Owner                    = {usuario},
   Timestamp                = {2016.05.04}
+}
+
+@Electronic{Rev_Franco_2008,
+  Title                    = {Los bancos de germoplasma en las Américas},
+  Author                   = {Franco, T.},
+  Note                     = {\textit{Recursos naturales y ambiente}. Recuperado de http://www.planttreaty.org/es/content/los-bancos-de-germoplasma-en-las-am%C3%A9ricas},
+  Year                     = {2008},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
 }
 
 @Book{Garcia_2006,
@@ -312,6 +352,16 @@
   Timestamp                = {2015.12.26}
 }
 
+@Electronic{Rev_Gonzalez_2013,
+  Title                    = {Quinoa: aspectos biológicos, propiedades nutricionales y otras consideraciones para su mejor aprovechamiento},
+  Author                   = {González, J. A. and Prado, F. E.},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Year                     = {2015, 27 de abril},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.07}
+}
+
 @Electronic{Gutierrez_2007,
   Title                    = {Germinación y crecimiento inicial de semillas de maíz con envejecimiento natural},
   Author                   = {Gutiérrez, G. F. and Vargas, J. V. and Arellano, J. L.},
@@ -323,12 +373,32 @@
 }
 
 @Electronic{Hernandez_2005,
+  Title                    = {Evaluación sensorial},
+  Author                   = {Hernandez, E.},
+  Note                     = {Disponible desde: <http://es.slideshare.net/terelibo/mevaluacion-sensorial-alimentos> Acceso 19 de julio 2016.},
+  Year                     = {2005},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
+}
+
+@Electronic{Hernandez_2005,
   Title                    = {Extracción y cuantificación indirecta de las saponinas de Agave lechuguilla Torrey},
   Author                   = {Hernández, R. and Lugo, E. C. and Díaz, L. and Villanueva, S.},
   Year                     = {2005},
 
   Owner                    = {usuario},
   Timestamp                = {2016.05.04}
+}
+
+@Electronic{Herrera_2013,
+  Title                    = {¿Qué es un banco de germoplasma?},
+  Author                   = {Herrera, G. J.},
+  Note                     = {Disponible desde: <http://www.cicy.mx/Sitios/Germoplasma/> Acceso 09 de octubre 2016.},
+  Year                     = {2013},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
 }
 
 @Book{Huanca_col_2013,
@@ -369,6 +439,16 @@
 
   Owner                    = {usuario},
   Timestamp                = {2016.09.25}
+}
+
+@Electronic{Rev_Jimenez_2013,
+  Title                    = {Propiedades físico-químicas, estructurales y de calidad en semillas de quinua (\textit{Chenopodium quinoa}) variedad CICA, con evaluación de la eficiencia de un proceso artesanal de escarificación en seco},
+  Author                   = {Jiménez, P. L. and Armada, M. and Gómez, S. E.},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Year                     = {2015, 27 de abril},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.07}
 }
 
 @Electronic{Kader_1992,
@@ -549,6 +629,16 @@
   Timestamp                = {2015.12.10}
 }
 
+@Book{Reynaga_2013,
+  Title                    = {Caracterización físico-química y nutricional de los 13 ecotipos de quinua real (Chenopodium Quinoa Willd.) del altiplano sur de Bolivia con fines agroindustriales y exportación},
+  Author                   = {Reynaga, A. and Quispe, M. and Calderon, I. and Huarachi, A. and Soto, J. L.},
+  Publisher                = {En Vargas, M. (Ed). Congreso científico de la quinua (Memorias) (pp. 517-525). Bolivia: GrafikaLeal},
+  Year                     = {2013},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.07}
+}
+
 @Electronic{Rivera_2015,
   Title                    = {Caracterización sensorial y culinaria de germoplasma de judía grano (Phaseolus vulgaris L.) y aplicación a la mejora genética},
   Author                   = {Rivera, Ana},
@@ -579,6 +669,16 @@
   Timestamp                = {2015.12.17}
 }
 
+@Electronic{Sangronis_2006,
+  Title                    = {alfa-galactósidos y fitatos en semillas germinadas de \textit{Phaseolus vulgaris} y de \textit{Vigna sinensis}},
+  Author                   = {Sangronis, E. and Torres, A. and Sanabria, N.},
+  Note                     = {Disponible desde: <http://www.scielo.org.ve/scielo.php?script=sci_arttext\&pid=S0002-192X2006000400008> Acceso 25 de mayo 2016.},
+  Year                     = {2006},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.10}
+}
+
 @Electronic{SESAN_2013,
   Title                    = {Investigaciones sobre el cultivo de la quinua o quinoa (Chenopodium quinoa).},
   Author                   = {SESAN},
@@ -607,6 +707,16 @@
 
   Owner                    = {usuario},
   Timestamp                = {2015.12.18}
+}
+
+@Electronic{Silvina_2013,
+  Title                    = {Estudio de las propiedades nutricionales de 21 accesiones de quinua del Noroeste Argentino},
+  Author                   = {Silvina, M. and Bertero, H. D. and Pallaro, A. N.},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Year                     = {2015, 27 de abril},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.07}
 }
 
 @Electronic{Soto_2002,
@@ -657,5 +767,15 @@
 
   Owner                    = {usuario},
   Timestamp                = {2015.12.17}
+}
+
+@Book{Watts_1992,
+  Title                    = {Métodos sensoriales básicos para la evaluación de alimentos},
+  Author                   = {Watts, B. M. and Ylimaki, G. L. and Jeffery, L. E. and Elías, L. G.},
+  Publisher                = {Ottawa:CIID},
+  Year                     = {1992},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.10.09}
 }
 

@@ -205,7 +205,7 @@ porcentaje de pureza (%), peso de 1
 \end_inset
 
 000 semillas (g), peso hectolitrico (
-\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
 \end_inset
 
 ), diámetro de semillas (mm), espesor de semillas (mm), color de semillas,
@@ -8048,7 +8048,7 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename Distribución_F_Selección.png
+	filename T_F_Selección.png
 	lyxscale 10
 	scale 85
 
@@ -8109,7 +8109,7 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename 12HL-12HO.png
+	filename T_F_PG_LO.png
 	lyxscale 10
 	scale 65
 
@@ -8147,7 +8147,7 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename LC.png
+	filename T_F_PG_LC.png
 	lyxscale 10
 	scale 65
 
@@ -8184,7 +8184,7 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename OC.png
+	filename T_F_PG_OC.png
 	lyxscale 10
 	scale 65
 
@@ -8324,7 +8324,7 @@ ml para 1
 \end_inset
 
 l de agua) durante 10 minutos, luego del cual fueron enjuagadas con agua
- potable.
+ estilada para eliminar residuos.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8376,7 +8376,7 @@ Evaluación sensorial
 
 \begin_layout Standard
 Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
- de Alta Cocina Juan Pablo II; con la participación de 10 jurados, quienes
+ de Alta Cocina Juan Pablo II; con la participación de 10 jueces, quienes
  degustaron diferentes presentaciones de germinados (croquetas de garbanzón
  con brotes de quinua, rollitos de espinaca y brotes de quinua, brusquetas
  con brotes de quinua y causitas crocantes de yuca en escabechado de brotes
@@ -8534,7 +8534,7 @@ ml y una balanza analítica de dos decimales.
  posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
 \end_inset
 
 .
@@ -8618,19 +8618,8 @@ key "INEN_1988"
 \begin_inset space \thinspace{}
 \end_inset
 
-g de granos de quinua, las cuales se colocaron en tubos de ensayo más 5
-\begin_inset space \thinspace{}
-\end_inset
-
-ml de agua destilada, se agitaron por 30 segundos y se dejaron reposar por
- 30 minutos, luego del cual se volvió a repetir el procedimiento anterior,
- finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y se
- efectuó la lectura de la altura de espuma formada.
- 
-\end_layout
-
-\begin_layout Standard
-Se utilizaron tubos de ensayo con tapones de rosca de una longitud de 15
+g de granos de quinua, las cuales se colocaron en tubos de ensayo de una
+ longitud de 15
 \begin_inset space ~
 \end_inset
 
@@ -8638,11 +8627,21 @@ cm y un diámetro de 1.6
 \begin_inset space ~
 \end_inset
 
-cm, cronómetro, balanza analítica y una regla graduada de sensibilidad 0.1
+cm; más 5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de agua destilada, se agitaron por 30 segundos y se dejaron reposar por
+ 30 minutos, luego del cual se volvió a repetir el procedimiento anterior,
+ finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y se
+ efectuó la lectura de la altura de espuma formada con una regla graduada
+ de sensibilidad 0.1
 \begin_inset space ~
 \end_inset
 
 cm.
+ Al finalizar éste procedimiento se aplicaron las fórmulas correspondientes
+ para determinar el contenido de saponina presente en los granos analizados.
 \end_layout
 
 \end_deeper
@@ -8691,6 +8690,12 @@ Se obtuvo mediante el conteo de las semillas germinadas durante 24, 48 y
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+
+\series bold
+eje radícula-hipocótilo
+\end_layout
+
 \begin_layout Itemize
 
 \series bold
@@ -8771,19 +8776,17 @@ Consistió en el registro del peso seco de los germinados, después de un
  
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
-status open
+\end_deeper
+\begin_layout Itemize
 
-\begin_layout Plain Layout
-El peso de germinado sobre el peso de semilla seca permite calcular el índice
- de conversión, es decir la cantidad de semilla que se convierte en germinado.
- 
+\series bold
+Índice de conversión
 \end_layout
 
-\end_inset
-
-
+\begin_deeper
+\begin_layout Standard
+Se obtuvo mediante el peso de germinado seco sobre el peso de semilla seca,
+ es decir la cantidad de semilla que se convierte en germinado.
 \end_layout
 
 \end_deeper
@@ -8803,8 +8806,14 @@ key "Valenzuela_col_2015"
 
 \end_inset
 
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
 .
- 
 \end_layout
 
 \end_deeper

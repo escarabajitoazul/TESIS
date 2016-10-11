@@ -83,200 +83,11 @@ MARCO TEÓRICO
 \end_layout
 
 \begin_layout Section
-GERMOPLASMA
+BANCO DE GERMOPLASMA
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
-, La importancia de la caracterización y la evaluación radica en dos aspectos:
- por un lado permiten la racionalización de la conservación y por el otro
- amplían el conocimiento sobre las entradas conservadas promoviendo su uso
- (FAO, 1996).
- Ambas, caracterización y evaluación proporcionan una fuente importante
- de información para estudios de diversidad genética, permitiendo estudiar
- los patrones de variación de las especies e identificar los grupos de entradas
- con alta diversidad o características comunes (Rao y Hodgkin, 2002).
- A su vez, proporcionan la información básica sobre la que se sustentan
- los programas de mejora.
- 
-\end_layout
-
-\begin_layout Standard
-Después de la recolección y cumplimentación de los datos de pasaporte, el
- primer paso es conocer las características del material que se conserva.
- Para ello, se utilizan las herramientas convencionales en la agronomía
- y la genética, tales como las listas de descriptores de caracteres agronómicos
- y morfológicos o el análisis de fondo genético mediante marcadores moleculares.
- Dado que se trata de un equipo que trabaja en la mejora genética enfocada
- hacia las características organolépticas, la descripción de los caracteres
- sensoriales y culinarios se encuentra entre sus prioridades.
- En los últimos años este equipo ha desarrollado nuevas metodologías para
- poder realizar una descripción instrumental exhaustiva de dichos caracteres
- en los materiales que conserva (Romero del Castillo, 2011; Plans, 2014).
- Como se ha indicado, el objetivo de esta tesis es documentar la variabilidad
- recogida para racionalizar la conservación y fomentar el uso de los recursos
- fitogenéticos de judía.
-\end_layout
-
-\begin_layout Subsection
-Por qué conservar
-\end_layout
-
-\begin_layout Standard
-Zeven, 1998, citado por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
-, los recursos fitogenéticos son una materia prima insustituible para la
- creación de nuevas variedades que cubran las necesidades del presente y
- del futuro.
- En este aspecto, las variedades locales constituyen los reservorios más
- cercanos de genes “útiles” para la mejora genética vegetal.
- En ellas se encuentran los genes y combinaciones de estos que han sido
- seleccionados por la naturaleza y por los agricultores, por su adaptación,
- productividad o resistencia a diferentes estreses
-\end_layout
-
-\begin_layout Subsection
-LA CONSERVACIÓN EX SITU DE LOS RECURSOS FITOGENÉTICOS 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
- Tal y como se ha comentado hasta el momento, la conservación ex situ en
- bancos de germoplasma es la forma más extendida de conservación.
- Comprende estrategias diferentes en función del tipo de semillas que conserva
- dado que las semillas ortodoxas toleran niveles de desecación considerables
- mientras que las semillas recalcitrantes no (Roberts, 1973) .
- Las Normas para Bancos de Germoplasma de Recursos Fitogenéticos para la
- Alimentación y la Agricultura 4 (FAO, 2014) establecen una serie de principios
- básicos que todos los bancos deben cumplir: preservar la identidad de las
- accesiones, mantener la viabilidad, la integridad genética y la calidad
- de las muestras de semilla.
- También deben garantizar la seguridad física de las colecciones, la disponibili
-dad de material para su uso y la disponibilidad de información referente
- a las entradas conservadas.
- En último lugar, se establece que los bancos deben tener una gestión proactiva.
-\end_layout
-
-\begin_layout Subsection
-La mejora genética para características sensoriales y culinarias
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
-La información no solo se consigue con la expresión del rasgo y de las caracterí
-sticas especificas, sino también en las asociaciones y correlaciones entre
- los rasgos (Hodgkin et al., 2003).
- Explorar las relaciones que existen entre los diferentes caracteres permite
- a los mejoradores conocer de antemano el potencial de sus decisiones en
- los programas de mejora y de este modo hacer un diseño más efectivo de
- los mismos.
- A lo largo de esta tesis se ha puesto de manifiesto la gran variabilidad
- genética que existe para todos los caracteres sensoriales y culinarios.
- Ello permite abordar programas destinados a alcanzar todo tipo de idiotipos
- para satisfacer las demandas de diferentes grupos de consumidores.
- Sin embargo, queda por dilucidar si todas las combinaciones imaginables
- entre los diferentes caracteres son factibles o por el contrario existen
- idiotipos “imposibles” debido a fenómenos de ligamiento o, peor, pleiotropía.
- Estos fenómenos pueden darse entre caracteres sensoriales y culinarios,
- pero también con caracteres agronómicos o morfológicos.
-\end_layout
-
-\begin_layout Subsection
-Conservación de germoplasma 
-\end_layout
-
-\begin_layout Standard
-La FAO e IPGRI (1994) citado por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Calle_2010"
-
-\end_inset
-
-, recomiendan que para la conservación de germoplasma a largo plazo, el
- contenido de humedad en la semilla debe ser de 3 a 7% a una temperatura
- de -18°C;  y que el porcentaje mínimo de germinación para la conservación
- a largo plazo de las semillas debe ser de 85%, después del cual se debe
- proceder a su refrescamiento.
-\end_layout
-
-\begin_layout Standard
-La FAO (1996), Jaramillo y Baena (2000) citados por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Pinto_2013"
-
-\end_inset
-
- señalan que el germoplasma de cualquier especie, durante el tiempo que
- se mantiene conservado, puede disminuir su cantidad por el uso y su calidad
- (viabilidad) por el tiempo de almacenamiento, incluso si el germoplasma
- se encuentre almacenado en condiciones óptimas.
- Cuando esto sucede se debe multiplicar o regenerar, respectivamente, para
- esta última se debe poner a germinar una muestra de semillas por cada accesión
- para averiguar el porcentaje de germinación que posee y observar si se
- está produciendo una pérdida gradual de la viabilidad.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Pinto_2013"
-
-\end_inset
-
-:Esta actividad consistió en preparar una muestra fija de 300 semillas por
- accesión que posteriormente fue subdivididas en tres repeticiones de 100
- semillas, cada repetición se colocó en cajas petri, con papel filtro y
- humedad suficiente, posteriormente, se lle- varon a germinadores con temperatur
-as de 20°C, las evaluaciones se realizaron a partir del tercer día después
- de la siembra y se prolongaron hasta los 12 días, dependiendo de la respuesta
- de cada accesión al proceso germinativo.
- 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Germoplasma de quinua
-\end_layout
-
-\begin_layout Standard
-Con el objeto de resguardar la enorme variabilidad fenotípica y genotípica
- de la quinua que se tiene en la región Andina, desde la década de los 60
- se han implementado bancos de germoplasma a lo largo y ancho de la región,
- siendo entidades relacionadas con el sector agrario y universidades las
- encargadas de su manejo y conservación.
- El número de accesiones que se conserva en la región es variable, donde
- las entidades de Bolivia y Perú son las que mayor variabilidad de quinua
- conservan en sus bancos de germoplasma 
+Son sitios de conservación de germoplasma (material biológico) 
 \begin_inset ERT
 status open
 
@@ -284,13 +95,116 @@ status open
 
 
 \backslash
-citep[p.
- 18]{FAO_2011}
+citep{Herrera_2013}
 \end_layout
 
 \end_inset
 
-.
+, que tiene como objetivo según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2014"
+
+\end_inset
+
+ conservar a largo plazo los recursos fitogenéticos, y que estos estén disponibl
+es para los fitomejoradores, investigadores y otros usuarios; para ello
+ plantea una serie de normas que permitan una gestión adecuada de los mismos,
+ como para el caso de bancos de germoplasma de semillas ortodoxas, en la
+ que entre otros aspectos señala que para la conservación ex situ a largo
+ plazo, la temperatura debe ser -18
+\begin_inset Formula $\pm$
+\end_inset
+
+3°C, el contenido de humedad en la semilla 15
+\begin_inset Formula $\pm$
+\end_inset
+
+3
+\begin_inset space ~
+\end_inset
+
+% y el porcentaje mínimo de viabilidad 85
+\begin_inset space ~
+\end_inset
+
+% de la viabilidad inicial (después del cual se debe proceder a su regeneración
+ o a una nueva recolección).Así 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Calle_2010"
+
+\end_inset
+
+, afirma que el germoplasma de quinua almacenado a -20 ºC y secado por 40
+ y 60 horas (en desecador tipo campana con silica gel conectada a bomba
+ de vacío y en extractor de humedad); permiten su conservación a largo plazo,
+ ya que no afecta su viabilidad y calidad al mantener una humedad de 3.64
+\begin_inset space ~
+\end_inset
+
+% y 5.69
+\begin_inset space ~
+\end_inset
+
+% respectivamente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Franco_2008"
+
+\end_inset
+
+ señala también que los bancos de germoplasma son importantes para garantizar
+ la seguridad alimentaria; aunque muchos de ellos presentan ciertas limitaciones
+ como la proliferación de duplicados, los altos costos de mantenimiento
+ y la carencia de sistemas adecuados de conservación, documentación y manejo
+ del banco en general.
+\end_layout
+
+\begin_layout Subsection
+Banco de germoplasma de quinua
+\end_layout
+
+\begin_layout Standard
+FAO/WHO (2
+\begin_inset space ~
+\end_inset
+
+010), Rojas (2
+\begin_inset space ~
+\end_inset
+
+013) y Tapia (2
+\begin_inset space ~
+\end_inset
+
+009) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+, señalan que existirían unas 16
+\begin_inset space ~
+\end_inset
+
+263 accesiones de quinua de todo el mundo, concentrándose en Bolivia con
+ 6
+\begin_inset space ~
+\end_inset
+
+903 accesiones y en Perú con 4
+\begin_inset space ~
+\end_inset
+
+523 accesiones en 6 y 8 bancos de germoplasma respectivamente, dentro de
+ las cuales se distinguen cinco ecotipos (quinua de valle, de altiplano,
+ de salares, de nivel del mar y sub-tropical) y 40 variedades comerciales
+ aproximadamente.
 \end_layout
 
 \begin_layout Standard
@@ -302,30 +216,12 @@ key "FAO_2011"
 
 \end_inset
 
-, En el Perú existen varios centros de germoplasma en las Estaciones Experimenta
-les del Instituto Nacional de Investigación Agropecuaria – INIA en Illpa
- (Puno), K’ayra y Andenes (Cusco), Canáan (Ayacucho), Mantaro y Santa Ana
- (Huancayo) y Baños del Inca (Cajamarca).
- También conservan germoplasma de quinua las siguientes universidades: Agraria
- La Molina de Lima, Nacional del Centro de Junín, Nacional San Cristóbal
- de Huamanga de Ayacucho, Nacional de San Antonio Abad del Cusco, y Nacional
- del Altiplano de Puno.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Calle_2010"
-
-\end_inset
-
-, afirma que el germoplasma de quinua almacenado a -20 ºC y secado por 40
- y 60 horas (en desecador tipo campana con silica gel conectada a bomba
- de vacío (y en extractor de humedad); permiten su conservación a largo
- plazo, ya que no afecta su viabilidad y calidad al mantener una humedad
- de 3.64% y 5.69% respectivamente.
- Esto confirma que las condiciones de bajas temperaturas y bajo contenido
- de humedad prolongan la viabilidad de las semillas.
+, En el Perú existen bancos de germoplasma de quinua en las Estaciones Experimen
+tales INIA en Illpa (Puno), K’ayra y Andenes (Cusco), Canáan (Ayacucho),
+ Mantaro y Santa Ana (Huancayo) y Baños del Inca (Cajamarca); también en
+ las universidades Agraria La Molina de Lima, Nacional del Centro de Junín,
+ Nacional San Cristóbal de Huamanga de Ayacucho, Nacional de San Antonio
+ Abad del Cusco, y Nacional del Altiplano de Puno.
 \end_layout
 
 \begin_layout Section
@@ -350,15 +246,7 @@ Son unidades de diseminación y reproducción sexual de las plantas superiores,
 
  (p.
  21).
- Asimismo 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Matilla_2013"
-
-\end_inset
-
-, señala que representa la culminación de la evolución reproductiva de las
- angiospermas por constituir el órgano de dispersión y perpetuación.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -405,47 +293,26 @@ El embrión
 
 \begin_layout Standard
 Procede de la unión de la oosfera con una de las células generativas del
- tubo polínico; es diploide y está presente en las semillas viables.
+ tubo polínico por lo que es diploide.
+ Su tamaño y posición en la semilla permite la clasificación e identificación
+ de ciertas semillas en base al tamaño relativo al total de la semilla,
+ posición (periférica o axial) y a la curvatura.
 \end_layout
 
 \begin_layout Standard
-Es una planta en miniatura; constituido por el eje embrionario y los cotiledones
-, cuya inserción divide en dos partes al eje embrionario.
- La parte superior o epicótilo; se compone de un corto tallito, del tallo
- epicotíleo y de la plúmula, la cual está formada por el primer par de hojas
- verdaderas que rodea y protege al ápice vegetativo, a veces se denomina
- plúmula a todo el epicótilo.
- La parte inferior del eje embrionario, se compone del hipocótilo o tallo
- hipocotíleo y la radícula.
- Normalmente es muy difícil distinguir estas dos partes pues la diferenciación
- vascular, que lo permitiría, no comienza hasta después de iniciada la germinaci
-ón.
+Está conformado por el eje embrionario y los cotiledones, cuya inserción
+ divide al eje embrionario en dos partes, el epicótilo o parte superior
+ y el hipocótilo o parte inferior; el epicótilo está constituido por el
+ tallo epicotíleo y por el primer par de hojas verdaderas que rodean y protegen
+ al ápice vegetativo (plúmula), mientras que el hipocótilo está compuesto
+ por el tallo hipocotíleo y por la radícula.
+ 
 \end_layout
 
 \begin_layout Standard
-En las semillas hipogeas, el hipocótilo no se diferencia ni crece; en semillas
- epigeas el hipocótilo crece rápidamente, arrastrando consigo a los cotiledones
- y sacándolos a la superficie; siendo la separación entre hipocotilo y radícula
- visible, por el sentido de su crecimiento.
-\end_layout
-
-\begin_layout Standard
-Los cotiledones son consideradas como las primeras hojas de las plántulas
- epígeas de las dicotiledóneas; además en numerosas especies constituyen
- el principal incluso único almacén de reservas nutritivas como en leguminosas
- y crucíferas, en las cuales son gruesos y ocupan la mayor parte de la semilla;
- sin embargo, en otras semillas las reservas nutritivas están localizadas
- en el endospermo o raramente en el perispermo; en tales casos tienen un
- tamaño reducido y ocupan poco espacio en la semilla, siendo su función
- la de servir de intermediarios en el transporte de sustancias nutritivas
- hasta el eje embrionario mediante haces provasculares.
-\end_layout
-
-\begin_layout Standard
-El tamaño y posición del embrión en la semilla es muy variable, pero importante
- para la clasificación e identificación de ciertas semillas en base a tres
- caracteres principales: tamaño relativo al total de la semilla, posición
- (periférica o axial) y curvatura.
+Los cotiledones pueden constituir el principal almacén de reservas nutritivas
+ ocupando la mayor parte de la semilla; cuando no lo son, tienen un tamaño
+ reducido y ocupan poco espacio en la semilla.
 \end_layout
 
 \begin_layout Subsubsection
@@ -457,32 +324,27 @@ El endospermo
 \begin_layout Standard
 Procede de la unión de los núcleos polares con la segunda célula generativa
  del tubo polínico, por lo que es triploide o poliploide.
- 
-\end_layout
-
-\begin_layout Standard
-Originalmente es líquido pero a medida que se va desarrollando se convierte
+ Originalmente es líquido pero a medida que se va desarrollando se convierte
  en un tejido sólido; sin embargo, existen algunas semillas maduras con
- endospermo líquido como los cocos.
+ endospermo líquido como el coco.
 \end_layout
 
 \begin_layout Standard
-Puede formar la mayor parte de las reservas nutritivas en casi todos los
- casos en los que los cotiledones no lo hacen; sin embargo, en las semillas
- en las que el endospermo no constituye la reserva principal, éste suele
- persistir pero sus células pueden estar totalmente aplastadas, muertas
- y no funcionales o pueden estar reducido a una capa de células de aleurona,
- mientras que en algunas semillas son totalmente reabsorbidos durante el
- desarrollo del grano.
-\end_layout
-
-\begin_layout Standard
-En las semillas con endospermo plenamente desarrollado como la cebada, éste
- se compone de la capa de aleurona y del endospermo harinoso; este último
- está formada por células parenquimatosas de paredes delgadas llenas de
- granos de almidón y ubicados en la zona central; mientras que la aleurona
- está formada por células vivas que rodea totalmente al resto del endospermo
+Está constituido por la capa de aleurona y por el endospermo harinoso; este
+ último está formado por células parenquimatosas de paredes delgadas llenas
+ de granos de almidón, ubicados en la zona central; mientras que la aleurona
+ está formada por células vivas que rodean totalmente al resto del endospermo
  y al embrión por proceder del saco embrionario donde está inmerso el cigoto.
+\end_layout
+
+\begin_layout Standard
+Puede constituir la mayor parte de las reservas nutritivas en casi todos
+ los casos en los que los cotiledones no lo hacen; sin embargo, en las semillas
+ en las que el endospermo no constituye la reserva principal, éste suele
+ persistir pero sus células están aplastadas, muertas y no funcionales o
+ pueden estar reducido a una capa de células de aleurona, mientras que en
+ algunas semillas son totalmente reabsorbidos durante el desarrollo del
+ grano.
 \end_layout
 
 \begin_layout Subsubsection
@@ -506,190 +368,14 @@ Las cubiertas
 \end_layout
 
 \begin_layout Standard
-Está constituido por las cubiertas exteriores y por la testa; esta última
- procede del desarrollo de los tegumentos del óvulo y es diploide por ser
- de origen materno.
-\end_layout
-
-\begin_layout Standard
-La testa presenta un relieve, color y textura muy variable; posee dos partes;
- la capa exterior o epidermis suele estar cubierta por la cutícula frecuentement
-e cérea o grasa y la capa interior o hipodermis que está en contacto con
- el endospermo.
- La testa constituye la protección exterior de la semilla; sin embargo,
- existen casos en que la testa desaparece quedando la cubierta exterior
- formada por las capas periféricas del endospermo o ser carnosa y jugosa
- como en las magnoliáceas.
- 
-\end_layout
-
-\begin_layout Standard
-En la superficie de la testa se observan, más o menos diferenciadas, todas
- o algunas de las siguientes estructuras:
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-El hilo
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es la cicatriz dejada por el desprendimiento del funículo del óvulo, al
- secarse la semilla.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-El micrópilo
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es un orificio puntiforme, a veces microscópico que corresponde al micropilo
- del óvulo.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-La cálaza (chalaza)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es una protuberancia que corresponde al lugar donde estaba situada la cálaza
- del óvulo.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-El rafe
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Es la marca que deja el haz fibrovascular que, en el óvulo, unía el funículo
- con la cálaza; se extiende desde el hilo hasta la cálaza; siguiendo la
- misma trayectoria, la porción que une la cálaza con el micrópilo se denomina
- antirrafe.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-La testa puede estar protegida por otras estructuras, que proceden del desarroll
-o de los tejidos del ovario o de otras partes de la flor; las cuales constituyen
- las cubiertas exteriores de la semilla, estas pueden ser:
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-Frutos secos
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Proceden del desarrollo total o parcial del ovario; existen diferentes tipos
- que se diferencian por su origen en relación con las partes de la flor
- o con su estructura; los principales son:
-\end_layout
-
-\begin_layout Itemize
-Cariópside: presenta un pericarpio delgado unido fuertemente a una testa
- rudimentaria, las cuales, a su vez, están íntimamente unidos al endospermo
- y al embrión.
- En los cereales la cariópside es un fruto seco indehiscente y en las gramíneas
- están cubiertas por las glumillas.
-\end_layout
-
-\begin_layout Itemize
-Aquenio: el pericarpio no está unido al embrión o lo está en un solo punto,
- por lo que las capas protectoras mantienen su individualidad.
-\end_layout
-
-\begin_layout Itemize
-Núculas: el pericarpio es leñoso y no está unida al endospermo.
-\end_layout
-
-\begin_layout Itemize
-Frutos incompletos: la cubierta puede provenir solamente de una parte de
- los tejidos del ovario, como en semillas procedentes de frutos carnosos,
- que tienen únicamente al endocarpio duro y resistente habiéndose desprendido
- o eliminado el mesocarpio y el exocarpio.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Otros tipos de cubiertas
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Son las cubiertas exteriores que proceden de las partes florales e inflorescenci
-as o que incluyen algunas partes de estas como el cáliz de la flor en el
- trébol, segmentos de raquis en los cariópsides.
-\end_layout
-
-\end_deeper
-\begin_layout Subsection
-Morfología
-\end_layout
-
-\begin_layout Standard
-De acuerdo con 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Besnier_1989"
-
-\end_inset
-
-, las semillas presentan una morfología exterior muy variable, debido a
- las diferencias entre familias botánicas; principalmente en aquellas compuestas
- por numerosos géneros y especies sometidas a muy diversas presiones adaptativas
-, como la presión selectiva del hombre; a los tipos de cubiertas exteriores;
- al tamaño y a la forma de las mismas; estas últimas no solamente originan
- polimorfismo dentro de una misma familia, género o especie sino polimorfismo
- dentro de una misma planta.
- 
+Está constituido por las cubiertas exteriores (proceden del desarrollo de
+ los tejidos del ovario o de otras partes de la flor) y por la testa; esta
+ última procede del desarrollo de los tegumentos del óvulo por lo que es
+ diploide y constituye la protección exterior de la semilla.
 \end_layout
 
 \begin_layout Subsection
 Desarrollo de la semilla
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Matilla_2013"
-
-\end_inset
-
- señala que la duración del desarrollo de las semilla depende del tipo de
- semilla; así, en 
-\emph on
-A.
- thaliana
-\emph default
- (crucífera) oscila entre 25 y 26 días; en 
-\emph on
-Z.
- mays 
-\emph default
-(gramínea) entre 40 y 50 días y en 
-\emph on
-Prunus domestica
-\emph default
- (rosácea) entre 95-100 días.
- 
 \end_layout
 
 \begin_layout Standard
@@ -717,48 +403,32 @@ Formación del cigoto
 \begin_deeper
 \begin_layout Standard
 El grano de polen que llega al estigma de una flor contiene, dos o tres
- células haploides.
- La mayor de estas células, es la célula vegetativa, que está constituido
- por una vacuola, un citoplasma rico en almidón y orgánulos (plastidios
- y mitocondrias) y un núcleo; esta célula es la que dará origen al tubo
- polínico.
- Las células más pequeñas, que ocupan una posición excéntrica, son las células
- generativas, las cuales, están constituidas por un citoplasma muy reducido
- y compacto, casi exento de orgánulos y con escasas reservas hidrocarbonadas.
- Cuando el grano de polen contiene una sola célula generativa, la segunda
- célula generativa se forma durante el crecimiento del tubo polínico.
+ células haploides; la mayor es la célula vegetativa que da origen al tubo
+ polínico, las pequeñas son las células generativas; si el grano de polen
+ contiene una sola célula generativa, la segunda se forma durante el crecimiento
+ del tubo polínico.
 \end_layout
 
 \begin_layout Itemize
-Germinación del polen: el polen mantiene su viabilidad durante un lapso
- de tiempo variable según especies y condiciones ambientales; en cereales
- suele permanecer viable durante unas 24 horas.
- Cuando se establece el contacto entre el grano de polen y el estigma, el
- grano de polen absorbe humedad y la germinación se produce a los pocos
- minutos de haber establecido contacto.
- La célula vegetativa emite un tubo polínico que sale por uno de los poros
- de la cubierta, el cual penetra bajo la cutícula de las papilas del estigma
- y alcanza el estilo avanzando por el interior de este, a través de un canal
- mucilaginoso en monocotiledóneas o a través de los espacios intercelulares
- en dicotiledoneas; hasta que el tubo polínico consigue alcanzar la nucela
- del ovario llegando finalmente al micropilo de un óvulo.
+Germinación del polen: cuando se establece el contacto entre el grano de
+ polen y el estigma, el grano de polen absorbe humedad y la célula vegetativa
+ emite un tubo polínico que sale por uno de los poros de la cubierta, penetrando
+ bajo la cutícula de las papilas del estigma, avanzando por el interior
+ del estilo y de la nucela del ovario hasta llegar al micropilo de un óvulo.
 \end_layout
 
 \begin_layout Itemize
 La doble fecundación: En el extremo micropilar del saco embrionario se encuentra
  la oosfera (gameto femenino) y las dos células sinérgidas, en el extremo
- opuesto están situados tres o más células antípodas y en el centro están
- los dos núcleos polares que pueden permanecer separados hasta la fecundación
- o fundirse en el denominado núcleo diploide.
- El tubo polínico, que en su crecimiento a ido arrastrando a los dos núcleos
- de las células generativas, penetra en una de las células sinérgidas y
- descarga en ella su contenido: el núcleo vegetativo, las dos células generativa
-s y parte del citoplasma del propio tubo polínico.
- Una vez efectuada esta descarga , el núcleo vegetativo, el núcleo de la
- sinérgida y su citoplasma degeneran y los dos núcleos generativos se desplazan
- lentamente, uno hacia la oosfera y otro hacia el núcleo diploide del saco
- embrionario con los que se funden al cabo de cierto tiempo produciéndose
- el cigoto y el núcleo triploide del saco embrionario, respectivamente.
+ opuesto tres o más células antípodas y en el centro dos núcleos polares
+ que pueden permanecer separados hasta la fecundación o fundirse en el denominad
+o núcleo diploide.
+ El tubo polínico, penetra en una de las células sinérgidas y descarga en
+ ella su contenido, una vez efectuada esta descarga degenera; uno de los
+ núcleos generativos se desplaza hacia la oosfera y el otro hacia el núcleo
+ diploide del saco embrionario con los que se funden al cabo de cierto tiempo
+ produciéndose el cigoto y el núcleo triploide del saco embrionario, respectivam
+ente.
  
 \end_layout
 
@@ -783,8 +453,7 @@ Desarrollo del endospermo: el núcleo triploide del saco embrionario se divide
  de células; sin embargo, en ocasiones, la parte más alejada del micrópilo
  no forma paredes celulares y en determinadas especies todo el endospermo
  permanece en estado líquido; el cual suele reabsorberse en la mayoría de
- las especies pero en otras se mantiene hasta la maduración como en la semilla
- de coco.
+ las especies.
  Después se forman haustorios, que penetran en la cálaza o en la región
  nucelar del micrópilo y suministran nutrientes al embrión en desarrollo.
 \end_layout
@@ -800,8 +469,7 @@ key "Matilla_2013"
  afirma que después de que se forman las paredes celulares se produce una
  expansión celular para que se depositen las sustancias de reserva (almidón
  y proteínas, fundamentalmente) y luego se forman y diferencian las capas
- aleuronares; asimismo señala que las auxinas y las citoquininas son las
- fitohormonas predominantes en esta etapa de desarrollo.
+ aleuronares.
 \end_layout
 
 \end_deeper
@@ -813,9 +481,6 @@ Formación del embrión: el cigoto se divide transversalmente en dos células,
 o y le aporta nutrientes desde el tejido materno.
  La célula apical está próxima a la chalaza y tras continuar dividiéndose
  y diferenciandose da origen al embrión.
- El crecimiento de los embriones de dicotiledoneas es simétrico por lo que
- se forma un embrión acorazonado (dos cotiledones), mientras que en las
- monocotiledoneas es asimétrico lo que da lugar a un solo cotiledón.
  Según 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -871,8 +536,7 @@ Desarrollo de las cubiertas seminales: la nucela se reabsorbe en la mayoría
 Flujo de nutrientes: antes de la fecundación, los óvulos son alimentados
  por medio de haces vasculares que provienen del ovario; una vez realizada
  la fecundación, todos los nutrientes que llegan a la semilla en formación
- lo hacen a través del floema, el cual lleva grandes cantidades de azúcares,
- sobre todo de sacarosa así como aminoácidos y aminas.
+ lo hacen a través del floema.
  Los nutrientes que llegan al óvulo fecundado se utilizan, en primer lugar,
  para el desarrollo de los procesos metabólicos normales en todos los tejidos
  en rápido crecimeinto, o sea, respiración, duplicación cromosómica, síntesis
@@ -966,15 +630,7 @@ e en fructosa y luego en difosfato de glucosa ligado a nucleótidos; en la
  fase final, el difosfato de glucosa y adenosina va liberando moléculas
  de glucosa que se van uniendo en foma lineal (amilosa) y en forma ramificada
  (amilopectina); las cuales en proporciones variables, forman el almidón.
- Según 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Matilla_2013"
-
-\end_inset
-
-, los hidratos de carbono de la semilla proceden de la actividad fotosintética
- de la planta y mayoritariamente son importados vía floema.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -994,9 +650,8 @@ Síntesis de fitina: los nutrientes minerales se acumulan en forma de fitina
 \end_layout
 
 \begin_layout Standard
-La constitución genética y los factores ambientales, pueden alterar profundament
-e los mecanismos de síntesis de las reservas nutritivas y la composición
- de estas.
+La constitución genética y los factores ambientales, pueden alterar los
+ mecanismos de síntesis de las reservas nutritivas y la composición de estas.
 \end_layout
 
 \end_deeper
@@ -1027,7 +682,7 @@ key "Matilla_2013"
 
  señala que una semilla está madura cuando se produce un descenso en el
  peso fresco de la semilla por pérdida de agua y presenta niveles elevados
- de ácido Abscísico; este último es el responsable de que, en la planta
+ de ácido abscísico; este último es el responsable de que, en la planta
  madre, la semilla no pase directamente de la embriogénesis a la germinación
  promoviendo la dormición primaria de la semilla; además es el responsable
  de la morfogénesis del embrión y de la tolerancia a la desecación por su
@@ -1050,12 +705,15 @@ Desecación
 
 \begin_deeper
 \begin_layout Standard
-Una vez que se a cerrado el aporte de agua y nutrientes a la semilla, en
- la mayoría de las plantas comienza un proceso de desecación, que es un
- fenómeno físico, cuya rapidez depende de las propias características de
- la semilla y de las condiciones ambientales, lo cual conlleva a la pérdida
- de peso de la semilla.
- 
+Una vez que se a cerrado el aporte de agua y nutrientes a la semilla, comienza
+ un proceso de desecación, que es un fenómeno físico, cuya rapidez depende
+ de las características de la semilla y de las condiciones ambientales,
+ lo cual conlleva a la pérdida de peso de la semilla; sin embargo, la desecación
+ rápida en semillas que aún no han alcanzado la maduración causa pérdidas
+ de viabilidad .
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Matilla_2013"
@@ -1069,21 +727,11 @@ mo y cotiledones).
 \end_layout
 
 \begin_layout Standard
-La desecación rápida en semillas que aún no han comenzado la fase de maduración
- causa pérdidas de viabilidad; por ello, los criterios agrícolas sobre madurez
- de los granos que van a ser recolectados para su industrialización, no
- pueden aplicarse a la generalidad de las semillas.
-\end_layout
-
-\begin_layout Standard
 En las semillas secas, los componentes celulares sintetizadores y de reserva
- de los ácidos nucleicos, hormonas y enzimas están destruidos en el endospermo
- de los cereales y los cotiledones de muchas semillas no endospermicas,
- debiendo reconstruirse estos componentes en los tejidos que son funcionales
- tras la germinación; sin embargo, en el embrión de las semillas endospérmicas
- y no endospérmicas los ribosomas permanecen funcionales y almacenan ácido
- desoxirribonucleico que participa en la síntesis de proteínas durante la
- germinación.
+ están destruidos en el endospermo y los cotiledones, sólo los ribosomas
+ del embrión permanecen funcionales y almacenan ácido desoxirribonucleico,
+ que participa en la síntesis de proteínas durante la germinación.
+ 
 \end_layout
 
 \end_deeper
@@ -1230,20 +878,16 @@ key "Matilla_2013"
 
  señala que es el bloqueo de una semilla viable que le impide completar
  su germinación en condiciones favorables, lo divide en primaria y secundaria;
- así, en la dormición primaria la capacidad germinativa de una semilla está
- bloqueada antes de su dispersión, esto impide su germinación en la planta
- madre, este hecho está relacionado con el contenido de ácido abscísico
- en semillas ortodoxas; sin embargo, niveles menores de 25-50% de ácido
- abscísico o la falta de sensibilidad a éste durante la fase media-final
- de la embriogénesis cigótica provoca la germinación de las semillas en
- la planta madre (viviparismo).
- La dormición secundaria aparece después de la dispersión de la semilla
- y está relacionado con las condiciones medioambientales donde cae la semilla.
- 
-\end_layout
+ menciona que en la dormición primaria, la capacidad germinativa de una
+ semilla está bloqueada antes de su dispersión por la presencia de más de
+ 25-50
+\begin_inset space ~
+\end_inset
 
-\begin_layout Standard
-
+% de ácido abscísico, lo que evita su germinación en la planta madre (viviparism
+o); mientras que la dormición secundaria aparece después de la dispersión
+ de la semilla, relacionado con las características morfológicas y fisiológicas
+ de la semilla que le impiden germinar.
 \end_layout
 
 \begin_layout Standard
@@ -1351,6 +995,10 @@ citep[p.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Besnier_1989"
@@ -1363,6 +1011,11 @@ key "Besnier_1989"
  es cuando la plántula surgida de la semilla está completa y se pueden apreciar
  la integridad de sus estructuras; para el caso de las semillas situadas
  en el suelo, la germinación culmina cuando las plántulas emerger del terreno.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1417,25 +1070,22 @@ Fase de crecimiento
 Es la última fase de la germinación y se asocia con la emergencia de la
  radícula, se caracteriza por que la absorción de agua vuelve a aumentar,
  así como la actividad respiratoria y la actividad metabólica.
-\end_layout
-
-\begin_layout Standard
+ Según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Matilla_2013"
 
 \end_inset
 
- señala que la emergencia de la radícula ocurre por el ablandamiento de
- la pared celular y la acción posterior de la presión de turgencia de las
- células localizadas en la zona de elongación.
+ la emergencia de la radícula ocurre por el ablandamiento de la pared celular,
+ y la acción posterior de la presión de turgencia ejercida por las células
+ localizadas en la zona de elongación.
 \end_layout
 
 \begin_layout Standard
-Los procesos de germinación en las dos primeras fases son reversibles, mientras
- que en la fase de crecimiento es irreversible; por lo que las semillas
- que superan la fase de germinación pasan a la fase de crecimiento originando
- una plántula o por el contrario mueren.
+Los procesos de germinación en las dos primeras fases son reversibles; por
+ lo que las semillas que superan la fase de germinación pasan a la fase
+ de crecimiento originando una plántula o por el contrario mueren.
  
 \end_layout
 
@@ -1496,19 +1146,25 @@ key "Besnier_1989"
  casi constante, en la que se desencadenan procesos metabólicos en las zonas
  humedecidas de la semilla y una fase final de intensa absorción de agua
  que está relacionado con la aparición de la radícula.
- 
+ Al respecto 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Matilla_2013"
 
 \end_inset
 
- indica que en la fase inicial la semilla seca (5-10% de contenido en agua)
- tiene un potencial hídrico muy negativo de aproximadamente 100 MPa, por
- lo que tiende a imbibirse muy deprisa, mientras que en la fase intermedia
- el potencial hídrico de la semilla es de 1 a 1.5 MPa; menciona además que
- las semillas que están en estado de dormición sólo atraviesan las dos primeras
- fases por razones aún desconocidas.
+ indica que en la fase inicial, la semilla seca (5-10% de contenido en agua)
+ tiene un potencial hídrico muy negativo de aproximadamente 100
+\begin_inset space ~
+\end_inset
+
+MPa, por lo que tiende a imbibirse muy deprisa, mientras que en la fase
+ intermedia el potencial hídrico de la semilla es de 1-1.5
+\begin_inset space ~
+\end_inset
+
+MPa; menciona además que las semillas que están en estado de dormición sólo
+ atraviesan las dos primeras fases por razones aún desconocidas.
 \end_layout
 
 \begin_layout Standard
@@ -1517,7 +1173,7 @@ key "Matilla_2013"
 
 La duración de cada fase depende de las características de la semilla (tamaño,
  contenido de sustratos hidratables, permeabilidad de la cubierta seminal,
- toma de O 2 , etc.) y de las condiciones externas en las que se produce
+ toma de oxígeno, etc.) y de las condiciones externas en las que se produce
  la imbibición (temperatura, composición del sustrato del suelo, contenido
  de humedad)
 \begin_inset Quotes frd
@@ -1537,7 +1193,7 @@ citep[p.
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Subsection
@@ -1664,11 +1320,24 @@ key "Besnier_1989"
 
 , la actividad metabólica inicial de la semilla embebida; en gran parte,
  es para reparar las mitocondrias, retículo endoplasmático y aparato de
- Golgi, que han quedado dañados por la desecación; la pérdida de viabilidad
- en semillas secas puede deberse a la incapacidad de realizar estas reparaciones.
- Cuando incrementa el número de mitocondrias, prolifera el retículo endoplasmáti
-co y el aparato de Golgi, se incrementa la actividad metabólica de la semilla.
+ Golgi (incrementan la actividad metabólica de la semilla), que han quedado
+ dañados por la desecación; la pérdida de viabilidad en semillas secas puede
+ deberse a la incapacidad de realizar estas reparaciones.
  
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+, los genes expresados en el período de imbibición de las semillas viables
+ codifican enzimas y otras proteínas necesarias para la actividad metabólica
+ celular básica (respiración, síntesis de membranas, síntesis de ácidos
+ nucleicos y proteínas).
 \end_layout
 
 \begin_layout Subsubsection
@@ -1717,20 +1386,6 @@ citep{Besnier_1989}
 
 .
  
-\end_layout
-
-\begin_layout Standard
-Según 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Matilla_2013"
-
-\end_inset
-
-, los genes expresados en el período de imbibición de las semillas viables
- codifican enzimas y otras proteínas necesarias para la actividad metabólica
- celular básica (respiración, síntesis de ácidos nucleicos y proteínas,
- síntesis de membranas).
 \end_layout
 
 \begin_layout Subsubsection
@@ -1820,7 +1475,7 @@ Promueven la síntesis de proteínas, el alargamiento de la radícula y la
 Inhibe la síntesis de la α-amilasa por las giberelinas y también la emergencia
  radicular, está última posiblemente porque dificulta el ablandamiento de
  la pared celular de la radícula y porque altera el gradiente de potencial
- hídrico entre el medio y la propia semilla 
+ hídrico entre el medio y la semilla 
 \begin_inset ERT
 status open
 
@@ -1906,7 +1561,7 @@ citep[p.
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2108,7 +1763,7 @@ citep[p.
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -2320,8 +1975,11 @@ citep{Besnier_1989}
 
 \begin_layout Standard
 La intensidad luminosa óptima para satisfacer los requerimientos de semillas
- cuya germinación es favorecida por la luz varía entre 750 y 1250 unidades
- lux 
+ cuya germinación es favorecida por la luz varía entre 750 y 1
+\begin_inset space ~
+\end_inset
+
+250 unidades lux 
 \begin_inset ERT
 status open
 
@@ -2369,7 +2027,7 @@ citep[p.
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -2395,9 +2053,13 @@ key "Garcia_2006"
 \end_inset
 
 , indica que los cotiledones permanecen enterrados y sólo la plúmula atraviesa
- el suelo, ya que el hipocotilo es muy corto, prácticamente nulo; posteriormente
- el epicótilo se alarga, apareciendo las primeras hojas verdaderas, que
- son, los primeros órganos fotosintetizadores de la plántula.
+ el suelo, ya que el hipocotilo es muy corto; posteriormente el epicótilo
+ se alarga, apareciendo las primeras hojas verdaderas, que son, los primeros
+ órganos fotosintetizadores de la plántula.
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Section
@@ -2405,9 +2067,11 @@ GERMINADOS
 \end_layout
 
 \begin_layout Standard
-Son una fuente de alimentación saludable, ya que presentan propiedades nutricion
-ales superiores a las secas.
- Son denominados también como brotes 
+Son alimentos que resultan de la germinación de las semillas, conocidos
+ como germinados, brotes o vegetales frescos (plántulas suculentas de ciclo
+ vegetativo corto que va de tres a diez días según la especie) que pueden
+ ser producidos en cualquier temporada y a bajo costo; se caracterizan por
+ presentar propiedades nutricionales superiores a las semillas secas 
 \begin_inset ERT
 status open
 
@@ -2415,7 +2079,7 @@ status open
 
 
 \backslash
-citep{Bravo_2013}
+citep{Bravo_2013; Barron_2008}
 \end_layout
 
 \end_inset
@@ -2425,17 +2089,26 @@ citep{Bravo_2013}
 \end_layout
 
 \begin_layout Standard
-Son alimentos funcionales, ya que presentan múltiples beneficios nutricionales
- y terapéuticos que contribuye a la disminución de la desnutrición de infantes,
- madres gestantes y madres lactantes (Mazza, 2000; Soleil, 2003; Urbano,
- 2005; Sangronis, 2007; Dávila, 2003; citados por 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Mazza, 2000; Soleil, 2003; Urbano, 2005; Sangronis, 2007; Dávila, 2003 citados
+ por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Chaparro_Etal_2011"
 
 \end_inset
 
-).
+ mencionan que son alimentos funcionales, ya que presentan múltiples beneficios
+ nutricionales y terapéuticos que contribuye a la disminución de la desnutrición
+ de infantes, madres gestantes y madres lactantes.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2456,7 +2129,7 @@ Tienen alto contenido de agua (70-80%).
 \end_layout
 
 \begin_layout Itemize
-Las proteínas, minerales, y vitaminas del grupo B, D y E se hacen fácilmente
+Las proteínas, minerales y vitaminas del grupo B, D y E se hacen fácilmente
  asimilables al ser consumidas.
 \end_layout
 
@@ -2475,7 +2148,23 @@ Son de sabor dulce, porque los almidones se transforman en azúcares simples
 
 \begin_layout Itemize
 No contienen elementos tóxicos y ácidos (ácido fítico, ácido oxálico) presentes
- en la semilla como defensas naturales.
+ en la semilla como defensas naturales, al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Sangronis_2006"
+
+\end_inset
+
+ encontró que la germinación en 
+\emph on
+Phaseolus vulgaris 
+\emph default
+y 
+\emph on
+Vigna sinensis
+\emph default
+ degrada los α-galactósidos, responsables de producir flatulencia a algunas
+ personas después del consumo de granos.
 \end_layout
 
 \begin_layout Itemize
@@ -2544,7 +2233,7 @@ key "FAO_2011"
 
 \end_inset
 
-, lo convierte en un alimento depurador del cuerpo por eliminar toxinas
+ lo convierte en un alimento depurador del cuerpo, por eliminar toxinas
  y residuos que puedan dañar el organismo.
 \end_layout
 
@@ -2595,7 +2284,7 @@ Existen varios métodos para producir germinados, el cual depende de muchos
 
 \begin_layout Itemize
 El agua utilizada debe ser potable, para evitar la contaminación con ciertos
- microbios; además las semillas deben ser previamente desinfectadas
+ microbios; además las semillas deben ser previamente desinfectadas.
 \end_layout
 
 \begin_layout Itemize
@@ -2679,7 +2368,7 @@ key "Bustamante_2010"
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Según Thomson (1979) citado por 
@@ -2712,30 +2401,26 @@ key "Peretti_1994"
 \end_inset
 
  señala, que el análisis de semilla se realiza en una pequeña parte del
- lote total de semillas, el cual debe ser representativa para que refleje
+ lote total de semillas, por lo que debe ser representativa para que refleje
  las cualidades del lote total, por lo que deben ser extraídas correctamente
- y al azar, de la siguiente manera:
-\end_layout
-
-\begin_layout Itemize
-Las semillas deben estar acondicionados en bolsas u otros envases etiquetados.
-\end_layout
-
-\begin_layout Itemize
-La toma de muestra debe ser al azar en el centro, en la base y en los bordes
- de los envases
-\end_layout
-
-\begin_layout Itemize
-Las submuestras obtenidas deben mezclarse, para obtener una muestra representati
-va, el cual debe disponerse en bolsas de tela o papel, previamente identificados.
-\end_layout
-
-\begin_layout Subsection
-Análisis de autenticidad de género y especie
+ y al azar, para lo cual las semillas deben estar acondicionados en bolsas
+ u otros envases etiquetados, de donde se debe tomar una muestra al azar
+ en el centro, en la base y en los bordes de los envases y finalmente las
+ submuestras obtenidas deben mezclarse, para obtener una muestra representativa,
+ el cual debe disponerse en bolsas de tela o papel, previamente identificados.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Análisis de autenticidad de género y especie
+\end_layout
+
+\begin_layout Plain Layout
 Se realiza para determinar el género y especie al que pertenecen las semillas
  evaluadas, mediante la comparación de caracteres morfológicos con semillas
  de referencia; en semillas de difícil clasificación la comparación se hace
@@ -2755,6 +2440,11 @@ citep{Peretti_1994}
 
 .
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -2871,8 +2561,8 @@ key "Peretti_1994"
 
 \end_inset
 
-, de acuerdo con las normas que propone el ISTA (1992), señala en el análisis
- en laboratorio se deben considerar los siguientes aspectos:
+, de acuerdo con las normas que propone el ISTA (1992), señala que en el
+ análisis en laboratorio se deben considerar los siguientes aspectos:
 \end_layout
 
 \begin_layout Itemize
@@ -3012,6 +2702,10 @@ citep{Peretti_1994}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Peretti_1994"
@@ -3021,17 +2715,12 @@ key "Peretti_1994"
  señala que para determinar si el análisis realizado en las distintas repeticion
 es está correcto, estas deben ser comparadas verificando que sus diferencias
  no excedan las tolerancias máximas permitidas.
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-articular con anexo
+ articula con anexo.
 \end_layout
 
 \end_inset
 
-.
+
 \end_layout
 
 \begin_layout Standard
@@ -3463,11 +3152,17 @@ key "Besnier_1989"
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
 Determinación del valor cultural o valor real
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Peretti_1994"
@@ -3478,8 +3173,13 @@ key "Peretti_1994"
  se puede calcular de la siguiente manera:
 \end_layout
 
-\begin_layout Standard
-\begin_inset Formula $VC=\frac{pureza\,(\%)\times poder\,germinativo\,(\%)}{100}$
+\begin_layout Plain Layout
+\begin_inset Formula $VC=\frac{pureza\,(\%)\times poder\, germinativo\,(\%)}{100}$
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -3513,11 +3213,15 @@ key "Peretti_1994"
 000 semillas.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Determinación del contenido de humedad
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Según 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -3529,6 +3233,11 @@ key "Besnier_1989"
  en estufa, para lo cual los recipientes con la muestra se pesan y se colocan
  en la estufa a una temperatura de 130 a 133°C durante una hora, para el
  caso de cereales durante dos horas.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3544,11 +3253,15 @@ Determinación de la densidad de siembra
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Análisis de vigor
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 De acuerdo con 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -3568,59 +3281,19 @@ key "Peretti_1994"
  determinando la velocidad de germinación y crecimiento de plántulas.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-ANÁLISIS SENSORIAL
-\end_layout
-
-\begin_layout Subsection
-Importancia económica del valor sensorial
+EVALUACIÓN SENSORIAL
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
- En los inicios de la mejora de variedades hortícolas cuando se hablaba
- de calidad se hacía referencia principalmente al aspecto exterior del producto.
- Sin embargo, en la actualidad cuando nos referimos a la calidad, abarcamos
- además, caracteres nutricionales, sensoriales o culinarios.
- Los mejoradores son conscientes de ello y por este motivo, cada vez más,
- incluyen estos aspectos en el diseño de las nuevas variedades.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
- La descripción objetiva de las entradas mediante el análisis sensorial
- y culinario constituye una herramienta fundamental para los fitomejoradores,
- ya que les permite discriminar aquellas variedades que poseen un determinado
- atributo de las que no lo poseen, y de este modo avanzar en los programas
- de mejora.
- Pero además, esta descripción permite también demostrar la superioridad
- de algunas variedades de judías para uno o varios caracteres.
- Prueba de ello son las numerosas variedades tradicionales de judías con
- marcas de calidad que encontramos en el mercado (Casquero, 2012; Lioi y
- Piergiovanni, 2013).
- Estas variedades son muy apreciadas y valoradas por los consumidores, que
- están dispuestos a pagar precios superiores a cambio de productos que satisfaga
-n sus expectativas.
- Así 1kg de Faba Asturiana IGP (Indicación Geográfica Protegida) puede alcanzar
- un valor en el mercado superior a los 12 euros y 1kg de Mongeta del Ganxet
- DOP (Denominación de Origen Protegida) entre 8 y 10 euros.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
+Son atributos de los alimentos (color, olor, aroma, gusto, sabor y textura)
+ detectados por los sentidos (vista, olfato, gusto, tacto, oído), para medir
+ la aceptabilidad de los productos alimentarios 
 \begin_inset ERT
 status open
 
@@ -3628,101 +3301,195 @@ status open
 
 
 \backslash
-begin{landscape}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{lscape}
+citep{Anzaldua_2005}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Caracterización sensorial y culinaria
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
-, La importancia de la caracterización y la evaluación radica en dos aspectos:
- por un lado permiten la racionalización de la conservación y por el otro
- amplían el conocimiento sobre las entradas conservadas promoviendo su uso
- (FAO, 1996).
- Ambas, caracterización y evaluación proporcionan una fuente importante
- de información para estudios de diversidad genética, permitiendo estudiar
- los patrones de variación de las especies e identificar los grupos de entradas
- con alta diversidad o características comunes (Rao y Hodgkin, 2002).
- A su vez, proporcionan la información básica sobre la que se sustentan
- los programas de mejora.
+.
  
 \end_layout
 
+\begin_layout Subsection
+Pruebas sensoriales
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Rivera_2015"
+key "Espinosa_2007"
 
 \end_inset
 
-, El aumento de la sensibilización por parte de los consumidores sobre las
- propiedades beneficiosas de las leguminosas, así como la aparición de nuevos
- hábitos de alimentación y nuevas tendencias de consumo, han propiciado
- la inclusión de aspectos de calidad en los programas de mejora, tales como
- los nutricionales, sensoriales y culinarios.
- Conocer la variabilidad presente en las colecciones para estos caracteres
- resulta fundamental para fomentar su utilidad.
- Sin embargo, tal y como se ha puesto de manifiesto en la introducción de
- esta tesis, la evaluación para caracteres de calidad de las colecciones
- conservadas ex situ en los bancos de germoplasma es escasa (Romero del
- Castillo et al., 2010).
- La apariencia externa de las semillas es uno de los principales criterios
- considerados por consumidores a la hora de definir sus preferencias (Jahns
- et al., 2001; Mkanda et al., 2007; Costa et al., 2011).
- A pesar de que a menudo, cuando nos referimos a las características sensoriales
- de los alimentos pensamos en la textura, el aroma o el sabor, los caracteres
- referentes al tamaño, la forma y el color también son considerados caracteres
- sensoriales (Meilgaard et al., 1999) por lo que se incluyen en esta tesis
- como parte importante de la descripción sensorial de las variedades.
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hernandez_2005"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+ indican que pueden ser afectivas o analíticas, las primeras son pruebas
+ orientadas al consumidor real o potencial, representativos de la población
+ al que va dirigido el producto, son elegidos al azar y permiten conocer
+ la aceptación, preferencia y nivel de agrado del producto evaluado; para
+ ello se utilizan escalas hedónicas que pueden varíar de 5-11 puntos.
+ Las pruebas analíticas están dirigidas al producto (control de calidad,
+ desarrollo de nuevos productos) y son evaluadas por jueces expertos o entrenado
+s.
+\end_layout
+
+\begin_layout Subsection
+Condiciones de prueba
+\end_layout
+
+\begin_layout Subsubsection
+Juez
+\end_layout
+
+\begin_layout Standard
+Son las personas que van a realizar las degustaciones, según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+ deben conocer el producto que se va a evaluar, no intercambiar opiniones
+ durante la prueba y utilizar agente enjuagante (agua, tajadas de manzana
+ pan, galleta sin sabor específico acentuado), para eliminar el sabor residual
+ que persiste después de una degustación.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Muestra
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+, deben ser representativas y presentadas de manera uniforme a todos los
+ jueces, con codificación de tres dígitos tomadas de tablas de números aleatorio
+s, las cuales deben ser diferentes para cada juez así como el orden de degustaci
+ón para evitar errores por contraste y convergencia; la cantidad debe ser
+ suficiente para ser evaluada, servidas en utensilios uniformes que no suministr
+en olores ni sabores extraños a las muestras y a la temperatura en que se
+ consumen normalmente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+ manifiestan que en el caso de alimentos que no se consumen solos se utilizan
+ diluyentes o vehículos que acompañan al producto evaluado, indican también
+ que se pueden utilizar muestras de referencia contra las cuales se realizan
+ las comparaciones de las muestras de prueba.
+\end_layout
+
+\begin_layout Standard
+Si se tienen que evaluar muchas muestras y/o tienen un sabor fuerte, se
+ debe prolongar el tiempo entre muestras o limitar la prueba hasta cinco
+ muestras por sesión 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Anzaldua_2005,Watts_1992}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Ambiente
+\end_layout
+
+\begin_layout Standard
+El ambiente de evaluación debe ser de colores claros y lisos, tener una
+ iluminación uniforme, sin ruidos, una temperatura de 20-22°C y una humedad
+ relativa de 60-70
+\begin_inset space ~
+\end_inset
+
+%.
+ El área de preparación de las muestras con el área de evaluación deben
+ ser colindantes pero independientes para evitar el paso de olores, ruidos,
+ etc.
+ Además las cabinas deben ser individuales 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Espinosa_2007}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Horario y ficha de evaluación
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hernandez_2005"
+
+\end_inset
+
+ recomienda horarios entre 9-12 de la mañana y de 3-5 en la tarde, en lo
+ posible no considerar los días lunes y viernes ya que puede haber afectaciones
+ de carácter psíquico; además menciona que las fichas no deben ser extensas
+ para no cansar a los jueces.
 \end_layout
 
 \begin_layout Section
@@ -3758,7 +3525,7 @@ key "FAO_2011"
 
 , se clasifica en la división Magnoliophyta, clase Magnoliopsida, subclase
  Caryophyllidae, orden Caryophyllales, familia Chenopodiaceae, género Chenopodiu
-m, especie 
+m y especie 
 \emph on
 Chenopodium quinoa
 \emph default
@@ -3779,7 +3546,7 @@ key "Valenzuela_col_2015"
 
 , señalan que el verdadero valor de la quinua se encuentra en la calidad
  de la proteína, por la presencia de aminoácidos esenciales (ocho de los
- 16 son considerados esenciales para niños y para adultos) principalmente
+ 16 son considerados esenciales para niños y para adultos), principalmente
  lisina (más abundante), metionina, treonina y triptófano; además por que
  su contenido de proteínas es superior a los alimentos de consumo masivo
  como el trigo, arroz y maíz que según la 
@@ -3790,26 +3557,49 @@ key "FAO_2011"
 \end_inset
 
 son deficientes en aminoácidos.
+ Asimismo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
+ señalan que no contiene gluten.
 \end_layout
 
 \begin_layout Standard
-Según Mujica (2001) citado por 
+Mujica (2
+\begin_inset space ~
+\end_inset
+
+001) citado por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bravo_2013"
 
 \end_inset
 
-, existe demanda en el mercado nacional e internacional por la quinua con
- calidad industrial, es decir de grano grande, blanco y de bajo contenido
- de saponinas.
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ manifiestan que existe demanda en el mercado nacional e internacional por
+ la quinua con calidad industrial, es decir de grano grande (cercano o mayor
+ a los 2
+\begin_inset space ~
+\end_inset
+
+mm), blanco y de bajo contenido de saponinas.
 \end_layout
 
 \begin_layout Standard
 La quinua constituye un potencial económico, ya que puede ser utilizado
  en la industria alimentaria, química, farmacéutica y cosmética; por lo
  cual en los últimos años se han ido incrementando las investigaciones para
- el desarrollo de productos combinados de manera de hacer atractivo el consumo
+ el desarrollo de productos combinados que vuelvan atractivo el consumo
  de quinua 
 \begin_inset ERT
 status open
@@ -3824,7 +3614,17 @@ citep{FAO_2011}
 \end_inset
 
 .
- 
+ Al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ considera a la quinua como una especie multipropósito, por lo que no solo
+ se debe considerar la producción de granos, sino también el desarrollo
+ de valor agregado; ya que además su producción a nivel mundial está creciendo,
+ lo cual con el tiempo podría provocar la caída de los precios.
 \end_layout
 
 \begin_layout Subsection
@@ -3843,10 +3643,10 @@ key "FAO_2011"
 
 \end_inset
 
-, la inflorescencia es racimosa y se denomina panoja por tener un eje principal
- más desarrollado, del cual se originan los ejes secundarios y en algunos
- casos terciarios; de acuerdo a la forma que esta adquiera puede ser amarantifor
-me o glomerulada en función a los ejes secundarios y pedicelos.
+, la inflorescencia es una panoja por tener un eje principal más desarrollado,
+ del cual se originan los ejes secundarios y en algunos casos terciarios;
+ de acuerdo a la forma que esta adquiera puede ser amarantiforme o glomerulada
+ en función a la longitud de los ejes secundarios y pedicelos.
 \end_layout
 
 \begin_layout Standard
@@ -3863,7 +3663,7 @@ key "FAO_2011"
  basifijas y se encuentran rodeando el ovario, cuyo estilo se caracteriza
  por tener 2 ó 3 estigmas plumosos.
  Las flores permanecen abiertas por un período que varía de 5 a 7 días,
- y como no se abren simultáneamente, se determinó que el tiempo de duración
+ y como no se abren simultáneamente, determinaron que el tiempo de duración
  de la floración está entre 12 a 15 días.
 \end_layout
 
@@ -3872,28 +3672,56 @@ El fruto
 \end_layout
 
 \begin_layout Standard
-Según miranda (2010) citado por 
+ Miranda (2010) citado por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Quiroga_2010"
 
 \end_inset
 
- y según 
+, 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dizes_1992"
 
 \end_inset
 
-, el fruto es un aquenio indehiscente que contiene un grano de tamaño menor
- a 2.6
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ señalan que el fruto es un aquenio indehiscente que contiene un grano de
+ tamaño menor a 2.6
 \begin_inset space ~
 \end_inset
 
-mm de diámetro, que puede ser de color blanco, amarillo, rosado, cafe, negro
+mm de diámetro en función al cual se clasifican en muy grandes (mayor a
+ 2.2
+\begin_inset space ~
+\end_inset
+
+mm), grandes (entre 1,76 y 2,20
+\begin_inset space ~
+\end_inset
+
+mm,), medianos (entre 1,36 y 1,75
+\begin_inset space ~
+\end_inset
+
+mm) y pequeños (menor de 1,35
+\begin_inset space ~
+\end_inset
+
+mm) que puede ser de color blanco, amarillo, rosado, cafe, negro, púrpura
  y de forma cónica, cilíndrica y elipsoidal.
- Según 
+ 
+\end_layout
+
+\begin_layout Standard
+Según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "SESAN_2013"
@@ -3929,26 +3757,9 @@ key "Medina_2013"
 
 \end_inset
 
-, define a la semilla como amilácea, ya que en un análisis proximal de dos
- lotes de harina de quinua variedad CICA, reportó que tienen un alto contenido
- de carbohidratos (65.65%), además de 11.47
-\begin_inset space ~
-\end_inset
-
-% de humedad, 1.85
-\begin_inset space ~
-\end_inset
-
-% de ceniza, 14.70
-\begin_inset space ~
-\end_inset
-
-% de proteína total y 8.03
-\begin_inset space ~
-\end_inset
-
-% de materia grasa.
- Asimismo Lindeboom (2005), citado por 
+, define a la semilla como amilácea por su alto contenido de carbohidratos
+ (65.65%).
+ Lindeboom (2005), citado por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bedon_2013"
@@ -4000,10 +3811,24 @@ key "Lopez_2014"
 \end_layout
 
 \begin_layout Standard
-El embrión (formado por dos cotiledones y la radícula) constituye el 30%
- del volumen total de la semilla, el cual envuelve al perisperma como un
- anillo, con una curvatura de 320 grados; además almacena la mayor cantidad
- de proteína que alcanza del 35-40
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Jimenez_2013"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ señalan que el perisperma representa el 60% del volumen total de la semilla,
+ mientras que el embrión (formado por dos cotiledones y la radícula) constituye
+ el 30%, el cual envuelve al perisperma como un anillo, con una curvatura
+ de 320 grados; además almacena la mayor cantidad de proteína que alcanza
+ del 35-40
 \begin_inset space ~
 \end_inset
 
@@ -4013,21 +3838,7 @@ El embrión (formado por dos cotiledones y la radícula) constituye el 30%
 
 % de la proteína total del grano.
  El endosperma rodea completamente al embrión y es consumida rápidamente
- por esta durante su crecimiento después de que la semilla se hidrata 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-citep{SESAN_2013}
-\end_layout
-
-\end_inset
-
-.
- 
+ por esta durante su crecimiento después de que la semilla se hidrata.
 \end_layout
 
 \begin_layout Standard
@@ -4073,7 +3884,7 @@ Germinación
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
@@ -4807,40 +4618,6 @@ Contenido de saponina
 \end_layout
 
 \begin_layout Standard
-Según Villacorta (1976) y Jiménes et al.
- (2010) citados por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Quiroga_2010"
-
-\end_inset
-
-, las saponinas se encuentran en la primera capa del episperma que pueden
- ser eliminados por métodos abrasivos y lavado con agua fría, mejorando
- su remoción con agua caliente, soluciones alcalinas o ácidas.
- Así 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Bravo_2013"
-
-\end_inset
-
- recomienda el lavado, friccionando los granos entre la manos hasta que
- no forme espuma.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Huanca_col_2013"
-
-\end_inset
-
- señalan que después del lavado de la quinua, se diferencia únicamente tres
- colores: blanco, rojo y negro.
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand cite
 key "FAO_2011"
@@ -4855,10 +4632,51 @@ key "Quiroga_2010"
 
 \end_inset
 
-señala que niveles por debajo de 0.12% de saponina son aceptados por el consumido
-r, por encima del cual se categorizan como quinuas amargas.
- además menciona que el valor referencial de comercialización es de 0.06%
- y menores al 0.01% están por debajo del estándar.
+ señala que niveles por debajo de 0.12% son considerados dulces y por encima
+ se categorizan como quinuas amargas; aunque menciona que el valor referencial
+ de comercialización es de 0.06%.
+\end_layout
+
+\begin_layout Standard
+Según Villacorta (1976) y Jiménes et al.
+ (2010) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, las saponinas se encuentran en la primera capa del episperma que pueden
+ ser eliminados por vía húmeda mediante lavado con agua; así 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ recomienda el lavado, friccionando los granos entre la manos hasta que
+ no forme espuma.
+ Sin embargo, por la gran demanda de agua y energía de este método, se están
+ desarrollando tecnologías de escarificación por vía seca a nivel industrial
+ con buenos resultados como lo reporta 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Huanca_col_2013"
+
+\end_inset
+
+ señalan que después del lavado de la quinua, se diferencia únicamente tres
+ colores: blanco, rojo y negro.
 \end_layout
 
 \end_body
