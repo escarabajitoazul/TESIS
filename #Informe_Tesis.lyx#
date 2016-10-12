@@ -5,6 +5,7 @@
 \textclass book
 \begin_preamble
 %%%%negrita%%%
+
 \usepackage{tikz}
 \usepackage{enumitem}
 \usepackage{contour}
@@ -21,9 +22,7 @@
 \usepackage[absolute]{textpos}
 
 \usepackage[compact]{titlesec}
-%\titlespacing{\section}{0pt}{*0}{*0}
-%\titlespacing{\subsection}{0pt}{*0}{*0}
-\titlespacing\subsubsection{0pt}{-12}{-12}
+
 
 %\usepackage{url}
 %\contourlength{0.03em}
@@ -123,6 +122,9 @@
 \ChNumVar{\large}
 
 
+
+
+
 %%%%%ALTERAR INDICE BIBLIOGRAFIA%%%%%
 \makeatletter
 \renewcommand{\@biblabel}[1]{}
@@ -159,6 +161,10 @@
 \usepackage{pdflscape}
 \usepackage{lipsum}
 \usepackage{scrlayer}
+
+\usepackage{varioref}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cleveref}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -171,8 +177,8 @@ eqs-within-sections
 \fontencoding global
 \font_roman times
 \font_sans lmss
-\font_typewriter libertine-mono
-\font_math libertine-ntxm
+\font_typewriter cmtl
+\font_math newtxmath
 \font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
@@ -1144,6 +1150,67 @@ Evaluar el efecto de la temperatura de almacenamiento en la conservación
 \end_layout
 
 \begin_layout Standard
+El marco teórco esta direccionado a los temas que se necesitaron para realizar
+ la investigación planteada.
+\end_layout
+
+\begin_layout Standard
+Biotecnología de la germinación
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+: Sin embargo, a pesar de su buen contenido de nutrientes, las investigaciones
+ realizadas concluyen que los aminoácidos de la proteína en la harina cruda
+ y sin lavar no están del todo disponibles, porque contienen sustancias
+ que interfieren con la utilización biológica de los nutrientes.
+ Estas sustancias son los glucósidos denominados saponinas.
+ La digestibilidad de la proteína o biodisponibilidad (digestibilidad verdadera)
+ de los aminoácidos de la quinua varía según la variedad y el tratamiento
+ a que son sometidas.
+ Con el propósito de introducir el concepto de diversidad genética en los
+ estudios de valor nutritivo y agroindustrial de la quinua, la Fundación
+ PROINPA a través de varios proyectos realizó estudios de la riqueza genética
+ que posee el Banco Nacional de Germoplasma de Granos Andinos de Bolivia,
+ con muestras de germoplasma que permiten cuantificar la variación genética
+ respecto a estos caracteres y a partir de ahí promover su uso en función
+ a las aptitudes intrínsecas de cada material genético.
+ Es así que en el estudio de 555 accesiones de quinua se pudo observar que
+ 469 accesiones tienen un contenido de proteína que varía de 12 a 16,9%,
+ mientras que existe un grupo de 42 accesiones cuyo contenido fluctúa entre
+ 17 a 18,9%.
+ Este último grupo se constituye en una fuente importante de genes para
+ impulsar el desarrollo de productos con altos contenidos de proteína.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Reynaga_2013"
+
+\end_inset
+
+: 
+\begin_inset Quotes fld
+\end_inset
+
+La diversificación de productos elaborados de quinua o el uso de estos,
+ depende en gran medida del conocimiento que se disponga sobre sus principales
+ componentes químicos,características físicas, nutricionales y propiedades
+ funcionales de los eco- tipos y variedades de quinua para orientar sus
+ posibilidades de uso y aplicaciones
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1356,7 +1423,7 @@ filename "Anexo/Anexo.lyx"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1378,6 +1445,63 @@ pagestyle{lscape}
 
 \backslash
 end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{lscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset

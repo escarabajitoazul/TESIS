@@ -165,6 +165,7 @@
 \usepackage{varioref}
 \usepackage[hidelinks]{hyperref}
 \usepackage{cleveref}
+\urlstyle{sf}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -177,7 +178,7 @@ eqs-within-sections
 \fontencoding global
 \font_roman times
 \font_sans lmss
-\font_typewriter libertine-mono
+\font_typewriter cmtl
 \font_math newtxmath
 \font_default_family sfdefault
 \use_non_tex_fonts false
