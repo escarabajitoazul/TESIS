@@ -5,7 +5,7 @@
 @Electronic{AgriculturadeChilexx,
   Title                    = {Instructivo técnico para el análisis de viabilidad de semillas con el test bioquímico del tetrazolio},
   Author                   = {Ministerio de Agricultura de Chile},
-  Note                     = {Disponible desde: <http://www.sag.cl/sites/default/files/6_IT_ANALISIS_VIABILIDAD_TEST_BIOQUIMICO_TETRAZOLIO.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.sag.cl/sites/default/files/6_IT_ANALISIS_VIABILIDAD_TEST_BIOQUIMICO_TETRAZOLIO.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {3000},
 
   Owner                    = {usuario},
@@ -15,7 +15,7 @@
 @Electronic{Andrade_2011,
   Title                    = {Método para la obtención de germinados de haba y lenteja (Vicia faba L. y Lens esculenta)},
   Author                   = {Andrade, X.},
-  Note                     = {Disponible desde: <http://www.bdigital.unal.edu.co/2788/> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.bdigital.unal.edu.co/2788/>} Acceso 16 de noviembre 2015.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -33,7 +33,7 @@
 }
 
 @Electronic{Barron_2008,
-  Title                    = {Valor nutricio y contenido de saponinas en germinados de huauzontle (Chenopodium nuttalliae Saff.), calabacita (Cucurbita pepo L.), canola (Brassica napus L.) y amaranto (Amaranthus leucocarpus S. Watson syn. hypoch},
+  Title                    = {Valor nutricio y contenido de saponinas en germinados de huauzontle (\textit{Chenopodium nuttalliae} Saff.), calabacita (\textit{Cucurbita pepo} L.), canola (\textit{Brassica napus} L.) y amaranto (\textit{Amaranthus leucocarpus} S. Watson \textit{syn. hypochondriacus} L.},
   Author                   = {Barrón, M. R. and Villanueva, C. and García, M. R. and Colinas, M. T.},
   Note                     = {Disponible desde: \url{<http://www.scielo.org.mx/scielo.php?pid=S1027-152X2009000500003\&script=sci_arttext>} Acceso 16 de noviembre 2015.},
   Year                     = {2008},
@@ -43,7 +43,7 @@
 }
 
 @Electronic{Bedon_2013,
-  Title                    = {Purificación parcial y caracterización de alfa amilasa de granos germinados de Chenopodium quinoa (Quinua)},
+  Title                    = {Purificación parcial y caracterización de alfa amilasa de granos germinados de \textit{Chenopodium quinoa} (Quinua)},
   Author                   = {Bedón, M. and Nolasco, O. and Santa Cruz, C. and Gutiérrez, A.},
   Note                     = {Disponible desde: \url{<>} Acceso 16 de noviembre 2015.},
   Year                     = {2013},
@@ -55,7 +55,7 @@
 @Electronic{Berdonces_2015,
   Title                    = {Enzimas maravillosas},
   Author                   = {Berdonces, J. L.},
-  Note                     = {Disponible desde: <http://www.revistabiendesalud.com/etiqueta/germinados/> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.revistabiendesalud.com/etiqueta/germinados/>} Acceso 16 de noviembre 2015.},
   Year                     = {2015},
 
   Owner                    = {usuario},
@@ -73,9 +73,9 @@
 }
 
 @Electronic{Boero_2000,
-  Title                    = {Efecto de la temperatura sobre la germinación de diferentes variedades de "quinoa" (Chenopodium quinoa Willd.)},
+  Title                    = {Efecto de la temperatura sobre la germinación de diferentes variedades de "quinoa" (\textit{Chenopodium quinoa} Willd.)},
   Author                   = {Boero, C. and González, J. A. and Prado, F. E.},
-  Note                     = {Disponible desde: <> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.condesan.org/publicacion/libro14/cap3.15.htm>} Acceso 16 de noviembre 2015.},
   Year                     = {2000},
 
   Owner                    = {usuario},
@@ -85,7 +85,7 @@
 @Electronic{Botero_2015,
   Title                    = {Los germinados como alimento excepcional y medicina ntural},
   Author                   = {Botero, B.},
-  Note                     = {Disponible desde: <> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<>} Acceso 16 de noviembre 2015.},
   Year                     = {2015},
 
   Owner                    = {usuario},
@@ -93,9 +93,9 @@
 }
 
 @Electronic{Bravo_2013,
-  Title                    = {Estudio químico y nutricional de granos andinos germinados de quinua (Chenopodium quinoa) y kiwicha (Amarantus caudatus)},
+  Title                    = {Estudio químico y nutricional de granos andinos germinados de quinua (\textit{Chenopodium quinoa}) y kiwicha (\textit{Amarantus caudatus})},
   Author                   = {Bravo, M. and Reyna, J. and Gómez, I. and Huapaya, H.},
-  Note                     = {Disponible desde: <http://revistasinvestigacion.unmsm.edu.pe/index.php/quim/article/view/6558> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://revistasinvestigacion.unmsm.edu.pe/index.php/quim/article/view/6558>} Acceso 16 de noviembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -103,9 +103,9 @@
 }
 
 @Electronic{Buenrostro_2016,
-  Title                    = {Efecto de la germinación de semillas de chía (Salvia hispánicaL.) sobre su calidad nutrimental},
+  Title                    = {Efecto de la germinación de semillas de chía (\textit{Salvia hispánica} L.) sobre su calidad nutrimental.},
   Author                   = {Buenrostro, R. and Jiménez, V. and Martínez, E.},
-  Note                     = {Disponible desde: <> Acceso 21 de junio 2016.},
+  Note                     = {Disponible desde: \url{<>} Acceso 21 de junio 2016.},
   Year                     = {2016},
 
   Owner                    = {usuario},
@@ -115,7 +115,7 @@
 @Electronic{Burrieza_2013,
   Title                    = {El grano de quinua y las dehidrinas},
   Author                   = {Burrieza, H. P. and Martínez, L. and Avella, M. S. and Kobayashi, K. and Maldonado, S.},
-  Note                     = {Disponible desde: <xxxxx> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<>} Acceso 12 de diciembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -125,7 +125,7 @@
 @Electronic{Bustamante_2010,
   Title                    = {Calidad física y fisiológica en semillas de híbridos de maíz de los valles altos centrales de México y su relación con el establecimiento en campo.},
   Author                   = {Bustamante, J. E.},
-  Note                     = {Tesis de Maestría en Ciencias, Institución de enseñanza e investigación en ciencias agrícolas. Disponible desde: <http://colposdigital.colpos.mx:8080/jspui/handle/10521/215> Acceso 28 de noviembre 2015},
+  Note                     = {Tesis de Maestría en Ciencias, Institución de enseñanza e investigación en ciencias agrícolas. Disponible desde: \url{<http://colposdigital.colpos.mx:8080/jspui/handle/10521/215>} Acceso 28 de noviembre 2015},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -135,7 +135,7 @@
 @Electronic{Calle_2010,
   Title                    = {Efecto del método de secado y nivel de humedad en la germinación y vigor de semillas de quinua},
   Author                   = {Calle, M. and Aguirre, G. and Ugarte M. L. and Gabriel, J.},
-  Note                     = {Disponible desde: <xxxxx> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<>} Acceso 12 de diciembre 2015.},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -153,9 +153,9 @@
 }
 
 @Electronic{Cervilla_2011,
-  Title                    = {Propiedades física de semillas y análisis proximal de hharina de Chenopodium quinoa Willd cosechadas en distintos años y provenientes de la provincia de Salta},
+  Title                    = {Propiedades física de semillas y análisis proximal de harina de \textit{Chenopodium quinoa} Willd cosechadas en distintos años y provenientes de la provincia de Salta},
   Author                   = {Cervilla, N. S. and Mufari, J. R. and Calandri, E. and Guzmán, C. A.},
-  Note                     = {Disponible desde: <http://frre.utn.edu.ar/IIJCyT/clean/files/get/item/2209> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://frre.utn.edu.ar/IIJCyT/clean/files/get/item/2209>} Acceso 12 de diciembre 2015.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -163,9 +163,9 @@
 }
 
 @Electronic{Chancusig_2013,
-  Title                    = {Incidencia de la harina de quinua (Chenopodium quinoa) en las propiedades nunutricional del fideo.},
+  Title                    = {Incidencia de la harina de quinua (\textit{Chenopodium quinoa}) en las propiedades nunutricional del fideo.},
   Author                   = {Chancusig, S.},
-  Note                     = {Tesis de Ingeniero, Universidad Técnica del Norte. Disponible desde: <http://repositorio.utn.edu.ec/handle/123456789/2689> Acceso 16 de noviembre 2015},
+  Note                     = {Tesis de Ingeniero, Universidad Técnica del Norte. Disponible desde: \url{<http://repositorio.utn.edu.ec/handle/123456789/2689>} Acceso 16 de noviembre 2015},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -175,7 +175,7 @@
 @Electronic{Chaparro_Etal_2011,
   Title                    = {Efecto de la germinación sobre el contenido de hierro y calcio en amaranto, quinua, guandul y soya},
   Author                   = {Chaparro, D. C. and Pismag, R. Y. and Elizalde, A.},
-  Note                     = {Disponible desde: <> Acceso 20 de setiembre 2016.},
+  Note                     = {Disponible desde: \url{<>} Acceso 20 de setiembre 2016.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -185,7 +185,7 @@
 @Electronic{Chaparro_2010,
   Title                    = {Efecto de la germinación sobre el contenido y digestibilidad de proteína en semillas de amaranto, quinua, soya y guandul},
   Author                   = {Chaparro, D. C. and Pismag, R. Y. and Elizalde, A. and Vivas, N. J. and Erazo, C. A.},
-  Note                     = {Disponible desde: <> Acceso 20 de setiembre 2016.},
+  Note                     = {Disponible desde: \url{<>} Acceso 20 de setiembre 2016.},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -193,9 +193,9 @@
 }
 
 @Electronic{Corzo_2009,
-  Title                    = {Análisis y selección de diferentes métodos para eliminar las saponinas en dos variedades de Chenopodium quinoa Willd.},
+  Title                    = {Análisis y selección de diferentes métodos para eliminar las saponinas en dos variedades de \textit{Chenopodium quinoa} Willd.},
   Author                   = {Corzo, D. C.},
-  Note                     = {Disponible desde: <http://quinua.pe/wp-content/uploads/2014/08/An%C3%A1lisis-y-selecci%C3%B3n-de-diferentes-m%C3%A9todos-para-eliminar-las-saponinas-en-dos-variedades-de-Chenopodium-quinoa-Willd.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://quinua.pe/wp-content/uploads/2014/08/An%C3%A1lisis-y-selecci%C3%B3n-de-diferentes-m%C3%A9todos-para-eliminar-las-saponinas-en-dos-variedades-de-Chenopodium-quinoa-Willd.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2009},
 
   Owner                    = {usuario},
@@ -205,7 +205,7 @@
 @Electronic{Courtis_2013,
   Title                    = {Guía de estudio: Germinación de semillas},
   Author                   = {Courtis, A. C.},
-  Note                     = {Disponible desde: <http://exa.unne.edu.ar/biologia/fisiologia.vegetal/GuiadeestudioGerminacion.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://exa.unne.edu.ar/biologia/fisiologia.vegetal/GuiadeestudioGerminacion.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -215,7 +215,7 @@
 @Electronic{Diez_2005,
   Title                    = {La vida, al principio},
   Author                   = {Díez, Ch.},
-  Note                     = {Disponible desde: <https://www.larioja.org/npRioja/cache/documents/521146_25_germinados.pdf;jsessionid=70CD7C2B2E3D37757B5463028F658D1E.jvm1> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<https://www.larioja.org/npRioja/cache/documents/521146_25_germinados.pdf;jsessionid=70CD7C2B2E3D37757B5463028F658D1E.jvm1>} Acceso 12 de diciembre 2015.},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -225,7 +225,7 @@
 @Electronic{Discovery_2015,
   Title                    = {Alimentos germinados},
   Author                   = {DISCOVERY},
-  Note                     = {Disponible desde: <http://www.dsalud.com/index.php?pagina=articulo\&c=481> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.dsalud.com/index.php?pagina=articulo\&c=481>} Acceso 12 de diciembre 2015.},
   Year                     = {2015},
 
   Owner                    = {usuario},
@@ -233,9 +233,9 @@
 }
 
 @Electronic{Dizes_1992,
-  Title                    = {Estudio en microscopia electrónica de la morfología de los órganos de la quinua (Chenopodium quinoa) y de la cañihua (Chenopodium pallidicauleAellen) en relación con la resistencia a la sequía.},
+  Title                    = {Estudio en microscopia electrónica de la morfología de los órganos de la quinua (\textit{Chenopodium quinoa}) y de la cañihua (\textit{Chenopodium pallidicaule} Aellen) en relación con la resistencia a la sequía.},
   Author                   = {Dizes, J. and Bonifacio, A.},
-  Note                     = {Disponible desde: <http://www.documentation.ird.fr/hor/fdi:38554> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.documentation.ird.fr/hor/fdi:38554>} Acceso 12 de diciembre 2015.},
   Year                     = {1992},
 
   Owner                    = {usuario},
@@ -245,7 +245,7 @@
 @Electronic{Duenhas_2008,
   Title                    = {Germinados, la fuerza de la vida},
   Author                   = {Dueñas, J.},
-  Note                     = {Disponible desde: <http://biovictor.com/wp-content/uploads/2013/02/germinados.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://biovictor.com/wp-content/uploads/2013/02/germinados.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2008},
 
   Owner                    = {usuario},
@@ -265,7 +265,7 @@
 @Electronic{FAO_2014,
   Title                    = {Normas para bancos de germoplasma de recursos fitogenéticos para la alimentación y la agricultura},
   Author                   = {FAO},
-  Note                     = {Disponible desde: <http://www.fao.org/agriculture/crops/mapa-tematica-del-sitio/theme/seeds-pgr/gbs/es/> Acceso 23 de julio 2016.},
+  Note                     = {Disponible desde: \url{<http://www.fao.org/agriculture/crops/mapa-tematica-del-sitio/theme/seeds-pgr/gbs/es/>} Acceso 23 de julio 2016.},
   Year                     = {2014},
 
   Owner                    = {usuario},
@@ -275,7 +275,7 @@
 @Electronic{FAO_2011,
   Title                    = {La quinua: cultivo milenario para contribuir a la seguridad alimentaria mundial},
   Author                   = {FAO},
-  Note                     = {Disponible desde: <........> Acceso 06 de julio 2016.},
+  Note                     = {Disponible desde: \url{<>} Acceso 06 de julio 2016.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -283,9 +283,9 @@
 }
 
 @Electronic{FAO_2013,
-  Title                    = {Descriptores para quinua (Chenopodium quinoa Willd) y sus parientes silvestres},
+  Title                    = {Descriptores para quinua (\textit{Chenopodium quinoa} Willd) y sus parientes silvestres},
   Author                   = {FAO and PROINPA and INIAF and FIDA},
-  Note                     = {Disponible desde: <http://www.fao.org/docrep/018/aq658s/aq658s.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.fao.org/docrep/018/aq658s/aq658s.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -304,7 +304,7 @@
 @Electronic{Rev_Franco_2008,
   Title                    = {Los bancos de germoplasma en las Américas},
   Author                   = {Franco, T.},
-  Note                     = {\textit{Recursos naturales y ambiente}. Recuperado de http://www.planttreaty.org/es/content/los-bancos-de-germoplasma-en-las-am%C3%A9ricas},
+  Note                     = {\textit{Recursos naturales y ambiente}. Recuperado de \url{http://www.planttreaty.org/es/content/los-bancos-de-germoplasma-en-las-am%C3%A9ricas}},
   Year                     = {2008},
 
   Owner                    = {usuario},
@@ -322,9 +322,9 @@
 }
 
 @Electronic{Godinez_2014,
-  Title                    = {Caracterización física, fisiológica y de las proteínas de semillas de maíz (Zea mayz L.) de Guanajuato e Hidalgo, México.},
+  Title                    = {Caracterización física, fisiológica y de las proteínas de semillas de maíz (\textit{Zea mayz } L.) de Guanajuato e Hidalgo, México.},
   Author                   = {Godínez, R. Y. and García, G. and Raya, J. C. and Morales, I. and Ramírez, J. G. and Torres, J. A. and Aguirre, C. L.},
-  Note                     = {Disponible desde: <http://somecta.org.mx/Revistas/somectavol.2(1)/3.%20CYTAM-2014-06.%20CESARL.AGUIRREMANCILLA.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://somecta.org.mx/Revistas/somectavol.2(1)/3.%20CYTAM-2014-06.%20CESARL.AGUIRREMANCILLA.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2014},
 
   Owner                    = {usuario},
@@ -334,7 +334,7 @@
 @Electronic{Gomez_2011,
   Title                    = {Catálogo del banco de germoplasma de quinua},
   Author                   = {Gómez, L. R. and Eguiluz, A. L.},
-  Note                     = {Disponible desde: <http://cdam.minam.gob.pe/novedades/quinua.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://cdam.minam.gob.pe/novedades/quinua.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -342,7 +342,7 @@
 }
 
 @Electronic{Gomez_2008,
-  Title                    = {Estimación de la capacidad germinativa y el vigor de las semillas de diomate (Astronium graveolens Jacq.) sometidas a diferentes tratamientos y condiciones de almacenamiento.},
+  Title                    = {Estimación de la capacidad germinativa y el vigor de las semillas de diomate (\textit{Astronium graveolens} Jacq.) sometidas a diferentes tratamientos y condiciones de almacenamiento.},
   Author                   = {Gómez, M. L.},
   Note                     = {Disponible desde: \url{<http://www.scielo.org.co/pdf/rfnam/v57n1/a06v57n1.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2008},
@@ -354,7 +354,7 @@
 @Electronic{Rev_Gonzalez_2013,
   Title                    = {Quinoa: aspectos biológicos, propiedades nutricionales y otras consideraciones para su mejor aprovechamiento},
   Author                   = {González, J. A. and Prado, F. E.},
-  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de \url{http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5}},
   Year                     = {2015, 27 de abril},
 
   Owner                    = {usuario},
@@ -364,7 +364,7 @@
 @Electronic{Gutierrez_2007,
   Title                    = {Germinación y crecimiento inicial de semillas de maíz con envejecimiento natural},
   Author                   = {Gutiérrez, G. F. and Vargas, J. V. and Arellano, J. L.},
-  Note                     = {Disponible desde: <http://www.mag.go.cr/rev_meso/v18n02_163.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.mag.go.cr/rev_meso/v18n02_163.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2007},
 
   Owner                    = {usuario},
@@ -383,7 +383,7 @@
 @Electronic{Herrera_2013,
   Title                    = {¿Qué es un banco de germoplasma?},
   Author                   = {Herrera, G. J.},
-  Note                     = {Disponible desde: <http://www.cicy.mx/Sitios/Germoplasma/> Acceso 09 de octubre 2016.},
+  Note                     = {Disponible desde: \url{<http://www.cicy.mx/Sitios/Germoplasma/>} Acceso 09 de octubre 2016.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -403,7 +403,7 @@
 @Electronic{INEN_1988,
   Title                    = {Quinua. Determinación del contenido de saponinas por medio del método espumoso (método de rutina)},
   Author                   = {INEN},
-  Note                     = {Disponible desde: <https://law.resource.org/pub/ec/ibr/ec.nte.1672.1988.pdf> Acceso 22 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<https://law.resource.org/pub/ec/ibr/ec.nte.1672.1988.pdf>} Acceso 22 de diciembre 2015.},
   Year                     = {1988},
 
   Owner                    = {usuario},
@@ -423,7 +423,7 @@
 @Electronic{Jimenez_2012,
   Title                    = {Determinación de la cantidad de aminoácidos y minerales en la quinua Roja Pasankalla},
   Author                   = {Jimenez, N.},
-  Note                     = {[Mensaje de Blog]. Recuperado de http://germinadodequinua.blogspot.pe/2012/10/quinua.html},
+  Note                     = {[Mensaje de Blog]. Recuperado de \url{http://germinadodequinua.blogspot.pe/2012/10/quinua.html}},
   Year                     = {09 de octubre de 2012},
 
   Owner                    = {usuario},
@@ -433,7 +433,7 @@
 @Electronic{Rev_Jimenez_2013,
   Title                    = {Propiedades físico-químicas, estructurales y de calidad en semillas de quinua (\textit{Chenopodium quinoa}) variedad CICA, con evaluación de la eficiencia de un proceso artesanal de escarificación en seco},
   Author                   = {Jiménez, P. L. and Armada, M. and Gómez, S. E.},
-  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de \url{http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5}},
   Year                     = {2015, 27 de abril},
 
   Owner                    = {usuario},
@@ -461,7 +461,7 @@
 }
 
 @Electronic{Lanchero_2007,
-  Title                    = {Comportamiento de la uchuva (Physalis peruviana L.) en poscosecha bajo condiciones de atmósfera modificada activa.},
+  Title                    = {Comportamiento de la uchuva (\textit{Physalis peruviana}L.) en poscosecha bajo condiciones de atmósfera modificada activa.},
   Author                   = {Lanchero, O. and Velandia, G. and Fischer, G. and Varela, N. C. and García, H.},
   Note                     = {Disponible desde: \url{<http://corpomail.corpoica.org.co/BACFILES/BACDIGITAL/49120/49124.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2007},
@@ -481,7 +481,7 @@
 }
 
 @Electronic{Lozano_2012,
-  Title                    = {Cuantificación de saponinas en residuos de quinua real Chenopodium quinoa Willd},
+  Title                    = {Cuantificación de saponinas en residuos de quinua real \textit{Chenopodium quinoa} Willd},
   Author                   = {Lozano, M. and Ticona, E. and Carrasco, C. and Flores, Y. and Almanza, G. R.},
   Year                     = {2012},
 
@@ -490,9 +490,9 @@
 }
 
 @Electronic{Marca_2004,
-  Title                    = {Informe final sobre procesos e investigaciones agroindustriales en quinua (Chenopodium quinoa Wild).},
+  Title                    = {Informe final sobre procesos e investigaciones agroindustriales en quinua (\textit{Chenopodium quinoa} Wild).},
   Author                   = {Marca, M.},
-  Note                     = {Disponible desde: <http://www.bvcooperacion.pe/biblioteca/handle/123456789/738> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.bvcooperacion.pe/biblioteca/handle/123456789/738>} Acceso 12 de diciembre 2015.},
   Year                     = {2004},
 
   Owner                    = {usuario},
@@ -510,9 +510,9 @@
 }
 
 @Electronic{Medina_2013,
-  Title                    = {Caracterización del fruto y harina de Chenopodium quinoa variedad CICA},
+  Title                    = {Caracterización del fruto y harina de \textit{Chenopodium quinoa} variedad CICA},
   Author                   = {Medina, M. and Abburra, R.},
-  Note                     = {Disponible desde: <http://quinua.pe/wp-content/uploads/2015/09/P%C3%A1ginas-desdeINTA-Revista-Ciencia-y-Tecnologia-de-los-Cultivos-Industriales-Ano-3-No-5-Quinua-11.pdf> Acceso 13 de setiembre 2016.},
+  Note                     = {Disponible desde: \url{<http://quinua.pe/wp-content/uploads/2015/09/P%C3%A1ginas-desdeINTA-Revista-Ciencia-y-Tecnologia-de-los-Cultivos-Industriales-Ano-3-No-5-Quinua-11.pdf>} Acceso 13 de setiembre 2016.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -522,7 +522,7 @@
 @Electronic{MINSA_2013,
   Title                    = {Informe ejecutivo: Ayacucho-situación nutricional},
   Author                   = {MINSA},
-  Note                     = {Disponible desde: <http://www.ins.gob.pe/repositorioaps/0/5/jer/resu_sist_cena/AYACUCHO.pdf> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.ins.gob.pe/repositorioaps/0/5/jer/resu_sist_cena/AYACUCHO.pdf>} Acceso 16 de noviembre 2015.},
   Year                     = {2013 XX},
 
   Owner                    = {usuario},
@@ -530,9 +530,9 @@
 }
 
 @Electronic{Muncharaz_2011,
-  Title                    = {Efecto de la luz, temperatura, tipo de sustrato y desarrollo de la inflorescencia sobre la germinación de rama negra (Conyza bonariensis [L.] Cronquist)},
+  Title                    = {Efecto de la luz, temperatura, tipo de sustrato y desarrollo de la inflorescencia sobre la germinación de rama negra (\textit{Conyza bonariensis} [L.] Cronquist)},
   Author                   = {Muncharaz, L.},
-  Note                     = {Disponible desde: <http://bibliotecadigital.uca.edu.ar/greenstone/cgi-bin/library.cgi?a=d\&c=tesis\&d=efecto-luz-temperatura-tipo-sustrato> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://bibliotecadigital.uca.edu.ar/greenstone/cgi-bin/library.cgi?a=d\&c=tesis\&d=efecto-luz-temperatura-tipo-sustrato>} Acceso 16 de noviembre 2015.},
   Year                     = {2011},
 
   Owner                    = {usuario},
@@ -542,7 +542,7 @@
 @Electronic{Orti_2010,
   Title                    = {Germinación de la semilla},
   Author                   = {Ortí, ángeles and Valencia, Manises},
-  Note                     = {Disponible desde: <http://www.cac.es/cursomotivar/resources/document/2010/7.pdf> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.cac.es/cursomotivar/resources/document/2010/7.pdf>} Acceso 16 de noviembre 2015.},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -572,7 +572,7 @@
 @Electronic{Ponce_2013,
   Title                    = {Utilidad en la alimentación de algunas semillas germinadas: brotes de soja y trigo},
   Author                   = {Ponce, C. and Torija, E. and Matallana, C.},
-  Note                     = {Disponible desde: <http://historia.bio.ucm.es/rsehn/cont/publis/boletines/183.pdf> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://historia.bio.ucm.es/rsehn/cont/publis/boletines/183.pdf>} Acceso 16 de noviembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -582,7 +582,7 @@
 @Electronic{Poulsen_xx,
   Title                    = {Análisis de semillas},
   Author                   = {Poulsen, K. M.},
-  Note                     = {Disponible desde: <http://www.bio-nica.info/biblioteca/PoulsenAnalysisSemillas.pdf> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.bio-nica.info/biblioteca/PoulsenAnalysisSemillas.pdf>} Acceso 16 de noviembre 2015.},
   Year                     = {2003},
 
   Owner                    = {usuario},
@@ -599,9 +599,9 @@
 }
 
 @Electronic{Ramos_1998,
-  Title                    = {Producción de germinados de frijol mungo (Vigna radiata) y calabaza pipiana (Cucurbita argyrosperma)},
+  Title                    = {Producción de germinados de frijol mungo (\textit{Vigna radiata}) y calabaza pipiana (\textit{Cucurbita argyrosperma})},
   Author                   = {Ramos, C. and Villanueva, C.},
-  Note                     = {Disponible desde: <http://biblat.unam.mx/pt/revista/revista-chapingo-serie-horticultura/articulo/produccion-de-germinados-de-frijol-mungo-vigna-radiata-y-calabaza-pipiana-cucurbita-argyrosperma> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://biblat.unam.mx/pt/revista/revista-chapingo-serie-horticultura/articulo/produccion-de-germinados-de-frijol-mungo-vigna-radiata-y-calabaza-pipiana-cucurbita-argyrosperma>} Acceso 16 de noviembre 2015.},
   Year                     = {1998},
 
   Owner                    = {usuario},
@@ -611,7 +611,7 @@
 @Electronic{CongresoPeru_2000,
   Title                    = {Ley general de semillas},
   Author                   = {Congreso de la República},
-  Note                     = {Disponible desde: <https://research.cip.cgiar.org/confluence/download/attachments/17924162/Ley+General+de+Semillas.pdf> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<https://research.cip.cgiar.org/confluence/download/attachments/17924162/Ley+General+de+Semillas.pdf>} Acceso 16 de noviembre 2015.},
   Year                     = {2000},
 
   Owner                    = {usuario},
@@ -629,9 +629,9 @@
 }
 
 @Electronic{Rivera_2015,
-  Title                    = {Caracterización sensorial y culinaria de germoplasma de judía grano (Phaseolus vulgaris L.) y aplicación a la mejora genética},
+  Title                    = {Caracterización sensorial y culinaria de germoplasma de judía grano (\textit{Phaseolus vulgaris} L.) y aplicación a la mejora genética},
   Author                   = {Rivera, Ana},
-  Note                     = {Disponible desde: falta Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<>} Acceso 12 de diciembre 2015.},
   Year                     = {2015},
 
   Owner                    = {usuario},
@@ -639,7 +639,7 @@
 }
 
 @Electronic{Rodriguez_2005,
-  Title                    = {Efecto de dos índices de madurez y dos ttemperatura de almacenamiento sobre el comportamiento en poscosecha se la pitahaya amarilla (Selenicereus megalanthus Haw.)},
+  Title                    = {Efecto de dos índices de madurez y dos ttemperatura de almacenamiento sobre el comportamiento en poscosecha se la pitahaya amarilla (\textit{Selenicereus megalanthus} Haw.)},
   Author                   = {Rodríguez, D. A. and Patiño, M. P. and Miranda, D. and Fischer, G. and Galvis, J. A.},
   Note                     = {Disponible desde: \url{<http://www.scielo.org.co/pdf/rfnam/v58n2/a04v58n2.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {2005},
@@ -651,7 +651,7 @@
 @Electronic{Samperio_xx,
   Title                    = {Germinación de semillas: Manual de divulgación para uso en instituciones de educación},
   Author                   = {Samperio Ruiz, Gloria},
-  Note                     = {Disponible desde: <http://www.huertosecologicos.es/WebRoot/Store/Shops/huertosecologicos/MediaGallery/germinacion.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.huertosecologicos.es/WebRoot/Store/Shops/huertosecologicos/MediaGallery/germinacion.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {xx},
 
   Owner                    = {usuario},
@@ -669,9 +669,9 @@
 }
 
 @Electronic{SESAN_2013,
-  Title                    = {Investigaciones sobre el cultivo de la quinua o quinoa (Chenopodium quinoa).},
+  Title                    = {Investigaciones sobre el cultivo de la quinua o quinoa (\textit{Chenopodium quinoa}).},
   Author                   = {SESAN},
-  Note                     = {Disponible desde: <http://www.sesan.gob.gt/index.php/noticias/descarga-documentos/26--6/file> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.sesan.gob.gt/index.php/noticias/descarga-documentos/26--6/file>} Acceso 16 de noviembre 2015.},
   Year                     = {2013},
 
   Owner                    = {usuario},
@@ -681,7 +681,7 @@
 @Electronic{SIEA_2014,
   Title                    = {Sistema Integrado de Estadísticas Agrarias: Producción agrícola},
   Author                   = {SIEA},
-  Note                     = {Disponible desde: <http://siea.minagri.gob.pe/siea/?q=produccion-agricola> Acceso 23 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://siea.minagri.gob.pe/siea/?q=produccion-agricola>} Acceso 23 de diciembre 2015.},
   Year                     = {2014},
 
   Owner                    = {usuario},
@@ -691,7 +691,7 @@
 @Electronic{Silva_2010,
   Title                    = {¿Por qué comer germinados y brotes?},
   Author                   = {Silva, L.},
-  Note                     = {Disponible desde: <www.laverdadeterna.com> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<www.laverdadeterna.com>} Acceso 12 de diciembre 2015.},
   Year                     = {2010},
 
   Owner                    = {usuario},
@@ -701,7 +701,7 @@
 @Electronic{Silvina_2013,
   Title                    = {Estudio de las propiedades nutricionales de 21 accesiones de quinua del Noroeste Argentino},
   Author                   = {Silvina, M. and Bertero, H. D. and Pallaro, A. N.},
-  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5},
+  Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de \url{http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5}},
   Year                     = {2015, 27 de abril},
 
   Owner                    = {usuario},
@@ -721,7 +721,7 @@
 @Electronic{Suarez_xx,
   Title                    = {Biología y germinación de semillas},
   Author                   = {Suárez, Diego and Melgarejo, Luz Marina},
-  Note                     = {Disponible desde: <http://www.bdigital.unal.edu.co/8545/4/03_Cap01.pdf> Acceso 12 de diciembre 2015.},
+  Note                     = {Disponible desde: \url{<http://www.bdigital.unal.edu.co/8545/4/03_Cap01.pdf>} Acceso 12 de diciembre 2015.},
   Year                     = {xx},
 
   Owner                    = {usuario},
@@ -729,9 +729,9 @@
 }
 
 @Electronic{Valenzuela_col_2015,
-  Title                    = {Efecto de la germinación y cocción en las proteínas nunutricional de tres variedade de quinua (Chenopodium quinoa Willd)},
+  Title                    = {Efecto de la germinación y cocción en las proteínas nunutricional de tres variedade de quinua (\textit{Chenopodium quinoa} Willd)},
   Author                   = {Valenzuela, R. N. and Mita, G. and Zapana, F. E. and Quilla, D. and Miranda, R. and Mita, U. J.},
-  Note                     = {Disponible desde: <xxxxxx> Acceso 06 de julio 2016.},
+  Note                     = {Disponible desde: \url{<>} Acceso 06 de julio 2016.},
   Year                     = {2015},
 
   Owner                    = {usuario},
@@ -751,7 +751,7 @@
 @Electronic{Vega_2014,
   Title                    = {Fisiología de la reproducción y germinación de semillas},
   Author                   = {Vega, M. V.},
-  Note                     = {Disponible desde: <https://www.google.com.pe/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=1\&ved=0ahUKEwj70py06uLJAhWHHx4KHdR_Dn4QFggaMAA\&url=http%3A%2F%2Ffiles.fisiologiarecursos74.webnode.es%2F200000170-ba62dbb5bb%2FGerminaci%25C3%25B3n%2520de%2520semillas.PRACTICO%252010..pdf\&usg=AFQjCNHq1CH2OJDmq7cK-0mbfipUlFlTyA\&bvm=bv.110151844,d.cWw\&cad=rja> Acceso 16 de noviembre 2015.},
+  Note                     = {Disponible desde:  \url{<https://www.google.com.pe/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=1\&ved=0ahUKEwj70py06uLJAhWHHx4KHdR_Dn4QFggaMAA\&url=http%3A%2F%2Ffiles.fisiologiarecursos74.webnode.es%2F200000170-ba62dbb5bb%2FGerminaci%25C3%25B3n%2520de%2520semillas.PRACTICO%252010..pdf\&usg=AFQjCNHq1CH2OJDmq7cK-0mbfipUlFlTyA\&bvm=bv.110151844,d.cWw\&cad=rja>} Acceso 16 de noviembre 2015.},
   Year                     = {2014},
 
   Owner                    = {usuario},

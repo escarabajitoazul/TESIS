@@ -110,24 +110,24 @@ chapter*{RESUMEN}
 \end_layout
 
 \begin_layout Standard
-El presente informe de práctica preprofesional muestra la evaluación de
- diferentes dosis de humus de lombriz (HL) con y sin microorganismos eficientes
- (ME) en el cultivo de lechuga (
-\emph on
-Lactuca sativa
-\emph default
-) variedad Seda bajo condiciones de invernadero, para determinar la influencia
- del HL y de los ME en el rendimiento de la lechuga; para lo cual se utilizó
- suelo en descanso; 0, 5, 10, 15 y 
-\begin_inset Formula $\unitfrac[20]{t}{ha}$
+El presente tesis de grado muestra la evaluación de diferentes tipos de
+ iluminación (luz continua, oscuridad continua y 12 horas luz-12 horas oscuridad
+) y tiempo de germinación (24, 48 y 72 horas) en la producción de germinados
+ de accesiones de quinua y la temperatura óptima para su conservación (5,
+ 8 y 18
+\begin_inset Formula $\pm$
 \end_inset
 
- de HL y 7.5
-\begin_inset space \thinspace{}
-\end_inset
-
-ml de ME, esta última fue aplicada a la segunda, cuarta, séptima y décimo
- primera semana después del trasplante.
+2°C), para ello se utilizarán semillas de quinua pertenecientes al Germoplasma
+ Activo de Quinua del Laboratorio de Genética y Biotecnología Vegetal de
+ la Escuela Profesional de Agronomía-UNSCH.
+ El trabajo se dividió en tres fases; siendo la primera de selección, el
+ cual permitió determinar las accesiones de quinua adecuadas para la producción
+ de germinados mediante el análisis físico y fisiológico de las semillas.
+ En la segunda fase de producción de germinados se evaluó el tipo de iluminación
+ y el tiempo de germinación óptimas para la producción de germinados de
+ quinua y finalmente en la tercera fase de conservación se determinó la
+ temperatura óptima en que los germinados pueden ser conservados.
  Fueron conducidos bajo el diseño completamente randomizado (DCR) con arreglo
  factorial 2ME
 \begin_inset Formula $\times$
@@ -161,61 +161,10 @@ g).
 \end_layout
 
 \begin_layout Standard
-El desarrollo de variedades de papa con una mayor calidad del tubérculo
- es hoy uno de los retos fundamentales del programa de mejoramiento cubano.
- Para ello es imprescindible una evaluación detallada de los principales
- caracteres que afectan, en alguna medida, este importante atributo.
- Por tal motivo, el objetivo del trabajo estuvo enfocado hacia la evaluación
- de un grupo de variedades de papa, representativas del germoplasma cubano,
- mediante los indicadores de calidad del tubérculo para ser utilizadas como
- progenitores en un programa de mejoramiento genético.
- Se estudiaron 70 variedades cultivadas del banco de germoplasma, evaluando
- los caracteres relacionados con la calidad del tubérculo como: gravedad
- específica, masa seca, azúcares reductores, almidón, masa promedio, diámetro
- longitudinal y ecuatorial y evaluación sensorial.
- Fueron determinados los estadígrafos descriptivos media, desviación estándar,
- valores máximos y mínimos y coeficiente de variación para todos los caracteres
- cuantitativos estudiados.
- Se realizó un análisis de componentes principales, mediante una representación
- biplot, para conocer la agrupación de las accesiones y seleccionar las
- de mejor comportamiento para la calidad del tubérculo.
- Los resultados mostraron la existencia, en la colección, de variedades
- con buen comportamiento para la calidad del tubérculo (22,9 % del total),
- con valores de masa seca superior al 19 %, contenido de almidón por encima
- del 12 % y bajo contenido de azúcares reductores (< 0,5 %).
- Se propone utilizar a las mismas como progenitores en un programa de mejoramien
-to para procesamiento industrial o directamente en la producción.
- Dentro de ellas se destacaron las variedades Atlantic, Bellini, Cal White,
- Derby, Maranca, Romano, Santana y Slaney y los clones cubanos 1-10-96,
- 2-31-95, 4-6-93 y 9-32-93.
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rivera_2015"
-
-\end_inset
-
-: En las últimas décadas se ha realizado una gran labor en la recolección
- y conservación de recursos fitogenéticos, lo que ha incrementado considerableme
-nte el número de entradas almacenadas ex situ en los bancos de germoplasma.
- Sin embargo, estos materiales están infrautilizados, debido entre otras
- causas, a la falta de caracterización y evaluación de los mismos.
- Esta situación contradice las aparentes necesidades de los fitomejoradores
- que buscan alcanzar nuevos ideotipos más productivos y nutritivos que consuman
- menos insumos y satisfagan las preferencias sensoriales de los consumidores.
- La judía grano (Phaseolus vulgaris L.) tiene una elevada calidad nutricional
- y cierta capacidad de protección frente a algunas enfermedades, es la leguminos
-a más importante para el consumo humano y constituye una de las principales
- fuentes de proteína a nivel mundial.
- En esta especie, la falta de evaluación es especialmente patente en los
- caracteres sensoriales y culinarios, lo cual bloquea la mejora genética
- para estos aspectos y dificulta la consolidación de las judías en las dietas
- de los consumidores más exigentes.
-\end_layout
-
-\begin_layout Standard
+\begin_layout Plain Layout
 Esta tesis doctoral pretende contribuir a la racionalización de las colecciones
  de judía procedentes de Cataluña y, a su vez, abordar la caracterización
  sensorial y culinaria tanto de dichas entradas, como del conjunto de entradas
@@ -261,9 +210,14 @@ e de Cataluña se ha estimado una elevada variabilidad para los caracteres
  y mejora.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 se evaluó la calidad interna del tubérculo en 70 accesiones cultivadas del
@@ -297,6 +251,26 @@ ente aleatorizado con cuatro réplicas.
  La prueba tomó en consideración las características que más influyen en
  la calidad sensorial del producto como son: textura, olor, sabor y color
  (12).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+La tesis que se presenta, consta de cinco trabajos independientes, que intentan
+ avanzar desde la racionalización de las colecciones hasta su evaluación
+ para aquellos caracteres que deben ser objeto de mejora si queremos revalorizar
+ el consumo de judía en los países desarrollados: el valor sensorial y el
+ valor culinario.
+ Los trabajos culminan con la obtención de una nueva variedad diseñada a
+ partir de las demandas de productores y consumidores, y tomando como base
+ de partida una variedad tradicional.
 \end_layout
 
 \end_inset
