@@ -8693,41 +8693,21 @@ Se obtuvo mediante el conteo de las semillas germinadas durante 24, 48 y
 \begin_layout Itemize
 
 \series bold
-eje radícula-hipocótilo
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-Longitud de radícula (cm) 
+Longitud del eje embrionario (cm)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Está asociado al contenido nutricional del grano.
- Se registrará mediante la medición de la radícula con una regla graduada
- desde la cofia hasta el cuello de la raíz.
+Se registrará mediante la medición de la radícula con una regla graduada
+ desde la cofia hasta el cuello de la raíz hasta el punto más alto de la
+ plántula.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 
 \series bold
-Longitud de plúmula (cm) 
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Está asociado al contenido nutricional del grano.
- Se registrará mediante la medición con una regla graduada desde el cuello
- de la raíz hasta el punto más alto de la plántula.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Palatabilidad (escala hedónica) 
+Evaluación sensorial (escala hedónica) 
 \end_layout
 
 \begin_deeper
@@ -8830,8 +8810,7 @@ Pérdida de peso (g)
 \begin_deeper
 \begin_layout Standard
 Se obtuvo mediante el peso interdiario de los tápers que contienen a los
- germinados.
- 
+ germinados durante 15 días.
 \end_layout
 
 \end_deeper
