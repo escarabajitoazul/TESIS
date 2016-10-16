@@ -205,7 +205,7 @@ porcentaje de pureza (%), peso de 1
 \end_inset
 
 000 semillas (g), peso hectolitrico (
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 ), diámetro de semillas (mm), espesor de semillas (mm), color de semillas,
@@ -1093,7 +1093,7 @@ Donde:
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="12cm">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -1211,7 +1211,7 @@ efecto del i-ésimo nivel del factor A
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1243,7 +1243,7 @@ efecto del j-ésimo nivel del factor B
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1275,7 +1275,7 @@ efecto del k-ésimo nivel del factor C
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1308,7 +1308,7 @@ efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1341,7 +1341,7 @@ efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1374,7 +1374,7 @@ efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1407,7 +1407,7 @@ efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1486,23 +1486,9 @@ status open
 
 
 \backslash
-begin{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
+renewcommand{
 \backslash
-pagestyle{lscape}
+arraystretch}{0.6}
 \end_layout
 
 \end_inset
@@ -1518,17 +1504,29 @@ Fase de selección
 
 \begin_deeper
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-0.6cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="27" columns="8">
+<lyxtabular version="3" rows="51" columns="4">
 <features rotate="0" booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <row caption="true">
@@ -1540,7 +1538,11 @@ Fase de selección
 
 \begin_layout Plain Layout
 Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
- Huamanga-Ayacucho, 2016.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
 \end_layout
 
 \end_inset
@@ -1577,88 +1579,8 @@ Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
 \begin_inset Text
 
@@ -1731,7 +1653,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T25
+T50
 \end_layout
 
 \end_inset
@@ -1742,51 +1664,7 @@ T25
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-31
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T49
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-61
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T73
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-96
+62
 \series default
 13
 \end_layout
@@ -1821,7 +1699,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T26
+T51
 \end_layout
 
 \end_inset
@@ -1832,51 +1710,7 @@ T26
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-32
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T50
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-62
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T74
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-98
+64
 \series default
 13
 \end_layout
@@ -1911,7 +1745,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T27
+T52
 \end_layout
 
 \end_inset
@@ -1922,51 +1756,7 @@ T27
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-33
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T51
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-64
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T75
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-99
+67
 \series default
 13
 \end_layout
@@ -2001,7 +1791,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T28
+T53
 \end_layout
 
 \end_inset
@@ -2012,51 +1802,7 @@ T28
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-34
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T52
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-67
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T76
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-100
+68
 \series default
 13
 \end_layout
@@ -2091,7 +1837,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T29
+T54
 \end_layout
 
 \end_inset
@@ -2102,51 +1848,7 @@ T29
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-35
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T53
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-68
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T77
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-102
+69
 \series default
 13
 \end_layout
@@ -2181,7 +1883,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T30
+T55
 \end_layout
 
 \end_inset
@@ -2192,51 +1894,7 @@ T30
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-36
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T54
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-69
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T78
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-115
+70
 \series default
 13
 \end_layout
@@ -2271,7 +1929,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T31
+T56
 \end_layout
 
 \end_inset
@@ -2282,51 +1940,7 @@ T31
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-38
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T55
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-70
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T79
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-116
+71
 \series default
 13
 \end_layout
@@ -2361,7 +1975,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T32
+T57
 \end_layout
 
 \end_inset
@@ -2372,51 +1986,7 @@ T32
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-39
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T56
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-71
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T80
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-117
+72
 \series default
 13
 \end_layout
@@ -2451,7 +2021,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T33
+T58
 \end_layout
 
 \end_inset
@@ -2462,51 +2032,7 @@ T33
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-40
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T57
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-72
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T81
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-118
+75
 \series default
 13
 \end_layout
@@ -2541,7 +2067,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T34
+T59
 \end_layout
 
 \end_inset
@@ -2552,51 +2078,7 @@ T34
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-41
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T58
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-75
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T82
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-119
+76
 \series default
 13
 \end_layout
@@ -2631,7 +2113,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T35
+T60
 \end_layout
 
 \end_inset
@@ -2642,51 +2124,7 @@ T35
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-43
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T59
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-76
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T83
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-120
+77
 \series default
 13
 \end_layout
@@ -2721,7 +2159,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T36
+T61
 \end_layout
 
 \end_inset
@@ -2732,51 +2170,7 @@ T36
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-46
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T60
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-77
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T84
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-122
+78
 \series default
 13
 \end_layout
@@ -2784,7 +2178,7 @@ UNSCHLGBV60405
 \end_inset
 </cell>
 </row>
-<row newpage="true">
+<row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
@@ -2811,7 +2205,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T37
+T62
 \end_layout
 
 \end_inset
@@ -2822,143 +2216,9 @@ T37
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-47
+79
 \series default
 13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T61
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-78
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T85
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-123
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Accesión
 \end_layout
 
 \end_inset
@@ -2991,7 +2251,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T38
+T63
 \end_layout
 
 \end_inset
@@ -3002,51 +2262,7 @@ T38
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-48
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T62
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-79
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T86
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-125
+80
 \series default
 13
 \end_layout
@@ -3081,7 +2297,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T39
+T64
 \end_layout
 
 \end_inset
@@ -3092,51 +2308,7 @@ T39
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-49
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T63
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-80
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T87
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-126
+82
 \series default
 13
 \end_layout
@@ -3171,7 +2343,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T40
+T65
 \end_layout
 
 \end_inset
@@ -3182,51 +2354,7 @@ T40
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-51
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T64
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-82
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T88
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-127
+83
 \series default
 13
 \end_layout
@@ -3261,7 +2389,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T41
+T66
 \end_layout
 
 \end_inset
@@ -3272,51 +2400,7 @@ T41
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-53
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T65
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-83
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T89
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-128
+84
 \series default
 13
 \end_layout
@@ -3351,7 +2435,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T42
+T67
 \end_layout
 
 \end_inset
@@ -3362,51 +2446,7 @@ T42
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-54
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T66
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-84
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T90
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-129
+85
 \series default
 13
 \end_layout
@@ -3441,7 +2481,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T43
+T68
 \end_layout
 
 \end_inset
@@ -3452,51 +2492,7 @@ T43
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-55
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T67
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-85
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T91
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-130
+86
 \series default
 13
 \end_layout
@@ -3531,7 +2527,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T44
+T69
 \end_layout
 
 \end_inset
@@ -3542,51 +2538,7 @@ T44
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-56
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T68
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-86
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T92
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-131
+87
 \series default
 13
 \end_layout
@@ -3621,7 +2573,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T45
+T70
 \end_layout
 
 \end_inset
@@ -3632,51 +2584,7 @@ T45
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-57
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T69
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-87
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T93
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-133
+88
 \series default
 13
 \end_layout
@@ -3711,7 +2619,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T46
+T71
 \end_layout
 
 \end_inset
@@ -3722,51 +2630,7 @@ T46
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-58
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T70
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-88
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-T94
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-134
+92
 \series default
 13
 \end_layout
@@ -3801,7 +2665,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T47
+T72
 \end_layout
 
 \end_inset
@@ -3812,7 +2676,31 @@ T47
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-59
+94
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T24
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+30
 \series default
 13
 \end_layout
@@ -3823,7 +2711,7 @@ UNSCHLGBV60405
 \begin_inset Text
 
 \begin_layout Plain Layout
-T71
+T73
 \end_layout
 
 \end_inset
@@ -3834,14 +2722,1004 @@ T71
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-92
+96
 \series default
 13
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T25
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+31
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T74
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+98
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+32
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T75
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+99
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T27
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+33
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T76
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+100
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T28
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+34
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T77
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+102
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T29
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+35
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T78
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+115
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+36
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T79
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+116
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T31
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+38
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T80
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+117
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T32
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+39
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T81
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+118
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T33
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+40
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T82
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+119
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T34
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+41
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+120
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T35
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+43
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T84
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+122
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+46
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T85
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+123
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T37
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+47
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T86
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+125
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T38
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+48
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T87
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+126
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T39
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+49
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T88
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+127
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T40
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+51
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T89
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+128
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T41
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+53
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T90
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+129
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T42
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+54
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T91
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+130
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T43
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+55
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T92
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+131
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T44
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+56
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T93
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+133
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T45
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+57
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T94
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+134
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T46
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+58
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3850,7 +3728,7 @@ T95
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3865,29 +3743,49 @@ UNSCHLGBV60405
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-T24
+T47
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-30
+59
 \series default
 13
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T96
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3896,7 +3794,7 @@ T48
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3909,38 +3807,58 @@ UNSCHLGBV60405
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-T72
+T97
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T49
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 UNSCHLGBV60405
 \series bold
-94
+61
 \series default
 13
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+T98
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3957,91 +3875,35 @@ UNSCHLGBV60405
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-0.8cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-INICIO DE LA ENUMERACION ========================
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{enumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-setcounter{enumi}{1}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
+\begin_layout Enumerate
 
 \series bold
 Fase de producción de germinados
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -7455,7 +7317,7 @@ ti2
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7466,7 +7328,7 @@ T90
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7475,7 +7337,7 @@ a10
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7484,7 +7346,7 @@ tg3
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7761,7 +7623,7 @@ ti2
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7770,7 +7632,7 @@ ti2
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7779,7 +7641,7 @@ ti2
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7788,7 +7650,7 @@ ti2
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -7810,24 +7672,14 @@ ti2
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
+\end_deeper
+\begin_layout Enumerate
 
 \series bold
 Fase de conservación
 \end_layout
 
+\begin_deeper
 \begin_layout Standard
 \begin_inset Float table
 wide false
@@ -7961,35 +7813,7 @@ T3
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{enumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-FIN DE LA ENUMERACION ========================
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
+\end_deeper
 \begin_layout Subsection
 Croquis de la distribución de tratamientos
 \end_layout
@@ -7999,13 +7823,6 @@ La distribución de los tratamientos a las unidades experimentales se realizó
  completamente al azar, tal como se presenta en las siguientes figuras:
 \end_layout
 
-\begin_layout Enumerate
-
-\series bold
-Fase de selección
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -8038,11 +7855,19 @@ pagestyle{lscape}
 
 \end_layout
 
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
 \begin_layout Standard
 \begin_inset Float figure
+placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -8050,14 +7875,11 @@ status collapsed
 \begin_inset Graphics
 	filename T_F_Selección.png
 	lyxscale 10
-	scale 85
+	scale 90
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
@@ -8074,6 +7896,7 @@ Croquis de distribución de los tratamientos en la fase de selección.
 
 \end_layout
 
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -8090,14 +7913,47 @@ end{landscape}
 
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{enumerate}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{enumi}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
 
 \series bold
 Fase de producción de germinados
 \end_layout
 
-\begin_deeper
 \begin_layout Standard
 \begin_inset Float figure
 placement H
@@ -8211,11 +8067,38 @@ Croquis de distribución de los tratamientos en condiciones de oscuridad
 
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
 
 \series bold
 Fase de conservación
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{enumerate}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -8256,7 +8139,7 @@ El LGBV cuenta con un germoplasma de quinua de 150 accesiones recolectadas
  95 accesiones por contar con una cantidad adecuada de muestras para realizar
  las evaluaciones, además porque presentaban la misma fecha de refrescamiento
  en el año 2
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 013.
@@ -8265,7 +8148,7 @@ El LGBV cuenta con un germoplasma de quinua de 150 accesiones recolectadas
 
 \begin_layout Standard
 Posteriormente se extrajo 30
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g de muestra por cada accesión y se colocó en bolsas de papel kraft debidamente
@@ -8312,7 +8195,7 @@ Desinfección de las semillas
 \begin_layout Standard
 La desinfección se realizó con hipoclorito de sodio a una concentración
  de 0.05
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 % (0.5
@@ -8320,7 +8203,7 @@ La desinfección se realizó con hipoclorito de sodio a una concentración
 \end_inset
 
 ml para 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 l de agua) durante 10 minutos, luego del cual fueron enjuagadas con agua
@@ -8334,11 +8217,11 @@ Acondicionamiento de los envases para la prueba de germinación
 \begin_layout Standard
 Se utilizaron tapers transparentes, de plástico, de forma circular con un
  diámetro de 8.0
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm y una altura de 4.5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm; las cuales fueron lavadas con detergente y desinfectadas con alcohol.
@@ -8516,9 +8399,13 @@ cm de largo previamente identificados y sellados con cinta masking.
 
 \series bold
 Peso hectolítrico (g/1000
-\begin_inset space ~
+\series default
+
+\begin_inset space \thinspace{}
 \end_inset
 
+
+\series bold
 cm3)
 \end_layout
 
@@ -8534,7 +8421,7 @@ ml y una balanza analítica de dos decimales.
  posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 .
@@ -8707,7 +8594,7 @@ Se registrará mediante la medición de la radícula con una regla graduada
 \begin_layout Itemize
 
 \series bold
-Palatabilidad (escala hedónica) 
+Evaluación sensorial (escala hedónica) 
 \end_layout
 
 \begin_deeper
@@ -8810,8 +8697,7 @@ Pérdida de peso (g)
 \begin_deeper
 \begin_layout Standard
 Se obtuvo mediante el peso interdiario de los tápers que contienen a los
- germinados.
- 
+ germinados durante 15 días.
 \end_layout
 
 \end_deeper

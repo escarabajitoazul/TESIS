@@ -242,6 +242,102 @@ eqs-within-sections
 \begin_body
 
 \begin_layout Standard
+
+\lang brazilian
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newcommand{
+\backslash
+fuenteProp}[2]{
+\end_layout
+
+\begin_layout Plain Layout
+
+				{
+\end_layout
+
+\begin_layout Plain Layout
+
+					
+\backslash
+vspace{#2}
+\backslash
+small{
+\backslash
+em{#1 
+\backslash
+vspace{-0.5cm}}}
+\end_layout
+
+\begin_layout Plain Layout
+
+				}
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newcommand{
+\backslash
+fuente}[2]{
+\end_layout
+
+\begin_layout Plain Layout
+
+				{
+\end_layout
+
+\begin_layout Plain Layout
+
+					
+\backslash
+vspace{#2}
+\backslash
+small{
+\backslash
+em{Fuente:~#1.
+\backslash
+vspace{-0.5cm}}}
+\end_layout
+
+\begin_layout Plain Layout
+
+				}
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 \begin_inset ERT
 status open
@@ -725,22 +821,36 @@ status open
 thispagestyle{empty}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
+\begin_inset ERT
+status open
 
-\series bold
-\size largest
-AGRADECIMIENTOS
+\begin_layout Plain Layout
+
+
+\backslash
+chapter*{AGRADECIMIENTOS}
 \end_layout
 
-\begin_layout Standard
-\begin_inset VSpace 2.8cm
 \end_inset
 
 
@@ -833,14 +943,21 @@ status open
 
 %
 \backslash
-pagenumbering{roman}
+setcounter{page}{1}
 \end_layout
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
-setcounter{page}{1}
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
 \end_layout
 
 \end_inset
@@ -865,6 +982,29 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset FloatList table
 
 \end_inset
@@ -874,6 +1014,29 @@ LatexCommand tableofcontents
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
 \end_inset
 
 
@@ -897,6 +1060,41 @@ LatexCommand tableofcontents
 \begin_layout Standard
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{demas}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{Roman}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{1}
+\end_layout
 
 \begin_layout Plain Layout
 
@@ -1171,6 +1369,29 @@ filename "Capítulo 4_Conclusiones y recomendaciones/Capítulo 4_Conclusiones y 
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "Resumen/Resumen.lyx"
@@ -1181,7 +1402,23 @@ filename "Resumen/Resumen.lyx"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
 \end_inset
 
 
@@ -1198,11 +1435,30 @@ filename "Capítulo 5_Bibliografía/Capítulo 5_Bibliografía.lyx"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
 
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
 \end_inset
 
 
