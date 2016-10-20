@@ -3524,58 +3524,18 @@ arabic{figure}}
 
 \end_layout
 
+\begin_layout Section*
+Anexo 1: Norma Técnica Ecuatoriana para la determinación del contenido de
+ saponinas por medio del método espumoso
+\end_layout
+
 \begin_layout Standard
-\begin_inset Float table
-placement H
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semilla para los tratamientos.
- Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_P1000S"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
 \noindent
 \align center
 \begin_inset Graphics
-	filename Tukey_P1000S_1.png
+	filename Normas_Determinación_Contenido_Saponina.PNG
 	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
+	scale 120
 
 \end_inset
 
@@ -3586,13 +3546,30 @@ name "tab:PT_P1000S"
 \noindent
 \align center
 \begin_inset Graphics
-	filename Tukey_P1000S_2.png
+	filename Normas_Determinación_Contenido_Saponina_1.PNG
 	lyxscale 10
-	scale 85
+	scale 120
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Normas_Determinación_Contenido_Saponina_2.PNG
+	lyxscale 10
+	scale 120
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Anexo 2: Encuesta de evaluación sensorial
 \end_layout
 
 \begin_layout Standard
@@ -3606,24 +3583,13 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del contenido de saponinas para los tratamientos.
+Ficha de encuesta para la evaluación sensorial de germinados de quinua.
  Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
+\begin_inset space ~
 \end_inset
 
 016.
  
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_CS"
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -3635,9 +3601,9 @@ name "tab:PT_CS"
 \noindent
 \align center
 \begin_inset Graphics
-	filename Tukey_CS_1.png
+	filename Encuesta_Evaluación_Sensorial.PNG
 	lyxscale 10
-	scale 85
+	scale 120
 
 \end_inset
 
@@ -3647,54 +3613,20 @@ name "tab:PT_CS"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section*
+Anexo 3: Contenido de proteína
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_CS_2.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
+\begin_inset Float figure
 placement H
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del porcentaje de germinación para los tratamientos.
- Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_PG"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
 
 \end_layout
 
@@ -3702,101 +3634,24 @@ name "tab:PT_PG"
 \noindent
 \align center
 \begin_inset Graphics
-	filename Tukey_PG_1.png
+	filename Determinación_Proteína_Bruta.PNG
 	lyxscale 10
-	scale 85
 
 \end_inset
 
 
 \end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{lscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_PG_2.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
-placement H
-wide false
-sideways false
-status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del índice de conversión para los tratamientos.
+Resultados del contenido de nitrógeno de germinados de quinua.
  Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
+\begin_inset space ~
 \end_inset
 
 016.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_IC"
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -3805,15 +3660,6 @@ name "tab:PT_IC"
 \end_layout
 
 \begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_IC_1.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
 
 \end_layout
 
@@ -3822,180 +3668,8 @@ name "tab:PT_IC"
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{lscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_IC_2.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del diámetro de semilla para los tratamientos.
- Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_DS"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_DS_1.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename Tukey_DS_2.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Prueba de contrastes de Tukey (
-\begin_inset Formula $α=0.05$
-\end_inset
-
-) del espesor de semilla para los tratamientos.
- Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:PT_ES"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename Tukey_ES_1.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename Tukey_ES_2.png
-	lyxscale 10
-	scale 85
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
+\begin_layout Section*
+Anexo 4: Promedio generales de las variables evaluadas
 \end_layout
 
 \begin_layout Standard
@@ -19892,6 +19566,20 @@ T49
 \end_layout
 
 \begin_layout Standard
+P 1
+\begin_inset space ~
+\end_inset
+
+000 S: Peso de 1
+\begin_inset space ~
+\end_inset
+
+000 semillas, PH: Peso hectolítrico, DS: Diámetro de semilla, ES: Espesor
+ de semilla, CS: Contenido de saponina, PG: Porcentaje de germinación, IC:
+ Índice de conversión.
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -19952,7 +19640,7 @@ arraystretch}{1}
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -26957,6 +26645,11 @@ T69
 
 \end_layout
 
+\begin_layout Plain Layout
+PG: Porcentaje de germinación, IC: Índice de conversión, LEE: Longitud del
+ eje embrionario.
+\end_layout
+
 \end_inset
 
 
@@ -26983,7 +26676,7 @@ end{landscape}
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -27244,6 +26937,484 @@ T3
 </cell>
 </row>
 </lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Anexo 5: Prueba de contraste de Tukey para las variables de selección
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semilla para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_P1000S"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_P1000S_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_P1000S_2.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del contenido de saponinas para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_CS"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_CS_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_CS_2.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del porcentaje de germinación para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_PG"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_PG_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{lscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_PG_2.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del índice de conversión para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_IC"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_IC_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{lscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_IC_2.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del diámetro de semilla para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_DS"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_DS_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Tukey_DS_2.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) del espesor de semilla para los tratamientos.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:PT_ES"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Tukey_ES_1.png
+	lyxscale 10
+	scale 85
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Tukey_ES_2.png
+	lyxscale 10
+	scale 85
 
 \end_inset
 
