@@ -19566,17 +19566,40 @@ T49
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S: Peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, PH: Peso hectolítrico, DS: Diámetro de semilla, ES: Espesor
  de semilla, CS: Contenido de saponina, PG: Porcentaje de germinación, IC:
  Índice de conversión.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -19640,7 +19663,7 @@ arraystretch}{1}
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -27095,7 +27118,7 @@ name "tab:PT_CS"
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -27173,7 +27196,7 @@ pagestyle{lscape}
 \begin_inset Graphics
 	filename Tukey_PG_2.png
 	lyxscale 10
-	scale 85
+	scale 75
 
 \end_inset
 
@@ -27279,7 +27302,7 @@ pagestyle{lscape}
 \begin_inset Graphics
 	filename Tukey_IC_2.png
 	lyxscale 10
-	scale 85
+	scale 80
 
 \end_inset
 
@@ -27307,7 +27330,7 @@ end{landscape}
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -27344,7 +27367,7 @@ name "tab:PT_DS"
 \begin_inset Graphics
 	filename Tukey_DS_1.png
 	lyxscale 10
-	scale 85
+	scale 76
 
 \end_inset
 

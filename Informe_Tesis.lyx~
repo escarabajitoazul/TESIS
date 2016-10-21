@@ -338,6 +338,54 @@ vspace{-0.5cm}}}
 \end_layout
 
 \begin_layout Standard
+
+\lang brazilian
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newcommand{
+\backslash
+leyenda}[2]{
+\end_layout
+
+\begin_layout Plain Layout
+
+				{
+\end_layout
+
+\begin_layout Plain Layout
+
+					
+\backslash
+vspace{#2}
+\backslash
+small{
+\backslash
+em{#1 
+\backslash
+vspace{-0.5cm}}}
+\end_layout
+
+\begin_layout Plain Layout
+
+				}
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 \begin_inset ERT
 status open
@@ -810,22 +858,6 @@ filename "Dedicatoria/dedicatoria.tex"
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{solo}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \noindent
 \begin_inset ERT
 status open
@@ -834,7 +866,7 @@ status open
 
 
 \backslash
-thispagestyle{empty}
+pagestyle{empty}
 \end_layout
 
 \begin_layout Plain Layout
@@ -918,8 +950,8 @@ A Ken Esparta Ccorahua, estudiante de Ingenniería de la computación de la
 \begin_layout Standard
 A mis compañeros y amigos Francisca del Pilar Gálvez, Leydi Mayra Huamaní,
  Yesenia Canchari, Delia Mallqui, Leidy Escalante, Jesús Marco Pozo, Rocío
- Medina, Yury Pacotaype, Gerónimo Quispe y a todos los que me acompañaron
- en mi vida académica.
+ Medina, Yury Pacotaype, Gerónimo Quispe y a todos los que me brindaron
+ su apoyo durante la ejecución de la investigación.
 \end_layout
 
 \begin_layout Standard

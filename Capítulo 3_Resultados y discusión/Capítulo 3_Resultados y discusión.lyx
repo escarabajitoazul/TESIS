@@ -91,10 +91,28 @@ Análisis de varianza
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{0.6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -107,7 +125,7 @@ Chenopodium quinoa
 \emph default
 ) del banco de germoplasma del LGBV.
  Huamanga-Ayacucho, 2
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 016
@@ -123,9 +141,9 @@ Chenopodium quinoa
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="7">
-<features rotate="0" tabularvalignment="middle">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top">
-<column alignment="right" valignment="top">
+<column alignment="right" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -143,7 +161,7 @@ F de V
 
 \end_inset
 </cell>
-<cell multirow="3" alignment="right" valignment="middle" topline="true" bottomline="true" usebox="none">
+<cell multirow="3" alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -228,7 +246,7 @@ Cuadrados Medios
 
 \series bold
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S
@@ -488,7 +506,7 @@ Total
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="right" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -811,16 +829,39 @@ Mínimo
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S: Peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, PH: Peso hectolítrico, CS: Contenido de saponina, PG: Porcentaje
  de germinación, IC: Índice de conversión.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -12543,7 +12584,7 @@ h
 \begin_layout Standard
 De acuerdo con el ANVA, existe diferencia altamente significativa en el
  peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, contenido de saponina, porcentaje de germinación e índice
@@ -12552,10 +12593,28 @@ De acuerdo con el ANVA, existe diferencia altamente significativa en el
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{0.6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -12568,7 +12627,7 @@ Chenopodium quinoa
 \emph default
 ) del banco de germoplasma del LGBV.
  Huamanga-Ayacucho, 2
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 016.
@@ -12584,13 +12643,13 @@ Chenopodium quinoa
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="4">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
 <row>
-<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -12991,7 +13050,30 @@ Mínimo
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 DS: Diámetro de semilla, ES: Espesor de semilla.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -13017,15 +13099,12 @@ reference "tab:PT_P1000S"
 \end_inset
 
  el mayor promedio en el peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
-000 semillas (3.93
-\begin_inset space ~
-\end_inset
-
-g) es para el tratamiento T96 y los menores (1.77, 1.73 y 1.70
-\begin_inset space ~
+000 semillas (3.93g) es para el tratamiento T96 y los menores (1.77, 1.73 y
+ 1.70
+\begin_inset space \thinspace{}
 \end_inset
 
 g ) para los tratamientos T41, T77 y T31.
@@ -13040,17 +13119,10 @@ reference "tab:PT_CS"
 \end_inset
 
  muestra que los menores promedios en el contenido de saponinas de las semillas
- (-0.02
-\begin_inset space ~
-\end_inset
-
-%) fueron para los tratamiento T16, T14, T11, T63, T19, T73, T10, T76, T66,
- T71, T79, T85, T50, T41, T32, T35, T36 y T98; y los mayores (0.5, 0.46, 0.43,
- 0.42, 0.41 , 0.41 y 0.41
-\begin_inset space ~
-\end_inset
-
-%) para los tratamientos T60, T28, T70, T88, T65, T92 y T53.
+ (-0.02%) fueron para los tratamiento T16, T14, T11, T63, T19, T73, T10,
+ T76, T66, T71, T79, T85, T50, T41, T32, T35, T36 y T98; y los mayores (0.5,
+ 0.46, 0.43, 0.42, 0.41 , 0.41 y 0.41%) para los tratamientos T60, T28, T70, T88,
+ T65, T92 y T53.
 \end_layout
 
 \begin_layout Standard
@@ -13061,11 +13133,8 @@ reference "tab:PT_PG"
 
 \end_inset
 
- muestra que el mayor promedio de porcentaje de germinación (95.33
-\begin_inset space ~
-\end_inset
-
-%) fue para los tratamientos T96 y T79; mientras que el menor (6
+ muestra que el mayor promedio de porcentaje de germinación (95.33%) fue
+ para los tratamientos T96 y T79; mientras que el menor (6
 \begin_inset space ~
 \end_inset
 
@@ -13093,11 +13162,11 @@ reference "tab:PT_DS"
 \end_inset
 
  muestra que el mayor promedio en el diámetro de semilla (2.04
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm) fue para el tratamiento T96 y el menor (1.52
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm) para el tratamiento T41.
@@ -13112,11 +13181,11 @@ reference "tab:PT_ES"
 \end_inset
 
 , el mayor promedio en el espesor de las semillas (1.15
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm) fue para el tratamiento T66 y el menor (0.86
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm) para el tratamiento T94.
@@ -13127,47 +13196,48 @@ Probabilidad normal de selección
 \end_layout
 
 \begin_layout Standard
-Se realizó una selección considerando una probabilidad del 15
-\begin_inset space ~
-\end_inset
-
-%; es decir, la selección del 15
-\begin_inset space ~
-\end_inset
-
-% de los mejores resultados para las variables peso de 1
-\begin_inset space ~
+Se realizó una selección considerando una probabilidad del 15%; es decir,
+ la selección del 15% de los mejores resultados para las variables peso
+ de 1
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, diámetro de semillas, espesor de semilla, porcentaje de germinació
-n e índice de conversión; para el caso del contenido de saponinas el 15
-\begin_inset space ~
+n e índice de conversión; para el caso del contenido de saponinas el 15%
+ de los menores promedios para seleccionar semillas con menor porcentaje
+ de saponinas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{0.6}
+\end_layout
+
 \end_inset
 
-% de los menores promedios para seleccionar semillas con menor porcentaje
- de saponinas.
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Probabilidad x>15
-\begin_inset space ~
-\end_inset
-
-% de selección para todos los tratamientos en cinco variables cuantitativas
- y de x<15
-\begin_inset space ~
-\end_inset
-
-% para la variable contenido de saponina.
+Probabilidad x>15% de selección para todos los tratamientos en cinco variables
+ cuantitativas y de x<15% para la variable contenido de saponina.
  Huamanga-Ayacucho, 2
 \begin_inset space ~
 \end_inset
@@ -13194,7 +13264,7 @@ name "tab:Probabilidad-x>15%"
 <lyxtabular version="3" rows="5" columns="7">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
-<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -13212,16 +13282,20 @@ Resumen
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
 P 1
-\begin_inset space ~
+\series default
+
+\begin_inset space \thinspace{}
 \end_inset
 
+
+\series bold
 000 S (g)
 \end_layout
 
@@ -13421,11 +13495,7 @@ Media
 \begin_inset Text
 
 \begin_layout Plain Layout
-x>15
-\begin_inset space ~
-\end_inset
-
-%
+x>15%
 \end_layout
 
 \end_inset
@@ -13490,11 +13560,7 @@ x>15
 \begin_inset Text
 
 \begin_layout Plain Layout
-x<15
-\begin_inset space ~
-\end_inset
-
-%
+x<15%
 \end_layout
 
 \end_inset
@@ -13562,16 +13628,39 @@ x<15
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S: Peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, DS: Diámetro de semilla, ES: Espesor de semilla, CS: Contenido
  de saponina: PG: Porcentaje de germinación, IC: Índice de conversión.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -13610,11 +13699,7 @@ mm, 86.76
 
 000 semillas, diámetro de semillas, espesor de semillas, porcentaje de germinaci
 ón e índice de conversión respectivamente; para el contenido de saponinas
- los tratamientos cuyo promedio estén por debajo de -0.03
-\begin_inset space ~
-\end_inset
-
-%.
+ los tratamientos cuyo promedio estén por debajo de -0.03%.
 \end_layout
 
 \begin_layout Subsection
@@ -13634,11 +13719,29 @@ reference "tab:Probabilidad-x>15%"
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{0.6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -16580,16 +16683,39 @@ T97
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S: Peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, DS: Diámetro de semilla, ES: Espesor de semilla, CS: Contenido
  de saponina, PG: Porcentaje de germinación, IC: Índice de conversión.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -16618,7 +16744,7 @@ os T6, T13, T69 y T96 por no haber sido seleccionados para el contenido
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -16628,7 +16754,7 @@ status collapsed
 \begin_layout Plain Layout
 Valores de los tratamientos seleccionados en seis variables cuantitativas.
  Huamanga-Ayacucho, 2
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 016.
@@ -16671,7 +16797,7 @@ T
 
 \series bold
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S (g)
@@ -17413,16 +17539,39 @@ T98
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
 P 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 S: Peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, DS: Diámetro de semilla, ES: Espesor de semilla, CS: Contenido
  de saponina, PG: Porcentaje de germinación, IC: Índice de conversión.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -17432,15 +17581,15 @@ P 1
 
 \begin_layout Standard
 Los resultados de la selección muestran que el peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas oscila entre 2.87
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g y 3.40
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g; 
@@ -17448,11 +17597,11 @@ g;
 
 \begin_layout Standard
 El rango del diámetro de semillas oscila entre 1.84
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm a 2.02
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm clasificado según 
@@ -17467,26 +17616,19 @@ key "Rev_Gonzalez_2013"
 
 \begin_layout Standard
 El espesor de semillas está entre 1.05
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm a 1.13
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm.
 \end_layout
 
 \begin_layout Standard
-El contenido de saponinas varía de -0.02
-\begin_inset space ~
-\end_inset
-
-% a -0.01
-\begin_inset space ~
-\end_inset
-
-% siendo considerados como quinuas dulces de acuerdo con 
+El contenido de saponinas varía de -0.02% a -0.01% siendo considerados como
+ quinuas dulces de acuerdo con 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Quiroga_2010"
@@ -17497,31 +17639,16 @@ key "Quiroga_2010"
 \end_layout
 
 \begin_layout Standard
-El porcentaje de germinación oscila entre 82.33
-\begin_inset space ~
-\end_inset
-
-% a 95.33
-\begin_inset space ~
-\end_inset
-
-%, según 
+El porcentaje de germinación oscila entre 82.33% a 95.33%, según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "FAO_2014"
 
 \end_inset
 
- el porcentaje mínimo de germinación debe ser 85
-\begin_inset space ~
-\end_inset
-
-% de la viabilidad inicial, como no se cuentan con datos iniciales de germinació
-n se supone el 100
-\begin_inset space ~
-\end_inset
-
-%, por lo que a partir del tratamiento T38 las quinuas necesitan ser regeneradas.
+ el porcentaje mínimo de germinación debe ser 85% de la viabilidad inicial,
+ como no se cuentan con datos iniciales de germinación se supone el 100%,
+ por lo que a partir del tratamiento T38 las quinuas necesitan ser regeneradas.
 \end_layout
 
 \begin_layout Standard
@@ -17545,7 +17672,7 @@ Porcentaje de germinación (%)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -18397,7 +18524,7 @@ Longitud del eje embrionario (cm)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -19256,7 +19383,7 @@ De acuerdo con el ANVA existe diferencia altamente significativa por el
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -20115,7 +20242,7 @@ Sabor
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -20639,7 +20766,7 @@ Olor
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -21155,7 +21282,7 @@ Color
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -21676,7 +21803,7 @@ Contenido de proteína bruta (%)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22054,7 +22181,7 @@ Peso de germinado (%)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22445,7 +22572,7 @@ ión a diferentes temperaturas de los germinados de quinua.
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22692,15 +22819,15 @@ c
 
 \begin_layout Standard
 La prueba de contraste de Tukey muestra que a 8
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 °C se conserva el mayor peso de germinado (6.93
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g), seguido de 5°C con 4.34
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g y el menor peso se obtuvo en la conservación a 18
@@ -22708,7 +22835,7 @@ g y el menor peso se obtuvo en la conservación a 18
 \end_inset
 
 2°C con 1.42
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g.
@@ -22778,23 +22905,9 @@ key "Pinto_2013"
 \end_inset
 
  declara que en accesiones de quinuas cultivas almacenadas durante 13 semestres
- consecutivos a 10
-\begin_inset space ~
-\end_inset
-
-°C y 45
-\begin_inset space ~
-\end_inset
-
-% de humedad relativa; el 96% redujeron su germinación entre 1 a 85
-\begin_inset space ~
-\end_inset
-
-%, mientras que el 4% incremento el porcentaje de germinación en 2
-\begin_inset space ~
-\end_inset
-
-%.
+ consecutivos a 10°C y 45% de humedad relativa; el 96% redujeron su germinación
+ entre 1 a 85%, mientras que el 4% incremento el porcentaje de germinación
+ en 2%.
  
 \end_layout
 
@@ -22805,21 +22918,11 @@ key "Castellion_2008"
 
 \end_inset
 
-, reporta que el almacenamiento en condiciones ambientales (14
-\begin_inset space ~
-\end_inset
-
-% HR y temperatura ambiente) durante seis meses en semillas del cultivar
- Baer y Ollagüe disminuye su porcentaje de germinación en 5 y 30
-\begin_inset space ~
-\end_inset
-
-% respectivamente; mientras que almacenadas en banco de germoplasma (6
-\begin_inset space ~
-\end_inset
-
-% HR y -20°C) mantuvo invariable sus porcentajes de germinación (datos no
- mostrados).
+, reporta que el almacenamiento en condiciones ambientales (14% HR y temperatura
+ ambiente) durante seis meses en semillas del cultivar Baer y Ollagüe disminuye
+ su porcentaje de germinación en 5 y 30% respectivamente; mientras que almacenad
+as en banco de germoplasma (6% HR y -20°C) mantuvo invariable sus porcentajes
+ de germinación (datos no mostrados).
  
 \begin_inset Note Note
 status collapsed
@@ -22915,8 +23018,8 @@ key "FAO_2011"
 
 \end_inset
 
-, manifiesta que el contenido de proteína de la quinua varía entre 13,81
- y 21,9% dependiendo de la variedad.
+, manifiesta que el contenido de proteína de la quinua varía entre 13.81
+ y 21.9% dependiendo de la variedad.
 \end_layout
 
 \begin_layout Standard
@@ -22938,23 +23041,8 @@ key "Medina_2013"
 
 , define a la semilla como amilácea, ya que en un análisis proximal de dos
  lotes de harina de quinua variedad CICA, reportó que tienen un alto contenido
- de carbohidratos (65.65%), además de 11.47
-\begin_inset space ~
-\end_inset
-
-% de humedad, 1.85
-\begin_inset space ~
-\end_inset
-
-% de ceniza, 14.70
-\begin_inset space ~
-\end_inset
-
-% de proteína total y 8.03
-\begin_inset space ~
-\end_inset
-
-% de materia grasa
+ de carbohidratos (65.65%), además de 11.47% de humedad, 1.85% de ceniza, 14.70%
+ de proteína total y 8.03% de materia grasa
 \end_layout
 
 \begin_layout Standard
@@ -22964,7 +23052,7 @@ key "Rev_Gonzalez_2013"
 
 \end_inset
 
-: destaca el valor proteico (11,2%) 
+: destaca el valor proteico (11.2%) 
 \end_layout
 
 \begin_layout Standard
@@ -23020,7 +23108,7 @@ key "Barron_2008"
 
  reporta un índice de conversión de 5.8, 4.0, 12.0, 4.0 y 1.54 en germinados
  de 13, 0.3, 15.2, 7 y 1.32
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm de longitud radicular a los 10, 1, 12 y 9 días de germinación en huazontle,
@@ -23041,10 +23129,10 @@ key "Rev_Jimenez_2013"
 \end_inset
 
 : Según su concentración de saponinas, la quinua se clasificará en dulce;
- con un contenido menor de 0,11 % de saponinas en base húmeda y amarga cuando
- presenta más de 0,11 % de saponinas.
- La variedad estudiada fue dulce (0,089 %) indicando en esta varie- dad
- un proceso de fitomejoramiento y no sería una variedad silvestre.
+ con un contenido menor de 0,11% de saponinas en base húmeda y amarga cuando
+ presenta más de 0,11% de saponinas.
+ La variedad estudiada fue dulce (0,089%) indicando en esta varie- dad un
+ proceso de fitomejoramiento y no sería una variedad silvestre.
 \end_layout
 
 \end_body

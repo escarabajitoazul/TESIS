@@ -245,11 +245,11 @@ Fase de selección
 Calidad física: 
 \series default
 peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
-000 semillas (g), peso hectolitrico (
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+000 semillas (g), peso hectolítrico (
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 ), diámetro de semillas (mm), espesor de semillas (mm) 
@@ -1545,7 +1545,7 @@ status open
 
 
 \backslash
-vspace{-0.6cm}
+vspace{-0.7cm}
 \end_layout
 
 \end_inset
@@ -3945,7 +3945,7 @@ status open
 \begin_layout Plain Layout
 Tratamientos aplicados a las unidades experimentales.
  Huamanga-Ayacucho, 2
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 016.
@@ -7702,9 +7702,46 @@ ti2
 \end_layout
 
 \begin_layout Plain Layout
-T: Tratamientos; AS: Accesión seleccionada; TG: Tiempo de germinación; TI:
- Tipo de iluminación.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+leyenda{
+\end_layout
+
+\end_inset
+
+T: Tratamientos; AS: Accesión seleccionada; 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+TG: Tiempo de germinación; TI: Tipo de iluminación.
  
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{0.1cm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -8479,7 +8516,11 @@ Peso hectolítrico (g/1000
 
 
 \series bold
-cm3)
+
+\begin_inset Formula $\mathbf{cm}^{\mathbf{3}}$
+\end_inset
+
+)
 \end_layout
 
 \begin_deeper
@@ -8494,7 +8535,7 @@ ml y una balanza analítica de dos decimales.
  posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
 \end_inset
 
 .
@@ -8598,11 +8639,11 @@ key "INEN_1988"
 
 g de granos de quinua, las cuales se colocaron en tubos de ensayo de una
  longitud de 15
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm y un diámetro de 1.6
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm; más 5
@@ -8614,7 +8655,7 @@ ml de agua destilada, se agitaron por 30 segundos y se dejaron reposar por
  finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y se
  efectuó la lectura de la altura de espuma formada con una regla graduada
  de sensibilidad 0.1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm.
