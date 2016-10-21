@@ -86,8 +86,115 @@ RESULTADOS Y DISCUSIÓN
 FASE DE SELECCIÓN
 \end_layout
 
-\begin_layout Subsection
-Análisis de varianza
+\begin_layout Standard
+La tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "ANVA_P1000S"
+
+\end_inset
+
+ muestra el análisis de varianza en el cual se observa que no hay diferencia
+ estadística para el peso hectolítrico; mientras que para el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas, contenido de saponina, porcentaje de germinación e índice
+ de conversión indica que existe diferencia altamente significativa entre
+ los promedios de los tratamientos; estos últimos son variables cualitativas
+ por lo que se realizó la prueba de contraste Tukey para cada variable en
+ estudio; así la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_P1000S"
+
+\end_inset
+
+ muestra que el mayor promedio en el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas (3.93g) es para el tratamiento T96 y los menores (1.77, 1.73 y
+ 1.70
+\begin_inset space \thinspace{}
+\end_inset
+
+g ) para los tratamientos T41, T77 y T31; la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_CS"
+
+\end_inset
+
+ indica que los menores promedios en el contenido de saponinas de las semillas
+ (-0.02%) fueron para los tratamiento T16, T14, T11, T63, T19, T73, T10,
+ T76, T66, T71, T79, T85, T50, T41, T32, T35, T36 y T98; y los mayores (0.5,
+ 0.46, 0.43, 0.42, 0.41 , 0.41 y 0.41%) para los tratamientos T60, T28, T70, T88,
+ T65, T92 y T53; la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_PG"
+
+\end_inset
+
+ muestra que el mayor promedio de porcentaje de germinación (95.33%) fue
+ para los tratamientos T96 y T79; mientras que el menor (6
+\begin_inset space ~
+\end_inset
+
+%) para el tratamiento T74 y la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_IC"
+
+\end_inset
+
+ muestra que el mayor promedio del índice de conversión (0.99) fue para el
+ tratamiento T97 y el menor (0.01) para el tratamiento T74.
+\end_layout
+
+\begin_layout Standard
+Asimismo el análisis de la varianza de la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "ANVA_Diámetro_Espesor_Semilla"
+
+\end_inset
+
+ indica que hay diferencia altamente significativa en el diámetro y espesor
+ de semilla entre los promedios de los tratamientos, para determinar estas
+ diferencias se realizó la prueba de contraste de Tukey, en la cual de acuerdo
+ con la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_DS"
+
+\end_inset
+
+ el mayor promedio en el diámetro de semilla (2.04
+\begin_inset space \thinspace{}
+\end_inset
+
+mm) fue para el tratamiento T96 y el menor (1.52
+\begin_inset space \thinspace{}
+\end_inset
+
+mm) para el tratamiento T41 y la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_ES"
+
+\end_inset
+
+ muestra que el mayor promedio en el espesor de las semillas (1.15
+\begin_inset space \thinspace{}
+\end_inset
+
+mm) fue para el tratamiento T66 y el menor (0.86
+\begin_inset space \thinspace{}
+\end_inset
+
+mm) para el tratamiento T94.
 \end_layout
 
 \begin_layout Standard
@@ -112,7 +219,7 @@ arraystretch}{0.6}
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -128,7 +235,15 @@ Chenopodium quinoa
 \begin_inset space \thinspace{}
 \end_inset
 
-016
+016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "ANVA_P1000S"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -841,7 +956,7 @@ leyenda{
 
 \end_inset
 
-P 1
+Nota: P 1
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -12582,17 +12697,6 @@ h
 \end_layout
 
 \begin_layout Standard
-De acuerdo con el ANVA, existe diferencia altamente significativa en el
- peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semillas, contenido de saponina, porcentaje de germinación e índice
- de conversión entre los tratamientos; para el caso de peso hectolítrico
- no hay diferencia estadística entre los promedios de los tratamientos.
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -12614,7 +12718,7 @@ arraystretch}{0.6}
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -12631,6 +12735,14 @@ Chenopodium quinoa
 \end_inset
 
 016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "ANVA_Diámetro_Espesor_Semilla"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -13062,7 +13174,7 @@ leyenda{
 
 \end_inset
 
-DS: Diámetro de semilla, ES: Espesor de semilla.
+Nota: DS: Diámetro de semilla, ES: Espesor de semilla.
 \begin_inset ERT
 status open
 
@@ -13082,130 +13194,51 @@ status open
 \end_layout
 
 \begin_layout Standard
-El ANVA indica que hay diferencia altamente significativa en el diámetro
- y espesor de semilla entre los tratamientos.
-\end_layout
-
-\begin_layout Subsection
-Prueba de contraste Tukey
-\end_layout
-
-\begin_layout Standard
-De acuerdo al cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_P1000S"
-
-\end_inset
-
- el mayor promedio en el peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semillas (3.93g) es para el tratamiento T96 y los menores (1.77, 1.73 y
- 1.70
-\begin_inset space \thinspace{}
-\end_inset
-
-g ) para los tratamientos T41, T77 y T31.
-\end_layout
-
-\begin_layout Standard
-El cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_CS"
-
-\end_inset
-
- muestra que los menores promedios en el contenido de saponinas de las semillas
- (-0.02%) fueron para los tratamiento T16, T14, T11, T63, T19, T73, T10,
- T76, T66, T71, T79, T85, T50, T41, T32, T35, T36 y T98; y los mayores (0.5,
- 0.46, 0.43, 0.42, 0.41 , 0.41 y 0.41%) para los tratamientos T60, T28, T70, T88,
- T65, T92 y T53.
-\end_layout
-
-\begin_layout Standard
-El cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_PG"
-
-\end_inset
-
- muestra que el mayor promedio de porcentaje de germinación (95.33%) fue
- para los tratamientos T96 y T79; mientras que el menor (6
-\begin_inset space ~
-\end_inset
-
-%) para el tratamiento T74.
-\end_layout
-
-\begin_layout Standard
-De acuerdo al cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_IC"
-
-\end_inset
-
-, el mayor promedio del índice de conversión (0.99) fue para el tratamiento
- T97 y el menor (0.01) para el tratamiento T74.
-\end_layout
-
-\begin_layout Standard
-El cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_DS"
-
-\end_inset
-
- muestra que el mayor promedio en el diámetro de semilla (2.04
-\begin_inset space \thinspace{}
-\end_inset
-
-mm) fue para el tratamiento T96 y el menor (1.52
-\begin_inset space \thinspace{}
-\end_inset
-
-mm) para el tratamiento T41.
-\end_layout
-
-\begin_layout Standard
-De acuerdo con la tabla 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:PT_ES"
-
-\end_inset
-
-, el mayor promedio en el espesor de las semillas (1.15
-\begin_inset space \thinspace{}
-\end_inset
-
-mm) fue para el tratamiento T66 y el menor (0.86
-\begin_inset space \thinspace{}
-\end_inset
-
-mm) para el tratamiento T94.
-\end_layout
-
-\begin_layout Subsection
-Probabilidad normal de selección
-\end_layout
-
-\begin_layout Standard
-Se realizó una selección considerando una probabilidad del 15%; es decir,
- la selección del 15% de los mejores resultados para las variables peso
- de 1
+Con la finalidad de seleccionar los tratamientos con mejores resultados
+ en las variables evaluadas, se utilizó una probabilidad de selección del
+ 15%; es decir, la selección del 15% de los mejores resultados para las
+ variables peso de 1
 \begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, diámetro de semillas, espesor de semilla, porcentaje de germinació
 n e índice de conversión; para el caso del contenido de saponinas el 15%
- de los menores promedios para seleccionar semillas con menor porcentaje
+ de los menores promedios para la selección de semillas con menor porcentaje
  de saponinas.
+ Así la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Probabilidad-x>15%"
+
+\end_inset
+
+ muestra que la selección de los tratamientos para el peso de 1
+\begin_inset space ~
+\end_inset
+
+000 semillas, diámetro de semilla, espesor de semilla, porcentaje de germinación
+ e índice de conversión sería a partir de 3.24
+\begin_inset space ~
+\end_inset
+
+g, 1.96
+\begin_inset space ~
+\end_inset
+
+mm, 1.07
+\begin_inset space ~
+\end_inset
+
+mm, 86.76
+\begin_inset space ~
+\end_inset
+
+% y de un índice de 0.76 respectivamente; y para el contenido de saponina
+ los tratamientos con promedios menores a -0.03
+\begin_inset space ~
+\end_inset
+
+%.
 \end_layout
 
 \begin_layout Standard
@@ -13230,7 +13263,7 @@ arraystretch}{0.6}
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -13261,7 +13294,7 @@ name "tab:Probabilidad-x>15%"
 \noindent
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="5" columns="7">
+<lyxtabular version="3" rows="3" columns="7">
 <features rotate="0" booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
@@ -13352,139 +13385,6 @@ PG (%)
 
 \series bold
 IC
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Media
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2.79
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1.86
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1.01
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.07
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-68.14
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.58
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Formula $\sigma$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.19
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.01
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.0033
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.01
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-322.87
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.03
 \end_layout
 
 \end_inset
@@ -13640,7 +13540,7 @@ leyenda{
 
 \end_inset
 
-P 1
+Nota: P 1
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -13669,44 +13569,6 @@ status open
 \end_layout
 
 \begin_layout Standard
-De acuerdo al cuadro 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Probabilidad-x>15%"
-
-\end_inset
-
-, se seleccionarán aquellos tratamientos cuyo promedio esté por encima de
- 3.24
-\begin_inset space ~
-\end_inset
-
-g, 1.96
-\begin_inset space ~
-\end_inset
-
-mm, 1.07
-\begin_inset space ~
-\end_inset
-
-mm, 86.76
-\begin_inset space ~
-\end_inset
-
-% y 0.76 para las variables peso de 1
-\begin_inset space ~
-\end_inset
-
-000 semillas, diámetro de semillas, espesor de semillas, porcentaje de germinaci
-ón e índice de conversión respectivamente; para el contenido de saponinas
- los tratamientos cuyo promedio estén por debajo de -0.03%.
-\end_layout
-
-\begin_layout Subsection
-Tratamientos seleccionados
-\end_layout
-
-\begin_layout Standard
 Considerando los resultados del cuadro 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -13714,8 +13576,24 @@ reference "tab:Probabilidad-x>15%"
 
 \end_inset
 
- y los cuadros de prueba de contraste de Tukey, los tratamientos seleccionados
- para cada variable son: 
+ y los tablas de contraste de Tukey, los tratamientos seleccionados fueron
+ aquellos que presentaron coincidencia de selección en más de dos variables
+ evaluadas.
+ La tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Comparación-de-tratamientos"
+
+\end_inset
+
+, muestra los tratamientos seleccionados, donde los tratamientos T79, T63,
+ T73 y T35 muestran coincidencia de selección para las seis variables evaluadas;
+ para cinco variables T71; para cuatro variables T38, T76 y para tres variables
+ T98, T19 y T36.
+ En la selección por coincidenca de tres variables se exceptuaron los tratamient
+os T6, T13, T69 y T96 por no haber sido seleccionados para el contenido
+ de saponina, porcentaje de germinación e índice de conversión.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -13741,7 +13619,7 @@ arraystretch}{0.6}
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -16695,7 +16573,7 @@ leyenda{
 
 \end_inset
 
-P 1
+Nota: P 1
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -16724,27 +16602,53 @@ status open
 \end_layout
 
 \begin_layout Standard
-Los tratamientos seleccionados de acuerdo con el cuadro 
+La tabla 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "tab:Comparación-de-tratamientos"
+reference "tab:Valores_ttratamientos_seleccionados"
 
 \end_inset
 
- son los que presentan coincidencia para las seis variables cuantitativas
- evaluadas son T79, T63, T73 y T35, para cinco variables T71; para cuatro
- variables T38, T76 y para tres variables T98, T19 y T36.
- En la selección por coincidenca de tres variables se exceptuaron los tratamient
-os T6, T13, T69 y T96 por no haber sido seleccionados para el contenido
- de saponina, porcentaje de germinación e índice de conversión.
- 
+ muestra los 10 tratamientos seleccionados, donde los rangos de valores
+ para el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas oscila entre 2.87
+\begin_inset space \thinspace{}
+\end_inset
+
+g y 3.40
+\begin_inset space \thinspace{}
+\end_inset
+
+g; para el diámetro de semillas entre 1.84
+\begin_inset space \thinspace{}
+\end_inset
+
+mm a 2.02
+\begin_inset space \thinspace{}
+\end_inset
+
+mm, para el espesor de semillas entre 1.05
+\begin_inset space \thinspace{}
+\end_inset
+
+mm a 1.13
+\begin_inset space \thinspace{}
+\end_inset
+
+mm, para el contenido de saponinas entre -0.02% a -0.01%, para el porcentaje
+ de germinación entre 82.33% a 95.33% y para el índice de conversión entre
+ 0.77 a 0.93.
+ cabe resaltar que todas los granos seleccionadas son de color rojo.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -16758,6 +16662,14 @@ Valores de los tratamientos seleccionados en seis variables cuantitativas.
 \end_inset
 
 016.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Valores_ttratamientos_seleccionados"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -17551,7 +17463,7 @@ leyenda{
 
 \end_inset
 
-P 1
+Nota: P 1
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -17580,87 +17492,114 @@ status open
 \end_layout
 
 \begin_layout Standard
-Los resultados de la selección muestran que el peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semillas oscila entre 2.87
-\begin_inset space \thinspace{}
-\end_inset
-
-g y 3.40
-\begin_inset space \thinspace{}
-\end_inset
-
-g; 
-\end_layout
-
-\begin_layout Standard
-El rango del diámetro de semillas oscila entre 1.84
-\begin_inset space \thinspace{}
-\end_inset
-
-mm a 2.02
-\begin_inset space \thinspace{}
-\end_inset
-
-mm clasificado según 
+El diámetro de semillas seleccionadas está clasificado según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Rev_Gonzalez_2013"
 
 \end_inset
 
- como semillas de la categoría grande.
-\end_layout
-
-\begin_layout Standard
-El espesor de semillas está entre 1.05
-\begin_inset space \thinspace{}
-\end_inset
-
-mm a 1.13
-\begin_inset space \thinspace{}
+ como semillas de la categoría grande por estar en el rango de 1,76 a 2,20
+\begin_inset space ~
 \end_inset
 
 mm.
 \end_layout
 
 \begin_layout Standard
-El contenido de saponinas varía de -0.02% a -0.01% siendo considerados como
- quinuas dulces de acuerdo con 
+Las semillas de quinua seleccionadas en el contenido de saponinas son considerad
+os como quinuas dulces de acuerdo con 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Quiroga_2010"
 
 \end_inset
 
-.
+ por presentar niveles por debajo del 0.12% de saponina.
+ Además según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Jimenez_2013"
+
+\end_inset
+
+ una concentración de saponinas menor de 0,11% indica que son variedades
+ dulces producto de un proceso de fitomejoramiento y no sería una variedad
+ silvestre.
 \end_layout
 
 \begin_layout Standard
-El porcentaje de germinación oscila entre 82.33% a 95.33%, según 
+Según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "FAO_2014"
 
 \end_inset
 
- el porcentaje mínimo de germinación debe ser 85% de la viabilidad inicial,
- como no se cuentan con datos iniciales de germinación se supone el 100%,
- por lo que a partir del tratamiento T38 las quinuas necesitan ser regeneradas.
+ el porcentaje mínimo de germinación en bancos de germoplasma debe ser 85%
+ de la viabilidad inicial; por lo que a partir del tratamiento T38 (ver
+ tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:PT_PG"
+
+\end_inset
+
+ del anexo) las quinuas deben ser regeneradas por tener un porcentaje menor
+ de 82.33
+\begin_inset space ~
+\end_inset
+
+% (por no contar con datos iniciales de germinación se supone el 100
+\begin_inset space ~
+\end_inset
+
+%).
+ Además se puede inferir que el porcentaje de germinación durante los tres
+ años de almacenamiento disminuyó de 5-94
+\begin_inset space ~
+\end_inset
+
+% posiblemente por la condiciones de almacenamiento; al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Castellion_2008"
+
+\end_inset
+
+, reporta que el almacenamiento en condiciones ambientales (14% HR y temperatura
+ ambiente) durante seis meses en semillas del cultivar Baer y Ollagüe disminuyó
+ su porcentaje de germinación en 5 y 30% respectivamente; mientras que almacenad
+as en banco de germoplasma (6% HR y -20°C) mantuvo invariable sus porcentajes
+ de germinación.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+De esto se puede inferir que las condiciones de almacenamiento influyen
+ en el porcentaje de germinación por el daño ocasionado en los tejidos embrionar
+ios.
 \end_layout
 
-\begin_layout Standard
-El índice de conversión está entre 0.77 a 0.93
+\end_inset
+
+ Asimismo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pinto_2013"
+
+\end_inset
+
+ declara que en accesiones de quinuas cultivas almacenadas durante 13 semestres
+ consecutivos a 10°C y 45% de humedad relativa; el 96% redujo su germinación
+ entre 1 a 85%, mientras que el 4% incremento el porcentaje de germinación
+ en 2%.
+ 
 \end_layout
 
 \begin_layout Section
 FASE DE PRODUCCIÓN DE GERMINADOS
-\end_layout
-
-\begin_layout Subsection
-Calidad de germinado 
 \end_layout
 
 \begin_layout Subsubsection
@@ -17672,7 +17611,7 @@ Porcentaje de germinación (%)
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -17805,6 +17744,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 91859.05
 \end_layout
 
@@ -17814,6 +17765,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 1032.12
 \end_layout
 
@@ -17823,6 +17786,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 62.62
 \end_layout
 
@@ -17852,7 +17827,7 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+AS
 \end_layout
 
 \end_inset
@@ -17861,7 +17836,7 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-2
+9
 \end_layout
 
 \end_inset
@@ -17870,7 +17845,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-24682.05
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3259.13
 \end_layout
 
 \end_inset
@@ -17879,7 +17866,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-12341.03
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+362.13
 \end_layout
 
 \end_inset
@@ -17888,7 +17887,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-748.78
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+21.97
 \end_layout
 
 \end_inset
@@ -17935,6 +17946,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 19954.45
 \end_layout
 
@@ -17944,6 +17967,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 9977.23
 \end_layout
 
@@ -17953,6 +17988,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 605.36
 \end_layout
 
@@ -17982,7 +18029,7 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-AS
+TG
 \end_layout
 
 \end_inset
@@ -17991,7 +18038,7 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-9
+2
 \end_layout
 
 \end_inset
@@ -18000,7 +18047,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-3259.13
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+24682.05
 \end_layout
 
 \end_inset
@@ -18009,7 +18068,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-362.13
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12341.03
 \end_layout
 
 \end_inset
@@ -18018,72 +18089,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-21.97
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-<0.0001
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-**
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TG*TI
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-33119.48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-8279.87
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-502.37
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+748.78
 \end_layout
 
 \end_inset
@@ -18112,7 +18130,7 @@ TG*TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*AS
+AS*TI
 \end_layout
 
 \end_inset
@@ -18130,71 +18148,18 @@ TG*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-3304.54
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-183.59
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-11.14
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-<0.0001
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-**
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TI*AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-18
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2354.59
 \end_layout
 
@@ -18204,6 +18169,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 130.81
 \end_layout
 
@@ -18213,6 +18190,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 7.94
 \end_layout
 
@@ -18242,7 +18231,209 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*TI*AS
+AS*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3304.54
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+183.59
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+11.14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+33119.48
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+8279.87
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+502.37
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AS*TI*TG
 \end_layout
 
 \end_inset
@@ -18260,6 +18451,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 5184.81
 \end_layout
 
@@ -18269,6 +18472,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 144.02
 \end_layout
 
@@ -18278,6 +18493,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 8.74
 \end_layout
 
@@ -18325,6 +18552,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2966.67
 \end_layout
 
@@ -18334,6 +18573,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 16.48
 \end_layout
 
@@ -18344,6 +18595,18 @@ Error
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+     
 \end_layout
 
 \end_inset
@@ -18390,6 +18653,18 @@ Total
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 94825.72
 \end_layout
 
@@ -18511,8 +18786,9 @@ CV=4.73%
 
 \begin_layout Standard
 De acuerdo con el ANVA existe diferencia altamente significativa por el
- efecto del TG, TI y AS; así como por sus respectivas interacciones.
- 
+ efecto del TG, TI y AS; así como por la doble y triple interacción; esta
+ última indica que el porcentaje de germinación varía por la combinación
+ de la AS, TI y TG; por la amplitud de los datos 
 \end_layout
 
 \begin_layout Subsubsection
@@ -18524,7 +18800,7 @@ Longitud del eje embrionario (cm)
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -18649,6 +18925,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 89
 \end_layout
 
@@ -18658,6 +18946,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 312.82
 \end_layout
 
@@ -18667,6 +18967,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 3.51
 \end_layout
 
@@ -18676,7 +18988,19 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
-56.80
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+56.8
 \end_layout
 
 \end_inset
@@ -18685,6 +19009,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -18705,7 +19041,7 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+AS
 \end_layout
 
 \end_inset
@@ -18714,7 +19050,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-2
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+9
 \end_layout
 
 \end_inset
@@ -18723,7 +19071,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-255.39
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+4.52
 \end_layout
 
 \end_inset
@@ -18732,7 +19092,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-127.70
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.5
 \end_layout
 
 \end_inset
@@ -18741,7 +19113,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-2063.65
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+8.11
 \end_layout
 
 \end_inset
@@ -18750,6 +19134,18 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -18779,6 +19175,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2
 \end_layout
 
@@ -18788,6 +19196,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 35.91
 \end_layout
 
@@ -18797,6 +19217,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 17.96
 \end_layout
 
@@ -18806,6 +19238,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 290.19
 \end_layout
 
@@ -18815,6 +19259,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -18835,7 +19291,7 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-AS
+TG
 \end_layout
 
 \end_inset
@@ -18844,7 +19300,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-9
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2
 \end_layout
 
 \end_inset
@@ -18853,7 +19321,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-4.52
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+255.39
 \end_layout
 
 \end_inset
@@ -18862,7 +19342,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.50
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+127.7
 \end_layout
 
 \end_inset
@@ -18871,7 +19363,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-8.11
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2063.65
 \end_layout
 
 \end_inset
@@ -18880,6 +19384,18 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -18900,7 +19416,7 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*TI
+AS*TI
 \end_layout
 
 \end_inset
@@ -18909,71 +19425,18 @@ TG*TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-4
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-10.26
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2.57
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-41.47
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-<0.0001
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-**
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TG*AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 18
 \end_layout
 
@@ -18983,73 +19446,18 @@ TG*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-1.83
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-1.65
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.0534
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-ns
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TI*AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-18
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2.06
 \end_layout
 
@@ -19059,6 +19467,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.11
 \end_layout
 
@@ -19068,6 +19488,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 1.85
 \end_layout
 
@@ -19077,6 +19509,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.0224
 \end_layout
 
@@ -19099,7 +19543,7 @@ ns
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*TI*AS
+AS*TG
 \end_layout
 
 \end_inset
@@ -19108,6 +19552,270 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.65
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0534
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+ns
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+10.26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2.57
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+41.47
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AS*TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 36
 \end_layout
 
@@ -19117,6 +19825,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2.84
 \end_layout
 
@@ -19126,6 +19846,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.08
 \end_layout
 
@@ -19135,6 +19867,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 1.27
 \end_layout
 
@@ -19144,6 +19888,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.1537
 \end_layout
 
@@ -19175,6 +19931,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 180
 \end_layout
 
@@ -19184,6 +19952,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 11.14
 \end_layout
 
@@ -19193,6 +19973,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.06
 \end_layout
 
@@ -19203,6 +19995,18 @@ Error
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+       
 \end_layout
 
 \end_inset
@@ -19240,6 +20044,18 @@ Total
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 269
 \end_layout
 
@@ -19249,6 +20065,18 @@ Total
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 323.96
 \end_layout
 
@@ -19259,6 +20087,18 @@ Total
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+      
 \end_layout
 
 \end_inset
@@ -19268,6 +20108,18 @@ Total
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+       
 \end_layout
 
 \end_inset
@@ -19369,9 +20221,3758 @@ CV=16.60%
 \end_layout
 
 \begin_layout Standard
-De acuerdo con el ANVA existe diferencia altamente significativa por el
- efecto del TG, TI y AS; así como por sus respectivas interacciones.
+De acuerdo con el ANVA las interacciones AS*TI, AS*TG y AS*TI*TG no son
+ estadísticamente significativos; pero si existe diferencia altamente significat
+iva entre los tratamientos por los efectos de la AS, TI, TG y por la interacción
+ del TI*TG; esta última indica que la longitud del eje embrionario varía
+ por la combinación del TI y TG; por lo que se realizó un estudio de efectos
+ simples (ver tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Polinomios ortogonales"
+
+\end_inset
+
+) en la que se observa que el TG se ajusta a una regresión cuadrática para
+ los tres tipos de iluminación.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análisis de varianza y estudio de modelos polinómicos de la longitud del
+ eje embrionario (cm), debido a tres tipos de iluminación (TI) y tres tiempos
+ de germinación (TG).
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="7">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Fuente de variación
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+G.L
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+SC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+CM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+FC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Pr>F
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tratamientos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+89
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+312.82
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3.51
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+56.8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+10.26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2.57
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+41.47
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12HL-12HO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Lineal
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+118.05
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+118.05
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1967.500
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Cuadrático
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+30.000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+LC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Lineal
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+43.54
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+43.54
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+725.667
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Cuadrático
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.09
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.09
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+18.167
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+OC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Lineal
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+100.21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+100.21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1670.167
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+R.
+ Cuadrático
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.98
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.98
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+16.333
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Error
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+180
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+11.14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.06
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
  
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Total
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+269
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+323.96
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CV=16.60%
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prueba de contrastes de Tukey (
+\begin_inset Formula $α=0.05$
+\end_inset
+
+) de la longitud del eje embrionario.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="10">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Promedio (g)
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Prueba de Tukey
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+72H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12HL-12HO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3.32
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+a 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+72H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+OC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3.06
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+b 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+72H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+LC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.92
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+c 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+48H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12HL-12HO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.61
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+d 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+48H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+OC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.55
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+d 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+48H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+LC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+e 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+24H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12HL-12HO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.51
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+f 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+24H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+OC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.48
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+f 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+24H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+LC 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+g 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -19383,7 +23984,7 @@ De acuerdo con el ANVA existe diferencia altamente significativa por el
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -19396,6 +23997,13 @@ nálisis de varianza del efecto del tiempo de germinación (TG), tipo de ilumina
 \end_inset
 
 016.
+\begin_inset CommandInset label
+LatexCommand label
+name "Polinomios ortogonales"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -19507,6 +24115,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 89
 \end_layout
 
@@ -19516,6 +24136,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 8.91
 \end_layout
 
@@ -19525,7 +24157,19 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.10
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.1
 \end_layout
 
 \end_inset
@@ -19534,6 +24178,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 38.26
 \end_layout
 
@@ -19543,6 +24199,18 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -19563,7 +24231,7 @@ Tratamientos
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+AS
 \end_layout
 
 \end_inset
@@ -19572,7 +24240,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-2
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+9
 \end_layout
 
 \end_inset
@@ -19581,7 +24261,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-2.12
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.33
 \end_layout
 
 \end_inset
@@ -19590,7 +24282,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-1.06
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.04
 \end_layout
 
 \end_inset
@@ -19599,7 +24303,19 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
-404.51
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+13.85
 \end_layout
 
 \end_inset
@@ -19608,6 +24324,18 @@ TG
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -19637,6 +24365,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2
 \end_layout
 
@@ -19646,6 +24386,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 2.12
 \end_layout
 
@@ -19655,6 +24407,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 1.06
 \end_layout
 
@@ -19664,6 +24428,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 404.09
 \end_layout
 
@@ -19673,6 +24449,18 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -19693,7 +24481,7 @@ TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-AS
+TG
 \end_layout
 
 \end_inset
@@ -19702,7 +24490,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-9
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2
 \end_layout
 
 \end_inset
@@ -19711,7 +24511,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.33
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+2.12
 \end_layout
 
 \end_inset
@@ -19720,7 +24532,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.04
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+1.06
 \end_layout
 
 \end_inset
@@ -19729,7 +24553,19 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-13.85
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+404.51
 \end_layout
 
 \end_inset
@@ -19738,6 +24574,18 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -19758,7 +24606,7 @@ AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*TI
+AS*TI
 \end_layout
 
 \end_inset
@@ -19767,71 +24615,18 @@ TG*TI
 \begin_inset Text
 
 \begin_layout Plain Layout
-4
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-3.18
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.79
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-303.36
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-<0.0001
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-**
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TG*AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 18
 \end_layout
 
@@ -19841,71 +24636,18 @@ TG*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.36
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-0.02
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-7.54
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-<0.0001
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-**
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TI*AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-18
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.25
 \end_layout
 
@@ -19915,6 +24657,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.01
 \end_layout
 
@@ -19924,6 +24678,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 5.33
 \end_layout
 
@@ -19933,6 +24699,18 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -19953,7 +24731,7 @@ TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG*TI*AS
+AS*TG
 \end_layout
 
 \end_inset
@@ -19962,7 +24740,19 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-36
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+18
 \end_layout
 
 \end_inset
@@ -19971,7 +24761,19 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.57
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.36
 \end_layout
 
 \end_inset
@@ -19980,6 +24782,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.02
 \end_layout
 
@@ -19989,6 +24803,268 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+7.54
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+3.18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.79
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+303.36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+<0.0001
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+**
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AS*TI*TG
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.57
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+0.02
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 6.05
 \end_layout
 
@@ -19998,6 +25074,18 @@ TG*TI*AS
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 <0.0001
 \end_layout
 
@@ -20027,6 +25115,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 180
 \end_layout
 
@@ -20036,6 +25136,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.47
 \end_layout
 
@@ -20045,6 +25157,18 @@ Error
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 0.0026
 \end_layout
 
@@ -20055,6 +25179,18 @@ Error
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+      
 \end_layout
 
 \end_inset
@@ -20092,6 +25228,18 @@ Total
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 269
 \end_layout
 
@@ -20101,6 +25249,18 @@ Total
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
 9.38
 \end_layout
 
@@ -20222,8 +25382,7 @@ CV=6.04%
 
 \begin_layout Standard
 De acuerdo con el ANVA existe diferencia altamente significativa por el
- efecto del TG, TI y AS; así como por sus respectivas interacciones.
- 
+ efecto del TG, TI y AS; así como por la doble y triple interacción.
 \end_layout
 
 \begin_layout Subsubsection
@@ -20242,7 +25401,7 @@ Sabor
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -20766,7 +25925,7 @@ Olor
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -21282,7 +26441,7 @@ Color
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -21803,7 +26962,7 @@ Contenido de proteína bruta (%)
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22168,6 +27327,171 @@ Semilla
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Barron_2008"
+
+\end_inset
+
+ reporta un índice de conversión de 5.8, 4.0, 12.0, 4.0 y 1.54 en germinados
+ de 13, 0.3, 15.2, 7 y 1.32
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de longitud radicular a los 10, 1, 12 y 9 días de germinación en huazontle,
+ calabacita, canola y amaranto respectivamente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ reporta que; en la germinación de semilla de quinua en condiciones de oscuridad
+ total a una humedad relativa entre 55%-83%, temperatura entre 19°C-28°C
+ y en tres días diferentes del proceso germinativo; no mejoró la concentración
+ de proteína, la proteína encontrada en las semillas con dos y tres días
+ de germinación (14.77 y 14.68%), fue estadísticamente igual a la proteína
+ cruda de las semillas sin germinar del día cero (14.76%); por el contrario,
+ en el primer día de germinación se presentó un descenso significativo en
+ el contenido de proteína (14.15%) , con respecto a la proteína de las semillas
+ sin germinar (día cero), encontrándose una diferencia de 0.61%.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chancusig_2013"
+
+\end_inset
+
+,con la finalidad de mejorar la calidad nutricional del fideo utilizó una
+ mezcla de harina de trigo con harina de quinua germinada, para lo cual
+ evaluó la influencia del tiempo de germinación (24, 36 y 48 horas) y el
+ porcentaje de mezcla de harina de trigo con harina de quinua germinada
+ (60% con 40%, 55% con 45% y 50% con 50% respectivamente); donde las variables
+ cuantitativas analizadas fueron: humedad, ceniza, proteína, gluten, fibra,
+ grasa, acidez, caloría, granulometría, tenacidad, peso y dureza; las variables
+ cualitativas: color, aroma, sabor, textura, trizamiento y aceptabilidad
+ y las variables microbiológicas: recuento de aerobios totales, recuento
+ de mohos y levaduras; determinando que todos los tratamientos se encontraban
+ aptos para consumo humano en el aspecto microbiológico y de estos los mejores
+ tratamientos debido a su composición físico-química y aceptación organoléptica,
+ son las que estuvieron sometidos a 24 horas de germinación de la quinua
+ y una mezcla de 60% de harina de trigo con 40% de harina de quinua germinada.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+, reporta que el contenido de proteínas en la variedad Salcedo INIA, Pasankalla
+ y Negra Collana con la germinación después de ocho horas de remojo, durante
+ 48 horas a 20°C y después de su cocción durante 15 minutos a 86°C arrojó
+ en promedio 12.57% y 12.87% respectivamente, mientras que para los granos
+ escarificados fue de 12.13%.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, reporta en la evaluación de variedades amargas sin procesar 11.65% de proteína
+ en promedio que luego de la eliminación se saponina incrementan a 12.58%.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, manifiesta que el contenido de proteína de la quinua varía entre 13.81
+ y 21.9% dependiendo de la variedad.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Vargas_col_2013"
+
+\end_inset
+
+ reportan entre 12.6 y 18.2% de proteína en 20 genotipos de quinua.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Medina_2013"
+
+\end_inset
+
+, define a la semilla como amilácea, ya que en un análisis proximal de dos
+ lotes de harina de quinua variedad CICA, reportó que tienen un alto contenido
+ de carbohidratos (65.65%), además de 11.47% de humedad, 1.85% de ceniza, 14.70%
+ de proteína total y 8.03% de materia grasa
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+: destaca el valor proteico (11.2%) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
+: encontraron en promedio 16.8% de proteína en 21 variedades de quinua del
+ NOA.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+PROTEÍNAS, GERMINADOS
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Castellion_2008"
+
+\end_inset
+
+ encontró que luego del almacenamiento a 14% HR y temperatura ambiente,
+ el contenido de proteínas solubles disminuye en la semilla; mientras que
+ la estabilidad de proteínas conservadas en el banco de germoplasma a 6%
+ HR y -20°C se mantienen más o menos estables; además encontró un aumento
+ importante en los niveles de proteínas solubles en estas semillas por efectos
+ pre-germinativos.
+ Señala además que la heterogeneidad hallada estaría relacionada con diferencias
+ genéticas entre cultivares.
+ Por otra parte, estos resultados también apoyan la presunción de la insolubiliz
+ación de proteínas durante el almacenamiento y su posterior reparación durante
+ las primeras etapas de la germinación, aunque ello no necesariamente lleva
+ a valores altos de semillas germinadas.
+\end_layout
+
 \begin_layout Section
 FASE DE CONSERVACIÓN
 \end_layout
@@ -22181,7 +27505,7 @@ Peso de germinado (%)
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22572,7 +27896,7 @@ ión a diferentes temperaturas de los germinados de quinua.
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -22885,254 +28209,6 @@ permiten una amplia valoración del germoplasma en este sentido y el desarrollo
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section
-DISCUSIONES
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-GERMOPLASMA Y GERMINACIÓN
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Pinto_2013"
-
-\end_inset
-
- declara que en accesiones de quinuas cultivas almacenadas durante 13 semestres
- consecutivos a 10°C y 45% de humedad relativa; el 96% redujeron su germinación
- entre 1 a 85%, mientras que el 4% incremento el porcentaje de germinación
- en 2%.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Castellion_2008"
-
-\end_inset
-
-, reporta que el almacenamiento en condiciones ambientales (14% HR y temperatura
- ambiente) durante seis meses en semillas del cultivar Baer y Ollagüe disminuye
- su porcentaje de germinación en 5 y 30% respectivamente; mientras que almacenad
-as en banco de germoplasma (6% HR y -20°C) mantuvo invariable sus porcentajes
- de germinación (datos no mostrados).
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-De esto se puede inferir que las condiciones de almacenamiento influyen
- en el porcentaje de germinación por el daño ocasionado en los tejidos embrionar
-ios.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-CONTENIDO DE PROTEÍNAS
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Chaparro_2010"
-
-\end_inset
-
- reporta que; en la germinación de semilla de quinua en condiciones de oscuridad
- total a una humedad relativa entre 55%-83%, temperatura entre 19°C-28°C
- y en tres días diferentes del proceso germinativo; no mejoró la concentración
- de proteína, la proteína encontrada en las semillas con dos y tres días
- de germinación (14.77 y 14.68%), fue estadísticamente igual a la proteína
- cruda de las semillas sin germinar del día cero (14.76%); por el contrario,
- en el primer día de germinación se presentó un descenso significativo en
- el contenido de proteína (14.15%) , con respecto a la proteína de las semillas
- sin germinar (día cero), encontrándose una diferencia de 0.61%.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Chancusig_2013"
-
-\end_inset
-
-,con la finalidad de mejorar la calidad nutricional del fideo utilizó una
- mezcla de harina de trigo con harina de quinua germinada, para lo cual
- evaluó la influencia del tiempo de germinación (24, 36 y 48 horas) y el
- porcentaje de mezcla de harina de trigo con harina de quinua germinada
- (60% con 40%, 55% con 45% y 50% con 50% respectivamente); donde las variables
- cuantitativas analizadas fueron: humedad, ceniza, proteína, gluten, fibra,
- grasa, acidez, caloría, granulometría, tenacidad, peso y dureza; las variables
- cualitativas: color, aroma, sabor, textura, trizamiento y aceptabilidad
- y las variables microbiológicas: recuento de aerobios totales, recuento
- de mohos y levaduras; determinando que todos los tratamientos se encontraban
- aptos para consumo humano en el aspecto microbiológico y de estos los mejores
- tratamientos debido a su composición físico-química y aceptación organoléptica,
- son las que estuvieron sometidos a 24 horas de germinación de la quinua
- y una mezcla de 60% de harina de trigo con 40% de harina de quinua germinada.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Valenzuela_col_2015"
-
-\end_inset
-
-, reporta que el contenido de proteínas en la variedad Salcedo INIA, Pasankalla
- y Negra Collana con la germinación después de ocho horas de remojo, durante
- 48 horas a 20°C y después de su cocción durante 15 minutos a 86°C arrojó
- en promedio 12.57% y 12.87% respectivamente, mientras que para los granos
- escarificados fue de 12.13%.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Quiroga_2010"
-
-\end_inset
-
-, reporta en la evaluación de variedades amargas sin procesar 11.65% de proteína
- en promedio que luego de la eliminación se saponina incrementan a 12.58%.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "FAO_2011"
-
-\end_inset
-
-, manifiesta que el contenido de proteína de la quinua varía entre 13.81
- y 21.9% dependiendo de la variedad.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Vargas_col_2013"
-
-\end_inset
-
- reportan entre 12.6 y 18.2% de proteína en 20 genotipos de quinua.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Medina_2013"
-
-\end_inset
-
-, define a la semilla como amilácea, ya que en un análisis proximal de dos
- lotes de harina de quinua variedad CICA, reportó que tienen un alto contenido
- de carbohidratos (65.65%), además de 11.47% de humedad, 1.85% de ceniza, 14.70%
- de proteína total y 8.03% de materia grasa
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rev_Gonzalez_2013"
-
-\end_inset
-
-: destaca el valor proteico (11.2%) 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Silvina_2013"
-
-\end_inset
-
-: encontraron en promedio 16.8% de proteína en 21 variedades de quinua del
- NOA.
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-PROTEÍNAS, GERMINADOS
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Castellion_2008"
-
-\end_inset
-
- encontró que luego del almacenamiento a 14% HR y temperatura ambiente,
- el contenido de proteínas solubles disminuye en la semilla; mientras que
- la estabilidad de proteínas conservadas en el banco de germoplasma a 6%
- HR y -20°C se mantienen más o menos estables; además encontró un aumento
- importante en los niveles de proteínas solubles en estas semillas por efectos
- pre-germinativos.
- Señala además que la heterogeneidad hallada estaría relacionada con diferencias
- genéticas entre cultivares.
- Por otra parte, estos resultados también apoyan la presunción de la insolubiliz
-ación de proteínas durante el almacenamiento y su posterior reparación durante
- las primeras etapas de la germinación, aunque ello no necesariamente lleva
- a valores altos de semillas germinadas.
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-INDICE DE CONVERSIÓN
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Barron_2008"
-
-\end_inset
-
- reporta un índice de conversión de 5.8, 4.0, 12.0, 4.0 y 1.54 en germinados
- de 13, 0.3, 15.2, 7 y 1.32
-\begin_inset space \thinspace{}
-\end_inset
-
-cm de longitud radicular a los 10, 1, 12 y 9 días de germinación en huazontle,
- calabacita, canola y amaranto respectivamente.
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-SAPONINA
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rev_Jimenez_2013"
-
-\end_inset
-
-: Según su concentración de saponinas, la quinua se clasificará en dulce;
- con un contenido menor de 0,11% de saponinas en base húmeda y amarga cuando
- presenta más de 0,11% de saponinas.
- La variedad estudiada fue dulce (0,089%) indicando en esta varie- dad un
- proceso de fitomejoramiento y no sería una variedad silvestre.
 \end_layout
 
 \end_body

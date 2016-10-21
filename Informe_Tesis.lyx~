@@ -851,7 +851,16 @@ filename "Dedicatoria/dedicatoria.tex"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{solo}
+\end_layout
+
 \end_inset
 
 
@@ -861,13 +870,6 @@ filename "Dedicatoria/dedicatoria.tex"
 \noindent
 \begin_inset ERT
 status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagestyle{empty}
-\end_layout
 
 \begin_layout Plain Layout
 
@@ -925,33 +927,28 @@ A la Universidad Nacional de San Cristóbal de Huamanga, Facultad de Ciencias
 \end_layout
 
 \begin_layout Standard
-Al Laboratorio de Genética y Biotecnología Vegetal del Departamento Académico
- de Agronomia y Zootecnia de la Escuela de Formación de Agronomía de la
- Universidad Nacional de San Cristóbal de Huamanga por poner a mi disposición
- los ambientes del laboratorio.
- 
+Al M.Sc.
+ Germán Fernando De la Cruz Lapa y al M.Sc.
+ Francisco Condeña Almora, asesor y coasesor de la presente tesis; por su
+ orientación, apoyo, tiempo, paciencia, experiencia y conocimientos brindados.
 \end_layout
 
 \begin_layout Standard
-Un agradecimiento especial al M.Sc.
- Germán Fernando De la Cruz Lapa asesor del proyecto de tesis y al M.Sc.
- Francisco Condeña Almora coasesor del proyecto de tesis; por su orientación,
- apoyo, tiempo, paciencia, experiencia y conocimientos brindados en la elaboraci
-ón del presente trabajo de investigación.
+A los ingenieros Julio Danilo Vilca Vivas y Efigenio Quispe Curi por sus
+ acertados consejos.
 \end_layout
 
 \begin_layout Standard
-A Ken Esparta Ccorahua, estudiante de Ingenniería de la computación de la
- Universidad Federal de Ceará-Brasil por su apoyo emocional e intelectual
- en la materialización del presente trabajo.
+A Ken Esparta Ccorahua por su apoyo intelectual y emocional en la materializació
+n del presente trabajo.
  
 \end_layout
 
 \begin_layout Standard
 A mis compañeros y amigos Francisca del Pilar Gálvez, Leydi Mayra Huamaní,
  Yesenia Canchari, Delia Mallqui, Leidy Escalante, Jesús Marco Pozo, Rocío
- Medina, Yury Pacotaype, Gerónimo Quispe y a todos los que me brindaron
- su apoyo durante la ejecución de la investigación.
+ Medina, Yury Pacotaype, Nelson Vilcatoma, Gerónimo Quispe y a todos los
+ que me brindaron su apoyo durante la ejecución de la presente tesis.
 \end_layout
 
 \begin_layout Standard

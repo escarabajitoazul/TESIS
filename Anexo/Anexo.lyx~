@@ -27367,7 +27367,7 @@ name "tab:PT_DS"
 \begin_inset Graphics
 	filename Tukey_DS_1.png
 	lyxscale 10
-	scale 80
+	scale 76
 
 \end_inset
 
@@ -27446,6 +27446,10 @@ name "tab:PT_ES"
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
