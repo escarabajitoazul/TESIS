@@ -658,38 +658,7 @@ informe {
 
 \end_inset
 
-Tesis Para obtener el Título Profesional de:
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-
-\series bold
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bachiller{
-\end_layout
-
-\end_inset
-
-INGENIERA AGRÓNOMA
+Borradora de Tesis
 \begin_inset ERT
 status open
 
