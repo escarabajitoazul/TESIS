@@ -88,10 +88,10 @@ UBICACIÓN
 
 \begin_layout Standard
 La presente investigación se realizó en el Laboratorio de Genética y Biotecnolog
-ía Vegetal y en el Laboratorio de Fruticultura y Manejo Postcosecha de la
- Escuela de Formación Profesional de Agronomía de la Universidad Nacional
- de San Cristóbal de Huamanga, ubicado en la región de Ayacucho, provincia
- de Huamanga, distrito de Ayacucho.
+ía Vegetal y en el Laboratorio de Enología y Sala de Cata de la Escuela
+ de Formación Profesional de Agronomía de la Universidad Nacional de San
+ Cristóbal de Huamanga, ubicado en la región de Ayacucho, provincia de Huamanga,
+ distrito de Ayacucho.
 \end_layout
 
 \begin_layout Section
@@ -104,8 +104,11 @@ Se utilizaron 95 accesiones de quinua del Germoplasma del Laboratorio de
 \begin_inset space ~
 \end_inset
 
-013 y semillas de variedades comerciales (Roja Pasankalla, Blanca de Junín
- y Amarilla de Maranganí).
+013 y semillas de tres variedades comerciales de la campaña 2
+\begin_inset space ~
+\end_inset
+
+015 (Roja Pasankalla, Blanca de Junín y Amarilla de Maranganí).
  
 \begin_inset Note Note
 status open
@@ -249,7 +252,7 @@ peso de 1
 \end_inset
 
 000 semillas (g), peso hectolítrico (
-\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
 \end_inset
 
 ), diámetro de semillas (mm), espesor de semillas (mm) 
@@ -496,6 +499,10 @@ error experimental
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Para el caso del diámetro y espesor de semillas se realizó 10 repeticiones.
 \end_layout
 
 \end_deeper
@@ -1470,6 +1477,16 @@ efecto del error experimental que está distribuido como
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Para la evaluación sensorial y para el contenido de proteínas por la escasa
+ cantidad de semillas se mezclaron las semillas de las 10 accesiones selecionada
+s por lo que se utilizó un arreglo factorial 3TIx3TG; para el contenido
+ de proteínas se tuvo además un tratamiento adicional constituido por las
+ semillas sin germinar (testigo) con dos repeticiones, para la evaluación
+ sensorial no se tuvieron repeticiones por tratamiento.
+ 
 \end_layout
 
 \end_deeper
@@ -8535,7 +8552,7 @@ ml y una balanza analítica de dos decimales.
  posteriormente se convirtió a 
 \series bold
 
-\begin_inset Formula $\unitfrac{g}{1000\,cm^{3}}$
+\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
 \end_inset
 
 .
@@ -8629,7 +8646,7 @@ key "INEN_1988"
 
 \end_inset
 
-, que consistió en pesar 0.5
+ (ver anexo 1), que consistió en pesar 0.5
 \begin_inset Formula $\pm$
 \end_inset
 
@@ -8643,7 +8660,7 @@ g de granos de quinua, las cuales se colocaron en tubos de ensayo de una
 \end_inset
 
 cm y un diámetro de 1.6
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm; más 5
