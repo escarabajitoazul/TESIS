@@ -9,6 +9,7 @@
 \usepackage{tikz}
 \usepackage{enumitem}
 \usepackage{contour}
+\usepackage[spanish]{babel}
 %%%
 \usepackage{helvet}
 \usepackage{pgf}
@@ -65,6 +66,10 @@
 %\renewcommand\thechapter{\Roman{section}}
 \usepackage{url}
 \usepackage{caption}
+\addto\captionsspanish{
+    \renewcommand{\tablename}{Tabla}
+    \renewcommand\listtablename{Índice de Tablas}
+}
 \captionsetup [figure] {labelfont={bf,small}, textfont={it,small}, position=bottom, format=hang}
 \captionsetup [table] {labelfont={bf,small}, textfont={it,small}, position=bottom, format=hang}
 
@@ -158,6 +163,8 @@
 \decimalpoint
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \usepackage{pdflscape}
 \usepackage{lipsum}
 \usepackage{scrlayer}
