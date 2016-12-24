@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 %%%%negrita%%%
@@ -22,7 +24,6 @@
 \usepackage[hyphens]{url}
 \usepackage[absolute]{textpos}
 
-\usepackage[compact]{titlesec}
 
 
 %\usepackage{url}
@@ -51,13 +52,31 @@
 \renewcommand\cftsecafterpnum{\vskip-0.4cm}
 \renewcommand\cftsubsecafterpnum{\vskip-0.5cm}
 \renewcommand\cftsubsubsecafterpnum{\vskip-0.5cm}
-\sectionfont{\fontsize{12}{12}\selectfont\color{black}}
-\subsectionfont{\fontsize{12}{12}\selectfont\color{black}}
+\sectionfont{\fontsize{14}{14}\selectfont\color{black}}
+\subsectionfont{\fontsize{13}{13}\selectfont\color{black}}
 \subsubsectionfont{\fontsize{12}{12}\selectfont\color{black}}
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% titlesec %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{titlesec}
+\titlespacing{\section}{0pt}{10pt}{-3pt}
+\titlespacing{\subsection}{0pt}{10pt}{-3pt}
+\titlespacing{\subsubsection}{0pt}{10pt}{-3pt}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BUG %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{etoolbox}
+
+\makeatletter
+\patchcmd{\ttlh@hang}{\parindent\z@}{\parindent\z@\leavevmode}{}{}
+\patchcmd{\ttlh@hang}{\noindent}{}{}{}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BUG %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% titlesec %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 %\renewcommand{\thesection}{\Roman{section}} 
 %\renewcommand{\thesubsection}{\arabic{subsection}}
@@ -77,9 +96,8 @@
 %textCIRCLED
 \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2.3pt] (char) {#1};}}
 
+
 %%%Fancy estilos%%%
-
-
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
@@ -183,16 +201,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans lmss
-\font_typewriter cmtl
-\font_math newtxmath
+\font_roman "times" "default"
+\font_sans "lmss" "default"
+\font_typewriter "cmtl" "default"
+\font_math "iwona-math" "auto"
 \font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -231,7 +249,7 @@ eqs-within-sections
 \topmargin 2.5cm
 \rightmargin 2.5cm
 \bottommargin 2.5cm
-\secnumdepth 2
+\secnumdepth 3
 \tocdepth 2
 \paragraph_separation skip
 \defskip bigskip
@@ -420,6 +438,10 @@ status open
 contourlength{0.01em}
 \end_layout
 
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -637,6 +659,10 @@ EVALUACIÓN DE UNA MUESTRA REPRESENTATIVA DEL GERMOPLASMA DE QUINUA (Chenopodium
  quinoa) PARA GERMINADOS DE QUINUA
 \end_layout
 
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1171,7 +1197,7 @@ chapter*{INTRODUCCIÓN}
 \end_layout
 
 \begin_layout Standard
-La quinua es un cultivo importante según 
+La quinua es un cultivo importante, según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Rev_Gonzalez_2013"
@@ -1214,10 +1240,28 @@ key "Ramos_1998"
 
  suplen las deficiencias de la alimentación moderna por ser de fácil producción,
  de bajo costo y por presentar propiedades nutricionales superiores a las
- secas, ya que con el proceso de germinación se reanudan las actividades
- metabólicas de la semilla; sin embargo, como la germinación depende de
- factores intrínsecos y extrínsecos, es importante obtener parámetros que
- permitan el desarrollo de sistemas eficientes de producción.
+ semillas secas, debido según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ a la utilización de sus reservas (carbohidratos, lípidos y proteínas),
+ para el desarrollo de su eje embrionario
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ ya que con el proceso de germinación se reanudan las actividades metabólicas
+ de la semilla
+\end_layout
+
+\end_inset
+
+; sin embargo, como la germinación depende de factores intrínsecos y extrínsecos
+, es importante obtener parámetros que permitan el desarrollo de sistemas
+ eficientes de producción.
 \end_layout
 
 \begin_layout Standard

@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -12,16 +14,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
-\font_math newtxmath
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "newtxmath" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -175,7 +177,7 @@ name "ANVA_P1000S"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="right" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
@@ -1049,7 +1051,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="21" columns="12">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -3431,7 +3433,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="25" columns="8">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -5349,7 +5351,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="20" columns="12">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -7621,7 +7623,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="16" columns="14">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -9743,7 +9745,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="20" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -11110,7 +11112,7 @@ Prueba de contrastes de Tukey (
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="17" columns="10">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -12952,7 +12954,7 @@ name "tab:PT_P1000S"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="35" columns="20">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -26280,7 +26282,7 @@ n
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="37" columns="22">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -40333,7 +40335,7 @@ u
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="25" columns="15">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -47236,7 +47238,7 @@ name "tab:PT_CS"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="22" columns="15">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -53973,7 +53975,7 @@ l
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="53" columns="12">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -66194,7 +66196,7 @@ m
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="27" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -69367,7 +69369,7 @@ name "tab:PT_PG"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="19" columns="11">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -73281,6 +73283,10 @@ pagestyle{lscape}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -73288,7 +73294,7 @@ pagestyle{lscape}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="32" columns="34">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -91177,7 +91183,7 @@ a
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="31" columns="34">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -108059,6 +108065,10 @@ end{landscape}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -108066,7 +108076,7 @@ end{landscape}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="20" columns="16">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -113337,7 +113347,7 @@ name "tab:PT_IC"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="27" columns="22">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -123767,6 +123777,10 @@ pagestyle{lscape}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -123774,7 +123788,7 @@ pagestyle{lscape}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="32" columns="29">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -140854,7 +140868,7 @@ e
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="32" columns="26">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -156716,6 +156730,10 @@ end{landscape}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -156723,7 +156741,7 @@ end{landscape}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="11">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -158936,7 +158954,7 @@ name "ANVA_Diámetro_Espesor_Semilla"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="4">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -159466,7 +159484,7 @@ name "tab:PT_DS"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="39" columns="8">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -166032,7 +166050,7 @@ f
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="53" columns="14">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -179953,7 +179971,7 @@ l
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="6">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -180626,7 +180644,7 @@ name "tab:PT_ES"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="44" columns="10">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -189868,7 +189886,7 @@ h
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="53" columns="10">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -200953,7 +200971,7 @@ h
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -201462,7 +201480,7 @@ name "tab:Probabilidad-x>15%"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
@@ -201879,7 +201897,7 @@ name "tab:Comparación-de-tratamientos"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="43" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -204834,7 +204852,7 @@ mm, el contenido de saponina entre -0.02
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -204869,7 +204887,7 @@ name "tab:Valores_ttratamientos_seleccionados"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
@@ -205996,7 +206014,7 @@ key "Pinto_2013"
 FASE DE PRODUCCIÓN DE GERMINADOS
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Porcentaje de germinación (%)
 \end_layout
 
@@ -206067,7 +206085,7 @@ name "tab:ANVA_FPG_PG"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="12" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -207109,7 +207127,7 @@ name "PT_FPG_PG-1"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="39" columns="11">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
@@ -211895,7 +211913,7 @@ g
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="53" columns="14">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -218869,7 +218887,7 @@ j
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Longitud del eje embrionario (cm)
 \end_layout
 
@@ -218940,7 +218958,7 @@ name "ANVA_FPG_LEE"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="12" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -219968,7 +219986,7 @@ name "FPG_LEE_Polinomios_Ortognales"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="15" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -221225,7 +221243,7 @@ name "TUKEY_FPG_LEE-1"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="10">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -222282,7 +222300,7 @@ cm de longitud radicular.
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Índice de conversión
 \end_layout
 
@@ -222353,7 +222371,7 @@ name "ANVA_FPG_IC"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="12" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -223367,7 +223385,7 @@ name "PT_FPG_IC-1"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="54" columns="7">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -226912,7 +226930,7 @@ c
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="38" columns="13">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -231467,7 +231485,7 @@ i
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 En cuanto al tipo de iluminación de la tabla 
@@ -231554,7 +231572,7 @@ Los bajos índices de conversión encontrados en este trabajo con respecto
  
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Primera evaluación sensorial (escala hedónica)
 \end_layout
 
@@ -231641,7 +231659,7 @@ name "FPG_ES1_Tabla_frecuencia"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="22" columns="5">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -232856,7 +232874,7 @@ status open
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Segunda evaluación sensorial (escala hedónica)
 \end_layout
 
@@ -232909,6 +232927,12 @@ key "Barron_2008"
 
 \series bold
 Sabor
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -232964,7 +232988,7 @@ name "Sabor"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="6">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -233491,6 +233515,12 @@ status open
 
 \series bold
 Olor
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -233545,7 +233575,7 @@ name "olor"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -234145,6 +234175,12 @@ status open
 
 \series bold
 Color
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -234153,7 +234189,7 @@ Color
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -234199,7 +234235,7 @@ name "color"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="6">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -234624,7 +234660,7 @@ Total
 
 \begin_layout Plain Layout
 CV=40.46
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 %
@@ -234798,7 +234834,7 @@ name "FPG_2AS_Tabla_frecuencia"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="22" columns="5">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -236013,7 +236049,7 @@ status open
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Contenido de proteína bruta (%)
 \end_layout
 
@@ -236068,7 +236104,7 @@ name "FPG_CPB"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="3">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -236514,9 +236550,12 @@ reference "FPG_CPB"
  se observa que a excepción de los germinados producidos en 12 horas luz-12
  horas oscuridad durante 24 y 48 horas; las semillas germinadas en los tres
  tipos de iluminación y tres tiempos de germinación, presentan un contenido
- de proteína bruta superior al de las semillas (12.16), siendo el mayor registrad
-o por los germinados en condiciones de oscuridad completa durante 72 horas
- con 14.16
+ de proteína bruta superior al de las semillas (12.16
+\begin_inset space \thinspace{}
+\end_inset
+
+%), siendo el mayor registrado por los germinados en condiciones de oscuridad
+ completa durante 72 horas con 14.16
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -236596,7 +236635,7 @@ name "ANVA_FPG_PB"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -237446,8 +237485,12 @@ key "Buenrostro_2016"
 \emph on
 Salvia hispánica
 \emph default
- L.) a 25°C en ausencia de luz; aunque estos resultados son discordantes
- con los reportados por 
+ L.) a 25
+\begin_inset space \thinspace{}
+\end_inset
+
+°C en ausencia de luz; aunque estos resultados son discordantes con los
+ reportados por 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Chaparro_2010"
@@ -237459,8 +237502,12 @@ key "Chaparro_2010"
 \begin_inset space \thinspace{}
 \end_inset
 
-% y temperatura entre 19-28°C durante tres días, no mejoró la concentración
- de proteína en los dos y tres días (14.77 y 14.68
+% y temperatura entre 19-28
+\begin_inset space \thinspace{}
+\end_inset
+
+°C durante tres días, no mejoró la concentración de proteína en los dos
+ y tres días (14.77 y 14.68
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -237488,8 +237535,11 @@ key "Valenzuela_col_2015"
 \end_inset
 
 , quienes encontraron en la variedad Salcedo INIA, Pasankalla y Negra Collana
- después de ocho horas de remojo y germinación durante 48 horas a 20°C;
- 12.05, 11.16, y 14.50
+ después de ocho horas de remojo y germinación durante 48 horas a 20
+\begin_inset space \thinspace{}
+\end_inset
+
+°C; 12.05, 11.16, y 14.50
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -237576,7 +237626,6 @@ key "Rev_Gonzalez_2013"
 \end_inset
 
 % de proteína en la quinua.
- 
 \end_layout
 
 \begin_layout Standard
@@ -237599,8 +237648,11 @@ key "Castellion_2008"
 \begin_inset space \thinspace{}
 \end_inset
 
-% de humedad relativa y -20°C mantienen más o menos estable el contenido
- de proteína.
+% de humedad relativa y -20
+\begin_inset space \thinspace{}
+\end_inset
+
+°C mantienen más o menos estable el contenido de proteína.
  Asimismo encontró un aumento importante en los niveles de proteínas solubles
  en las semillas por efectos pre-germinativos; por lo que señala que las
  proteínas se mantienen insolubles durante el almacenamiento y que en las
@@ -237608,11 +237660,18 @@ key "Castellion_2008"
  ello no necesariamente lleva a valores altos de semillas germinadas.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 FASE DE CONSERVACIÓN
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Peso de germinado (%)
 \end_layout
 
@@ -237667,7 +237726,7 @@ name "ANVA_FC_PesoGerm"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="5" columns="7">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top">
@@ -238078,7 +238137,7 @@ name "PCT_FG_Peso germi-1"
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">

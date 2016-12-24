@@ -1,0 +1,4678 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+MATERIALES Y MÉTODOS
+\end_layout
+
+\begin_layout Section
+UBICACIÓN
+\end_layout
+
+\begin_layout Standard
+El presente trabajo de investigación se realizó en el Laboratorio de Genética
+ y Biotecnología Vegetal de la Escuela Profesional de Agronomía de la Universida
+d Nacional de San Cristóbal de Huamanga, ubicado en el distrito Ayacucho,
+ provincia Huamanga y región Ayacucho.
+\end_layout
+
+\begin_layout Section
+MATERIAL GENÉTICO EMPLEADO
+\end_layout
+
+\begin_layout Standard
+Se utilizaron 98 accesiones de quinua del Banco de Germoplasma del Laboratorio
+ de Genética y Biotecnología Vegetal.
+\end_layout
+
+\begin_layout Section
+METODOLOGÍA EXPERIMENTAL
+\end_layout
+
+\begin_layout Subsection
+Variables y factores en estudio
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Accesiones de quinua: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+98 accesiones (ver tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Tratamientos_FS"
+
+\end_inset
+
+)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Factor AS:
+\series default
+ accesiones de quinua seleccionadas en la fase de selección
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Factor TG:
+\series default
+ tiempos de germinación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+24 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+48 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+72 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Factor TI:
+\series default
+ tipos de iluminación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12 horas luz-12 horas oscuridad
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Luz continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oscuridad continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Temperatura de almacenamiento:
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+5°C (en refrigeración)
+\end_layout
+
+\begin_layout Itemize
+8°C (en cámara fría) 
+\end_layout
+
+\begin_layout Itemize
+18
+\begin_inset Formula $\pm$
+\end_inset
+
+2°C (Temperatura ambiente)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Diseño experimental
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+para conocer la agrupación de las accesiones y seleccionar las de mejor
+ comportamiento para los caracteres evaluados.
+ A los grupos formados se les aplicó un análisis discriminante para comprobar
+ la efectividad de la agrupación obtenida.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se utilizó el Diseño Completamente Randomizado (DCR); constituido por 98
+ tratamientos 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+unidades experimentales
+\end_layout
+
+\end_inset
+
+ (accesiones del Banco de Germoplasma de quinua-LGBV-EPA-FCA-UNSCH) con
+ tres repeticiones cada uno (en la evaluación de las variables diámetro
+ y espesor de semillas se realizaron 10 repeticiones); cuyo modelo aditivo
+ lineal es el siguiente: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Y_{ij}=\mu+\tau_{i}+\varepsilon_{ij}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $Y_{ij}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j-ésima observación en el tratamiento i 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mu$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+media general 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\tau_{i}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del i-ésimo tratamiento
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\varepsilon_{ij}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+error experimental 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se usó el Diseño Completamente Randomizado (DCR) con arreglo factorial AS
+\begin_inset Formula $\times$
+\end_inset
+
+3TG
+\begin_inset Formula $\times$
+\end_inset
+
+3TI con tres repeticiones cada uno, resultantes de la interacción de las
+ accesiones seleccionadas en la fase de selección (factor AS), por los tres
+ tiempos de germinación (factor TG) y por los tres tipos de iluminación
+ (factor TI), cuyo modelo aditivo lineal es el siguiente: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Se evaluó el efecto de los tres tipos de iluminación y de los tres tiempos
+ de germinación en la producción de germinados de las diez accesiones de
+ quinua seleccionadas.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Y_{ijkl}=\mu+\alpha_{i}+\beta_{j}+\gamma_{k}+(\mathsf{\alpha}\beta)_{ij}+(\alpha\gamma)_{ik}+(\beta\gamma)_{jk}+(\alpha\beta\gamma)_{ijk}+\varepsilon_{ijkl}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Donde: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="12cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $Y_{ijkl}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
+ C, en el j-ésimo nivel del factor B, sujeto al i-ésimo nivel del tratamiento
+ A
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $μ$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+constante media de la población a la cual pertenecen las observaciones.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\alpha_{i}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del i-ésimo nivel del factor A
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\beta_{j}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del j-ésimo nivel del factor B
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\gamma_{k}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del k-ésimo nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $(\alpha\beta)_{ij}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $(\alpha\gamma)_{ik}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto de la interacción del i-ésimo nivel del factor A, con el k-ésimo
+ nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $(\beta\gamma)_{jk}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto de la interacción del j-ésimo nivel del factor B, con el k-ésimo
+ nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $(\alpha\beta\gamma)_{ijk}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto de la interacción del i-ésimo nivel del factor A, con el j-ésimo
+ nivel del factor B sujeto al k-ésimo nivel del factor C
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\varepsilon_{ijkl}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+efecto del error experimental que está distribuido como 
+\begin_inset Formula $\varepsilon_{ijkl}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+En la instalación de las variables evaluación sensorial y contenido de proteínas
+, por la escasa cantidad de semillas, se mezclaron las semillas de las accesione
+s elegidas en la fase de selección, por lo que se utilizó el arreglo factorial
+ 3TI
+\begin_inset Formula $\times$
+\end_inset
+
+3TG.
+ Para la variable contenido de proteínas se tuvo un tratamiento adicional
+ constituido por las semillas sin germinar (testigo), con dos repeticiones
+ por tratamiento; mientras que para la variable evaluación sensorial no
+ se tuvieron repeticiones por tratamiento.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+EXPLICAR
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se utilizó el Diseño Completamente Randomizado (DCR) constituido por tres
+ tratamientos (temperaturas de almacenamiento de 5°C, 10°C y 18
+\begin_inset Formula $\pm$
+\end_inset
+
+2°C) con tres repeticiones por cada tratamiento.
+ El modelo aditivo lineal es igual al de la fase de selección.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Características de la unidad experimental
+\end_layout
+
+\begin_layout Standard
+Para las variables evaluadas de calidad física de la fase de selección son
+ muestras de 30
+\begin_inset space \thinspace{}
+\end_inset
+
+g de semillas por accesión y para las variables de la calidad fisiológica,
+ tapers transparentes que contienen 100 semillas sobre papel toalla, este
+ último es igual para la fase de producción de germinados.
+ Para la fase de conservación también son tapers transparentes pero que
+ contienen 2.0
+\begin_inset space \thinspace{}
+\end_inset
+
+g de semillas sobre papel toalla.
+\end_layout
+
+\begin_layout Subsubsection
+Tratamientos
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{0.6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-0.7cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="51" columns="4">
+<features rotate="0" booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row caption="true">
+<cell multicolumn="1" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tratamientos de la fase de selección constituidos por 98 accesiones de quinua
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+) del Banco de Germoplasma del LGVB.
+ Huamanga-Ayacucho, 2
+\begin_inset space \thinspace{}
+\end_inset
+
+016.
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Tratamientos_FS"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+T
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Accesión
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+T
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Accesión
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+01
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T50
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+62
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+02
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T51
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+64
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+03
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T52
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+67
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+05
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T53
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+68
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+06
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T54
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+69
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+07
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T55
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+70
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+08
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T56
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+71
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+09
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T57
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+72
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+10
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T58
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+75
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+13
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T59
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+76
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+14
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T60
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+77
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+15
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T61
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+78
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+16
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T62
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+79
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+18
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T63
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+80
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+20
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T64
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+82
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T16
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+21
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T65
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+83
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T17
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+22
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T66
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+84
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+23
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T67
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+85
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T19
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+24
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T68
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+86
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T20
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+25
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T69
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+87
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+26
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T70
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+88
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T22
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+27
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T71
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+92
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T23
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+28
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T72
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+94
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T24
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+30
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T73
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+96
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T25
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+31
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T74
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+98
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+32
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T75
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+99
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T27
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+33
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T76
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+100
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T28
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+34
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T77
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+102
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T29
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+35
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T78
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+115
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+36
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T79
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+116
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T31
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+38
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T80
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+117
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T32
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+39
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T81
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+118
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T33
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+40
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T82
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+119
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T34
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+41
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+120
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T35
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+43
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T84
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+122
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+46
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T85
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+123
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T37
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+47
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T86
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+125
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T38
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+48
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T87
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+126
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T39
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+49
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T88
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+127
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T40
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+51
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T89
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+128
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T41
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+53
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T90
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+129
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T42
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+54
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T91
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+130
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T43
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+55
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T92
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+131
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T44
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+56
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T93
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+133
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T45
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+57
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T94
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+134
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T46
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+58
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T95
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+135
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T47
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+59
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T96
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Quinua Amarilla
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T48
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+60
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T97
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Quinua Blanca
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T49
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UNSCHLGBV60405
+\series bold
+61
+\series default
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+T98
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Quinua Roja
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-1.5cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de producción de germinados
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Estuvo constituido por la interacción de las accesiones elegidas en la fase
+ de selección (AS) por los tres tiempos de germinación (factor TG) y por
+ los tres tipos de iluminación (factor TI)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tratamientos aplicados a las unidades experimentales en la fase de conservación
+ de germinados de quinua (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+).
+ Huamanga-Ayacucho, 2016.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Tratamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Temperatura de conservación (°C)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+T1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+T2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+T3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20
+\begin_inset Formula $\pm$
+\end_inset
+
+2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Croquis de la distribución de tratamientos
+\end_layout
+
+\begin_layout Standard
+La distribución de los tratamientos a las unidades experimentales se realizó
+ completamente al azar, tal como se presenta en las figuras 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Croquis_FS"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Croquis_FC"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{lscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename T_F_S.png
+	lyxscale 10
+	scale 81
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis de distribución de los tratamientos de la fase de selección.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Croquis_FS"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{enumerate}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{enumi}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Fase de conservación
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{enumerate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename T_F_PC.png
+	lyxscale 10
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis de distribución de los tratamientos de la fase de conservación.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Croquis_FC"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+INSTALACIÓN Y CONDUCCIÓN DEL EXPERIMENTO
+\end_layout
+
+\begin_layout Subsection
+Fase de selección
+\end_layout
+
+\begin_layout Subsubsection
+Selección de accesiones de quinua
+\end_layout
+
+\begin_layout Standard
+Se seleccionaron 98 accesiones de quinua de las 150 accesiones con las que
+ cuenta el Banco de Germoplasma del LGBV (procedentes de las diferentes
+ provincias de la región Ayacucho), por disponer con la cantidad adecuada
+ de muestras para realizar las evaluaciones posteriores y por presentar
+ la misma fecha de regeneración en el año 2013; de las cuales se extrajeron
+ 30
+\begin_inset space \thinspace{}
+\end_inset
+
+g de muestra por cada accesión, las cuales fueron almacenadas en bolsas
+ de papel kraft debidamente identificadas, constituyendo el Germoplasma
+ activo de quinua del LGBV.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Limpieza de las muestras
+\end_layout
+
+\begin_layout Standard
+Para efectuar la limpieza se realizó la fricción, tamizado, venteado y selección
+ manual de cada muestra; para ello, se utilizaron tamices con abertura de
+ 1.0
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de diámetro, ventilador de computadora y pinzas; logrando separar semillas
+ pequeñas, semillas partidas, piedras, restos de tallos, perigonios de semillas,
+ polvillos y otros materiales extraños a las semillas de quinua.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Algunas accesiones presentaban mezcla de diferentes variedades de quinua,
+ por constituir una accesión no se seleccionaron las variedades de quinua
+ dejándo una en especial, sino mas bien se consideraron tal como estaba
+ constituida la accesión.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Conteo de 100 semillas
+\end_layout
+
+\begin_layout Standard
+Después de realizar la limpieza de las muestras de semillas se procedió
+ al conteo de 100 semillas utilizando una placa de cartón con 100 hoyos
+ (adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+), las cuales fueron colocadas en bolsas de papel kraft de 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de ancho por 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de largo, previamente identificados y posteriormente sellados con cinta
+ masking.
+\end_layout
+
+\begin_layout Subsubsection
+Desinfección de semillas
+\end_layout
+
+\begin_layout Standard
+La desinfección se realizó con hipoclorito de sodio a una concentración
+ de 0.05
+\begin_inset space \thinspace{}
+\end_inset
+
+% (0.5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml para 1
+\begin_inset space \thinspace{}
+\end_inset
+
+l de agua); en la cual fueron remojadas las 100 semillas contadas anteriormente
+ durante 10 minutos, luego fueron enjuagadas con agua destilada.
+\end_layout
+
+\begin_layout Subsubsection
+Germinación de semillas
+\end_layout
+
+\begin_layout Standard
+Para la instalación de la prueba de germinación se utilizaron tapers transparent
+es de plástico, de forma circular con diámetro de 8.0
+\begin_inset space \thinspace{}
+\end_inset
+
+cm y altura de 4.5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm; las cuales fueron previamente lavadas con detergente y desinfectadas
+ con alcohol.
+ Posteriormente dentro de los tapers se colocaron como sustrato papel toalla,
+ las cuales fueron humedecidas con agua destilada, sobre el cual se colocaron
+ las 100 semillas desinfectadas.
+ Finalmente, los tapers fueron tapados ligeramente y dispuestos en condiciones
+ de laboratorio durante cinco días.
+\end_layout
+
+\begin_layout Subsubsection
+Riego 
+\end_layout
+
+\begin_layout Standard
+Una vez instalados los tapers con las 100 semillas, el riego se realizó
+ con agua destilada cada 24 horas.
+\end_layout
+
+\begin_layout Subsection
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Standard
+En esta fase se trabajaron con las accesiones elegidas en la fase de selección,
+ de la siguiente manera:
+\end_layout
+
+\begin_layout Subsubsection
+Conteo de 100 semillas y desinfección
+\end_layout
+
+\begin_layout Standard
+Se realizó el conteo de 100 semillas y la desinfección de estas, de las
+ accesiones elegidas en la fase de selección, siguiendo el mismo procedimiento
+ descrito en la fase anterior.
+\end_layout
+
+\begin_layout Subsubsection
+Germinación de las semillas
+\end_layout
+
+\begin_layout Standard
+Los tápers utilizados y el acondicionamiento de estos se realizó igual que
+ en la fase de selección, con la diferencia de que las semillas utilizadas
+ fueron de las accesiones elegidas en la fase de selección y que de acuerdo
+ a los factores en estudio, los tápers fueron colocados en biotrón con iluminaci
+ón de 12 horas para generar condiciones de 12 horas luz-12 horas oscuridad,
+ en cajas de cartón ubicadas en un estante oscuro para generar condiciones
+ de oscuridad completa y al lado de la ventana para que durante el día sean
+ iluminadas por la luz del sol y durante la noche por focos LED de 10
+\begin_inset space \thinspace{}
+\end_inset
+
+W, generando condiciones de luz completa.
+ Los germinados fueron obtenidos después de 24, 48 y 72 horas de germinación.
+\end_layout
+
+\begin_layout Subsubsection
+Riego 
+\end_layout
+
+\begin_layout Standard
+Se realizó con agua destilada cada 24 horas.
+\end_layout
+
+\begin_layout Subsection
+Fase de conservación de germinados
+\end_layout
+
+\begin_layout Subsubsection
+Obtención de germinados
+\end_layout
+
+\begin_layout Standard
+Se obtuvo el germinado de la mezcla de semillas de las accesiones elegidas
+ en la fase de selección (por la escasa disponibilidad de las semillas de
+ las accesiones elegidas), siguiendo los procedimientos descritos en la
+ fase de selección con la diferencia de que se utilizaron 2.0
+\begin_inset space \thinspace{}
+\end_inset
+
+g de semillas, las cuales se dejaron germinar en las mejores condiciones
+ obtenidas en la fase de producción de germinados.
+\end_layout
+
+\begin_layout Subsubsection
+Conservación de los germinados
+\end_layout
+
+\begin_layout Standard
+Una vez obtenidos los germinados estos fueron colocados de acuerdo a los
+ tratamientos establecidos en condiciones de refrigeración a temperaturas
+ de 5°C y 8°C y a temperatura ambiente de 18±2°C durante 15 días.
+\end_layout
+
+\begin_layout Section
+VARIABLES EVALUADAS
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Fase de selección
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Porcentaje de pureza (%) 
+\end_layout
+
+\begin_layout Plain Layout
+Se obtuvo mediante el peso de la fracción pura de las semillas de quinua
+ luego de ser seleccionadas las impurezas, en una balanza analítica de dos
+ decimales.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas (g)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se realizó el conteo de 100 semillas, luego el pesado de estas en una balanza
+ analítica de dos decimales y finalmente se efectuó la extrapolación al
+ peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas mediante la siguiente fórmula:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\,1000\, semillas\,(g)=\frac{1000\times Peso\,100\, semillas\,(g)}{100}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Peso hectolítrico (g/1000
+\series default
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\series bold
+
+\begin_inset Formula $\mathbf{cm}^{\mathbf{3}}$
+\end_inset
+
+)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtuvo mediante el peso de una determinada cantidad de muestra de semillas
+ de quinua y la lectura del volumen ocupado por este, para lo cual se utilizó
+ una probeta con capacidad de 100
+\begin_inset space \thinspace{}
+\end_inset
+
+ml y una balanza analítica de dos decimales.
+ Posteriormente se convirtió a g/1000
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Formula $\mathbf{cm}^{\mathbf{3}}$
+\end_inset
+
+ mediante la siguiente fórmula:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\, hectolítrico\,(g/1000\, cm^{3})=\frac{peso\, muestra\, semilla\,(g)\times1000}{volumen\, ocupado\, muestra\, semilla\,(ml)}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Diámetro de semilla (mm)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registró el diámetro de 10 semillas por tratamiento utilizando regla
+ Vernier en mm.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Espesor de semilla (mm) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registró el espesor de 10 semillas utilizando regla Vernier en mm.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Color de semillas (escala) 
+\end_layout
+
+\begin_layout Plain Layout
+Se registró el color del episperma de las semillas de acuerdo a los descriptores
+ propuestos por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2013"
+
+\end_inset
+
+; siendo los colores: transparente (1), blanco (2), crema (3), café claro
+ (4), café (5), café oscuro (6), café rojizo (7), negro (8) y otros (99).
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Forma de semilla 
+\end_layout
+
+\begin_layout Plain Layout
+Se registrará la forma de los granos de acuerdo a los descriptores propuestos
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2013"
+
+\end_inset
+
+, siendo estos lenticular (1), cilíndrico (2), elipsoidal (3) y cónico (4).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Contenido de saponina (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se determinó mediante el método de la espuma propuesto por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "INEN_1988"
+
+\end_inset
+
+ (ver anexo 1), que consistió en pesar 0.5
+\begin_inset Formula $\pm$
+\end_inset
+
+0.02
+\begin_inset space \thinspace{}
+\end_inset
+
+g de granos de quinua por tratamiento y repetición, los cuales fueron colocados
+ en un tubo de ensayo de 15
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de longitud y 1.6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de diámetro con 5
+\begin_inset space \thinspace{}
+\end_inset
+
+ml de agua destilada, luego se agitó por 30 segundos y se dejó en reposo
+ por 30 minutos, después se volvió a repetir el procedimiento anterior,
+ finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y luego
+ se efectuó la lectura de la altura de espuma formada, con una regla graduada
+ con precisión de 0.1
+\begin_inset space \thinspace{}
+\end_inset
+
+cm.
+ Al finalizar el procedimiento se determinó el contenido de saponina presente
+ en los granos analizados, mediante la siguiente fórmula.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Contenido\, saponina\,(\%)=\frac{(0.646\times altura\, espuma\,(cm))-0.104}{peso\, muestra\,(g)\times10}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Porcentaje de germinación (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtuvo después de cinco días de germinación, mediante el conteo de semillas
+ germinadas normales; es decir, plántulas con buen desarrollo del eje embrionari
+o.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Índice de conversión 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se determinó dividiendo el peso de germinados secos (producidos a partir
+ de 100 semillas durante cinco días y secadas por un día en condiciones
+ de laboratorio) sobre el peso inicial de estas, de la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Fase de producción de germinados
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Porcentaje de germinación (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtuvo mediante el conteo de las semillas germinadas.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Longitud del eje embrionario (cm)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se registró mediante la medición del eje embrionario (desde la cofia hasta
+ el punto más alto de la plántula) con una regla graduada.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Para determinar la calidad organoléptica del producto (color, sabor y olor),
+ se realizó con la presencia de 10 panelistas, proporcionándoles todas las
+ muestras (9 tratamientos) y el testigo comercial, este se compró 5 días
+ luego de realizado el producto.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+El análisis sensorial de degustación se realizó para evaluar las características
+ organolépticas del producto elaborado, siendo estas: color, aroma, sabor,
+ textura, aceptabilidad.
+ El análisis fue realizado por 10 panelistas voluntarios.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Índice de conversión
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtuvo dividiendo el peso de germinados secos (después de un día de secado
+ en condiciones de laboratorio) producidos a partir de 100 semillas sobre
+ el peso inicial de estas, mediante la siguiente fórmula: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+es decir la cantidad de semilla que se convierte en germinado.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Evaluación sensorial (escala hedónica) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se evaluaron las características organolépticas de sabor, olor y color;
+ mediante una escala hedónica de siete puntos (me gusta mucho, me gusta,
+ me gusta ligeramente, ni me gusta ni me disgusta, me disgusta ligeramente,
+ me disgusta y me disgusta mucho).
+\end_layout
+
+\begin_layout Standard
+Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
+ de Alta Cocina Juan Pablo II, con la participación de 10 jueces no entrenados
+ (potenciales consumidores), quienes evaluaron diferentes presentaciones
+ de germinados de quinua (croquetas de garbanzón con brotes de quinua, rollitos
+ de espinaca y brotes de quinua, brusquetas con brotes de quinua y causitas
+ crocantes de yuca en escabechado de brotes de quinua) de variedades comerciales
+ de quinua roja, blanca, negra, amarilla y de la mezcla de semillas elegidas
+ en la fase de selección germinadas durante 72 horas.
+\end_layout
+
+\begin_layout Standard
+La segunda sesión se llevo a cabo en el LGBV, también con 10 jueces no entrenado
+s (potenciales consumidores), quienes realizaron la evaluación sensorial
+ de germinados de quinua elegidas en la fase de selección, germinadas por
+ 24, 48 y 72 horas en condiciones de luz completa, oscuridad completa y
+ 12 horas luz-12 horas oscuridad.
+ La ficha de evaluación se detalla en el anexo 2.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Contenido de proteína bruta (%) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se realizó en el Laboratorio de análisis de suelos, plantas, agua y fertilizante
+s 
+\begin_inset Quotes fld
+\end_inset
+
+AGROLAB
+\begin_inset Quotes frd
+\end_inset
+
+, mediante el método Kjeldahl (digestión en medio ácido, destilación y titulació
+n), para lo cual los granos germinados se secaron en estufa marca Memmert
+ a 70°C por 24 horas y sometidas a una molienda fina.
+\end_layout
+
+\begin_layout Standard
+Por la escasa disponibilidad de muestras, estas fueron mezcladas en la variable
+ accesión, teniéndose en total nueve muestras germinadas en 24, 48 y 72
+ horas en condiciones de luz completa, oscuridad completa y 12 horas luz-12
+ horas oscuridad, más un testigo constituido por la mezcla de semillas sin
+ germinar.
+\end_layout
+
+\begin_layout Standard
+Finalmente el porcentaje de proteína ruta se obtuvo multiplicando el contenido
+ de nitrógeno por el factor 6.25.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+como lo hicieron 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+De la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Proteína\, bruta\,(\%)=contenido\, nitrógeno\times6.25$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Subsection
+Fase de conservación
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Pérdida de peso (g) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Se obtuvo mediante el peso interdiario de los tápers que contenían los germinado
+s, durante 15 días.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Cambio de color (escala) 
+\end_layout
+
+\begin_layout Plain Layout
+Se determinó mediante la observación interdiaria del color del hipocótilo
+ y del cotiledón de los germinados.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+PROCESAMIENTO DE DATOS
+\end_layout
+
+\begin_layout Standard
+Para todas las variables evaluadas en las tres fases de la investigación,
+ a excepción de la variable contenido de proteína bruta y primera evaluación
+ sensorial de la fase de producción de germinados, se realizó el Análisis
+ de Varianza (ANVA) para determinar si los resultados de los promedios de
+ los tratamientos evaluados eran iguales o diferentes entre ellas, para
+ los casos que resultaron diferentes se utilizó la prueba de contraste de
+ Tukey (
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+) para conocer el orden de la diferencia entre tratamientos; adicionalmente
+ en la fase de selección se aplicó una probabilidad de selección del 15
+\begin_inset space \thinspace{}
+\end_inset
+
+% para seleccionar el 15
+\begin_inset space \thinspace{}
+\end_inset
+
+% de los mejores resultados de las variables evaluadas y en la fase de producció
+n de germinados, para el caso de las interacciones dobles que resultaron
+ significativas, se realizó el estudio de efectos simples para conocer el
+ modelo polinómico que mejor representaba a la ecuación; también se realizaron
+ tablas de frecuencia para los resultados de la primera y segunda evaluación
+ sensorial.
+ El procesamiento estadístico se realizó con el software InfoStat versión
+ 2
+\begin_inset space \thinspace{}
+\end_inset
+
+008.
+\end_layout
+
+\end_body
+\end_document

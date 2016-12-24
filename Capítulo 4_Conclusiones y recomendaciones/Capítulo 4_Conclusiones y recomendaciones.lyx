@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -12,16 +14,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -90,25 +92,25 @@ CONCLUSIONES
 Se seleccionaron 9 accesiones de quinua del Banco de Germoplasma del Laboratorio
  de Genética y Biotecnología Vegetal y una variedad comercial, por presentar
  los mejores resultados en el peso de 1
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 000 semillas, diámetro de semilla, espesor de semilla, menor contenido de
  saponina, porcentaje de germinación e índice de conversión que oscilan
  entre 2.87 y 3.40
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 g, 1.84 y 2.02
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm, 1.05 y 1.13
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm, -0.02 y -0.01, 85.33 y 95.33
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 % y de un índice de 0.77 y 0.93, respectivamente.
@@ -156,12 +158,12 @@ Las condiciones óptimas de producción de germinados de quinua es en oscuridad
  continua durante 72 horas por el mayor contenido de proteínas que presenta,
  por la aceptación de me gusta ligeramente a me gusta mucho por los jurados,
  con 92.3, 86.7 y 85.5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 % para las propiedades sensoriales de sabor color y olor, respectivamente
  y por presentar la mayor longitud del eje embrionario (3.06
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm); además, para estas mismas condiciones la accesión UNSCHLGBV60405
@@ -169,7 +171,7 @@ cm); además, para estas mismas condiciones la accesión UNSCHLGBV60405
 116
 \series default
 13 presenta el mayor porcentaje de germinación con 97.67
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 % y un índice de conversión de 0.95.
@@ -178,7 +180,7 @@ cm); además, para estas mismas condiciones la accesión UNSCHLGBV60405
 
 \begin_layout Enumerate
 La temperatura de refrigeración 8
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 °C permite conservar los germinados de quinua en mejor estado y con menor

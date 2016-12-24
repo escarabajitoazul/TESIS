@@ -1,0 +1,308 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{RESUMEN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+chapter*{RESUMEN}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En el presente trabajo de investigación se muestra la evaluación de diferentes
+ tipos de iluminación (luz continua, oscuridad continua y 12 horas luz-12
+ horas oscuridad) y tiempos de germinación (24, 48 y 72 horas) en la producción
+ de germinados de accesiones de quinua y la temperatura óptima para su conservac
+ión (5, 8 y 18
+\begin_inset Formula $\pm$
+\end_inset
+
+2°C); para ello, se utilizaron semillas de quinua del Germoplasma Activo
+ de Quinua del Laboratorio de Genética y Biotecnología Vegetal de la Escuela
+ Profesional de Agronomía-UNSCH.
+ El trabajo se dividió en tres fases; siendo la primera de selección, el
+ cual permitió determinar las accesiones de quinua adecuadas para la producción
+ de germinados mediante el análisis físico y fisiológico de las semillas.
+ En la segunda fase de producción de germinados se determinó el tipo de
+ iluminación y el tiempo de germinación óptimas para la producción de germinados
+ de quinua y finalmente en la tercera fase de conservación, se determinó
+ la temperatura óptima de conservación por 15 días de los germinados.
+ Las fases de selección y conservación fueron conducidos bajo el diseño
+ completamente randomizado (DCR); mientras que la fase de producción de
+ germinados fue conducido bajo el diseño completamente randomizado (DCR)
+ con arreglo factorial (10 accesiones seleccionadas x 3 tiempos de germinación
+ x 3 tipos de iluminación).
+ 
+\end_layout
+
+\begin_layout Standard
+En los resultados obtenidos se observan que existen diez accesiones con
+ características adecuadas para la producción de germinados de quinua, que
+ se mantuvieron aún después de tres años de almacenamiento; asimismo, se
+ observó que en la fase de producción de germinados de quinua, a excepción
+ de los germinados producidos en 12 horas luz-12 horas oscuridad durante
+ 24 y 48 horas, las semillas germinadas en los tres tipos de iluminación
+ y tres tiempos de germinación incrementaron su contenido de proteína bruta
+ en comparación a las semillas sin germinar, siendo superior para las producidas
+ en oscuridad completa por 72 horas con 14.16
+\begin_inset space ~
+\end_inset
+
+%; bajo estas mismas condiciones, para la accesión UNSCHLGBV60405
+\series bold
+116
+\series default
+13 presenta el mayor porcentaje de germinación (97.67
+\begin_inset space ~
+\end_inset
+
+%), la mayor longitud del eje embrionario (3.06
+\begin_inset space ~
+\end_inset
+
+cm), con índice de conversión de 0.95 y aceptación de me gusta ligeramente
+ a me gusta mucho por los jurados con 92.3, 86.7 y 85.5
+\begin_inset space ~
+\end_inset
+
+% para las propiedades sensoriales de sabor, color y olor, respectivamente.
+ Finalmente, se observó que la temperatura de 8°C permite conservar los
+ germinados de quinua en mejor estado y con menor pérdida de peso durante
+ 15 días.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Los resultados obtenidos indican que el proceso de germinación es factible
+ para la obtención de nuevos productos de quinua.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Esta tesis doctoral pretende contribuir a la racionalización de las colecciones
+ de judía procedentes de Cataluña y, a su vez, abordar la caracterización
+ sensorial y culinaria tanto de dichas entradas, como del conjunto de entradas
+ de la colección nuclear de judías española.
+ Un mayor conocimiento de la variabilidad en este numeroso grupo de materiales
+ nos va a permitir profundizar en el control genético del grado de curvatura
+ de la variedad Ganxet y abordar un programa de mejora en otra variedad
+ tradicional de interés, Tavella Brisa.
+ El trabajo realizado ha permitido clasificar las entradas colectadas en
+ Cataluña en 20 grupos representativos, empleando descriptores morfológicos
+ y moleculares.
+ Dentro de la variedad con mayor número de entradas colectadas, Ganxet,
+ también se ha efectuado un proceso de racionalización, en el que se han
+ seleccionado 24 líneas puras que representan la variabilidad intravarietal.
+ Tanto en la colección nuclear de judías española como en la colección procedent
+e de Cataluña se ha estimado una elevada variabilidad para los caracteres
+ sensoriales internos y culinarios y algo menor para los caracteres sensoriales
+ externos.
+ El análisis de esta información en función del origen de domesticación
+ ha permitido establecer que las variedades de origen andino tienen la piel
+ más perceptible, son más harinosas y tienen mayor flavor que las variedades
+ mesoamericanas.
+ El mismo análisis realizado en función del color de la semilla ha mostrado
+ que las semillas de color blanco tienen la piel más rugosa, son menos harinosas
+, tienen menor flavor y presentan menor número de judías enteras tras la
+ cocción.
+ Se ha establecido también que el grado de curvatura extremo de la variedad
+ Ganxet está genéticamente correlacionado con un elevado contenido de proteína
+ y con la cremosidad.
+ Este carácter ha mostrado un control genético sencillo (máximo 3 loci),
+ baja influencia ambiental en su expresión y además resulta fácil de medir,
+ lo que XIV sugiere que Ganxet podría emplearse para incrementar el contenido
+ de proteína y la textura cremosa en otras variedades de judía, mediante
+ procesos de retrocruce.
+ Finalmente, como resultado del programa de mejora de la variedad Tavella
+ Brisa, se ha obtenido una nueva variedad denominada Croscat, que conserva
+ las características morfológicas y sensoriales de la variedad histórica
+ y corrige defectos agronómicos como el encamado.
+ Lo que facilita la mecanización de la cosecha y evita las mermas por patologías.
+ Todo esto contribuye a demostrar que las colecciones conservadas ex situ
+ tienen un extraordinario potencial, pero para que este se ponga de manifiesto
+ es necesario invertir grandes esfuerzos en su caracterización, evaluación
+ y mejora.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+se evaluó la calidad interna del tubérculo en 70 accesiones cultivadas del
+ banco de germoplasma de papa, las cuales fueron seleccionadas tomando como
+ base los valores de masa seca obtenidos en la caracterización morfoagronómica
+ realizada a la colección cubana de papa (8).
+ Se procuró incluir accesiones representativas de toda la variabilidad para
+ el carácter mencionado, con valores altos, bajos e intermedios.
+ Se plantaron parcelas de 40 plantas por cada accesión, bajo un diseño completam
+ente aleatorizado con cuatro réplicas.
+ Las labores culturales se realizaron según las normas técnicas del cultivo
+ (9).
+ Los tubérculos fueron cosechados en la segunda quincena de marzo y se tomaron
+ muestras de 10 kg por cada réplica, las que fueron enviadas al Instituto
+ de Investigaciones de la Industria Alimenticia (IIIA) con el fin de evaluar
+ la calidad de estos órganos de reserva.
+ Para cada accesión fueron determinados los siguientes caracteres: • Gravedad
+ específica: relación entre la masa de los tubérculos y el volumen de agua
+ desplazado por los mismos • Masa seca (%): en base a la relación masa húmeda
+ y seca de los tubérculos • Contenido de almidón (%): según la metodología
+ descrita por Winton (10) • Contenido de azúcares reductores (%): según
+ la metodología descrita por CEN (11) • Masa promedio de los tubérculos
+ (kg): relación entre la masa de la totalidad de los tubérculos y el número
+ de los mismos.
+ • Diámetros longitudinal y ecuatorial del tubérculo (mm): se midieron con
+ pie de rey • Evaluación sensorial: se realizó mediante la fritura de hojuelas
+ chips.
+ Se calificó en base a la siguiente escala de cinco puntos: excelente 5,
+ bueno 4, aceptable 3, insuficiente 2 y malo 1, donde el valor 3 (aceptable)
+ es el límite para el rechazo.
+ La prueba tomó en consideración las características que más influyen en
+ la calidad sensorial del producto como son: textura, olor, sabor y color
+ (12).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+La tesis que se presenta, consta de cinco trabajos independientes, que intentan
+ avanzar desde la racionalización de las colecciones hasta su evaluación
+ para aquellos caracteres que deben ser objeto de mejora si queremos revalorizar
+ el consumo de judía en los países desarrollados: el valor sensorial y el
+ valor culinario.
+ Los trabajos culminan con la obtención de una nueva variedad diseñada a
+ partir de las demandas de productores y consumidores, y tomando como base
+ de partida una variedad tradicional.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

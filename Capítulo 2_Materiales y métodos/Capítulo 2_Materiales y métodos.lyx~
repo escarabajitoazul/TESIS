@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -12,16 +14,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -114,6 +116,12 @@ Variables y factores en estudio
 
 \series bold
 Fase de selección
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -121,6 +129,12 @@ Fase de selección
 
 \series bold
 Accesiones de quinua: 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -141,6 +155,12 @@ reference "tab:Tratamientos_FS"
 
 \series bold
 Fase de producción de germinados
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -158,13 +178,17 @@ Factor AS:
 Factor TG:
 \series default
  tiempos de germinación
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -269,13 +293,17 @@ tg3
 Factor TI:
 \series default
  tipos de iluminación
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -379,6 +407,12 @@ Oscuridad continua
 
 \series bold
 Fase de conservación
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -388,6 +422,10 @@ Fase de conservación
 Temperatura de almacenamiento:
 \series default
  
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -417,6 +455,12 @@ Diseño experimental
 
 \series bold
 Fase de selección
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -452,6 +496,10 @@ unidades experimentales
  tres repeticiones cada uno (en la evaluación de las variables diámetro
  y espesor de semillas se realizaron 10 repeticiones); cuyo modelo aditivo
  lineal es el siguiente: 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -470,7 +518,7 @@ Donde:
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -614,6 +662,12 @@ error experimental
 
 \series bold
 Fase de producción de germinados
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -646,6 +700,10 @@ Se evaluó el efecto de los tres tipos de iluminación y de los tres tiempos
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -664,7 +722,7 @@ Donde:
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="12cm">
@@ -1005,11 +1063,23 @@ efecto del error experimental que está distribuido como
 
 \end_layout
 
+\end_deeper
 \begin_layout Standard
+En la instalación de las variables evaluación sensorial y contenido de proteínas
+, por la escasa cantidad de semillas, se mezclaron las semillas de las accesione
+s elegidas en la fase de selección, por lo que se utilizó el arreglo factorial
+ 3TI
+\begin_inset Formula $\times$
+\end_inset
 
+3TG.
+ Para la variable contenido de proteínas se tuvo un tratamiento adicional
+ constituido por las semillas sin germinar (testigo), con dos repeticiones
+ por tratamiento; mientras que para la variable evaluación sensorial no
+ se tuvieron repeticiones por tratamiento.
+ 
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 
 \series bold
@@ -1023,6 +1093,12 @@ status open
 EXPLICAR
 \end_layout
 
+\end_inset
+
+
+\series default
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1087,6 +1163,12 @@ arraystretch}{0.6}
 
 \series bold
 Fase de selección
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1104,6 +1186,10 @@ vspace{-0.7cm}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1111,7 +1197,7 @@ vspace{-0.7cm}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="51" columns="4">
-<features rotate="0" booktabs="true" islongtable="true" longtabularalignment="center">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
@@ -3504,6 +3590,12 @@ vspace{-1.5cm}
 
 \series bold
 Fase de producción de germinados
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -3518,6 +3610,12 @@ Estuvo constituido por la interacción de las accesiones elegidas en la fase
 
 \series bold
 Fase de conservación
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -3559,7 +3657,7 @@ textit{Chenopodium quinoa}
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="2">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <row>
@@ -3728,6 +3826,12 @@ pagestyle{lscape}
 
 \series bold
 Fase de selección
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -3851,7 +3955,7 @@ end{enumerate}
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -3883,10 +3987,6 @@ name "fig:Croquis_FC"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -4152,6 +4252,12 @@ Peso de 1
 \end_inset
 
 000 semillas (g)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4163,12 +4269,16 @@ Se realizó el conteo de 100 semillas, luego el pesado de estas en una balanza
 \end_inset
 
 000 semillas mediante la siguiente fórmula:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset Formula $Peso\,1000\, semillas\,(g)=\frac{1000\times Peso\,100\, semillas\,(g)}{100}$
+\begin_inset Formula $Peso\,1000\,semillas\,(g)=\frac{1000\times Peso\,100\,semillas\,(g)}{100}$
 \end_inset
 
 
@@ -4186,11 +4296,17 @@ Peso hectolítrico (g/1000
 
 
 \series bold
-
-\begin_inset Formula $\mathbf{cm}^{\mathbf{3}}$
+cm
+\begin_inset Formula $^{\mathbf{3}}$
 \end_inset
 
 )
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4211,12 +4327,16 @@ ml y una balanza analítica de dos decimales.
 \end_inset
 
  mediante la siguiente fórmula:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset Formula $Peso\, hectolítrico\,(g/1000\, cm^{3})=\frac{peso\, muestra\, semilla\,(g)\times1000}{volumen\, ocupado\, muestra\, semilla\,(ml)}$
+\begin_inset Formula $\mathsf{Peso\,hectolítrico}\,(\mathsf{g}/1000\,\mathsf{cm}^{3})=\frac{peso\,muestra\,semilla\,(g)\times1000}{volumen\,ocupado\,muestra\,semilla\,(ml)}$
 \end_inset
 
 
@@ -4227,14 +4347,19 @@ ml y una balanza analítica de dos decimales.
 
 \series bold
 Diámetro de semilla (mm)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 Se registró el diámetro de 10 semillas por tratamiento utilizando regla
  Vernier en mm.
- En la evaluación de las variables diámetro y espesor de semillas se realizaron
- 10 repeticiones.
+ 
 \end_layout
 
 \end_deeper
@@ -4242,6 +4367,12 @@ Se registró el diámetro de 10 semillas por tratamiento utilizando regla
 
 \series bold
 Espesor de semilla (mm) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4300,6 +4431,12 @@ key "FAO_2013"
 
 \series bold
 Contenido de saponina (%) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4344,10 +4481,16 @@ cm.
  Al finalizar el procedimiento se determinó el contenido de saponina presente
  en los granos analizados, mediante la siguiente fórmula.
  
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $Contenido\, saponina\,(\%)=\frac{(0.646\times altura\, espuma\,(cm))-0.104}{peso\, muestra\,(g)\times10}$
+\noindent
+\align center
+\begin_inset Formula $Contenido\,saponina\,(\%)=\frac{(0.646\times altura\,espuma\,(cm))-0.104}{peso\,muestra\,(g)\times10}$
 \end_inset
 
 
@@ -4358,6 +4501,12 @@ cm.
 
 \series bold
 Porcentaje de germinación (%) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4372,18 +4521,29 @@ o.
 
 \series bold
 Índice de conversión 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 Se determinó dividiendo el peso de germinados secos (producidos a partir
- de 100 semillas y secadas por un día en condiciones de laboratorio) sobre
- el peso inicial de estas.
- 
+ de 100 semillas durante cinco días y secadas por un día en condiciones
+ de laboratorio) sobre el peso inicial de estas, de la siguiente manera:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\noindent
+\align center
+\begin_inset Formula $Índice\,conversión=\frac{peso\,germinado\,seco\,(g)}{peso\,100\,semillas\,(g)}$
 \end_inset
 
 
@@ -4398,6 +4558,12 @@ Fase de producción de germinados
 
 \series bold
 Porcentaje de germinación (%) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4410,6 +4576,12 @@ Se obtuvo mediante el conteo de las semillas germinadas.
 
 \series bold
 Longitud del eje embrionario (cm)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4447,6 +4619,12 @@ El análisis sensorial de degustación se realizó para evaluar las característ
 
 \series bold
 Índice de conversión
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4464,10 +4642,16 @@ es decir la cantidad de semilla que se convierte en germinado.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\noindent
+\align center
+\begin_inset Formula $Índice\,conversión=\frac{peso\,germinado\,seco\,(g)}{peso\,100\,semillas\,(g)}$
 \end_inset
 
 
@@ -4478,6 +4662,12 @@ es decir la cantidad de semilla que se convierte en germinado.
 
 \series bold
 Evaluación sensorial (escala hedónica) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -4495,16 +4685,16 @@ Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
  de germinados de quinua (croquetas de garbanzón con brotes de quinua, rollitos
  de espinaca y brotes de quinua, brusquetas con brotes de quinua y causitas
  crocantes de yuca en escabechado de brotes de quinua) de variedades comerciales
- de quinua roja, blanca, negra, amarilla y de la mezcla de semillas seleccionada
-s en la fase de selección germinadas durante 72 horas.
+ de quinua roja, blanca, negra, amarilla y de la mezcla de semillas elegidas
+ en la fase de selección germinadas durante 72 horas.
 \end_layout
 
 \begin_layout Standard
 La segunda sesión se llevo a cabo en el LGBV, también con 10 jueces no entrenado
 s (potenciales consumidores), quienes realizaron la evaluación sensorial
- de germinados de quinua seleccionados en la fase de selección, germinadas
- por 24, 48 y 72 horas en condiciones de luz completa, oscuridad completa
- y 12 horas luz-12 horas oscuridad.
+ de germinados de quinua elegidas en la fase de selección, germinadas por
+ 24, 48 y 72 horas en condiciones de luz completa, oscuridad completa y
+ 12 horas luz-12 horas oscuridad.
  La ficha de evaluación se detalla en el anexo 2.
 \end_layout
 
@@ -4513,38 +4703,15 @@ s (potenciales consumidores), quienes realizaron la evaluación sensorial
 
 \series bold
 Contenido de proteína bruta (%) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-Se obtuvo multiplicando el contenido de nitrógeno por el factor 6.25.
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-como lo hicieron 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Valenzuela_col_2015"
-
-\end_inset
-
- y 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Silvina_2013"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Se realizó en el Laboratorio de análisis de suelos, plantas, agua y fertilizante
 s 
@@ -4569,7 +4736,43 @@ Por la escasa disponibilidad de muestras, estas fueron mezcladas en la variable
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $Proteína\, bruta\,(\%)=contenido\, nitrógeno\times6.25$
+Finalmente el porcentaje de proteína ruta se obtuvo multiplicando el contenido
+ de nitrógeno por el factor 6.25.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+como lo hicieron 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+De la siguiente manera:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Proteína\,bruta\,(\%)=contenido\,nitrógeno\times6.25$
 \end_inset
 
 
@@ -4577,19 +4780,7 @@ Por la escasa disponibilidad de muestras, estas fueron mezcladas en la variable
 
 \end_deeper
 \begin_layout Standard
-En la instalación de las variables evaluación sensorial y contenido de proteínas
-, por la escasa cantidad de semillas, se mezclaron las semillas de las accesione
-s seleccionadas en la fase de selección, por lo que se utilizó el arreglo
- factorial 3TI
-\begin_inset Formula $\times$
-\end_inset
 
-3TG.
- Para la variable contenido de proteínas se tuvo un tratamiento adicional
- constituido por las semillas sin germinar (testigo), con dos repeticiones
- por tratamiento; mientras que para la variable evaluación sensorial no
- se tuvieron repeticiones por tratamiento.
- 
 \end_layout
 
 \begin_layout Subsection
@@ -4600,6 +4791,12 @@ Fase de conservación
 
 \series bold
 Pérdida de peso (g) 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper

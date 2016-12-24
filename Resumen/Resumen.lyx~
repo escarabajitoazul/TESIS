@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -12,16 +14,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -127,7 +129,7 @@ ión (5, 8 y 18
  En la segunda fase de producción de germinados se determinó el tipo de
  iluminación y el tiempo de germinación óptimas para la producción de germinados
  de quinua y finalmente en la tercera fase de conservación, se determinó
- la temperatura óptima de conservación de los germinados.
+ la temperatura óptima de conservación por 15 días de los germinados.
  Las fases de selección y conservación fueron conducidos bajo el diseño
  completamente randomizado (DCR); mientras que la fase de producción de
  germinados fue conducido bajo el diseño completamente randomizado (DCR)
@@ -146,7 +148,7 @@ En los resultados obtenidos se observan que existen diez accesiones con
  y tres tiempos de germinación incrementaron su contenido de proteína bruta
  en comparación a las semillas sin germinar, siendo superior para las producidas
  en oscuridad completa por 72 horas con 14.16
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 %; bajo estas mismas condiciones, para la accesión UNSCHLGBV60405
@@ -154,16 +156,16 @@ En los resultados obtenidos se observan que existen diez accesiones con
 116
 \series default
 13 presenta el mayor porcentaje de germinación (97.67
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 %), la mayor longitud del eje embrionario (3.06
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm), con índice de conversión de 0.95 y aceptación de me gusta ligeramente
  a me gusta mucho por los jurados con 92.3, 86.7 y 85.5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 % para las propiedades sensoriales de sabor, color y olor, respectivamente.

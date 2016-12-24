@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -12,16 +14,16 @@ eqs-within-sections
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -585,6 +587,12 @@ key "Besnier_1989"
 
 \series bold
 Giberelinas
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -601,6 +609,12 @@ Inducen a la síntesis de
 
 \series bold
 Citocininas
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -614,6 +628,12 @@ Promueven la síntesis de proteínas, el alargamiento de la radícula y la
 
 \series bold
 Ácido abscísico
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -643,6 +663,12 @@ citep{Matilla_2013}
 
 \series bold
 Auxina
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -655,6 +681,12 @@ Contribuye al alargamiento celular.
 
 \series bold
 Etileno
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -841,6 +873,12 @@ Factores internos (intrínsecos)
 
 \series bold
 Madurez de la semilla
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -886,6 +924,12 @@ citep{Matilla_2013}
 
 \series bold
 Viabilidad de la semilla
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -946,6 +990,12 @@ Factores externos (extrínsecos)
 
 \series bold
 Humedad
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1006,6 +1056,12 @@ key "Garcia_2006"
 
 \series bold
 Temperatura
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1046,17 +1102,23 @@ citep{Garcia_2006}
 
 \series bold
 Gases
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
 Las semillas requieren para la germinación un medio suficientemente aireado
- que permita la adecuada disponibilidad de 
-\begin_inset Formula $\mathsf{O}{}_{2}$
+ que permita la adecuada disponibilidad de CO
+\begin_inset Formula $_{2}$
 \end_inset
 
- y 
-\begin_inset Formula $\mathsf{CO}{}_{2}$
+ y CO
+\begin_inset Formula $_{2}$
 \end_inset
 
 , para que el embrión obtenga la energía necesaria para mantener sus actividades
@@ -1065,16 +1127,16 @@ Las semillas requieren para la germinación un medio suficientemente aireado
 \begin_inset space \thinspace{}
 \end_inset
 
-% de 
-\begin_inset Formula $\mathsf{O}{}_{2}$
+% de O
+\begin_inset Formula $_{2}$
 \end_inset
 
  y 0.03
 \begin_inset space \thinspace{}
 \end_inset
 
-% de 
-\begin_inset Formula $\mathsf{CO}{}_{2}$
+% de CO
+\begin_inset Formula $_{2}$
 \end_inset
 
  
@@ -1099,6 +1161,12 @@ citep{Garcia_2006}
 
 \series bold
 Luz
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1697,7 +1765,7 @@ key "Bravo_2013"
 \begin_layout Subsubsection
 
 \series bold
-germinación
+Germinación
 \end_layout
 
 \begin_layout Standard
@@ -1832,8 +1900,24 @@ Contenido nutricional
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
+Según la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Bravo_contenido nutrional"
+
+\end_inset
+
+ reportados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ los granos germinados de quinua presentan un incremento en el contenido
+ de proteínas, hierro, calcio, niacina y ácido ascórbico; mientras que el
+ fósforo disminuye debido a que es consumida por la plántula durante su
+ crecimiento y desarrollo.
 \begin_inset Float table
 wide false
 sideways false
@@ -1897,9 +1981,11 @@ name "Bravo_contenido nutrional"
 \end_layout
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="3">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
+<features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="right" valignment="top">
 <column alignment="right" valignment="top" width="0pt">
@@ -2273,27 +2359,6 @@ status open
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Según la tabla 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Bravo_contenido nutrional"
-
-\end_inset
-
- reportados por 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Bravo_2013"
-
-\end_inset
-
- los granos germinados de quinua presentan un incremento en el contenido
- de proteínas, hierro, calcio, niacina y ácido ascórbico; mientras que el
- fósforo disminuye debido a que es consumida por la plántula durante su
- crecimiento y desarrollo.
 \end_layout
 
 \begin_layout Standard
