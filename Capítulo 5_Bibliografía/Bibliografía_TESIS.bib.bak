@@ -73,7 +73,7 @@
 }
 
 @Book{Besnier_1989,
-  Title                    = {Semillas. biología y tecnología},
+  Title                    = {Semillas. Biología y tecnología},
   Author                   = {Besnier, F.},
   Publisher                = {Madrid: Ediciones Mundi Prensa},
   Year                     = {1989},
@@ -272,6 +272,15 @@
   Timestamp                = {2015.12.10}
 }
 
+@Book{DRAA_2016,
+  Title                    = {Producción agrícola 2002-2015},
+  Author                   = {DRAA},
+  Year                     = {2016},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.12.14}
+}
+
 @Electronic{Duenhas_2008,
   Title                    = {Germinados, la fuerza de la vida},
   Author                   = {Dueñas, J.},
@@ -361,6 +370,16 @@
   Timestamp                = {2015.12.10}
 }
 
+@Electronic{Gomez_2016,
+  Title                    = {Guía de cultivo de la quinua},
+  Author                   = {Gómez, L. and Aguilar, E.},
+  Note                     = {Disponible desde: \url{<>} Acceso 05 de octubre 2016.},
+  Year                     = {2016},
+
+  Owner                    = {usuario},
+  Timestamp                = {2016.11.24}
+}
+
 @Electronic{Gomez_2011,
   Title                    = {Catálogo del banco de germoplasma de quinua},
   Author                   = {Gómez, L. R. and Eguiluz, A. L.},
@@ -402,8 +421,9 @@
 }
 
 @Electronic{Hernandez_2005,
-  Title                    = {Extracción y cuantificación indirecta de las saponinas de Agave lechuguilla Torrey},
-  Author                   = {Hernández, R. and Lugo, E. C. and Díaz, L. and Villanueva, S.},
+  Title                    = {Evaluación sensorial},
+  Author                   = {Hernández, E.},
+  Note                     = {Disponible desde: \url{<https://lh3.googleusercontent.com/-r3XDATnQa-E/WBM_rAZVp_I/AAAAAAAAEFw/OYDFRr41foQQLjBe8x7J6IubdrPeX25hgCL0B/h183/2016-10-28.png>} Acceso 09 de octubre 2016.},
   Year                     = {2005},
 
   Owner                    = {usuario},
@@ -732,7 +752,7 @@
   Title                    = {Estudio de las propiedades nutricionales de 21 accesiones de quinua del Noroeste Argentino},
   Author                   = {Silvina, M. and Bertero, H. D. and Pallaro, A. N.},
   Note                     = {\textit{Ciencia y Tecnología de los Cultivos Industriales (5)}. Recuperado de \url{http://inta.gob.ar/documentos/ciencia-y-tecnologia-de-los-cultivos-industriales.-quinua-5}},
-  Year                     = {2015, 27 de abril},
+  Year                     = {27 de abril de 2015},
 
   Owner                    = {usuario},
   Timestamp                = {2016.10.07}

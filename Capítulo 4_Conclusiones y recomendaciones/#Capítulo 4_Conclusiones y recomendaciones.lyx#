@@ -87,31 +87,31 @@ CONCLUSIONES
 \end_layout
 
 \begin_layout Enumerate
-Se seleccionaron 9 accesiones de quinua del Germoplasma del Laboratorio
- de Genética y Biotecnología Vegetal y una variedad comercial, por que presentar
-on los mejores resultados en el peso de 1
+Se seleccionaron 9 accesiones de quinua del Banco de Germoplasma del Laboratorio
+ de Genética y Biotecnología Vegetal y una variedad comercial, por presentar
+ los mejores resultados en el peso de 1
 \begin_inset space ~
 \end_inset
 
 000 semillas, diámetro de semilla, espesor de semilla, menor contenido de
- saponina, porcentaje de germinación e índice de conversión que oscila entre
- 2.87 a 3.40
+ saponina, porcentaje de germinación e índice de conversión que oscilan
+ entre 2.87 y 3.40
 \begin_inset space ~
 \end_inset
 
-g, 1.84 a 2.02
+g, 1.84 y 2.02
 \begin_inset space ~
 \end_inset
 
-mm, 1.05 a 1.13
+mm, 1.05 y 1.13
 \begin_inset space ~
 \end_inset
 
-mm, -0.02 a -0.01, 85.33 a 95.33
+mm, -0.02 y -0.01, 85.33 y 95.33
 \begin_inset space ~
 \end_inset
 
-% y de un índice de 0.77 a 0.93 respectivamente.
+% y de un índice de 0.77 y 0.93, respectivamente.
  Estas accesiones fueron: UNSCHLGBV60405
 \series bold
 24
@@ -120,7 +120,7 @@ mm, -0.02 a -0.01, 85.33 a 95.33
 \series bold
 43
 \series default
-13, UNSCHLGBV-60405
+13, UNSCHLGBV60405
 \series bold
 46
 \series default
@@ -132,9 +132,9 @@ mm, -0.02 a -0.01, 85.33 a 95.33
 \series bold
 80
 \series default
-13, UNSCHL-GBV60405
+13, UNSCHLGBV60405
 \series bold
-92
+-92
 \series default
 13, UNSCHLGBV60405
 \series bold
@@ -144,24 +144,11 @@ mm, -0.02 a -0.01, 85.33 a 95.33
 \series bold
 100
 \series default
-13, UN-SCHLGBV60405
+13, UNSCHLGBV-60405
 \series bold
 116
 \series default
-13 y la variedad comercial Quinua Roja Pasankalla.
-\end_layout
-
-\begin_layout Standard
-Podemos concluir que los resultados de la evaluación de la calidad del tubérculo
- mostraron la existencia, en la colección, de accesiones con buen comportamiento
- para la calidad del tubérculo (22,8 % del total), con valores de masa seca
- superior al 19 %, contenido de almidón por encima del 12 % y bajo contenido
- de azúcares reductores (< 0,5 %), las que se proponen utilizar como progenitore
-s en un programa de mejoramiento para procesamiento industrial y directamente
- en la producción.
- Dentro de ellas se destacaron, entre otras, las variedades Atlantic, Bellini,
- Cal White, Derby, Maranca, Romano, Santana y Slaney y los clones cubanos
- 1-10-96, 2-31-95, 4-6-93 y 9-32-93.
+13 y la variedad comercial quinua Roja Pasankalla.
 \end_layout
 
 \begin_layout Enumerate
@@ -186,6 +173,7 @@ cm); además para estas mismas condiciones la accesión UNSCHLGBV60405
 \end_inset
 
 % y un índice de conversión de 0.95.
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -231,24 +219,54 @@ RECOMENDACIONES
 \end_layout
 
 \begin_layout Enumerate
-Regenerar las accesiones del Germoplasma del LGBV por presentar porcentajes
- bajos de germinación.
+Regenerar las accesiones de quinua del Germoplasma del Laboratorio de Genética
+ y Biotecnología Vegetal por presentar porcentajes bajos de germinación.
 \end_layout
 
 \begin_layout Enumerate
-Incluir las accesiones UNSCHLGBV604052413, UNSCHLGBV604054313, UNSCHLGBV60405461
-3, UNSCHLGBV604054813, UNSCHLGBV604058013, UNSCHLGBV604059213, UNSCHLGBV60405961
-3, UNSCHLGBV6040510013, UNSCHLGBV6040511613 en programas de fitomejoramiento
- para mejorar y aprovechar sus propiedades como germinados de quinua.
+Incluir las accesiones UNSCHLGBV60405
+\series bold
+24
+\series default
+13, UNSCHLGBV60405
+\series bold
+43
+\series default
+13, UNSCHLGBV60405
+\series bold
+46
+\series default
+13, UNSCHLGBV60405
+\series bold
+48
+\series default
+13, UNSCHLGBV60405
+\series bold
+-80
+\series default
+13, UNSCHLGBV60405
+\series bold
+92
+\series default
+13, UNSCHLGBV60405
+\series bold
+96
+\series default
+13, UNSCHLGBV6-0405
+\series bold
+100
+\series default
+13, UNSCHLGBV60405
+\series bold
+116
+\series default
+13 en programas de fitomejoramiento para mejorar y aprovechar sus propiedades
+ en la producción de germinados de quinua.
 \end_layout
 
 \begin_layout Enumerate
 Promover el consumo de germinados de quinua por el mayor contenido de proteína
  bruta que presenta en comparación al de la semilla sin germinar.
-\end_layout
-
-\begin_layout Enumerate
-Realizar estudios 
 \end_layout
 
 \end_body

@@ -120,7 +120,7 @@ mm, -0.02 a -0.01, 85.33 a 95.33
 \series bold
 43
 \series default
-13, UNSCHLGBV-60405
+13, UNSCHLGBV60405
 \series bold
 46
 \series default
@@ -134,17 +134,17 @@ mm, -0.02 a -0.01, 85.33 a 95.33
 \series default
 13, UNSCHLGBV60405
 \series bold
-92
+-92
 \series default
 13, UNSCHLGBV60405
 \series bold
 96
 \series default
-13, UNSCHLGB-V60405
+13, UNSCHLGBV60405
 \series bold
 100
 \series default
-13, UN-SCHLGBV60405
+13, UNSCHLGBV-60405
 \series bold
 116
 \series default
@@ -173,6 +173,7 @@ cm); además para estas mismas condiciones la accesión UNSCHLGBV60405
 \end_inset
 
 % y un índice de conversión de 0.95.
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -241,7 +242,7 @@ Incluir las accesiones UNSCHLGBV60405
 \series default
 13, UNSCHLGBV60405
 \series bold
-80
+-80
 \series default
 13, UNSCHLGBV60405
 \series bold
@@ -251,7 +252,7 @@ Incluir las accesiones UNSCHLGBV60405
 \series bold
 96
 \series default
-13, UNSCHLGBV60405
+13, UNSCHLGBV6-0405
 \series bold
 100
 \series default

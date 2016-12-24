@@ -30,11 +30,11 @@
 %\newcommand{\unsch}{\contour{black}{\sf\fontsize{18pt}{30}\selectfont}}
 \newcommand{\unsch}{\sf\fontsize{18pt}{30}\selectfont}
 \newcommand{\facultad}{\sf\fontsize{16pt}{21,5}\selectfont}
-\newcommand{\escuela}{\sf\fontsize{16pt}{21,5}\selectfont}
+\newcommand{\escuela}{\sf\fontsize{14pt}{21,5}\selectfont}
 \newcommand{\fecha}{\fontsize{12pt}{21,5}\selectfont}
-\newcommand{\titulo}{\fontsize{14pt}{18}\selectfont}
-\newcommand{\informe}{\sf\fontsize{14pt}{18}\selectfont}
-\newcommand{\bachiller}{\fontsize{18pt}{18}\selectfont}
+\newcommand{\titulo}{\fontsize{18pt}{18}\selectfont}
+\newcommand{\informe}{\sf\fontsize{16pt}{18}\selectfont}
+\newcommand{\bachiller}{\fontsize{16pt}{18}\selectfont}
 
 %%%%%% Alterar índices%%%%%%%%
 
@@ -494,7 +494,7 @@ status open
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset VSpace -1.5cm
+\begin_inset VSpace -2cm
 \end_inset
 
 
@@ -534,7 +534,7 @@ status open
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset VSpace -1.5cm
+\begin_inset VSpace -2cm
 \end_inset
 
 
@@ -557,7 +557,7 @@ escuela {
 
 \end_inset
 
-ESCUELA DE FORMACIÓN PROFESIONAL DE AGRONOMÍA
+ESCUELA PROFESIONAL DE AGRONOMÍA
 \begin_inset ERT
 status open
 
@@ -603,10 +603,6 @@ titulo {
 
 \end_inset
 
-
-\begin_inset Quotes fld
-\end_inset
-
 TRATAMIENTOS DE ILUMINACIÓN Y TIEMPO EN LA PRODUCCIÓN DE GERMINADOS EN ACCESIONE
 S DE QUINUA (
 \emph on
@@ -619,10 +615,6 @@ Chenopodium quinoa
 \end_inset
 
 016
-\begin_inset Quotes frd
-\end_inset
-
-
 \begin_inset ERT
 status open
 
@@ -660,41 +652,12 @@ status open
 
 
 \backslash
-informe {
-\end_layout
-
-\end_inset
-
-BORRADOR DE TESIS
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 informe{
 \end_layout
 
 \end_inset
 
-Presentado por:
+TESIS PARA OBTENER EL TÍTULO PROFESIONAL DE:
 \begin_inset ERT
 status open
 
@@ -725,7 +688,7 @@ bachiller {
 
 \end_inset
 
- DIANE SUSAN CENTENO CASAVERDE
+INGENIERA AGRÓNOMA
 \begin_inset ERT
 status open
 
@@ -754,11 +717,71 @@ informe{
 
 \end_inset
 
-AYACUCHO
+PRESENTADO POR:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bachiller {
+\end_layout
+
+\end_inset
+
+DIANE SUSAN CENTENO CASAVERDE
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+informe{
+\end_layout
+
+\end_inset
+
+Ayacucho
 \begin_inset Formula $-$
 \end_inset
 
-PERÚ
+Perú
 \begin_inset ERT
 status open
 
@@ -897,17 +920,18 @@ Esta es yuna modificación para hacer una prueba!!!!
 
 \begin_layout Standard
 A la Universidad Nacional de San Cristóbal de Huamanga, Facultad de Ciencias
- Agrarias, Escuela de Formación Profesional de Agronomía y a todos los docentes
- que la integran por el aporte fundamental en la formación de mis conocimientos.
- 
+ Agrarias, Escuela Profesional de Agronomía y a todos los docentes que la
+ integran por el aporte fundamental en mi formación profesional.
 \end_layout
 
 \begin_layout Standard
-Al M.Sc.
- Germán Fernando De la Cruz Lapa y al M.Sc.
+Al M.
+ Sc.
+ Germán Fernando De la Cruz Lapa y al M.
+ Sc.
  Francisco Condeña Almora, asesor y coasesor de la presente tesis respectivament
-e; por su orientación, apoyo, tiempo, paciencia, experiencia y conocimientos
- brindados.
+e; por sus orientaciones, apoyo, tiempo, paciencia, experiencia y conocimientos
+ brindados durante el desarrollo del presente trabajo de investigación.
 \end_layout
 
 \begin_layout Standard
@@ -916,16 +940,15 @@ A los ingenieros Julio Danilo Vilca Vivas y Efigenio Quispe Curi por sus
 \end_layout
 
 \begin_layout Standard
-A Ken Esparta Ccorahua por su apoyo intelectual y emocional en la materializació
-n de la presente tesis.
- 
+A Ken Esparta Ccorahua por su apoyo intelectual y emocional.
 \end_layout
 
 \begin_layout Standard
 A mis compañeros y amigos Francisca del Pilar Gálvez, Leydi Mayra Huamaní,
  Yesenia Canchari, Delia Mallqui, Leidy Escalante, Jesús Marco Pozo, Rocío
- Medina, Yury Pacotaype, Nelson Vilcatoma, Gerónimo Quispe y a todos los
- que me brindaron su apoyo durante la ejecución de la presente tesis.
+ Medina, Yuri Pacotaype, Nelson Vilcatoma, Gerónimo Quispe, María Mejía
+ y a todas las personas que me brindaron su apoyo antes, durante y después
+ de la ejecución de la presente tesis.
 \end_layout
 
 \begin_layout Standard
@@ -1148,10 +1171,27 @@ chapter*{INTRODUCCIÓN}
 \end_layout
 
 \begin_layout Standard
-La quinua es un pseudocereal importante por su contenido nutricional fundamental
-mente de aminoácidos esenciales y por la versatilidad en su aprovechamiento
- por la industria; así, una alternativa de consumo es como germinados, que
- según 
+La quinua es un cultivo importante, según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ porque sus granos constituyen una fuente importante de proteínas, aminoácidos
+ esenciales, minerales, flavonoides, pigmentos, saponinas y almidón, que
+ la convierten según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ en un gran potencial económico, ya que puede ser utilizados en la industria
+ alimentaria, química, farmacéutica y cosmética; por lo que no solo debe
+ considerarse la producción de granos, sino también el desarrollo de valor
+ agregado; así, una alternativa de producción es como germinados, que según
+ 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bravo_2013"
@@ -1172,24 +1212,75 @@ key "Ramos_1998"
 
 \end_inset
 
- pueden suplir las deficiencias de la alimentación moderna por ser saludables,
- de fácil producción, de bajo costo y por presentar propiedades nutricionales
- superiores a las secas, porque con el proceso de germinación se reanudan
- la actividades metabólicas de las semillas; sin embargo, la germinación
- depende de factores intrínsecos e intrínsecos, por lo que es importante
- obtener parámetros que permitan el desarrollo de sistemas eficientes de
- producción.
+ suplen las deficiencias de la alimentación moderna por ser de fácil producción,
+ de bajo costo y por presentar propiedades nutricionales superiores a las
+ semillas secas, debido según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ a la utilización de sus reservas (carbohidratos, lípidos y proteínas),
+ para el desarrollo de su eje embrionario
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ ya que con el proceso de germinación se reanudan las actividades metabólicas
+ de la semilla
+\end_layout
+
+\end_inset
+
+; sin embargo, como la germinación depende de factores intrínsecos y extrínsecos
+, es importante obtener parámetros que permitan el desarrollo de sistemas
+ eficientes de producción.
 \end_layout
 
 \begin_layout Standard
-La amplia variabilidad que existe en los bancos de germoplasma de quinua
- constituye una base de genes que pueden ser incluidos en un programa de
- mejoramiento para obtener variedades que puedan ser utilizados en la producción
- de germinados.
+Por otro lado, en las últimas décadas se han estado realizando recolecciones
+ de recursos fitogenéticos y su posterior conservación ex situ en bancos
+ de germoplasma; constituyendo recursos importantes para los fitomejoradores,
+ que buscan alcanzar nuevos ideotipos más productivos y nutritivos, que
+ consuman menos insumos y satisfagan las preferencias sensoriales de los
+ consumidores
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+; por lo que es necesario realizar su caracterización y evaluación
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Rivera_2015}
+\end_layout
+
+\end_inset
+
+.
+ Tal es el caso del Laboratorio de Genética y Biotecnología Vegetal de la
+ EPA-FCA-UNSCH que cuenta con un Banco de Germoplasma de quinua con 150
+ accesiones recolectadas de diferentes provincias de la región Ayacucho;
+ los cuales constituyen un recurso potencial para la producción de germinados
+ de quinua; sin embargo, aún no se han realizado ninguna evaluación al respecto
+ con los genotipos de quinua de este banco de germoplasma, tampoco se tiene
+ conocimiento del tipo de iluminación y tiempo de germinación adecuadas
+ para su producción y la temperatura adecuada para su conservación.
 \end_layout
 
 \begin_layout Standard
-Por tanto los objetivos planteados fueron:
+Por las consideraciones anteriormente mencionadas, se plantea en la presente
+ investigación los siguientes objetivos:
 \end_layout
 
 \begin_layout Standard

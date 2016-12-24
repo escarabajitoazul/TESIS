@@ -1,0 +1,4298 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+eqs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+REVISIÓN BIBLIOGRÁFICA
+\end_layout
+
+\begin_layout Section
+GERMINACIÓN DE LAS SEMILLAS
+\end_layout
+
+\begin_layout Standard
+Es la reanudación de las actividades de crecimiento del embrión, caracterizado
+ por un estado metabólicamente activo, que se manifiesta fisiológicamente
+ por una división celular y diferenciación, y morfológicamente por una transform
+ación del embrión en una plántula 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Es el proceso que se inicia con la toma de agua por la semilla seca (imbibición)
+ y termina cuando una parte de ésta (eje embrionario en dicotiledóneas o
+ radícula en monocotiledóneas) atraviesa las estructuras envolventes que
+ la rodean (emergencia)
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 551]{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+ menciona, que de manera práctica se puede determinar el término de la germinaci
+ón, cuando la radícula rompe la testa; sin embargo, señala que las Normas
+ Internacionales de la ISTA consideran que el término de la germinación
+ es cuando la plántula surgida de la semilla está completa y se pueden apreciar
+ la integridad de sus estructuras; para el caso de las semillas situadas
+ en el suelo, la germinación culmina cuando las plántulas emerger del terreno.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Proceso de germinación
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Garcia_2006"
+
+\end_inset
+
+, en el proceso de germinación se distinguen tres fases:
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Fase de hidratación
+\end_layout
+
+\begin_layout Standard
+Consiste en la intensa absorción de agua por parte de los distintos tejidos
+ que forman la semilla, el cual va acompañado de un incremento proporcional
+ en la respiración.
+ Esta fase se produce tanto en semillas vivas y muertas, por lo que es independi
+ente de la actividad metabólica de la semilla, aunque activa el metabolismo
+ de las semillas viables.
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Fase de germinación
+\end_layout
+
+\begin_layout Standard
+En esta fase se producen las transformaciones metabólicas, necesarias para
+ el correcto desarrollo de la plántula.
+ La absorción de agua se reduce considerablemente, llegando incluso a detenerse.
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Fase de crecimiento
+\end_layout
+
+\begin_layout Standard
+Es la última fase de la germinación y se asocia con la emergencia de la
+ radícula, se caracteriza por que la absorción de agua vuelve a aumentar,
+ así como la actividad respiratoria y la actividad metabólica.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+, la emergencia de la radícula ocurre por el ablandamiento de la pared celular
+ y la acción posterior de la presión de turgencia ejercida por las células
+ localizadas en la zona de elongación.
+\end_layout
+
+\begin_layout Standard
+Los procesos de germinación en las dos primeras fases son reversibles; por
+ lo que las semillas que superan la fase de germinación pasan a la fase
+ de crecimiento originando una plántula o por el contrario mueren.
+ 
+\end_layout
+
+\begin_layout Subsection
+Absorción de agua
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, denomina a este proceso como imbibición y considera que es un fenómeno
+ puramente físico que activa el metabolismo de la semillas viables, aunque
+ también ocurre en las semillas muertas y aletargadas; señala que el ingreso
+ de agua a la semilla, a través del micrópilo o callo, provoca su hinchamiento
+ y la posterior rajadura de las cubiertas seminales por que estas se vuelven
+ más permeables; asimismo, indica que el embrión absorbe más agua en comparación
+ al endospermo, ya que tiene mayor contenido de proteínas que tienen coloides
+ que absorben agua.
+ 
+\end_layout
+
+\begin_layout Standard
+Si ocurre desecación durante la germinación esta se ve perjudicada, más
+ aún si el embrión está hidratado, ya que en ese tiempo el agua hidrata
+ moléculas orgánicas y después se acumula en vacuolas citoplasmáticas, a
+ partir del cual la desecación es perjudicial; sin embargo, existe un tiempo
+ en el cual las semillas pueden desecarse sin que la germinación se vea
+ perjudicada cuando se vuelva a rehidratar 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, la absorción de agua por las semillas ocurre en tres fases; una fase inicial
+ de rápida absorción, una fase intermedia donde la absorción se mantiene
+ casi constante, desencadenando procesos metabólicos en las zonas humedecidas
+ de la semilla y una fase final de intensa absorción de agua relacionado
+ con la aparición de la radícula.
+ Al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+ indica que en la fase inicial, la semilla seca (5-10
+\begin_inset space \thinspace{}
+\end_inset
+
+% de contenido en agua) tiene un potencial hídrico muy negativo aproximadamente
+ de 100
+\begin_inset space \thinspace{}
+\end_inset
+
+MPa, por lo que tiende a imbibirse rápidamente, mientras que en la fase
+ intermedia el potencial hídrico de la semilla es de 1-1.5
+\begin_inset space \thinspace{}
+\end_inset
+
+MPa; menciona además que las semillas que están en estado de dormición sólo
+ atraviesan las dos primeras fases por razones aún desconocidas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+La duración de cada fase depende de las características de la semilla (tamaño,
+ contenido de sustratos hidratables, permeabilidad de la cubierta seminal,
+ toma de oxígeno, etc.) y de las condiciones externas en las que se produce
+ la imbibición (temperatura, composición del sustrato del suelo, contenido
+ de humedad)
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 551]{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Respiración
+\end_layout
+
+\begin_layout Standard
+La respiración produce ATP y pirimidín nucleótidos para la intensa actividad
+ metabólica que tiene lugar durante la germinación, mediante la glucólisis,
+ ciclo de las pentosas fosfato y ciclo de Krebs 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, cuando la semilla se hidrata, los azúcares conservados en el eje embrionario
+ se hacen disponibles para ser utilizados en la respiración, el cual se
+ desarrolla en tres fases; una fase de rápida absorción de oxígeno, una
+ fase de parada y una fase de incremento de la respiración como consecuencia
+ de la ruptura de la testa por la radícula, que provoca la libre entrada
+ de oxígeno y su rápido consumo, además aumenta la actividad metabólica
+ general de la semilla, provocando la movilización de reservas que suministran
+ sustratos para los subsiguientes procesos respiratorios más eficaces que
+ los iniciales.
+\end_layout
+
+\begin_layout Standard
+En la fase de parada, según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, la cantidad de oxígeno absorbido no incrementa, ya que la eficacia de
+ las mitocondrias y enzimas implicadas en el proceso respiratorio, que persisten
+ con deficiencias en el eje embrionario de las semillas secas y que se activan
+ con la imbibición, duran poco tiempo, interrumpiendo la respiración hasta
+ que se restauren o formen mitocondrias y se sinteticen enzimas; sin embargo,
+ en esta fase se sigue produciendo dióxido de carbono por una respiración
+ anaerobia o fermentación, donde la glucólisis anaerobia suministra energía
+ al producir etanol o ácido láctico que es poco eficiente desde el punto
+ de vista energético ya que suministra solamente dos moléculas de ATP por
+ cada molécula de glucosa respirada.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+, señala que la producción de etanol, a causa del déficit de oxígeno, se
+ debe a la falta de acceso de éste desde el exterior, por la impermeabilidad
+ de la cubierta seminal.
+\end_layout
+
+\begin_layout Subsection
+Metabolismo de la germinación
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+A los pocos instantes de iniciarse la imbibición de la semilla viable, su
+ actividad metabólica se reanuda.
+ Se asume que las estructuras y las enzimas necesarias para tal fin deben
+ estar presentes en la semilla seca; por consiguiente, han permanecido protegida
+s a lo largo de la desecación de ésta
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 552]{Matilla_2013}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Reparación de membranas y orgánulos
+\end_layout
+
+\begin_layout Standard
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, la actividad metabólica inicial de la semilla embebida, en gran parte,
+ es para reparar las mitocondrias, retículo endoplasmático y aparato de
+ Golgi (incrementan la actividad metabólica de la semilla), que han quedado
+ dañados por la desecación.
+ La pérdida de viabilidad en semillas secas puede deberse a la incapacidad
+ de realizar estas reparaciones.
+ 
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Matilla_2013"
+
+\end_inset
+
+, los genes expresados en el período de imbibición de las semillas viables
+ codifican enzimas y otras proteínas necesarias para la actividad metabólica
+ celular básica (respiración, síntesis de membranas, síntesis de ácidos
+ nucleicos y proteínas).
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Síntesis de ácidos nucleicos
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, señala que los núcleos de las células del embrión conservan ARN mensajero,
+ con mensajes precodificados que se activan con la imbibición; sin embargo,
+ su actividad dura poco tiempo ya sea por que se degradan o porque no puede
+ sintetizar nuevas proteínas, debiéndose sintetizar nuevos ácidos nucleicos
+ a los pocos minutos de la imbibición.
+ La síntesis de ADN ocurre después de la del ARN y de las proteínas, debido
+ a las reparaciones que necesita, el cual sólo puede realizarse en las semillas
+ hidratadas.
+ 
+\end_layout
+
+\begin_layout Standard
+En las semillas secas los ribosomas, el ADN cromosómico, las polimerasas
+ y sintetasas se conservan en los ejes embrionarios y cotiledones; por ello,
+ tras la imbibición se inicia la síntesis de proteínas, para lo cual el
+ ADN cromosómico, donde están codificados los mensajes genéticos, son replicados
+ por el ARN mensajero y luego son trasladados a los ribosomas, donde el
+ ARN de transferencia ligado a los aminoácidos transfiere la información
+ para la formación de proteínas 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Síntesis de enzimas
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, indica que las enzimas se conservan en las semillas secas, principalmente
+ en el eje embrionario y se activan cuando la semilla se hidrata; donde
+ las enzimas glucolíticas como las 
+\begin_inset Formula $\beta$
+\end_inset
+
+-amilasa, 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-glucosidasa y otras hidrolasas; las polimerasas y sintetazas del ARN y
+ del ADN, diversas peroxidasas, deshidrogenasas, etc, son utilizadas para
+ la respiración, síntesis de ADN y ARN, síntesis de proteínas y degradación
+ de las reservas.
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+Síntesis de hormonas
+\end_layout
+
+\begin_layout Standard
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, las hormonas que intervienen en los procesos fisiológicos de la semilla
+ en germinación son:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Giberelinas
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Inducen a la síntesis de 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-amilasa.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Citocininas
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Promueven la síntesis de proteínas, el alargamiento de la radícula y la
+ expansión de los cotiledones.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Ácido abscísico
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Inhibe la síntesis de la α-amilasa por las giberelinas y también la emergencia
+ radicular, está última posiblemente porque dificulta el ablandamiento de
+ la pared celular de la radícula y porque altera el gradiente de potencial
+ hídrico entre el medio y la semilla 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Auxina
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Contribuye al alargamiento celular.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Etileno
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Contrarresta el efecto del ácido abscísico, mediante la disminución de la
+ sensibilidad al ácido abscísico endógeno por la semilla 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Movilización de las sustancias de reserva
+\end_layout
+
+\begin_layout Standard
+Durante el desarrollo de las semillas tiene lugar el almacenamiento de una
+ serie de materiales de reserva en los cotiledones y el endospermo.
+ Estas sustancias tienen la misión de alimentar a la plántula hasta que
+ ésta adquiera competencia fotosintética y se convierta en un organismo
+ autótrofo.
+ Para que las sustancias de reserva puedan entrar a formar parte de este
+ metabolismo heterotrófico de la plántula es necesaria una hidrólisis previa
+ de las mismas; de este modo dichas sustancias podrán ser transferidas desde
+ los órganos de reserva a estos órganos en crecimiento activo, a través
+ de las rutas celulares correspondientes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 553]{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Hidratos de carbono
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, menciona que después de la hidratación de la semilla, las giberelinas
+ inducen la síntesis de α-amilasa, que junto a la
+\begin_inset Formula $\beta$
+\end_inset
+
+-amilasa (presente en la semilla seca y activada por simple hidratación),
+ convierten el almidón (amilosa y amilopectina) en glucosa que es utilizada
+ para la síntesis de sacarosa, la cual es transportada a la plántula en
+ desarrollo.
+ El almidón también puede ser degradado por las fosforilasas en dextrina
+ y fosfato de glucosa, esta última utilizada en la síntesis de sacarosa.
+\end_layout
+
+\begin_layout Subsubsection
+Lípidos
+\end_layout
+
+\begin_layout Standard
+Los lípidos conservados en la semilla en forma de triglicerido, son degradadas
+ por lipasas en glicerol (utilizados en la respiración) y en ácidos grasos,
+ estas últimas son oxidadas en los glioxisomas produciendo succinato y posterior
+mente oxaloacetato en las mitocodrias, que se convierten en azúcar en el
+ citoplasma, suministrando energía al embrión y participando en la síntesis
+ de fosfolípidos.
+ En los cereales los lípidos se acumulan en el embrión y en la capa de la
+ aleurona 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Proteínas
+\end_layout
+
+\begin_layout Standard
+En cereales, las proteínas se encuentran en los cuerpos proteicos del endospermo
+ y en los granos de la aleurona, en estos últimos, las giberelinas inducen
+ la síntesis de proteinasas que provocan su hidrólisis, liberando aminoácidos;
+ en las proteínas del endospermo, la 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-amilasa degrada los cuerpos protéicos, liberando aminoácidos que son transporta
+dos al embrión para la síntesis de proteínas estructurales y enzimáticas.
+ En el caso de leguminosas, las proteínas están en los cotiledones y los
+ aminoácidos producidos son transportados al eje embrionario y a los cotiledones
+ para producir energía mediante la respiración 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Fitina
+\end_layout
+
+\begin_layout Standard
+Las reservas minerales en las semillas almacenadas en forma de fitina, son
+ hidrolizadas por la fitasa en
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ mioinocitol,
+\end_layout
+
+\end_inset
+
+ iones de fosfato, Mg, K y Ca que son transportados al embrión para ser
+ metabolizados 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection
+Factores que influyen en la germinación
+\end_layout
+
+\begin_layout Subsubsection
+Factores internos (intrínsecos)
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Madurez de la semilla
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Garcia_2006"
+
+\end_inset
+
+, una semilla está madura cuando alcanza su completo desarrollo morfológico
+ y fisiológico; sin embargo, muchas semillas morfológicamente maduras, pueden
+ ser incapaces de germinar porque aún necesitan experimentar una serie de
+ transformaciones fisiológicas (pérdida de sustancias inhibidoras, acumulación
+ de sustancias promotoras, etc).
+ 
+\end_layout
+
+\begin_layout Standard
+Algunas semillas pueden estar fisiológicamente maduras, pero las células
+ del tejido en empalizada de la cubierta seminal pueden ser impermeables
+ al agua, las cubiertas seminales pueden ser duras y comprimir el embrión
+ impidiéndole germinar 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Matilla_2013}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Viabilidad de la semilla
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Es el período de tiempo durante el cual las semillas conservan su capacidad
+ para germinar.
+ Es un período variable y depende del tipo de semilla y de las condiciones
+ de almacenamiento
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 166]{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Existen semillas que mantienen su viabilidad algunos días o meses y otras
+ por muchos años al poseer una cubierta seminal dura y una actividad metabólica
+ lenta 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Factores externos (extrínsecos)
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Humedad
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Para que la semilla recupere su metabolismo es necesario la rehidratación
+ de sus tejidos; por lo que es indispensable la disponibilidad de agua en
+ el medio donde está la semilla, en la cantidad adecuada que permita el
+ flujo a favor de la gradiente de potencial hídrico 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+El exceso de agua en el medio resulta desfavorable, ya que acelera la imbibición
+, lo cual provoca la rápida solubilización de los solutos, azúcares, ácidos
+ orgánicos, aminoácidos y otros compuestos de la semilla; que pueden salir
+ al medio porque las paredes celulares aún no funcionan como membranas semiperme
+ables, más aún si la cubierta seminal está dañada, provocando la disminución
+ de las reservas de la semilla y enriqueciendo el medio con nutrientes que
+ promueven el desarrollo de patógenos 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ Además, según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Garcia_2006"
+
+\end_inset
+
+, el exceso de agua dificulta la llegada de oxígeno al embrión.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Temperatura
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Es un factor decisivo en el proceso de germinación, ya que las reacciones
+ bioquímicas que ocurren en la semilla después de la 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+re
+\end_layout
+
+\end_inset
+
+hidratación están reguladas por enzimas, las cuales actúan dentro de un
+ rango de temperatura, si estas están fuera del rango no ocurre la germinación
+ aunque las otras condiciones sean favorables.
+ El rango de temperatura varía de una especie a otra 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Gases
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Las semillas requieren para la germinación un medio suficientemente aireado
+ que permita la adecuada disponibilidad de 
+\begin_inset Formula $\mathsf{O}{}_{2}$
+\end_inset
+
+ y 
+\begin_inset Formula $\mathsf{CO}{}_{2}$
+\end_inset
+
+, para que el embrión obtenga la energía necesaria para mantener sus actividades
+ metabólicas.
+ La mayoría de las semillas germinan en una atmósfera con 21
+\begin_inset space \thinspace{}
+\end_inset
+
+% de 
+\begin_inset Formula $\mathsf{O}{}_{2}$
+\end_inset
+
+ y 0.03
+\begin_inset space \thinspace{}
+\end_inset
+
+% de 
+\begin_inset Formula $\mathsf{CO}{}_{2}$
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Luz
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, también considera a la luz como un factor que influye en la germinación;
+ ya que afirma que muchas semillas no germinan cuando se colocan en condiciones
+ favorables, pero en la oscuridad; algunas permanecen aletargadas bajo una
+ iluminación continua y otras germinan tanto en la luz como en la oscuridad.
+ Los procesos metabólicos desencadenados por la acción de la luz están gobernado
+s por el fitocromo, pigmento localizado entre el hipocótilo y la radícula.
+\end_layout
+
+\begin_layout Standard
+La inducción del letargo por la luz intensa de alta 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+es con i?
+\end_layout
+
+\end_inset
+
+ irradiación en algunas semillas colocadas sobre la superficie del suelo,
+ evita su germinación en condiciones precarias, al estar expuesto dicho
+ suelo a una rápida desecación superficial.
+ Por otra parte, la necesidad de luz que tienen muchas semillas para romper
+ su letargo, constituye un mecanismo para impedir la germinación a excesiva
+ profundidad en semillas pequeñas con escasas reservas, para evitar que
+ las reservas se agoten antes de que la plántula emerja del suelo 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+La intensidad luminosa óptima para satisfacer los requerimientos de semillas
+ cuya germinación es favorecida por la luz varía entre 750 y 1
+\begin_inset space \thinspace{}
+\end_inset
+
+250 unidades lux 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Tipos de germinación
+\end_layout
+
+\begin_layout Subsubsection
+Germinación epígea
+\end_layout
+
+\begin_layout Standard
+Es cuando los cotiledones emergen del suelo debido a un considerable crecimeinto
+ del hipocotilo (porción comprendida entre la radícula y el punto de inserción
+ de los cotiledones).
+ Posteriormente en los cotiledones se diferencian cloroplastos, transformándolo
+ en un órgano fotosintético, actuando como si fueran hojas.
+ Finalmente comienza el desarrollo del epicotilo (porción del eje comprendida
+ entre el punto de inserción de los cotiledones y las primeras hojas).
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep[p.
+ 178]{Garcia_2006}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+ señala que lo cotiledones al emerger funcionan también como depósito de
+ reservas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Germinación hipógea
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Garcia_2006"
+
+\end_inset
+
+, indica que los cotiledones permanecen enterrados y sólo la plúmula atraviesa
+ el suelo, ya que el hipocotilo es muy corto; posteriormente el epicótilo
+ se alarga, apareciendo las primeras hojas verdaderas, que son, los primeros
+ órganos fotosintetizadores de la plántula.
+\end_layout
+
+\begin_layout Section
+GERMINADOS
+\end_layout
+
+\begin_layout Standard
+Son alimentos que resultan de la germinación de las semillas; conocidos
+ como germinados, brotes o vegetales frescos (plántulas suculentas de ciclo
+ vegetativo corto que va de tres a diez días según la especie) que pueden
+ ser producidos en cualquier temporada y a bajo costo; se caracterizan por
+ presentar propiedades nutricionales superiores a las semillas secas 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Bravo_2013,Barron_2008}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Mazza, 2000; Soleil, 2003; Urbano, 2005; Sangronis, 2007; Dávila, 2003 citados
+ por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_Etal_2011"
+
+\end_inset
+
+ mencionan que son alimentos funcionales, ya que presentan múltiples beneficios
+ nutricionales y terapéuticos que contribuye a la disminución de la desnutrición
+ de infantes, madres gestantes y madres lactantes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+, son plantas cultivadas en interior, utilizadas como alimento y medicina
+ natural.
+ Presentan las siguientes características:
+\end_layout
+
+\begin_layout Itemize
+Tienen alto contenido de agua (70-80
+\begin_inset space ~
+\end_inset
+
+%).
+\end_layout
+
+\begin_layout Itemize
+Las proteínas, minerales y vitaminas del grupo B, D y E se hacen fácilmente
+ asimilables al ser consumidas.
+ Además 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ponce_2013"
+
+\end_inset
+
+ indica que presentan vitamina C.
+\end_layout
+
+\begin_layout Itemize
+Presentan aminoácidos inexistentes en la semilla.
+\end_layout
+
+\begin_layout Itemize
+Sintetizan clorofila si están expuestas a la luz.
+\end_layout
+
+\begin_layout Itemize
+Son de sabor dulce, porque los almidones se transforman en azúcares simples
+ (dextrosa y maltosa).
+\end_layout
+
+\begin_layout Itemize
+No contienen elementos tóxicos y ácidos (ácido fítico, ácido oxálico) presentes
+ en la semilla como defensas naturales, al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Sangronis_2006"
+
+\end_inset
+
+ encontró que en la germinación de 
+\emph on
+Phaseolus vulgaris 
+\emph default
+y 
+\emph on
+Vigna sinensis
+\emph default
+ se degrada los α-galactósidos, responsables de producir flatulencia en
+ algunas personas después del consumo de los granos.
+\end_layout
+
+\begin_layout Itemize
+Presentan ácidos grasos esenciales.
+\end_layout
+
+\begin_layout Subsection
+Ventajas de los germinados
+\end_layout
+
+\begin_layout Standard
+Pásko et al (2009), citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Buenrostro_2016"
+
+\end_inset
+
+, señala: 
+\end_layout
+
+\begin_layout Standard
+La importancia de los germinados radica en que en años recientes ha surgido
+ una nueva forma de nutrición a través del consumo de estos.
+ Siendo considerados como vegetales atípicos e inclusive como alimentos
+ funcionales, debido a su valor nutritivo que incluye un alto contenido
+ de aminoácidos, fibra, elementos traza y vitaminas, así como flavonoides
+ y ácidos fenólicos.
+ (p.
+ 8).
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+, las principales ventajas de los germinados son:
+\end_layout
+
+\begin_layout Itemize
+Son fáciles de digerir al ser consumidas, ya que son alimentos predigeridos;
+ además, mejoran el funcionamiento del sistema digestivo porque sus enzimas
+ ayudan a recuperar la flora intestinal.
+\end_layout
+
+\begin_layout Itemize
+Son alimentos altamente energéticos, debido a que los carbohidratos se convierte
+n en azúcares simples, que al ser consumidas entran directamente al torrente
+ sanguíneo y se transforman en energía.
+\end_layout
+
+\begin_layout Itemize
+Presenta propiedades regeneradoras, rejuvenecedoras y desintoxicantes por
+ su alto contenido en ADN y ARN.
+\end_layout
+
+\begin_layout Itemize
+Proporcionan cantidades importantes de fibra, que según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ lo convierte en un alimento depurador del cuerpo, por eliminar toxinas
+ y residuos que puedan dañar el organismo.
+\end_layout
+
+\begin_layout Itemize
+Incrementan el volumen del alimento, ya que se obtiene gran cantidad de
+ brotes a partir de pocas cucharadas de semillas.
+\end_layout
+
+\begin_layout Itemize
+Permiten ahorrar tiempo y combustible, ya que se consumen crudos y son de
+ fácil preparación.
+\end_layout
+
+\begin_layout Itemize
+Según Soleil (1994) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+, son alimentos de supervivencia en caso de crisis y escasez de comida,
+ ya que con lo que se alimenta una persona con carne se pueden alimentar
+ 20 personas con germinados.
+\end_layout
+
+\begin_layout Subsection
+Consideraciones generales
+\end_layout
+
+\begin_layout Standard
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+, para la producción de germinados se debe tomar en cuenta los siguientes
+ consideraciones:
+\end_layout
+
+\begin_layout Itemize
+Existen varios métodos para producir germinados, el cual depende de muchos
+ factores entre ellos si es para para producciones masivas o domésticas,
+ en esta última el método del frasco es el más generalizado.
+\end_layout
+
+\begin_layout Itemize
+El agua utilizada debe ser potable, para evitar la contaminación con ciertos
+ patógenos (principalmente 
+\emph on
+Salmonella
+\emph default
+ spp y 
+\emph on
+Escherichia coli
+\emph default
+); además, las semillas deben ser previamente desinfectadas.
+\end_layout
+
+\begin_layout Itemize
+Las semillas de la familia de las Solanáceas, al ser germinados aparentemente
+ presentan componentes tóxicos para los seres humanos, por lo que no se
+ recomienda su consumo.
+ 
+\end_layout
+
+\begin_layout Itemize
+Dávila et al.
+ (2003) y Pamplona Roger (1999) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ponce_2013"
+
+\end_inset
+
+, indican que la temperatura, oxígeno, luz y humedad determinan el desarrollo
+ del olor y sabor de los germinados.
+\end_layout
+
+\begin_layout Itemize
+El momento adecuado para consumir los germinados depende de su contenido
+ nutricional y de las preferencias del consumidor; así, los germinados pueden
+ consumirse cuando la radícula tiene el mismo tamaño de la semilla o cuando
+ empieza a desarrollarse la plántula.
+\end_layout
+
+\begin_layout Itemize
+La mayoría de los germinados pueden ser agregados a los alimentos para ser
+ consumidas, sin embargo, aquellas que tienen un fibra difícil de digerir
+ como el trigo, maíz, cebada pueden ser utilizadas extrayendo su clorofila,
+ para lo cual la disponibilidad de luz es indispensable.
+\end_layout
+
+\begin_layout Itemize
+El tiempo de conservación de los germinados en condiciones de refrigeración
+ oscila entre 5 y 15 días, si permanecen por más tiempo tienden a ponerse
+ amargos.
+\end_layout
+
+\begin_layout Section
+ANÁLISIS DE SEMILLAS
+\end_layout
+
+\begin_layout Standard
+El objetivo de los análisis de semillas es determinar las características
+ de calidad de un lote de semillas 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Besnier_1989}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Una semilla de calidad, es una semilla altamente viable, capaz de desarrollar
+ una plántula normal aún en condiciones desfavorables 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ Sanchez (2004) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bustamante_2010"
+
+\end_inset
+
+ lo define como el conjunto de sus atributos que involucran cuatro factores:
+ genético (genotipo), físico (aspecto general), fisiológico (germinación,
+ vigor) y sanitario (carencia de enfermedades transmisibles).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Según Thomson (1979) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+, los principales parámetros que determinan la calidad de la semilla son
+ la pureza físico-botánica, pureza genética, poder germinativo, vigor de
+ las semillas, dormición, homogeneidad del lote, estado fitosanitario y
+ contenido de humedad.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Toma de muestras
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+ señala que el análisis de semilla se realiza en una pequeña muestra del
+ lote total de semillas, debiendo ser representativa para que refleje las
+ cualidades del lote total, por lo que deben ser extraídas correctamente
+ y al azar; para lo cual, las semillas deben estar acondicionados en bolsas
+ u otros envases etiquetados, de donde se debe tomar una muestra al azar
+ en el centro, en la base y en los bordes de los envases y finalmente las
+ submuestras obtenidas deben mezclarse, para obtener una muestra representativa,
+ los cuales deben disponerse en bolsas de tela o papel, previamente identificado
+s.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Análisis de autenticidad de género y especie
+\end_layout
+
+\begin_layout Plain Layout
+Se realiza para determinar el género y especie al que pertenecen las semillas
+ evaluadas, mediante la comparación de caracteres morfológicos con semillas
+ de referencia; en semillas de difícil clasificación la comparación se hace
+ a nivel de plántulas y plantas o mediante parámetros fisiológicos y citológicos
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Análisis de pureza
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+, se realiza con la finalidad de establecer la composición en peso de la
+ muestra pura, al identificar semillas puras (semillas de la especie analizada),
+ semillas extrañas (semillas distintas a la semilla pura) y materia inerte
+ (tierra, piedra, semillas puras de tamaño inferior a la mitad del tamaño
+ normal, restos vegetales y animales).
+ Para lo cual, la muestra de semilla se coloca sobre una superficie plana
+ y luego se separan los componentes mencionados con la ayuda de una pinza,
+ posteriormente se obtiene el peso de cada fracción y se calcula el porcentaje
+ que representa.
+\end_layout
+
+\begin_layout Standard
+Para facilitar el trabajo se pueden utilizar zarandas, 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+diafanoscopio,
+\end_layout
+
+\end_inset
+
+ cernidores y aparatos sopladores (separan materiales livianos) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Cuando la proporción de una especie cultivada ajena a la declarada supera
+ el 5
+\begin_inset space ~
+\end_inset
+
+% en peso, la muestra se considera mezcla.
+ Asimismo el porcentaje se obtiene de la suma de los pesos de todas las
+ fracciones, el cual no debe ser mayor o menor al 5
+\begin_inset space ~
+\end_inset
+
+%, y si lo fuera se debe repetir la prueba 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Análisis del poder germinativo (viabilidad)
+\end_layout
+
+\begin_layout Standard
+La primera expresión visible del proceso germinativo es la emisión de la
+ radícula, etapa suficiente para analizar la germinación en investigaciones
+ básicas; sin embargo, en análisis más específicos es necesario, el desarrollo
+ de una plántula con sus estructuras esenciales, que indiquen su capacidad
+ para originar una planta normal, cuando se le brinda condiciones favorables,
+ por lo tanto permite determinar la máxima capacidad de siembra 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+, de acuerdo con las normas que propone el ISTA (1992), señala que en el
+ análisis en laboratorio se deben considerar los siguientes aspectos:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Sustrato
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Constituye el lecho germinativo sobre el cual se disponen las semillas,
+ para proporcionarles la humedad que necesitan para su germinación.
+ Se pueden utilizar papel de filtro, papel toalla, algodón, arena o suelo;
+ los cuales deben estar libres de contaminantes (agentes patógenos, semillas
+ extrañas, sustancias químicas).
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Humedad y aireación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+El agua a utilizar para humedecer el sustrato debe ser lo más pura posible
+ (sin impurezas y de pH neutro), pudiéndose utilizar agua destilada o agua
+ desmineralizada; las cuales no debe ser tan abundantes como para que se
+ forme una película de agua alrededor de cada semilla.
+ Asimismo, en los recipientes empleados se debe asegurar la disponibilidad
+ de oxígeno, por lo que no deben estar herméticamente cerrados, tampoco
+ muy expuestos ya que se debe asegurar una atmósfera saturada de vapor de
+ agua.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Temperatura
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Influye en la velocidad de germinación, si no se conocen las temperaturas
+ óptimas para una determinada especie, se puede seguir el ciclo diurno experimen
+tado por la especie en su área de distribución 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Poulsen_xx}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Iluminación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La fuente de luz puede ser natural o artificial, la cual debe incidir con
+ la misma intensidad sobre todos los sustratos y no debe modificar su temperatur
+a.
+ En el caso de fuentes artificiales se aconseja el empleo de lámparas fluorescen
+tes, blancas y frías, pues su emisión espectral es débil en el infrarojo
+ y elevada en la región del rojo, que favorece la germinación.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+ la luz solar es rica en longitudes de onda entre los 500 y los 650
+\begin_inset space ~
+\end_inset
+
+nm, 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Para llevar a cabo la prueba se utilizan 400 semillas de la fracción semilla
+ pura, las cuales se distribuyen en 4 repeticiones de 100 semillas en el
+ sustrato previamente humedecido, posteriormente son ubicados en estufas,
+ mesas germinadoras, cámaras germinadoras, etc.
+ Para la evaluación se realiza la lectura de las plántulas normales (plántulas
+ con buen desarrollo del sistema radicular y del eje embrionario), de plántulas
+ anormales (plántulas con ausencia o defectos en el crecimiento radicular
+ y eje embrionario), de semillas duras (semillas que al finalizar el período
+ de evaluación permaneces duras como en el inicio, por la impermeabilidad
+ de  las cubiertas), de semillas frescas no germinadas (semillas hinchadas
+ que no germinan ni se pudren por estar en dormición) y de semillas muertas
+ (semillas no viables que se hinchan pero terminan descomponiéndose por
+ putrefacción).
+ Finalmente, el poder germinativo corresponde solamente al porcentaje de
+ plántulas normales.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Peretti_1994}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+ señala que para determinar si el análisis realizado en las distintas repeticion
+es está correcto, estas deben ser comparadas verificando que sus diferencias
+ no excedan las tolerancias máximas permitidas.
+ articula con anexo.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Diferencias máximas admitidas entre los promedios de los valores registrados
+ en la germinación, para diferentes repeticiones de un mismo ensayo.
+ (Tomado de International Seed Testing Association, 1985 citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="9" columns="4">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Promedios de los porcentajes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Desviación máxima
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Promedios de los porcentajes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Desviación máxima
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+99
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+87 a88
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+98
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+84 a 86
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+97
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+81 a 83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+96
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+78 a 80
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+95
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+73 a 77
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+93 a 94
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+67 a 72
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+91 a 92
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+56 a 66
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+19
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+89 a 90
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+51 a 55
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, Las plántulas anormales son a consecuencia de roturas cromosómicas a las
+ mutaciones o cambios en las bases nitrogenadas .
+ La reparación de roturas se hace por medio de la enzima ligasa del ADN
+ y el cambio de bases alteradas por medio de enzimas glicolasas que separan
+ estas bases y luego colocan en este lugar el fragmento cromosómico correcto.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Determinación del valor cultural o valor real
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+ indica que es la cantidad de semillas puras capaces de germinar, el cual
+ se puede calcular de la siguiente manera:
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Formula $VC=\frac{pureza\,(\%)\times poder\, germinativo\,(\%)}{100}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Determinación del peso absoluto
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+, es el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas de la fracción semilla pura (importante para el cálculo de
+ la densidad de siembra), la cual puede ser pesada en su totalidad o separándolo
+ en ocho repeticiones de 100 semillas, en este caso se pesa cada repetición
+ y se calcula la varianza, desviación típica y el coeficiente de variación,
+ está última no debe ser mayor a 4; luego se calcula el peso absoluto y
+ se extrapola al peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Alfaro_2013"
+
+\end_inset
+
+, para determinar el peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas, pesó inicialmente 100 semillas y luego lo extrapoló al peso
+ de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Determinación del contenido de humedad
+\end_layout
+
+\begin_layout Plain Layout
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Besnier_1989"
+
+\end_inset
+
+, se determina mediante la pérdida de peso de una muestra sometida a desecación
+ en estufa, para lo cual los recipientes con la muestra se pesan y se colocan
+ en la estufa a una temperatura de 130 a 133°C durante una hora, para el
+ caso de cereales durante dos horas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Determinación de la densidad de siembra
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Análisis de vigor
+\end_layout
+
+\begin_layout Plain Layout
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+, es la potencialidad de las semillas para producir plántulas normales bajo
+ una amplia gama de condiciones.
+ Este análisis se realiza debido a que en el campo las condiciones ambientales
+ no son necesariamente las óptimas, y el análisis de germinación que es
+ el criterio más aceptado para estudiar la viabilidad de las semillas, muchas
+ veces no reproduce sus resultados a nivel de campo, ya que da como resultado
+ una producción de plántulas menores a los registrados en el laboratorio.
+ El análisis de vigor se puede realizar sometiendo a las semillas a condiciones
+ de estrés debido a bajas temperaturas, patógenos, falta de agua y también
+ determinando la velocidad de germinación y crecimiento de plántulas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+EVALUACIÓN SENSORIAL
+\end_layout
+
+\begin_layout Standard
+Son atributos de los alimentos (color, olor, aroma, gusto, sabor y textura)
+ detectados por los sentidos (vista, olfato, gusto, tacto y oído) para medir
+ la aceptabilidad de los productos alimentarios 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Anzaldua_2005}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection
+Pruebas sensoriales
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hernandez_2005"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+ indican que pueden ser afectivas o analíticas, las primeras son pruebas
+ orientadas al consumidor real o potencial, representativos de la población
+ al que va dirigido el producto, son elegidos al azar y permiten conocer
+ la aceptación, preferencia y nivel de agrado del producto evaluado; para
+ ello, se utilizan escalas hedónicas que pueden variar de 5-11 puntos; mientras
+ que las pruebas analíticas están dirigidas al producto para el control
+ de calidad y desarrollo de nuevos productos; los cuales son evaluadas por
+ jueces expertos o entrenados.
+\end_layout
+
+\begin_layout Subsection
+Condiciones de prueba
+\end_layout
+
+\begin_layout Subsubsection
+Juez
+\end_layout
+
+\begin_layout Standard
+Son las personas que realizan las degustaciones, según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+, los jueces deben conocer el producto a ser evaluado, no intercambiar opiniones
+ durante la prueba y utilizar agente enjuagante (agua, tajadas de manzana,
+ pan o galletas sin sabor específico acentuado) antes de iniciar la degustación
+ para limpiar el paladar y entre una degustación y la otra para eliminar
+ el sabor residual.
+\end_layout
+
+\begin_layout Subsubsection
+Muestra
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+, deben ser representativas y presentadas de manera uniforme a todos los
+ jueces, con codificación de tres o cuatro dígitos tomadas de tablas de
+ números aleatorios, que deben ser diferentes para cada juez, así como el
+ orden de degustación para evitar errores por contraste y convergencia;
+ la cantidad debe ser suficiente para ser evaluada, servidas en utensilios
+ uniformes que no suministren olores ni sabores extraños a las muestras
+ y a la temperatura en que se consumen normalmente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts_1992"
+
+\end_inset
+
+ manifiestan que en el caso de alimentos que no se consumen solos se utilizan
+ diluyentes o vehículos que acompañan al producto evaluado, indican también
+ que se pueden utilizar muestras de referencia contra las cuales se realizan
+ las comparaciones de las muestras de prueba.
+\end_layout
+
+\begin_layout Standard
+Si se tienen que evaluar muchas muestras y/o tienen un sabor fuerte, se
+ debe prolongar el tiempo entre muestras o limitar la prueba hasta cinco
+ muestras por sesión 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Anzaldua_2005,Watts_1992}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Ambiente
+\end_layout
+
+\begin_layout Standard
+El ambiente de evaluación debe ser de colores claros y lisos, tener una
+ iluminación uniforme, sin ruidos, con temperatura de 20-22°C y humedad
+ relativa de 60-70
+\begin_inset space \thinspace{}
+\end_inset
+
+%.
+ El área de preparación de las muestras con el área de evaluación deben
+ ser colindantes pero independientes para evitar el paso de olores, ruidos,
+ etc.; además, las cabinas deben ser individuales 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Espinosa_2007}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Horario y ficha de evaluación
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Espinosa_2007"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hernandez_2005"
+
+\end_inset
+
+ recomiendan horarios entre 9 y 12 de la mañana y entre 3 y 5 en la tarde,
+ en lo posible no considerar los días lunes y viernes ya que puede haber
+ afectaciones de carácter psíquico; además, mencionan que las fichas no
+ deben ser extensas para no cansar a los jueces.
+\end_layout
+
+\begin_layout Section
+QUINUA
+\end_layout
+
+\begin_layout Standard
+Según Cárdenas (1944) y Mujica (1992) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, la quinua ha sido descrita por primera vez en sus aspectos botánicos por
+ Willdenow en 1778, como una especie nativa de Sudamérica, cuyo centro de
+ origen, según Buskasov se encuentra en los Andes de Bolivia y Perú; consideránd
+ose las orillas del Lago Titicaca como la zona de mayor diversidad y variación
+ genética.
+\end_layout
+
+\begin_layout Subsection
+Clasificación taxonómica
+\end_layout
+
+\begin_layout Standard
+Según Cronquist (1995) y Wilson (1980) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, se clasifica en la división Magnoliophyta, clase Magnoliopsida, subclase
+ Caryophyllidae, orden Caryophyllales, familia Chenopodiaceae, género Chenopodiu
+m y especie 
+\emph on
+Chenopodium quinoa
+\emph default
+ Willd.
+\end_layout
+
+\begin_layout Subsection
+Importancia
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+, producción y consumo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Valencia (2003) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valenzuela_col_2015"
+
+\end_inset
+
+, señala que el verdadero valor de la quinua se encuentra en la calidad
+ de su proteína, por la presencia de aminoácidos esenciales (ocho de los
+ 16 son considerados esenciales para niños y para adultos), principalmente
+ lisina (más abundante), metionina, treonina y triptófano; además, por que
+ su contenido de proteínas es superior a los alimentos de consumo masivo
+ como el trigo, arroz y maíz, que además según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ son deficientes en aminoácidos; asimismo, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Silvina_2013"
+
+\end_inset
+
+ señalan que no contiene gluten.
+\end_layout
+
+\begin_layout Standard
+Mujica (2001) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ manifiestan que existe demanda en el mercado nacional e internacional por
+ la quinua con calidad industrial, es decir de grano grande (cercano o mayor
+ a los 2
+\begin_inset space \thinspace{}
+\end_inset
+
+mm), blanco y de bajo contenido de saponina.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ señala que la quinua constituye un potencial económico, ya que puede ser
+ utilizado en la industria alimentaria, química, farmacéutica y cosmética;
+ por lo que en los últimos años se están incrementando las investigaciones
+ para el desarrollo de productos combinados que hagan atractivo el consumo
+ de quinua.
+ Al respecto 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ considera a la quinua como una especie multipropósito porque presenta distintas
+ posibilidades productivas por constituir una fuente de proteínas, aminoácidos
+ esenciales, minerales, flavonoides, pigmentos, saponinas y almidón; por
+ lo que no solo debe considerarse la producción de granos, sino también
+ el desarrollo de valor agregado; además señala que la producción de grano
+ a nivel mundial está creciendo, lo cual con el tiempo podría ocasionar
+ la caída de los precios.
+\end_layout
+
+\begin_layout Subsection
+Producción
+\end_layout
+
+\begin_layout Standard
+Según la 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "DRAA_2016"
+
+\end_inset
+
+, la producción de quinua para el año 2015 en la región Ayacucho fue de
+ 14
+\begin_inset space \thinspace{}
+\end_inset
+
+630
+\begin_inset space \thinspace{}
+\end_inset
+
+t con un rendimiento de 
+\begin_inset Formula $\unitfrac[1.41]{t}{ha}$
+\end_inset
+
+, siendo Huamanga la provinvia que presentó mayor producción con 9
+\begin_inset space \thinspace{}
+\end_inset
+
+836
+\begin_inset space \thinspace{}
+\end_inset
+
+t y un rendimiento de 
+\begin_inset Formula $\unitfrac[1.59]{t}{ha}$
+\end_inset
+
+ dentro de ella el distrito con mayor producción fue Acocro con 3
+\begin_inset space \thinspace{}
+\end_inset
+
+918
+\begin_inset space \thinspace{}
+\end_inset
+
+t y 
+\begin_inset Formula $\unitfrac[1.95]{t}{ha}$
+\end_inset
+
+ de rendimiento.
+\end_layout
+
+\begin_layout Subsection
+Morfología
+\end_layout
+
+\begin_layout Subsubsection
+Inflorescencia
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gomez_2016"
+
+\end_inset
+
+, la inflorescencia es una panoja que se ubica generalmente en el ápice
+ de la planta y de las ramas, cuya longitud varía entre 15 y 70
+\begin_inset space \thinspace{}
+\end_inset
+
+cm y se caracterizan por presentar un eje principal del cual se originan
+ los ejes secundarios y en algunos casos terciarios; de acuerdo a la posición
+ de los glomérulos (grupos de flores) sobre los ejes y a la forma que adquieren
+ se clasifican en: amarantiformes (glomérulos ubicados en el eje secundario
+ y son de forma rectangular), glomerulatas (glomérulos ubicados en el eje
+ terciario de forma redondeada) e intermedias (entre amarantiforme y glomerulata
+); asimismo señalan que la longitud de los ejes secundarios y terciarios
+ determina si la inflorescencia es laxa, intermedia o compacta; lo cual
+ está asociada al tamaño de los granos, siendo los más pequeños los formados
+ en panojas compactas.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Flor
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gomez_2016"
+
+\end_inset
+
+ indican que las flores son sésiles o pediceladas y que pueden ser hermafroditas
+ (de 3-5
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de diámetro) y pistiladas (de 2-3
+\begin_inset space \thinspace{}
+\end_inset
+
+mm de diámetro); 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(planta ginomonoica)
+\end_layout
+
+\end_inset
+
+ las flores hermafroditas se caracterizan por estar ubicadas en el ápice
+ del glomérulo y presentar cinco tépalos, cinco anteras y un ovario súpero
+ con dos o tres ramificaciones estigmáticas; mientras que las pistiladas
+ se caracterizan por estar ubicadas alrededor y debajo de las flores hermafrodit
+as y se diferencian de estas por carecer de anteras; además señalan que
+ algunas variedades presentan esterilidad masculina y que la quinua es considera
+da autógama con 17
+\begin_inset space \thinspace{}
+\end_inset
+
+% de cruzamiento aproximadamente.
+\end_layout
+
+\begin_layout Standard
+Heisser y Nelson (1974), Mujica (1992) y Lescano (1994) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ señalan que las flores permanecen abiertas por un período que varía entre
+ cinco y siete días; sin embargo, estas no se abren simultáneamente por
+ lo que se considera que el tiempo de floración varía entre 12 y 15 días.
+\end_layout
+
+\begin_layout Subsubsection
+Fruto
+\end_layout
+
+\begin_layout Standard
+Miranda (2010) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ señalan que el fruto es un aquenio indehiscente que contiene una semilla
+ y está protegido por el perigonio; el cual según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ se desprende con facilidad en la madurez.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Burrieza_2013"
+
+\end_inset
+
+ indica que al igual que los cereales, la semilla de quinua se disemina
+ dentro del fruto, por lo que lo denomina como grano.
+ Además señala que el pericarpio es una estructura delgada 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+y papirácea
+\end_layout
+
+\end_inset
+
+ fácilmente separable de la semilla.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Semilla
+\end_layout
+
+\begin_layout Standard
+De acuerdo con 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Jimenez_2013"
+
+\end_inset
+
+, la semilla de quinua es el fruto maduro sin el perigonio, constituida
+ por el epispermo, embrión, perispemo y endospermo; el epispermo está formado
+ por cuatro capas, en la cual se encuentra la saponina cuya adherencia a
+ la semilla es variable con los genotipos; el embrión es periférico y está
+ formado por dos cotiledones (excepcionalmente tres) y la radícula, los
+ cuales envuelven al perispermo como un anillo con una curvatura de 320
+ grados, representa entre 30 y 34
+\begin_inset space \thinspace{}
+\end_inset
+
+% del volumen total de la semilla y contiene entre 35 y 40
+\begin_inset space \thinspace{}
+\end_inset
+
+% de proteína; el perispermo representa el 60
+\begin_inset space \thinspace{}
+\end_inset
+
+% del volumen total de la semilla y contiene entre 6.3 y 8.3
+\begin_inset space \thinspace{}
+\end_inset
+
+% de proteína; el endospermo según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopez_2014"
+
+\end_inset
+
+ persiste en la madurez, pero está reducido a un cono micropilar de uno
+ a dos capas de células que cubren la radícula, en la que se acumulan proteínas,
+ lípidos y minerales que son consumidas por el embrión durante su desarrollo
+ y germinación; asimismo señala que las diferentes reservas de la semilla
+ madura, se almacenan en en el perispermo, embrión y endospermo; siendo
+ el perispermo el principal tejido de reserva.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+ la primera capa del episperma define el color de la semilla.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Medina_2013"
+
+\end_inset
+
+, definen a la semilla de quinua como amilácea por el alto contenido de
+ carbohidratos que presenta, que es aproximadamente de 65.65
+\begin_inset space \thinspace{}
+\end_inset
+
+%.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopez_2014"
+
+\end_inset
+
+, estas semillas sintetizan almidón como su principal compuesto de reserva;
+ al respecto Lindeboom (2005) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bedon_2013"
+
+\end_inset
+
+, indica que el almidón representa aproximadamente el 55
+\begin_inset space \thinspace{}
+\end_inset
+
+% del peso total de la semilla y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Medina_2013"
+
+\end_inset
+
+ mencionan que el tamaño promedio de los gránulos de almidón es de 1.5
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Formula $\mu m$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Prego et al.
+ (1998) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Burrieza_2013"
+
+\end_inset
+
+, reconocen la existencia de tres áreas de reserva en las semillas: el perisperm
+o predominante y central, el embrión periférico medio y el endospermo.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopez_2014"
+
+\end_inset
+
+ señala que el perispermo (formado por células muertas) es el principal
+ tejido reservante, ya que almacena almidón (principal reserva), la cual
+ es consumida durante la germinación; además señala que durante el desarrollo
+ de la plántula los tegumentos son los que sintetizan almidón en los cloroplasto
+s.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Jimenez_2013"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SESAN_2013"
+
+\end_inset
+
+ señalan que el perispermo representa el 60
+\begin_inset space ~
+\end_inset
+
+% del volumen total de la semilla, mientras que el embrión (formado por
+ dos cotiledones y la radícula) constituye el 30%, el cual envuelve al perisperm
+a como un anillo, con una curvatura de 320 grados; además almacena la mayor
+ cantidad de proteína que alcanza del 35-40
+\begin_inset space ~
+\end_inset
+
+%, mientras que en el perisperma solo del 6.3 al 8.3
+\begin_inset space ~
+\end_inset
+
+% de la proteína total del grano.
+ El endosperma rodea completamente al embrión y es consumida rápidamente
+ por esta durante su crecimiento después de que la semilla se hidrata.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Miranda (2010) citado por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dizes_1992"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rev_Gonzalez_2013"
+
+\end_inset
+
+ señalan que de acuerdo al tamaño de la semilla estas se clasifican en muy
+ grandes (mayor de 2.20
+\begin_inset space \thinspace{}
+\end_inset
+
+mm), grandes (entre 1,76 y 2,20
+\begin_inset space \thinspace{}
+\end_inset
+
+mm), medianos (entre 1,36 y 1,75
+\begin_inset space \thinspace{}
+\end_inset
+
+mm) y pequeños (menor de 1,35
+\begin_inset space \thinspace{}
+\end_inset
+
+mm), los cuales pueden ser de color blanco, amarillo, rosado, cafe, negro,
+ púrpura y de forma cónica, cilíndrica o elipsoidal.
+\end_layout
+
+\begin_layout Standard
+El perisperma de quinua y el endosperma de cereales son tejidos genéticamente
+ diferentes, aunque morfológica y funcionalmente similares 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Lopez_2014}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Germinación
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+El almidón del perisperma se consume durante la germinación de la semilla
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Boero_2000"
+
+\end_inset
+
+, manifiesta que es imprescindible la necesidad de utilizar un elevado número
+ de semillas de quinua durante la siembra, ya que sólo se logra una supervivenci
+a del 10-15%.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Desinfección de las semillas 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bedon_2013"
+
+\end_inset
+
+, para desinfectar semillas de quinua 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+var.
+ hualhuas blanca, 
+\end_layout
+
+\end_inset
+
+ utilizó hipoclorito de sodio al 1
+\begin_inset space \thinspace{}
+\end_inset
+
+%, donde las remojo durante cinco minutos, luego lo sometió a un lavado;
+ mientras que 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Boero_2000"
+
+\end_inset
+
+ las esterilizó durante dos minutos en hipoclorito de sodio al 2
+\begin_inset space \thinspace{}
+\end_inset
+
+%.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+y luego colocó las semillas sobre papeles de filtro humedecidos con agua
+ destilada.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Evaluación de la germinación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Boero_2000"
+
+\end_inset
+
+, considera que las semillas de quinua han germinado cuando tienen una radícula
+ mayor o igual a 2
+\begin_inset space ~
+\end_inset
+
+mm y que las semillas con germinación anormal sólo emiten los cotiledones
+ o el hipocótilo; además manifiesta que el registro de germinación debe
+ realizarse cada dos horas durante 12 horas, ya que la germinanción tiende
+ a estabilizarse en este tiempo por que la mayoría de las semillas germinan.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Temperatura
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Boero_2000"
+
+\end_inset
+
+ afirma que la temperatura óptima de germinación oscila entre 20 y 30°C
+ y que las temperaturas fuera de este rango provocan la disminución en la
+ germinación y un aumento en el número de semillas con germinación anormal,
+ aunque estas respuestas también dependen de las variedades de quinua.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Itemize
+
+\series bold
+Humedad
+\end_layout
+
+\begin_deeper
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+, señalan que la humedad requerida para que se active el proceso de crecimiento
+ y desarrollo de la semilla debe estar entre 40 y 45
+\begin_inset space ~
+\end_inset
+
+% y a una temperatura entre 20-24°C.
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Germinados de quinua
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Lavado y remojo 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ señalan que las semillas deben ser lavadas en agua potable y remojadas
+ durante seis horas a una temperatura de 30°C, después del cual también
+ deben ser lavadas con agua potable y luego ubicadas sobre bandejas plásticas
+ acanaladas, previamente limpias y desinfectadas, añadiendo agua por aspersión
+ cada 12 horas; asimismo, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ indican que las semillas luego del remojo deben ser colocadas en bandejas,
+ procurando que la capa a formar no tenga mucha altura, para facilitar la
+ difusión del oxígeno; luego se debe cubrir con una tela húmeda para mantener
+ la humedad.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Tiempo de germinación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ señalan que el tiempo total de germinación está determinado por las transformac
+iones bioquímicas del almidón en azúcares sencillos (por las enzimas amilazas)
+ y por el crecimiento de la radícula hasta uno o dos centímetros; así, determina
+ron que para la quinua Blanca de Junín es a las 24 horas con una longitud
+ de radícula entre 1.0 y 1.5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm con disminución del 21
+\begin_inset space \thinspace{}
+\end_inset
+
+% de almidón.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+ indica que el tiempo adecuado para el consumo de germinados de quinua es
+ a los dos a tres días de germinación (después de cuatro a cinco horas de
+ remojo), cuando la radícula tiene el mismo tamaño de la semilla, aunque
+ se puede dejar crecer unos días más.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Contenido nutricional
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análisis proximal, contenido de minerales y vitaminas de granos de quinua
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+) sin germinar y germinada 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ y de quinua (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+) germinada 
+\end_layout
+
+\end_inset
+
+durante 24 horas.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="11" columns="3">
+<features rotate="0" booktabs="true" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Contenido nutricional
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Quinua sin germinar
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Quinua germinada
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Humedad (%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10.17
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.94
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Grasa (%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7.83
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.10
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ceniza (%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.05
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.50
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Proteína (%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12.94
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13.09
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fibra total (%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.58
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.68
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Hierro (mg%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.56
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Calcio (mg%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+85.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+405.44
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fósforo (mg%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+178.1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+39.86
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Niacina (mg%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.95
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.24
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ácido arscórbico (mg%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.74
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.20
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+fuente{
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ (p.
+ 58, 59)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{3.5pt}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_2010"
+
+\end_inset
+
+ mencionan que la germinación en condiciones de oscuridad total a una humedad
+ relativa entre 55 y 83
+\begin_inset space \thinspace{}
+\end_inset
+
+% y una temperatura entre 19 y 28°C, genera un incremento significativo
+ en la digestibilidad de las proteínas (proteína asimilable); 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+pasando de 79.40
+\begin_inset space ~
+\end_inset
+
+% a 90.35
+\begin_inset space ~
+\end_inset
+
+% cuando esta presentaron entre 70-80% de germinación
+\end_layout
+
+\end_inset
+
+asimismo, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chaparro_Etal_2011"
+
+\end_inset
+
+ señalan que bajo estas mismas condiciones el contenido de hierro disponible
+ tiende a disminuir a medida que avanza el proceso de germinación, mientras
+ que el contenido de calcio se incrementa significativamente.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Jimenez_2012"
+
+\end_inset
+
+, menciona que la quinua roja Pasankalla germinada presenta baja cantidad
+ de grasa, alta cantidad de energía total y proteína, esta última con mayor
+ aporte de aminoácidos esenciales (lisina, prolina, fenilalanina, triptófano
+ y alanina); además, señala que el contenido de potasio, calcio, magnesio,
+ sodio, hierro, cobre, manganeso y zinc incrementan su contenido en mas
+ del 100
+\begin_inset space \thinspace{}
+\end_inset
+
+% a diferencia de la quinua sin germinar.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bedon_2013"
+
+\end_inset
+
+, reportan en quinua var.
+ Hualhuas Blanca que la 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-amilasa tiene mayor actividad enzimática a las 36 horas de germinación
+ en condiciones de 22°C de temperatura, 83
+\begin_inset space \thinspace{}
+\end_inset
+
+% de humedad relativa y en cámara oscura; además, mencionan que esta enzima
+ presenta una progresiva aparición entre 0 y 36 horas y un descenso entre
+ 42 y 72 horas.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Usos
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Según Araya y col.
+ (1989) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+, los germinados de quinua pueden ser utilizados para incrementar la densidad
+ energética en las preparaciones para niños como las papillas; asimismo,
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Botero_2015"
+
+\end_inset
+
+ señala que pueden ser utilizados en ensaladas, sándwiches, sopas, batidos,
+ jugos y según 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chancusig_2013"
+
+\end_inset
+
+ para enriquecer la calidad de fideos.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Conservación
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+El tiempo que se puede conservar en refrigeración es de 8-15 días 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+citep{Botero_2015}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Contenido de saponina
+\end_layout
+
+\begin_layout Standard
+De acuerdo con el Instituto Boliviano de Normalización y Calidad (2007),
+ Guglu-Ustundag et al.
+ (2007) y Zavaleta (1993) citados por 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FAO_2011"
+
+\end_inset
+
+, señala que el contenido de saponina en la quinua varía entre 0.1 y 5
+\begin_inset space ~
+\end_inset
+
+%; al respecto
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, el contenido de saponinas en quinua varía entre 0 y 4
+\begin_inset space \thinspace{}
+\end_inset
+
+%, siendo 0.12
+\begin_inset space \thinspace{}
+\end_inset
+
+% el nivel más alto aceptable para el consumo humano (por debajo del cual
+ son considerados dulces)
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ y por encima se categorizan como amargas
+\end_layout
+
+\end_inset
+
+; asimismo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+ señalan que el valor referencial de comercialización debe ser de 0.06
+\begin_inset space \thinspace{}
+\end_inset
+
+%.
+\end_layout
+
+\begin_layout Standard
+Las saponinas de la quinua son eliminadas principalmente por vía húmeda
+ mediante el lavado con agua hasta que no forme espuma, este método demanda
+ grandes volúmenes de agua y energía por lo que 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, desarrollaron un método de escarificación por vía seca a nivel industrial,
+ demostrando que presenta buenos resultados.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Según Villacorta (1976) y Jiménes et al.
+ (2010) citados por 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+, las saponinas se encuentran en la primera capa del episperma que pueden
+ ser eliminados por vía húmeda mediante lavado con agua; así 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bravo_2013"
+
+\end_inset
+
+ recomiendan el lavado, friccionando los granos entre las manos hasta que
+ no se forme espuma; sin embargo, por la gran demanda de agua y energía
+ con este método 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quiroga_2010"
+
+\end_inset
+
+ desarrollaron un método de escarificación por vía seca a nivel industrial
+ con buenos resultados.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Huanca_col_2013"
+
+\end_inset
+
+ señalan que después del lavado se diferencia únicamente tres colores: blanco,
+ rojo y negro.
+\end_layout
+
+\end_body
+\end_document

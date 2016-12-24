@@ -87,11 +87,10 @@ UBICACIÓN
 \end_layout
 
 \begin_layout Standard
-La presente investigación se realizó en el Laboratorio de Genética y Biotecnolog
-ía Vegetal y en el Laboratorio de Fruticultura y Manejo Postcosecha de la
- Escuela de Formación Profesional de Agronomía de la Universidad Nacional
- de San Cristóbal de Huamanga, ubicado en la región de Ayacucho, provincia
- de Huamanga, distrito de Ayacucho.
+El presente trabajo de investigación se realizó en el Laboratorio de Genética
+ y Biotecnología Vegetal de la Escuela Profesional de Agronomía de la Universida
+d Nacional de San Cristóbal de Huamanga, ubicado en el distrito Ayacucho,
+ provincia Huamanga y región Ayacucho.
 \end_layout
 
 \begin_layout Section
@@ -99,36 +98,8 @@ MATERIAL GENÉTICO EMPLEADO
 \end_layout
 
 \begin_layout Standard
-Se utilizaron 95 accesiones de quinua del Germoplasma del Laboratorio de
- Genética y Biotecnología Vegetal regeneradas el año 2
-\begin_inset space ~
-\end_inset
-
-013 y semillas de variedades comerciales (Roja Pasankalla, Blanca de Junín
- y Amarilla de Maranganí).
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-obtenidas en el campo de agricultores de Santa Bárbara-Tambillo en la campaña
- 2
-\begin_inset space ~
-\end_inset
-
-015.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 2cm
-\end_inset
-
-
+Se utilizaron 98 accesiones de quinua del Banco de Germoplasma del Laboratorio
+ de Genética y Biotecnología Vegetal.
 \end_layout
 
 \begin_layout Section
@@ -136,20 +107,7 @@ METODOLOGÍA EXPERIMENTAL
 \end_layout
 
 \begin_layout Subsection
-Variables en estudio
-\end_layout
-
-\begin_layout Subsubsection
-Variables intervinientes 
-\end_layout
-
-\begin_layout Standard
-Fueron los procedimientos y condiciones de laboratorio para las tres fases
- en estudio.
-\end_layout
-
-\begin_layout Subsubsection
-Variables independientes 
+Variables y factores en estudio
 \end_layout
 
 \begin_layout Enumerate
@@ -163,18 +121,21 @@ Fase de selección
 
 \series bold
 Accesiones de quinua: 
-\series default
-95 accesiones.
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
+98 accesiones (ver tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Tratamientos_FS"
 
-\series bold
-Variedades comerciales: 
-\series default
-Roja Pasankalla, Amarilla Maranganí y Blanca de Junín.
+\end_inset
+
+)
 \end_layout
 
+\end_deeper
 \end_deeper
 \begin_layout Enumerate
 
@@ -186,27 +147,233 @@ Fase de producción de germinados
 \begin_layout Itemize
 
 \series bold
-Tipos de iluminación: 
+Factor AS:
 \series default
-luz continua, oscuridad continua y 12 horas luz-12 horas oscuridad.
- 
+ accesiones de quinua seleccionadas en la fase de selección
 \end_layout
 
 \begin_layout Itemize
 
 \series bold
-Tiempo de germinación:
+Factor TG:
 \series default
- 24 horas, 48 horas y 72 horas.
- 
+ tiempos de germinación
 \end_layout
 
+\begin_deeper
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+24 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+48 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tg3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+72 horas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \series bold
-Accesiones deleccionadas: 
+Factor TI:
+\series default
+ tipos de iluminación
 \end_layout
 
+\begin_deeper
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12 horas luz-12 horas oscuridad
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Luz continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oscuridad continua
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \end_deeper
 \begin_layout Enumerate
 
@@ -220,93 +387,27 @@ Fase de conservación
 \series bold
 Temperatura de almacenamiento:
 \series default
- en refrigeración (5°C), en cámara fría (8°C) y a temperatura ambiente (18°C
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+5°C (en refrigeración)
+\end_layout
+
+\begin_layout Itemize
+8°C (en cámara fría) 
+\end_layout
+
+\begin_layout Itemize
+18
 \begin_inset Formula $\pm$
 \end_inset
 
-2°C).
+2°C (Temperatura ambiente)
 \end_layout
 
 \end_deeper
-\begin_layout Subsubsection
-Variables dependientes 
-\end_layout
-
-\begin_layout Enumerate
-
-\series bold
-Fase de selección
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\series bold
-Calidad física: 
-\series default
-peso de 1
-\begin_inset space \thinspace{}
-\end_inset
-
-000 semillas (g), peso hectolítrico (
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
-\end_inset
-
-), diámetro de semillas (mm), espesor de semillas (mm) 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-color de semillas, forma de semillas 
-\end_layout
-
-\end_inset
-
-y contenido de saponina (%).
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-Calidad fisiológica:
-\series default
- porcentaje de germinación (%) e índice de conversión.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-Fase de producción de germinados
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\series bold
-Calidad de germinado:
-\series default
- porcentaje de germinación (%), longitud del eje embrionario (cm), índice
- de conversión, palatabilidad (escala hedónica), contenido de proteína bruta
- (%).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-Fase de conservación
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\series bold
-Peso de germinado: 
-\series default
-pérdida de peso (g).
-\end_layout
-
 \end_deeper
 \begin_layout Subsection
 Diseño experimental
@@ -336,17 +437,27 @@ para conocer la agrupación de las accesiones y seleccionar las de mejor
 \end_layout
 
 \begin_layout Standard
-Se condujo bajo el diseño completamente randomizado (DCR); de 95 unidades
- experimentales (accesiones del germoplasma de quinua-LGBV-EFPA-FCA-UNSCH)
- con tres repeticiones cada uno más tres testigos constituidos por variedades
- comerciales (Roja Pasankalla, Blanca de Junín y Amarilla Maranganí); cuyo
- modelo aditivo lineal es el siguiente: 
+Se utilizó el Diseño Completamente Randomizado (DCR); constituido por 98
+ tratamientos 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+unidades experimentales
+\end_layout
+
+\end_inset
+
+ (accesiones del Banco de Germoplasma de quinua-LGBV-EPA-FCA-UNSCH) con
+ tres repeticiones cada uno (en la evaluación de las variables diámetro
+ y espesor de semillas se realizaron 10 repeticiones); cuyo modelo aditivo
+ lineal es el siguiente: 
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset Formula $Y_{ij}=\mu+\tau_{ij}+\varepsilon_{ij}$
+\begin_inset Formula $Y_{ij}=\mu+\tau_{i}+\varepsilon_{ij}$
 \end_inset
 
 
@@ -507,7 +618,7 @@ Fase de producción de germinados
 
 \begin_deeper
 \begin_layout Standard
-Se trata de un experimento factorial 10AS
+Se usó el Diseño Completamente Randomizado (DCR) con arreglo factorial AS
 \begin_inset Formula $\times$
 \end_inset
 
@@ -515,590 +626,26 @@ Se trata de un experimento factorial 10AS
 \begin_inset Formula $\times$
 \end_inset
 
-3TI conducido en el diseño completamente randomizado (DCR) con tres repeticiones
-, siendo 270 tratamientos en total.
- Las accesiones seleccionadas en la primera fase de la investigación constituyen
- el factor AS, los tiempos de germinación el factor TG y los tipos de iluminació
-n el factor TI, como se detalla a continuación: 
+3TI con tres repeticiones cada uno, resultantes de la interacción de las
+ accesiones seleccionadas en la fase de selección (factor AS), por los tres
+ tiempos de germinación (factor TG) y por los tres tipos de iluminación
+ (factor TI), cuyo modelo aditivo lineal es el siguiente: 
 \end_layout
 
-\begin_layout Itemize
-
-\series bold
-Factor AS:
-\series default
- accesiones seleccionadas en la primera fase de la investigación
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-24
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-43
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-46
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-48
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-80
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-92
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-96
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-100
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-UNSCHLGBV60405
-\series bold
-116
-\series default
-13
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Quinua Roja Pasankalla
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Factor TG:
-\series default
- tiempo de germinación
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-24 horas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-48 horas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72 horas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Factor TI:
-\series default
- tipos de iluminación
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-12 horas luz-12horas oscuridad
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Luz continua
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Oscuridad continua
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
 Se evaluó el efecto de los tres tipos de iluminación y de los tres tiempos
  de germinación en la producción de germinados de las diez accesiones de
- quinua.
- El modelo aditivo lineal es el siguiente: 
+ quinua seleccionadas.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1116,7 +663,7 @@ Donde:
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="3">
+<lyxtabular version="3" rows="10" columns="3">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -1155,22 +702,8 @@ variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
 \end_inset
 </cell>
 </row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="9" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top" width="12cm">
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1182,7 +715,7 @@ variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1191,7 +724,7 @@ variable respuesta de la i-ésima observación bajo el k-ésimo nivel del factor
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1472,42 +1005,50 @@ efecto del error experimental que está distribuido como
 
 \end_layout
 
+\end_deeper
 \begin_layout Standard
-\begin_inset Note Note
-status open
+En la instalación de las variables evaluación sensorial y contenido de proteínas
+, por la escasa cantidad de semillas, se mezclaron las semillas de las accesione
+s elegidas en la fase de selección, por lo que se utilizó el arreglo factorial
+ 3TI
+\begin_inset Formula $\times$
+\end_inset
 
-\begin_layout Plain Layout
-Para el contenido de proteínas por la escasa cantidad de semillas se mezclaron
- las semillas de las 10 accesiones selecionadas por lo que se utilizó un
- arreglo factorial 3TIx3TG con un tratamiento adicional (testigo) y dos
- repeticiones.
- Para el análisis funcional se utilizó un complemento de excel DSAASTAT
- ver.
+3TG.
+ Para la variable contenido de proteínas se tuvo un tratamiento adicional
+ constituido por las semillas sin germinar (testigo), con dos repeticiones
+ por tratamiento; mientras que para la variable evaluación sensorial no
+ se tuvieron repeticiones por tratamiento.
  
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Enumerate
 
 \series bold
 Fase de conservación
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+EXPLICAR
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Se condujo bajo el diseño completamente randomizado (DCR).
- Los tratamientos se sometieron al efecto de tres temperaturas de almacenamiento
- (5°C, 10°C y 18°C
+Se utilizó el Diseño Completamente Randomizado (DCR) constituido por tres
+ tratamientos (temperaturas de almacenamiento de 5°C, 10°C y 18
 \begin_inset Formula $\pm$
 \end_inset
 
-2°C) con tres repeticiones cada uno, cuyo modelo aditivo lineal es igual
- al de la fase de selección.
+2°C) con tres repeticiones por cada tratamiento.
+ El modelo aditivo lineal es igual al de la fase de selección.
 \end_layout
 
 \end_deeper
@@ -1516,15 +1057,20 @@ Características de la unidad experimental
 \end_layout
 
 \begin_layout Standard
-Para la calidad física de la fase de selección son muestras de semilla por
- accesión y para la calidad fisiológica, tapers transparentes que contienen
- 100 semillas de quinua sobre papel toalla, este último es igual para la
- fase de producción de germinados; mientras que para la fase de conservación
- varía únicamente en la cantidad de semilla (2.0
+Para las variables evaluadas de calidad física de la fase de selección son
+ muestras de 30
 \begin_inset space \thinspace{}
 \end_inset
 
-g).
+g de semillas por accesión y para las variables de la calidad fisiológica,
+ tapers transparentes que contienen 100 semillas sobre papel toalla, este
+ último es igual para la fase de producción de germinados.
+ Para la fase de conservación también son tapers transparentes pero que
+ contienen 2.0
+\begin_inset space \thinspace{}
+\end_inset
+
+g de semillas sobre papel toalla.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1590,12 +1136,33 @@ vspace{-0.7cm}
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Tratamientos constituidos por 95 accesiones del Germoplasma del LGVB.
+Tratamientos de la fase de selección constituidos por 98 accesiones de quinua
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+) del Banco de Germoplasma del LGVB.
  Huamanga-Ayacucho, 2
 \begin_inset space \thinspace{}
 \end_inset
 
 016.
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Tratamientos_FS"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3880,7 +3447,7 @@ Quinua Blanca
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3889,7 +3456,7 @@ T49
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3902,7 +3469,7 @@ UNSCHLGBV60405
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3911,7 +3478,7 @@ T98
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3953,3819 +3520,9 @@ Fase de producción de germinados
 
 \begin_deeper
 \begin_layout Standard
-\begin_inset Float table
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Tratamientos aplicados a las unidades experimentales.
- Huamanga-Ayacucho, 2
-\begin_inset space \thinspace{}
-\end_inset
-
-016.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="24" columns="16">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="center" valignment="top" width="0pt">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TG
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TI
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TG
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TI
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-AS
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TG
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TI
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-A
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TG
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-TI
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T24
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T47
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T70
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T25
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T71
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T26
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T49
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T72
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T27
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T50
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T73
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T28
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T51
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T74
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T29
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T52
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T75
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T30
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T53
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T76
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T31
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T54
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T77
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T32
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T55
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T78
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T33
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T56
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T79
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T11
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T34
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T57
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T80
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T12
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T35
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T58
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T81
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a9
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T36
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a4
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T59
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T82
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T14
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T37
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T60
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T83
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T15
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T38
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T61
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T84
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T16
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T39
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T62
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T85
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T17
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T40
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T63
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a7
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T86
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T18
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T41
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T64
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T87
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T19
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T42
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T65
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T88
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T20
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T43
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T66
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T89
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T21
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T44
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T67
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T90
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a10
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T22
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T45
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T68
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T23
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T46
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a6
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-T69
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-a8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tg3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ti2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-leyenda{
-\end_layout
-
-\end_inset
-
-T: Tratamientos; AS: Accesión seleccionada; 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-TG: Tiempo de germinación; TI: Tipo de iluminación.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}{0.1cm}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
+Estuvo constituido por la interacción de las accesiones elegidas en la fase
+ de selección (AS) por los tres tiempos de germinación (factor TG) y por
+ los tres tipos de iluminación (factor TI)
 \end_layout
 
 \end_deeper
@@ -7780,13 +3537,27 @@ Fase de conservación
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Tratamientos aplicados a las unidades experimentales.
+Tratamientos aplicados a las unidades experimentales en la fase de conservación
+ de germinados de quinua (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textit{Chenopodium quinoa}
+\end_layout
+
+\end_inset
+
+).
  Huamanga-Ayacucho, 2016.
 \end_layout
 
@@ -7916,7 +3687,21 @@ Croquis de la distribución de tratamientos
 
 \begin_layout Standard
 La distribución de los tratamientos a las unidades experimentales se realizó
- completamente al azar, tal como se presenta en las siguientes figuras:
+ completamente al azar, tal como se presenta en las figuras 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Croquis_FS"
+
+\end_inset
+
+ y 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Croquis_FC"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -7979,7 +3764,15 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Croquis de distribución de los tratamientos en la fase de selección.
+Croquis de distribución de los tratamientos de la fase de selección.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Croquis_FS"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -8047,137 +3840,6 @@ item
 
 
 \series bold
-Fase de producción de germinados
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename T_F_PG_LO.png
-	lyxscale 10
-	scale 65
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Croquis de distribución de los tratamientos en condiciones de q2 horas luz-12
- horas oscuridad.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename T_F_PG_LC.png
-	lyxscale 10
-	scale 65
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Croquis de distribución de los tratamientos en condiciones de luz completa.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename T_F_PG_OC.png
-	lyxscale 10
-	scale 65
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Croquis de distribución de los tratamientos en condiciones de oscuridad
- completa.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-
-\series bold
 Fase de conservación
 \end_layout
 
@@ -8206,12 +3868,6 @@ status collapsed
 \begin_layout Plain Layout
 \noindent
 \align center
-
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
 \begin_inset Graphics
 	filename T_F_PC.png
 	lyxscale 10
@@ -8226,8 +3882,15 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Croquis de distribución de los tratamientos en condiciones de oscuridad
- completa.
+Croquis de distribución de los tratamientos de la fase de conservación.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Croquis_FC"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -8257,35 +3920,19 @@ Selección de accesiones de quinua
 \end_layout
 
 \begin_layout Standard
-El LGBV cuenta con un germoplasma de quinua de 150 accesiones recolectadas
- de diferentes provincias de la región Ayacucho; de las cuales se seleccionó
- 95 accesiones por contar con una cantidad adecuada de muestras para realizar
- las evaluaciones, además porque presentaban la misma fecha de regeneración
- en el año 2
+Se seleccionaron 98 accesiones de quinua de las 150 accesiones con las que
+ cuenta el Banco de Germoplasma del LGBV (procedentes de las diferentes
+ provincias de la región Ayacucho), por disponer con la cantidad adecuada
+ de muestras para realizar las evaluaciones posteriores y por presentar
+ la misma fecha de regeneración en el año 2013; de las cuales se extrajeron
+ 30
 \begin_inset space \thinspace{}
 \end_inset
 
-013.
+g de muestra por cada accesión, las cuales fueron almacenadas en bolsas
+ de papel kraft debidamente identificadas, constituyendo el Germoplasma
+ activo de quinua del LGBV.
  
-\end_layout
-
-\begin_layout Standard
-Posteriormente se extrajo 30
-\begin_inset space \thinspace{}
-\end_inset
-
-g de muestra por cada accesión y se colocó en bolsas de papel kraft debidamente
- identificadas, constituyendo el germoplasma activo de quinua del LGBV.
-\end_layout
-
-\begin_layout Standard
-Se recolectaron también semillas de variedades comerciales (Roja Pasankalla,
- Blanca de Junín y Amarilla de Maranganí) en Santa Bárbara-Tambillo de la
- campaña agrícola 2
-\begin_inset space ~
-\end_inset
-
-015.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8293,16 +3940,15 @@ Limpieza de las muestras
 \end_layout
 
 \begin_layout Standard
-Para efectuar la limpieza se realizó la fricción, el tamizado, el venteado
- y la selección manual de cada muestra, para ello se utilizaron coladores
- con abertura de 1.0
-\begin_inset space ~
+Para efectuar la limpieza se realizó la fricción, tamizado, venteado y selección
+ manual de cada muestra; para ello, se utilizaron tamices con abertura de
+ 1.0
+\begin_inset space \thinspace{}
 \end_inset
 
-mm de diámetro, un ventilador de computadora y pinzas.
- Logrando eliminar semillas pequeñas, semillas partidas, piedras, restos
- de tallos, perigonios de las semillas, polvillos y otros materiales extraños
- a las semillas de quinua.
+mm de diámetro, ventilador de computadora y pinzas; logrando separar semillas
+ pequeñas, semillas partidas, piedras, restos de tallos, perigonios de semillas,
+ polvillos y otros materiales extraños a las semillas de quinua.
 \end_layout
 
 \begin_layout Standard
@@ -8322,7 +3968,33 @@ Algunas accesiones presentaban mezcla de diferentes variedades de quinua,
 \end_layout
 
 \begin_layout Subsubsection
-Desinfección de las semillas
+Conteo de 100 semillas
+\end_layout
+
+\begin_layout Standard
+Después de realizar la limpieza de las muestras de semillas se procedió
+ al conteo de 100 semillas utilizando una placa de cartón con 100 hoyos
+ (adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Peretti_1994"
+
+\end_inset
+
+), las cuales fueron colocadas en bolsas de papel kraft de 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de ancho por 6
+\begin_inset space \thinspace{}
+\end_inset
+
+cm de largo, previamente identificados y posteriormente sellados con cinta
+ masking.
+\end_layout
+
+\begin_layout Subsubsection
+Desinfección de semillas
 \end_layout
 
 \begin_layout Standard
@@ -8332,112 +4004,94 @@ La desinfección se realizó con hipoclorito de sodio a una concentración
 \end_inset
 
 % (0.5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 ml para 1
 \begin_inset space \thinspace{}
 \end_inset
 
-l de agua) durante 10 minutos, luego del cual fueron enjuagadas con agua
- destilada para eliminar residuos.
+l de agua); en la cual fueron remojadas las 100 semillas contadas anteriormente
+ durante 10 minutos, luego fueron enjuagadas con agua destilada.
 \end_layout
 
 \begin_layout Subsubsection
-Acondicionamiento de los envases para la prueba de germinación
+Germinación de semillas
 \end_layout
 
 \begin_layout Standard
-Se utilizaron tapers transparentes, de plástico, de forma circular con un
- diámetro de 8.0
+Para la instalación de la prueba de germinación se utilizaron tapers transparent
+es de plástico, de forma circular con diámetro de 8.0
 \begin_inset space \thinspace{}
 \end_inset
 
-cm y una altura de 4.5
+cm y altura de 4.5
 \begin_inset space \thinspace{}
 \end_inset
 
-cm; las cuales fueron lavadas con detergente y desinfectadas con alcohol.
- Como sustrato se utilizó papel toalla humedecida con agua destilada, sobre
- el cual se colocaron las semillas desinfectadas.
- Finalmente los envases fueron tapados ligeramente para permitir la difusión
- del oxígeno y fueron dispuestos a condiciones de laboratorio.
+cm; las cuales fueron previamente lavadas con detergente y desinfectadas
+ con alcohol.
+ Posteriormente dentro de los tapers se colocaron como sustrato papel toalla,
+ las cuales fueron humedecidas con agua destilada, sobre el cual se colocaron
+ las 100 semillas desinfectadas.
+ Finalmente, los tapers fueron tapados ligeramente y dispuestos en condiciones
+ de laboratorio durante cinco días.
+\end_layout
+
+\begin_layout Subsubsection
+Riego 
+\end_layout
+
+\begin_layout Standard
+Una vez instalados los tapers con las 100 semillas, el riego se realizó
+ con agua destilada cada 24 horas.
 \end_layout
 
 \begin_layout Subsection
 Fase de producción de germinados
 \end_layout
 
-\begin_layout Subsubsection
-Instalación de tratamientos
-\end_layout
-
 \begin_layout Standard
-El acondicionamiento de los tapers y la desinfección de las semillas se
- realizaron igual que en la fase de selección; de las cuales de acuerdo
- a los tratamientos, 90 fueron colocados al lado de la ventana, para que
- durante el día sean iluminadas por la luz del sol, y para que sean iluminadas
- durante la noche se utilizaron focos LED de 10
-\begin_inset space ~
-\end_inset
-
-W; 90 fueron colocadas en cajas de cartón ubicadas en un estante oscuro
- y 90 fueron dispuestos en biotrón con iluminación de 12 horas.
- Las cuales se dejaron durante 24, 48 y 72 horas de acuerdo a los tratamientos.
+En esta fase se trabajaron con las accesiones elegidas en la fase de selección,
+ de la siguiente manera:
 \end_layout
 
 \begin_layout Subsubsection
-Evaluación sensorial
+Conteo de 100 semillas y desinfección
 \end_layout
 
 \begin_layout Standard
-Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
- de Alta Cocina Juan Pablo II; con la participación de 10 jueces no entrenados
- (potenciales consumidores), quienes degustaron diferentes presentaciones
- de germinados de quinua (croquetas de garbanzón con brotes de quinua, rollitos
- de espinaca y brotes de quinua, brusquetas con brotes de quinua y causitas
- crocantes de yuca en escabechado de brotes de quinua) de variedades comerciales
- de quinua Roja Pasankalla, Blanca de Junín, Negra Collana y Amarilla Maranganí,
- además de la mezcla de las 10 accesiones seleccionadas en la primera fase,
- germinadas durante 72 horas.
-\end_layout
-
-\begin_layout Standard
-La segunda sesión se llevo a cabo en el LGBV, con 10 jurados (potenciales
- consumidores), quienes realizaron la degustación de germinados de las 10
- accesiones seleccionadas, producidas durante 24, 48 y 72 horas, bajo condicione
-s de luz completa, oscuridad completa y 12 horas luz-12 horas oscuridad.
-\end_layout
-
-\begin_layout Standard
-La ficha de evaluación se detalla en el anexo ...
+Se realizó el conteo de 100 semillas y la desinfección de estas, de las
+ accesiones elegidas en la fase de selección, siguiendo el mismo procedimiento
+ descrito en la fase anterior.
 \end_layout
 
 \begin_layout Subsubsection
-Determinación de proteína bruta
+Germinación de las semillas
 \end_layout
 
 \begin_layout Standard
-Se realizó en el Laboratorio de análisis de suelos, plantas, agua y fertilizante
-s 
-\begin_inset Quotes fld
+Los tápers utilizados y el acondicionamiento de estos se realizó igual que
+ en la fase de selección, con la diferencia de que las semillas utilizadas
+ fueron de las accesiones elegidas en la fase de selección y que de acuerdo
+ a los factores en estudio, los tápers fueron colocados en biotrón con iluminaci
+ón de 12 horas para generar condiciones de 12 horas luz-12 horas oscuridad,
+ en cajas de cartón ubicadas en un estante oscuro para generar condiciones
+ de oscuridad completa y al lado de la ventana para que durante el día sean
+ iluminadas por la luz del sol y durante la noche por focos LED de 10
+\begin_inset space \thinspace{}
 \end_inset
 
-AGROLAB
-\begin_inset Quotes frd
-\end_inset
+W, generando condiciones de luz completa.
+ Los germinados fueron obtenidos después de 24, 48 y 72 horas de germinación.
+\end_layout
 
-, mediante el método Kjeldahl (digestión en medio ácido, destilación y titulació
-n), para lo cual los granos germinados fueron secados en estufa marca Memmert
- a 70°C por 24 horas y sometidas a una molienda fina.
+\begin_layout Subsubsection
+Riego 
 \end_layout
 
 \begin_layout Standard
-Por la escasa disponibilidad de muestra, estas fueron mezcladas en la variable
- accesión, teniéndose en total nueve muestras producidas en 24, 48 y 72
- horas, bajo condiciones de luz completa, oscuridad completa y 12 horas
- luz-12 horas oscuridad más un testigo constituido por la mezcla de semillas
- sin germinar.
+Se realizó con agua destilada cada 24 horas.
 \end_layout
 
 \begin_layout Subsection
@@ -8445,23 +4099,29 @@ Fase de conservación de germinados
 \end_layout
 
 \begin_layout Subsubsection
-Instalación de tratamientos
+Obtención de germinados
 \end_layout
 
 \begin_layout Standard
-El acondicionamiento de los tapers y la desinfección de las semillas se
- realizaron igual que en la fase de selección; sin embargo para esta fase
- por la escasa disponibilidad de semillas de las accesiones, se utilizó
- mezcla de semillas de las accesiones seleccionadas, de la cual se utilizaron
- aproximadamente 2.0
-\begin_inset space ~
+Se obtuvo el germinado de la mezcla de semillas de las accesiones elegidas
+ en la fase de selección (por la escasa disponibilidad de las semillas de
+ las accesiones elegidas), siguiendo los procedimientos descritos en la
+ fase de selección con la diferencia de que se utilizaron 2.0
+\begin_inset space \thinspace{}
 \end_inset
 
-g de semillas para cada repetición, que se germinaron en el biotrón en condicion
-es de 12 horas luz-12 horas oscuridad por 72 horas; después del cual fueron
- dispuestas en condiciones de refrigeración (5°C), en cámara fría (8°C)
- y a temperatura ambiente (18°C±2°C) durante 15 días en el Laboratorio de
- Fruticultura y Manejo poscosecha.
+g de semillas, las cuales se dejaron germinar en las mejores condiciones
+ obtenidas en la fase de producción de germinados.
+\end_layout
+
+\begin_layout Subsubsection
+Conservación de los germinados
+\end_layout
+
+\begin_layout Standard
+Una vez obtenidos los germinados estos fueron colocados de acuerdo a los
+ tratamientos establecidos en condiciones de refrigeración a temperaturas
+ de 5°C y 8°C y a temperatura ambiente de 18±2°C durante 15 días.
 \end_layout
 
 \begin_layout Section
@@ -8499,28 +4159,31 @@ Se obtuvo mediante el peso de la fracción pura de las semillas de quinua
 \begin_layout Itemize
 
 \series bold
-Peso de 1000 semillas (g)
+Peso de 1
+\begin_inset space \thinspace{}
+\end_inset
+
+000 semillas (g)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Se obtuvo realizando primero el conteo de 100 semillas utilizando una placa
- de cartón con 100 hoyos, las cuales fueron colocadas en bolsas de papel
- kraft de 6
+Se realizó el conteo de 100 semillas, luego el pesado de estas en una balanza
+ analítica de dos decimales y finalmente se efectuó la extrapolación al
+ peso de 1
 \begin_inset space \thinspace{}
 \end_inset
 
-cm de ancho por 6
-\begin_inset space \thinspace{}
+000 semillas mediante la siguiente fórmula:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\,1000\, semillas\,(g)=\frac{1000\times Peso\,100\, semillas\,(g)}{100}$
 \end_inset
 
-cm de largo previamente identificados y sellados con cinta masking.
- Posteriormente se realizó el peso en una balanza analítica de dos decimales
- y se efectuó la extrapolación al peso de 1
-\begin_inset space ~
-\end_inset
 
-000 semillas.
 \end_layout
 
 \end_deeper
@@ -8551,13 +4214,24 @@ Se obtuvo mediante el peso de una determinada cantidad de muestra de semillas
 \end_inset
 
 ml y una balanza analítica de dos decimales.
- posteriormente se convirtió a 
-\series bold
-
-\begin_inset Formula $\unitfrac{g}{1000\, cm^{3}}$
+ Posteriormente se convirtió a g/1000
+\begin_inset space \thinspace{}
 \end_inset
 
-.
+
+\begin_inset Formula $\mathbf{cm}^{\mathbf{3}}$
+\end_inset
+
+ mediante la siguiente fórmula:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Peso\, hectolítrico\,(g/1000\, cm^{3})=\frac{peso\, muestra\, semilla\,(g)\times1000}{volumen\, ocupado\, muestra\, semilla\,(ml)}$
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -8569,7 +4243,8 @@ Diámetro de semilla (mm)
 
 \begin_deeper
 \begin_layout Standard
-Se registró el diámetro de 10 semillas por tratamiento utilizando un Vernier.
+Se registró el diámetro de 10 semillas por tratamiento utilizando regla
+ Vernier en mm.
  
 \end_layout
 
@@ -8582,8 +4257,7 @@ Espesor de semilla (mm)
 
 \begin_deeper
 \begin_layout Standard
-Se registró el espesor de 10 semillas utilizando un Vernier.
- 
+Se registró el espesor de 10 semillas utilizando regla Vernier en mm.
 \end_layout
 
 \end_deeper
@@ -8648,7 +4322,7 @@ key "INEN_1988"
 
 \end_inset
 
-, que consistió en pesar 0.5
+ (ver anexo 1), que consistió en pesar 0.5
 \begin_inset Formula $\pm$
 \end_inset
 
@@ -8656,30 +4330,40 @@ key "INEN_1988"
 \begin_inset space \thinspace{}
 \end_inset
 
-g de granos de quinua, las cuales se colocaron en tubos de ensayo de una
- longitud de 15
+g de granos de quinua por tratamiento y repetición, los cuales fueron colocados
+ en un tubo de ensayo de 15
 \begin_inset space \thinspace{}
 \end_inset
 
-cm y un diámetro de 1.6
+cm de longitud y 1.6
 \begin_inset space \thinspace{}
 \end_inset
 
-cm; más 5
+cm de diámetro con 5
 \begin_inset space \thinspace{}
 \end_inset
 
-ml de agua destilada, se agitaron por 30 segundos y se dejaron reposar por
- 30 minutos, luego del cual se volvió a repetir el procedimiento anterior,
- finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y se
- efectuó la lectura de la altura de espuma formada con una regla graduada
- de sensibilidad 0.1
+ml de agua destilada, luego se agitó por 30 segundos y se dejó en reposo
+ por 30 minutos, después se volvió a repetir el procedimiento anterior,
+ finalmente se agitó por 30 segundos, se dejó reposar por 5 minutos y luego
+ se efectuó la lectura de la altura de espuma formada, con una regla graduada
+ con precisión de 0.1
 \begin_inset space \thinspace{}
 \end_inset
 
 cm.
- Al finalizar éste procedimiento se aplicaron las fórmulas correspondientes
- para determinar el contenido de saponina presente en los granos analizados.
+ Al finalizar el procedimiento se determinó el contenido de saponina presente
+ en los granos analizados, mediante la siguiente fórmula.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Contenido\, saponina\,(\%)=\frac{(0.646\times altura\, espuma\,(cm))-0.104}{peso\, muestra\,(g)\times10}$
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -8692,8 +4376,8 @@ Porcentaje de germinación (%)
 \begin_deeper
 \begin_layout Standard
 Se obtuvo después de cinco días de germinación, mediante el conteo de semillas
- germinadas normales; es decir, aquellas plántulas con buen desarrollo del
- eje embrionario.
+ germinadas normales; es decir, plántulas con buen desarrollo del eje embrionari
+o.
 \end_layout
 
 \end_deeper
@@ -8705,9 +4389,18 @@ Se obtuvo después de cinco días de germinación, mediante el conteo de semilla
 
 \begin_deeper
 \begin_layout Standard
-Se determinó dividiendo el peso de germinados secos (después de un día de
- secado) producidos a partir de 100 semillas sobre el peso inicial de estas.
- 
+Se determinó dividiendo el peso de germinados secos (producidos a partir
+ de 100 semillas durante cinco días y secadas por un día en condiciones
+ de laboratorio) sobre el peso inicial de estas, de la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -8772,9 +4465,9 @@ El análisis sensorial de degustación se realizó para evaluar las característ
 
 \begin_deeper
 \begin_layout Standard
-Se obtuvo dividiendo el peso de germinados secos (después de un día de secado)
- producidos a partir de 100 semillas sobre el peso inicial de estas.
- 
+Se obtuvo dividiendo el peso de germinados secos (después de un día de secado
+ en condiciones de laboratorio) producidos a partir de 100 semillas sobre
+ el peso inicial de estas, mediante la siguiente fórmula: 
 \begin_inset Note Note
 status open
 
@@ -8787,19 +4480,48 @@ es decir la cantidad de semilla que se convierte en germinado.
 
 \end_layout
 
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Formula $Índice\, conversión=\frac{peso\, germinado\, seco\,(g)}{peso\,100\, semillas\,(g)}$
+\end_inset
+
+
+\end_layout
+
 \end_deeper
 \begin_layout Itemize
 
 \series bold
-Palatabilidad (escala hedónica) 
+Evaluación sensorial (escala hedónica) 
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Se evaluaron características organolépticas de sabor, olor y color; mediante
- una escala hedónica de siete puntos (me gusta mucho, me gusta, me gusta
- ligeramente, ni me gusta ni me disgusta, me disgusta ligeramente, me disgusta
- y me disgusta mucho).
+Se evaluaron las características organolépticas de sabor, olor y color;
+ mediante una escala hedónica de siete puntos (me gusta mucho, me gusta,
+ me gusta ligeramente, ni me gusta ni me disgusta, me disgusta ligeramente,
+ me disgusta y me disgusta mucho).
+\end_layout
+
+\begin_layout Standard
+Se llevó a cabo en dos sesiones; la primera sesión se realizó en el Instituto
+ de Alta Cocina Juan Pablo II, con la participación de 10 jueces no entrenados
+ (potenciales consumidores), quienes evaluaron diferentes presentaciones
+ de germinados de quinua (croquetas de garbanzón con brotes de quinua, rollitos
+ de espinaca y brotes de quinua, brusquetas con brotes de quinua y causitas
+ crocantes de yuca en escabechado de brotes de quinua) de variedades comerciales
+ de quinua roja, blanca, negra, amarilla y de la mezcla de semillas elegidas
+ en la fase de selección germinadas durante 72 horas.
+\end_layout
+
+\begin_layout Standard
+La segunda sesión se llevo a cabo en el LGBV, también con 10 jueces no entrenado
+s (potenciales consumidores), quienes realizaron la evaluación sensorial
+ de germinados de quinua elegidas en la fase de selección, germinadas por
+ 24, 48 y 72 horas en condiciones de luz completa, oscuridad completa y
+ 12 horas luz-12 horas oscuridad.
+ La ficha de evaluación se detalla en el anexo 2.
 \end_layout
 
 \end_deeper
@@ -8811,7 +4533,31 @@ Contenido de proteína bruta (%)
 
 \begin_deeper
 \begin_layout Standard
-Se obtuvo multiplicando el contenido de nitrógeno por el factor 6.25.
+Se realizó en el Laboratorio de análisis de suelos, plantas, agua y fertilizante
+s 
+\begin_inset Quotes fld
+\end_inset
+
+AGROLAB
+\begin_inset Quotes frd
+\end_inset
+
+, mediante el método Kjeldahl (digestión en medio ácido, destilación y titulació
+n), para lo cual los granos germinados se secaron en estufa marca Memmert
+ a 70°C por 24 horas y sometidas a una molienda fina.
+\end_layout
+
+\begin_layout Standard
+Por la escasa disponibilidad de muestras, estas fueron mezcladas en la variable
+ accesión, teniéndose en total nueve muestras germinadas en 24, 48 y 72
+ horas en condiciones de luz completa, oscuridad completa y 12 horas luz-12
+ horas oscuridad, más un testigo constituido por la mezcla de semillas sin
+ germinar.
+\end_layout
+
+\begin_layout Standard
+Finalmente el porcentaje de proteína ruta se obtuvo multiplicando el contenido
+ de nitrógeno por el factor 6.25.
  
 \begin_inset Note Note
 status open
@@ -8839,7 +4585,18 @@ key "Silvina_2013"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Formula $Proteína\, bruta\,(\%)=contenido\, nitrógeno\times6.25$
+\end_inset
+
+
+\end_layout
+
 \end_deeper
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Subsection
 Fase de conservación
 \end_layout
@@ -8852,14 +4609,14 @@ Pérdida de peso (g)
 
 \begin_deeper
 \begin_layout Standard
-Se obtuvo mediante el peso interdiario de los tápers que contenían a los
- germinados durante 15 días.
+Se obtuvo mediante el peso interdiario de los tápers que contenían los germinado
+s, durante 15 días.
 \end_layout
 
 \end_deeper
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -8875,6 +4632,44 @@ Se determinó mediante la observación interdiaria del color del hipocótilo
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+PROCESAMIENTO DE DATOS
+\end_layout
+
+\begin_layout Standard
+Para todas las variables evaluadas en las tres fases de la investigación,
+ a excepción de la variable contenido de proteína bruta y primera evaluación
+ sensorial de la fase de producción de germinados, se realizó el Análisis
+ de Varianza (ANVA) para determinar si los resultados de los promedios de
+ los tratamientos evaluados eran iguales o diferentes entre ellas, para
+ los casos que resultaron diferentes se utilizó la prueba de contraste de
+ Tukey (
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+) para conocer el orden de la diferencia entre tratamientos; adicionalmente
+ en la fase de selección se aplicó una probabilidad de selección del 15
+\begin_inset space \thinspace{}
+\end_inset
+
+% para seleccionar el 15
+\begin_inset space \thinspace{}
+\end_inset
+
+% de los mejores resultados de las variables evaluadas y en la fase de producció
+n de germinados, para el caso de las interacciones dobles que resultaron
+ significativas, se realizó el estudio de efectos simples para conocer el
+ modelo polinómico que mejor representaba a la ecuación; también se realizaron
+ tablas de frecuencia para los resultados de la primera y segunda evaluación
+ sensorial.
+ El procesamiento estadístico se realizó con el software InfoStat versión
+ 2
+\begin_inset space \thinspace{}
+\end_inset
+
+008.
 \end_layout
 
 \end_body

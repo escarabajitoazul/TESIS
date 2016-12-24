@@ -925,10 +925,8 @@ A la Universidad Nacional de San Cristóbal de Huamanga, Facultad de Ciencias
 \end_layout
 
 \begin_layout Standard
-Al M.
- Sc.
- Germán Fernando De la Cruz Lapa y al M.
- Sc.
+Al M.Sc.
+ Germán Fernando De la Cruz Lapa y al M.Sc.
  Francisco Condeña Almora, asesor y coasesor de la presente tesis respectivament
 e; por sus orientaciones, apoyo, tiempo, paciencia, experiencia y conocimientos
  brindados durante el desarrollo del presente trabajo de investigación.
@@ -1171,27 +1169,20 @@ chapter*{INTRODUCCIÓN}
 \end_layout
 
 \begin_layout Standard
-La quinua es un cultivo importante según 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Rev_Gonzalez_2013"
+La quinua es un cultivo importante por la calidad nutricional de sus granos,
+  fundamentalmente por la presencia de aminoácidos esenciales y por la versatili
+dad en su aprovechamiento por la industria
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+COLOCAR AUTORES AL REVISAR MT.
+ QUINUA
+\end_layout
 
 \end_inset
 
- porque sus granos constituyen una fuente importante de proteínas, aminoácidos
- esenciales, minerales, flavonoides, pigmentos, saponinas y almidón, que
- la convierten según 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "FAO_2011"
-
-\end_inset
-
- en un gran potencial económico, ya que puede ser utilizados en la industria
- alimentaria, química, farmacéutica y cosmética; por lo que no solo debe
- considerarse la producción de granos, sino también el desarrollo de valor
- agregado; así, una alternativa de producción es como germinados, que según
- 
+; así, una alternativa de consumo es como germinados, que según 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Bravo_2013"
@@ -1214,10 +1205,10 @@ key "Ramos_1998"
 
  suplen las deficiencias de la alimentación moderna por ser de fácil producción,
  de bajo costo y por presentar propiedades nutricionales superiores a las
- secas, ya que con el proceso de germinación se reanudan las actividades
- metabólicas de la semilla; sin embargo, como la germinación depende de
- factores intrínsecos y extrínsecos, es importante obtener parámetros que
- permitan el desarrollo de sistemas eficientes de producción.
+ secas, ya que con el proceso de germinación se reanuda la actividad metabólica
+ de la semilla; sin embargo, la germinación depende de factores intrínsecos
+ y extrínsecos, por lo que es importante obtener parámetros que permitan
+ el desarrollo de sistemas eficientes de producción.
 \end_layout
 
 \begin_layout Standard
@@ -1226,16 +1217,7 @@ Por otro lado, en las últimas décadas se han estado realizando recolecciones
  de germoplasma; constituyendo recursos importantes para los fitomejoradores,
  que buscan alcanzar nuevos ideotipos más productivos y nutritivos, que
  consuman menos insumos y satisfagan las preferencias sensoriales de los
- consumidores
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-; por lo que es necesario realizar su caracterización y evaluación
-\end_layout
-
-\end_inset
-
+ consumidores; por lo que es necesario realizar su caracterización y evaluación
  
 \begin_inset ERT
 status open
@@ -1252,7 +1234,7 @@ citep{Rivera_2015}
 .
  Tal es el caso del Laboratorio de Genética y Biotecnología Vegetal de la
  EPA-FCA-UNSCH que cuenta con un Banco de Germoplasma de quinua con 150
- accesiones recolectadas de diferentes provincias de la región Ayacucho;
+ accesiones recolectadas de todas las provincias de la región Ayacucho;
  los cuales constituyen un recurso potencial para la producción de germinados
  de quinua; sin embargo, aún no se han realizado ninguna evaluación al respecto
  con los genotipos de quinua de este banco de germoplasma, tampoco se tiene
