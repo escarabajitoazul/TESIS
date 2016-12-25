@@ -24,8 +24,6 @@
 \usepackage[hyphens]{url}
 \usepackage[absolute]{textpos}
 
-
-
 %\usepackage{url}
 %\contourlength{0.03em}
 %\newcommand{\unsch}{\contour{black}{\sf\fontsize{18pt}{30}\selectfont}}

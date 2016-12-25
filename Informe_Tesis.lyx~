@@ -23,6 +23,7 @@
 \usepackage[hyphenbreaks]{breakurl}
 \usepackage[hyphens]{url}
 \usepackage[absolute]{textpos}
+\usepackage{adjustbox}
 
 
 
@@ -60,9 +61,9 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% titlesec %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{titlesec}
-\titlespacing{\section}{0pt}{10pt}{-3pt}
-\titlespacing{\subsection}{0pt}{10pt}{-3pt}
-\titlespacing{\subsubsection}{0pt}{10pt}{-3pt}
+\titlespacing{\section}{0pt}{9pt}{-9pt}
+\titlespacing{\subsection}{0pt}{9pt}{-9pt}
+\titlespacing{\subsubsection}{0pt}{9pt}{-9pt}
 
 
 
